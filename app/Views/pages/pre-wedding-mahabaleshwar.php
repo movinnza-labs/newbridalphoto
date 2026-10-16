@@ -24,7 +24,7 @@
 
 <div class="container quick-facts-wrap">
   <div class="quick-facts">
-    <div class="quick-fact"><p class="quick-fact-label">Distance</p><p class="quick-fact-value gold">120 km from Pune</p></div>
+    <div class="quick-fact"><p class="quick-fact-label">Distance</p><p class="quick-fact-value gold">120 km from Pune, 260 km from Mumbai</p></div>
     <div class="quick-fact"><p class="quick-fact-label">Best Season</p><p class="quick-fact-value">Oct to May</p></div>
     <div class="quick-fact"><p class="quick-fact-label">Package</p><p class="quick-fact-value gold">Rs 14,999 onwards</p></div>
     <div class="quick-fact"><p class="quick-fact-label">Top Spots</p><p class="quick-fact-value">Venna Lake &amp; Arthur Seat</p></div>
@@ -212,12 +212,9 @@
   <div class="container">
     <p class="eyebrow section-related-eyebrow">Related Pages</p>
     <div class="tag-links">
-      <a href="<?= base_url('/pre-wedding-shoot-locations-in-pune/') ?>" class="tag-link">All Pune Locations</a>
-      <a href="<?= base_url('/pre-wedding-shoot-satara/') ?>" class="tag-link">Satara</a>
-      <a href="<?= base_url('/pre-wedding-shoot-lonavala/') ?>" class="tag-link">Lonavala</a>
-      <a href="<?= base_url('/pre-wedding-shoot-mulshi/') ?>" class="tag-link">Mulshi Lake</a>
-      <a href="<?= base_url('/pre-wedding-shoot-lavasa/') ?>" class="tag-link">Lavasa</a>
-      <a href="<?= base_url('/pre-wedding-photography-packages/') ?>" class="tag-link">Pre-Wedding Packages</a>
+      <a href="<?= base_url('/mahabaleshwar/') ?>" class="tag-link">Photographers in Mahabaleshwar</a>
+      <a href="<?= base_url('/mahabaleshwar/wedding-photographers/') ?>" class="tag-link">Wedding Mahabaleshwar</a>
+      <a href="<?= base_url('/mahabaleshwar/engagement-photographers/') ?>" class="tag-link">Engagement Mahabaleshwar</a>
       <a href="<?= base_url('/when-to-take-pre-wedding-shoot/') ?>" class="tag-link">When to Shoot</a>
     </div>
   </div>

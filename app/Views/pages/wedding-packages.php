@@ -332,14 +332,14 @@
 <section class="section section-white">
   <div class="container">
     <div class="maternity-gallery maternity-gallery-3col">
-      <img src="<?= base_url('assets/images/ahily-wed-1.webp') ?>" alt="Wedding Photography Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-wed-2.webp') ?>" alt="Wedding Photography Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-wed-3.webp') ?>" alt="Wedding Photography Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-wed-4.webp') ?>" alt="Wedding Photography Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-wed-5.webp') ?>" alt="Wedding Photography Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-wed-6.webp') ?>" alt="Wedding Photography Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-wed-7.webp') ?>" alt="Wedding Photography Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-wed-8.webp') ?>" alt="Wedding Photography Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-1.webp') ?>" alt="Wedding photography by The Bridal Photography, photo 1 of 8" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-2.webp') ?>" alt="Wedding photography by The Bridal Photography, photo 2 of 8" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-3.webp') ?>" alt="Wedding photography by The Bridal Photography, photo 3 of 8" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-4.webp') ?>" alt="Wedding photography by The Bridal Photography, photo 4 of 8" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-5.webp') ?>" alt="Wedding photography by The Bridal Photography, photo 5 of 8" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-6.webp') ?>" alt="Wedding photography by The Bridal Photography, photo 6 of 8" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-7.webp') ?>" alt="Wedding photography by The Bridal Photography, photo 7 of 8" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-8.webp') ?>" alt="Wedding photography by The Bridal Photography, photo 8 of 8" loading="lazy" class="maternity-gallery-img">
     </div>
   </div>
 </section>

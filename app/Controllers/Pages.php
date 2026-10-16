@@ -123,7 +123,7 @@ class Pages extends BaseController
             'title'       => 'Pre Wedding Shoot in Goa | Best Locations and Packages',
             'description' => 'Pre wedding shoot in Goa at beaches, forts and heritage spots. Best from October to February. Packages from Rs 14,999. Book: +91 83903 67637.',
             'canonical'   => '/pre-wedding-shoot-locations-in-goa/',
-            'breadcrumb'  => [['Home', '/'], ['Pre-Wedding', '/pre-wedding-shoot-locations-in-pune/'], ['Goa', '/pre-wedding-shoot-locations-in-goa/']],
+            'breadcrumb'  => [['Home', '/'], ['Pre-Wedding Shoot in Goa', '/pre-wedding-shoot-locations-in-goa/']],
         ]);
     }
 
@@ -284,7 +284,7 @@ class Pages extends BaseController
             'title'       => 'Pre Wedding Shoot in Mahabaleshwar | Best Locations',
             'description' => 'Pre wedding shoot in Mahabaleshwar at Arthur Seat, Wilson Point, Venna Lake and Mapro Garden. Packages from Rs 14,999. Book: +91 83903 67637.',
             'canonical'   => '/pre-wedding-shoot-mahabaleshwar/',
-            'breadcrumb'  => [['Home', '/'], ['Pre-Wedding Locations', '/pre-wedding-shoot-locations-in-pune/'], ['Mahabaleshwar', '/pre-wedding-shoot-mahabaleshwar/']],
+            'breadcrumb'  => [['Home', '/'], ['Mahabaleshwar', '/mahabaleshwar/'], ['Pre-Wedding', '/pre-wedding-shoot-mahabaleshwar/']],
         ]);
     }
 
@@ -294,7 +294,7 @@ class Pages extends BaseController
             'title'       => 'Pre Wedding Shoot in Lonavala | Best Locations',
             'description' => 'Pre wedding shoot in Lonavala at Bhushi Dam, Tiger Point, Lion\'s Point and Rajmachi. Best in monsoon. Packages from Rs 14,999. Book: +91 83903 67637.',
             'canonical'   => '/pre-wedding-shoot-lonavala/',
-            'breadcrumb'  => [['Home', '/'], ['Pre-Wedding Locations', '/pre-wedding-shoot-locations-in-pune/'], ['Lonavala', '/pre-wedding-shoot-lonavala/']],
+            'breadcrumb'  => [['Home', '/'], ['Lonavala', '/lonavala/'], ['Pre-Wedding', '/pre-wedding-shoot-lonavala/']],
         ]);
     }
 

@@ -131,16 +131,6 @@
   </div>
 </section>
 
-<!-- What Makes Us Different -->
-<section class="section section-off">
-  <div class="container">
-    <div class="section-head">
-      <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">What Makes Us<br><em>Different?</em></h2>
-    </div>
-  </div>
-</section>
-
 <!-- Tips for Perfect Pre-Wedding Shoot -->
 <section class="section section-white">
   <div class="container">
@@ -370,8 +360,6 @@
       <a href="<?= base_url('/ahilyanagar/') ?>" class="tag-link">Ahilyanagar Hub</a>
       <a href="<?= base_url('/ahilyanagar/wedding-photographers/') ?>" class="tag-link">Wedding Ahilyanagar</a>
       <a href="<?= base_url('/ahilyanagar/engagement-photographers/') ?>" class="tag-link">Engagement Ahilyanagar</a>
-      <a href="<?= base_url('/pre-wedding-photography-packages/') ?>" class="tag-link">Pre-Wedding Packages</a>
-      <a href="<?= base_url('/pre-wedding-shoot-locations-in-pune/') ?>" class="tag-link">Pune Locations</a>
       <a href="<?= base_url('/faq/') ?>" class="tag-link">FAQ</a>
     </div>
   </div>

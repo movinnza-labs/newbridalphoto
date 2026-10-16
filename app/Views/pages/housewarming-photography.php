@@ -32,7 +32,7 @@
     </div>
 
     <div class="article-img-center">
-      <img src="<?= base_url('assets/images/housewarming-hero.webp') ?>" alt="campaigning view" loading="lazy" class="article-img">
+      <img src="<?= base_url('assets/images/housewarming-hero.webp') ?>" alt="Home with a view over the lake and hills" loading="lazy" class="article-img">
     </div>
   </div>
 </section>
@@ -73,16 +73,6 @@
         <h3 class="card-white-title">Professionalism</h3>
         <p class="card-white-text">Punctuality, reliability and a professional approach are the most important things you should get. From the time we first speak, to the last picture handed over we aim to provide a professional service. That is why we strive for a stress- free time while we document life's most important memories.</p>
       </div>
-    </div>
-  </div>
-</section>
-
-<!-- Why Connect With Us -->
-<section class="section section-off">
-  <div class="container">
-    <div class="section-head">
-      <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Sure! "Housewarming photography near me" and choose to connect with<br><em>The Bridal Photography Team</em></h2>
     </div>
   </div>
 </section>

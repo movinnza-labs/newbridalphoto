@@ -278,7 +278,6 @@
       <a href="<?= base_url('/chhatrapati-sambhajinagar/pre-wedding-shoot/') ?>" class="tag-link">Pre-Wedding Sambhajinagar</a>
       <a href="<?= base_url('/chhatrapati-sambhajinagar/wedding-photographers/') ?>" class="tag-link">Wedding Sambhajinagar</a>
       <a href="<?= base_url('/chhatrapati-sambhajinagar/engagement-photographers/') ?>" class="tag-link">Engagement Sambhajinagar</a>
-      <a href="<?= base_url('/mahabaleshwar/') ?>" class="tag-link">Mahabaleshwar</a>
       <a href="<?= base_url('/faq/') ?>" class="tag-link">FAQ</a>
     </div>
   </div>

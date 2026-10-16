@@ -50,12 +50,12 @@
   </div>
 </section>
 
-<!-- About Our Pre-Wedding Shoot -->
+<!-- About Our Engagement Shoot -->
 <section class="section section-white">
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">About Our Pre-Wedding<br><em>Shoot</em></h2>
+      <h2 class="section-title">About Our Engagement<br><em>Shoot</em></h2>
     </div>
 
     <div class="feature-row feature-row-spaced">
@@ -267,7 +267,7 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Why Hire Us for a Wedding Shoot<br><em>in Mumbai?</em></h2>
+      <h2 class="section-title">Why Hire Us for an Engagement Shoot<br><em>in Mumbai?</em></h2>
     </div>
 
     <div class="grid-2 grid-gap">
@@ -370,8 +370,6 @@
   <div class="container">
     <p class="eyebrow section-related-eyebrow">Related Pages</p>
     <div class="tag-links">
-      <a href="<?= base_url('/engagement-photography-packages/') ?>" class="tag-link">Engagement Pune</a>
-      <a href="<?= base_url('/roka-ring-ceremony-photography-pune/') ?>" class="tag-link">Roka Ceremony</a>
       <a href="<?= base_url('/mumbai/') ?>" class="tag-link">Mumbai Hub</a>
       <a href="<?= base_url('/pre-wedding-shoot-locations-mumbai/') ?>" class="tag-link">Pre-Wedding Mumbai</a>
       <a href="<?= base_url('/wedding-photography-packages/') ?>" class="tag-link">Wedding Packages</a>

@@ -78,8 +78,9 @@ $routes->get('/mumbai/',                               'CityHub::mumbai');
 $routes->get('/mumbai/engagement-photography-packages/', 'CityHub::mumbaiEngagement');
 
 // FIX: /mumbai/pre-wedding-shoot/ and /mumbai/wedding-photographers/ REMOVED (audit slide 6)
+// Page review Oct 2026: the locations page is the one Mumbai pre-wedding page. Keep this 301 as is
 $routes->get('/mumbai/pre-wedding-shoot/', function () {
-    return redirect()->to('/mumbai/', 301);
+    return redirect()->to('/pre-wedding-shoot-locations-mumbai/', 301);
 });
 $routes->get('/mumbai/wedding-photographers/', function () {
     return redirect()->to('/mumbai/', 301);
@@ -367,6 +368,21 @@ $routes->get('/bridal-photography-pune/', function () {
     return redirect()->to('/', 301);
 });
 
+
+// Page review Oct 2026: old URLs that returned 404 but still show in GSC
+foreach ([
+    '/maternity-photoshoot-pune/'                       => '/maternity-photographer-pune/',
+    '/pre-wedding-packages/'                            => '/pre-wedding-photography-packages/',
+    '/baby-photography-packages/'                       => '/baby-photoshoot-pune/',
+    '/stories/'                                         => '/blog/',
+    '/lonavala/corporate-event-meeting-shoot/'          => '/lonavala/',
+    '/photography-bts/'                                 => '/about-us/',
+    '/our-team/'                                        => '/about-us/',
+    '/our-branches/'                                    => '/contact/',
+    '/choosing-the-best-wedding-photographer-in-pune/'  => '/',
+] as $from => $to) {
+    $routes->get($from, static fn () => redirect()->to($to, 301));
+}
 
 // ── ADMIN ──────────────────────────────────────────────────────────────────
 // Login / logout are public; everything else under /admin/ needs a logged-in admin

@@ -408,6 +408,10 @@
         ['Ahilyanagar', '/ahilyanagar/',         'Full photography services in Ahmednagar district.'],
         ['Satara',      '/pre-wedding-shoot-satara/', 'Kaas Plateau, Thoseghar & the Sahyadri valleys.'],
         ['Goa',         '/pre-wedding-shoot-locations-in-goa/', 'Beach, fort & heritage destination shoots.'],
+        ['Lonavala',    '/lonavala/',            'Wedding, engagement & monsoon pre-wedding shoots.'],
+        ['Mahabaleshwar', '/mahabaleshwar/',     'Hill station weddings, engagements & pre-wedding shoots.'],
+        ['Nashik',      '/nashik/',              'Vineyard, resort & traditional wedding photography.'],
+        ['Chhatrapati Sambhajinagar', '/chhatrapati-sambhajinagar/', 'Wedding, engagement & heritage pre-wedding shoots.'],
       ] as [$city, $url, $desc]): ?>
       <a href="<?= base_url($url) ?>" class="card-warm" style="padding:1.8rem;text-decoration:none;display:block;">
         <h3 style="font-family:var(--font-serif);font-size:1.2rem;color:var(--text-primary);margin:0 0 .5rem;"><?= $city ?></h3>

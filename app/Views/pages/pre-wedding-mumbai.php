@@ -114,7 +114,6 @@
         <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;margin-bottom:.8rem;"><strong>Why choose it:</strong> The building of the Asiatic Society, with Greek revival architecture, white pillars, wide steps, and symmetry, offers an elegant and refined setting.</p>
         <p style="font-size:.84rem;color:var(--text-muted);line-height:1.7;"><strong>Best times:</strong> Early morning light or soft afternoon light for Pre-Wedding Shoot in Mumbai</p>
         <p style="font-size:.84rem;color:var(--text-muted);line-height:1.7;"><strong>Best suited for:</strong> Formal portraits, graceful flows of the dress, stairs looking up or down, and classic compositions</p>
-        <p style="font-size:.84rem;color:var(--text-muted);margin-top:.8rem;">Also read: <a href="<?= base_url('/pre-wedding-shoot-locations-in-pune/') ?>" style="color:var(--gold);">Budget-friendly Pre-wedding shoot locations in Pune</a></p>
       </div>
 
       <!-- 6. Worli Sea Face -->
@@ -361,12 +360,10 @@
   <div class="container">
     <p class="eyebrow" style="margin-bottom:.9rem;">Related Pages</p>
     <div class="tag-links">
-      <a href="<?= base_url('/pre-wedding-photography-packages/') ?>" class="tag-link">Pre-Wedding Packages</a>
-      <a href="<?= base_url('/pre-wedding-shoot-locations-in-pune/') ?>" class="tag-link">Locations in Pune</a>
-      <a href="<?= base_url('/pre-wedding-shoot-pune-under-10000/') ?>" class="tag-link">Budget Under Rs 10K</a>
+      <a href="<?= base_url('/mumbai/') ?>" class="tag-link">Photographers in Mumbai</a>
+      <a href="<?= base_url('/mumbai/engagement-photography-packages/') ?>" class="tag-link">Engagement Photographers in Mumbai</a>
       <a href="<?= base_url('/pre-wedding-shoot-lonavala/') ?>" class="tag-link">Lonavala</a>
       <a href="<?= base_url('/pre-wedding-shoot-mahabaleshwar/') ?>" class="tag-link">Mahabaleshwar</a>
-      <a href="<?= base_url('/pre-wedding-shoot-locations-in-goa/') ?>" class="tag-link">Goa</a>
       <a href="<?= base_url('/wedding-photography-packages/') ?>" class="tag-link">Wedding Packages</a>
       <a href="<?= base_url('/faq/') ?>" class="tag-link">FAQ</a>
     </div>

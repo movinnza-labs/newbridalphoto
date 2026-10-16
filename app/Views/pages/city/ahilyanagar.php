@@ -86,9 +86,9 @@
       </a>
 
       <!-- Newborn -->
-      <a href="<?= base_url('/newborn-photography-pune/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/ahily-newborn.webp') ?>" alt="Baby Photography Packages" loading="lazy" class="mumbai-service-img">
-        <h3 class="mumbai-service-title">Newborn Photoshoot in Ahilyanagar</h3>
+      <a href="<?= base_url('/ahilyanagar/baby-photoshoot/') ?>" class="card-warm mumbai-service-card">
+        <img src="<?= base_url('assets/images/ahily-newborn.webp') ?>" alt="Newborn photoshoot in Ahilyanagar" loading="lazy" class="mumbai-service-img">
+        <h3 class="mumbai-service-title">Newborn and Baby Photoshoot in Ahilyanagar</h3>
       </a>
 
       <!-- Event -->
@@ -186,7 +186,7 @@
       <a href="<?= base_url('/ahilyanagar/wedding-photographers/') ?>" class="tag-link">Wedding Ahilyanagar</a>
       <a href="<?= base_url('/ahilyanagar/engagement-photographers/') ?>" class="tag-link">Engagement Ahilyanagar</a>
       <a href="<?= base_url('/ahilyanagar/maternity-photographer/') ?>" class="tag-link">Maternity Ahilyanagar</a>
-      <a href="<?= base_url('/mumbai/') ?>" class="tag-link">Mumbai Hub</a>
+      <a href="<?= base_url('/ahilyanagar/corporate-event-meeting-shoot/') ?>" class="tag-link">Corporate Event Shoot in Ahilyanagar</a>
       <a href="<?= base_url('/faq/') ?>" class="tag-link">FAQ</a>
     </div>
   </div>

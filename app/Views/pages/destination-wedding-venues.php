@@ -1324,7 +1324,7 @@
       <a href="<?= base_url('/engagement-photography-packages/') ?>" class="tag-link">Engagement</a>
       <a href="<?= base_url('/roka-ring-ceremony-photography-pune/') ?>" class="tag-link">Roka / Ring Ceremony</a>
       <a href="<?= base_url('/pre-wedding-shoot-locations-in-pune/') ?>" class="tag-link">Pre-Wedding Locations</a>
-      <a href="<?= base_url('/pre-wedding-shoot-mahabaleshwar/') ?>" class="tag-link">Mahabaleshwar</a>
+      <a href="<?= base_url('/mahabaleshwar/wedding-photographers/') ?>" class="tag-link">Wedding Photographers in Mahabaleshwar</a>
       <a href="<?= base_url('/contact/') ?>" class="tag-link">Contact Us</a>
     </div>
   </div>

@@ -338,7 +338,6 @@
       <a href="<?= base_url('/nashik/pre-wedding-shoot/') ?>" class="tag-link">Pre-Wedding Nashik</a>
       <a href="<?= base_url('/nashik/wedding-photographers/') ?>" class="tag-link">Wedding Nashik</a>
       <a href="<?= base_url('/nashik/engagement-photographers/') ?>" class="tag-link">Engagement Nashik</a>
-      <a href="<?= base_url('/mahabaleshwar/') ?>" class="tag-link">Mahabaleshwar</a>
       <a href="<?= base_url('/faq/') ?>" class="tag-link">FAQ</a>
     </div>
   </div>

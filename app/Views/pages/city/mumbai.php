@@ -313,7 +313,7 @@
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
       <h2 class="section-title">Book Now or <em>Enquire</em></h2>
-      <p class="section-sub">Ready to capture your love story? Contact us today to book your pre-wedding photographers in pune or for any inquires.</p>
+      <p class="section-sub">Ready to capture your love story? Contact us today to book your photographers in Mumbai or for any inquiries.</p>
     </div>
     <div class="contact-layout">
       <div class="enquire-contact-card">
@@ -352,7 +352,6 @@
       <a href="<?= base_url('/pre-wedding-shoot-locations-mumbai/') ?>" class="tag-link">Pre wedding shoot locations in Mumbai</a>
       <a href="<?= base_url('/mumbai/engagement-photography-packages/') ?>" class="tag-link">Engagement Mumbai</a>
       <a href="<?= base_url('/wedding-photography-packages/') ?>" class="tag-link">Wedding Packages</a>
-      <a href="<?= base_url('/ahilyanagar/') ?>" class="tag-link">Ahilyanagar</a>
       <a href="<?= base_url('/faq/') ?>" class="tag-link">FAQ</a>
     </div>
   </div>

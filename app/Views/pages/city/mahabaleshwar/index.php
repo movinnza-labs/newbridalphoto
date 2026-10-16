@@ -272,7 +272,6 @@
       <a href="<?= base_url('/pre-wedding-shoot-mahabaleshwar/') ?>" class="tag-link">Pre wedding shoot locations in Mahabaleshwar</a>
       <a href="<?= base_url('/mahabaleshwar/wedding-photographers/') ?>" class="tag-link">Wedding Mahabaleshwar</a>
       <a href="<?= base_url('/mahabaleshwar/engagement-photographers/') ?>" class="tag-link">Engagement Mahabaleshwar</a>
-      <a href="<?= base_url('/mumbai/') ?>" class="tag-link">Mumbai</a>
       <a href="<?= base_url('/faq/') ?>" class="tag-link">FAQ</a>
     </div>
   </div>

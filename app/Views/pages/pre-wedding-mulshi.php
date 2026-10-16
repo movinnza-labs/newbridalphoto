@@ -107,7 +107,7 @@
     <div class="grid-2 grid-gap">
       <div>
         <h4 class="article-heading">Culinary Delights</h4>
-        <p class="article-text">A pre-wedding shoot in Mulshi isn't just about the landscapes; it's also a journey into the heart of Maharashtra's culinary delights. Consider incorporating a culinary experience into your photoshoot, whether it's a romantic picnic by the lakeside or a cozy dinner under the starlit sky. The local flavors and vibrant cuisine of Pune add a touch of authenticity to your pre-wedding memories.</p>
+        <p class="article-text">A pre-wedding shoot in Mulshi isn't just about the landscapes; it's also a journey into the heart of Maharashtra's culinary delights. Consider incorporating a culinary experience into your photoshoot, whether it's a romantic picnic by the lakeside or a cozy dinner under the starlit sky. The local flavors and vibrant Maharashtrian cuisine add a touch of authenticity to your pre-wedding memories.</p>
       </div>
       <div>
         <h4 class="article-heading">Professional Guidance</h4>
@@ -119,16 +119,6 @@
       <img src="<?= base_url('assets/images/mulshi-guide-1.webp') ?>" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" class="feature-img-full">
       <img src="<?= base_url('assets/images/mulshi-guide-2.webp') ?>" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" class="feature-img-full">
       <img src="<?= base_url('assets/images/mulshi-guide-3.webp') ?>" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" class="feature-img-full">
-    </div>
-  </div>
-</section>
-
-<!-- Picturesque Landscapes -->
-<section class="section section-off">
-  <div class="container">
-    <div class="section-head">
-      <div class="rule-center section-head-rule"></div>
-      <h4 class="section-title">Picturesque Landscapes for<br><em>Timeless Memories</em></h4>
     </div>
   </div>
 </section>
@@ -149,26 +139,6 @@
   </div>
 </section>
 
-<!-- Romantic Sunsets -->
-<section class="section section-off">
-  <div class="container">
-    <div class="section-head">
-      <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Romantic Sunsets and<br><em>Golden Hours</em></h2>
-    </div>
-  </div>
-</section>
-
-<!-- Culinary Delights for a Flavorful Experience -->
-<section class="section section-white">
-  <div class="container">
-    <div class="section-head">
-      <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Culinary Delights for<br><em>a Flavorful Experience</em></h2>
-    </div>
-  </div>
-</section>
-
 <!-- Professional Guidance for Seamless Memories -->
 <section class="section section-off">
   <div class="container">
@@ -177,7 +147,7 @@
       <h4 class="section-title">Professional Guidance for<br><em>Seamless Memories</em></h4>
     </div>
 
-    <p class="article-text">For couples embarking on the adventure of marriage in 2024, Mulshi, Pune, stands as the quintessential pre-wedding destination. With its stunning landscapes, romantic sunsets, culinary delights, and professional guidance, Mulshi offers an unparalleled experience for creating memories that transcend time. Embrace the tranquility of Mulshi and let your love story unfold amidst the natural grandeur of this enchanting destination, ensuring that your pre-wedding moments become cherished treasures of your marital journey.</p>
+    <p class="article-text">For couples embarking on the adventure of marriage, Mulshi stands as the quintessential pre-wedding destination. With its stunning landscapes, romantic sunsets, culinary delights, and professional guidance, Mulshi offers an unparalleled experience for creating memories that transcend time. Embrace the tranquility of Mulshi and let your love story unfold amidst the natural grandeur of this enchanting destination, ensuring that your pre-wedding moments become cherished treasures of your marital journey.</p>
   </div>
 </section>
 

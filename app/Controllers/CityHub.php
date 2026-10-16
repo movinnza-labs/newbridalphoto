@@ -140,7 +140,7 @@ class CityHub extends BaseController
             'title'       => 'Wedding Photographer in Mahabaleshwar | The Bridal Photography',
             'description' => 'Best wedding photographers in Mahabaleshwar for hill-station & resort weddings. Candid, cinematic & traditional. Book: +91 83903 67637.',
             'canonical'   => '/mahabaleshwar/wedding-photographers/',
-            'breadcrumb'  => [['Home', '/'], ['Mahabaleshwar', '/mahabaleshwar/wedding-photographers/'], ['Wedding', '/mahabaleshwar/wedding-photographers/']],
+            'breadcrumb'  => [['Home', '/'], ['Mahabaleshwar', '/mahabaleshwar/'], ['Wedding', '/mahabaleshwar/wedding-photographers/']],
         ]);
     }
 
@@ -150,7 +150,7 @@ class CityHub extends BaseController
             'title'       => 'Pre Wedding Shoot Mahabaleshwar | Best Locations & Packages | The Bridal Photography',
             'description' => 'Pre wedding shoot in Mahabaleshwar. Arthur Seat, Wilson Point, Mapro Garden & more. Cinematic storytelling. Book: +91 83903 67637.',
             'canonical'   => '/mahabaleshwar/pre-wedding-shoot/',
-            'breadcrumb'  => [['Home', '/'], ['Mahabaleshwar', '/mahabaleshwar/pre-wedding-shoot/'], ['Pre-Wedding', '/mahabaleshwar/pre-wedding-shoot/']],
+            'breadcrumb'  => [['Home', '/'], ['Mahabaleshwar', '/mahabaleshwar/'], ['Pre-Wedding', '/mahabaleshwar/pre-wedding-shoot/']],
         ]);
     }
 
@@ -160,7 +160,7 @@ class CityHub extends BaseController
             'title'       => 'Engagement Photographers in Mahabaleshwar | The Bridal Photography',
             'description' => 'Top engagement photographers in Mahabaleshwar. Arthur Seat, Wilson Point, Venna Lake & more. Book: +91 83903 67637.',
             'canonical'   => '/mahabaleshwar/engagement-photographers/',
-            'breadcrumb'  => [['Home', '/'], ['Mahabaleshwar', '/mahabaleshwar/engagement-photographers/'], ['Engagement', '/mahabaleshwar/engagement-photographers/']],
+            'breadcrumb'  => [['Home', '/'], ['Mahabaleshwar', '/mahabaleshwar/'], ['Engagement', '/mahabaleshwar/engagement-photographers/']],
         ]);
     }
 
@@ -182,7 +182,7 @@ class CityHub extends BaseController
             'title'       => 'Wedding Photoshoot in Lonavala | The Bridal Photography',
             'description' => 'Best wedding photographers in Lonavala for destination & resort weddings. Candid, cinematic & traditional. Book: +91 83903 67637.',
             'canonical'   => '/lonavala/wedding-photographers/',
-            'breadcrumb'  => [['Home', '/'], ['Lonavala', '/lonavala/wedding-photographers/'], ['Wedding', '/lonavala/wedding-photographers/']],
+            'breadcrumb'  => [['Home', '/'], ['Lonavala', '/lonavala/'], ['Wedding', '/lonavala/wedding-photographers/']],
         ]);
     }
 
@@ -192,7 +192,7 @@ class CityHub extends BaseController
             'title'       => 'Lonavala Pre-Wedding Shoot | Best Locations & Packages | The Bridal Photography',
             'description' => 'Pre-wedding shoot in Lonavala. Lion\'s Point, Rajmachi Point, Bhushi Dam & more. Cinematic storytelling. Book: +91 83903 67637.',
             'canonical'   => '/lonavala/pre-wedding-shoot/',
-            'breadcrumb'  => [['Home', '/'], ['Lonavala', '/lonavala/pre-wedding-shoot/'], ['Pre-Wedding', '/lonavala/pre-wedding-shoot/']],
+            'breadcrumb'  => [['Home', '/'], ['Lonavala', '/lonavala/'], ['Pre-Wedding', '/lonavala/pre-wedding-shoot/']],
         ]);
     }
 
@@ -202,7 +202,7 @@ class CityHub extends BaseController
             'title'       => 'Engagement Photoshoot in Lonavala | The Bridal Photography',
             'description' => 'Top engagement photographers in Lonavala. Scenic hill points, resorts, valley roads & heritage spots. Book: +91 83903 67637.',
             'canonical'   => '/lonavala/engagement-photographers/',
-            'breadcrumb'  => [['Home', '/'], ['Lonavala', '/lonavala/engagement-photographers/'], ['Engagement', '/lonavala/engagement-photographers/']],
+            'breadcrumb'  => [['Home', '/'], ['Lonavala', '/lonavala/'], ['Engagement', '/lonavala/engagement-photographers/']],
         ]);
     }
 
@@ -224,7 +224,7 @@ class CityHub extends BaseController
             'title'       => 'Wedding Photographers in Nashik | The Bridal Photography',
             'description' => 'Best wedding photographers in Nashik for vineyard & resort weddings. Candid, cinematic & traditional. Book: +91 83903 67637.',
             'canonical'   => '/nashik/wedding-photographers/',
-            'breadcrumb'  => [['Home', '/'], ['Nashik', '/nashik/wedding-photographers/'], ['Wedding', '/nashik/wedding-photographers/']],
+            'breadcrumb'  => [['Home', '/'], ['Nashik', '/nashik/'], ['Wedding', '/nashik/wedding-photographers/']],
         ]);
     }
 
@@ -234,7 +234,7 @@ class CityHub extends BaseController
             'title'       => 'Pre Wedding Shoot in Nashik | The Bridal Photography',
             'description' => 'Pre wedding shoot in Nashik at Sula Vineyards, Pandavleni Caves, Gangapur Dam and more. Cinematic couple shoots. Book: +91 83903 67637.',
             'canonical'   => '/nashik/pre-wedding-shoot/',
-            'breadcrumb'  => [['Home', '/'], ['Nashik', '/nashik/pre-wedding-shoot/'], ['Pre-Wedding', '/nashik/pre-wedding-shoot/']],
+            'breadcrumb'  => [['Home', '/'], ['Nashik', '/nashik/'], ['Pre-Wedding', '/nashik/pre-wedding-shoot/']],
         ]);
     }
 
@@ -244,7 +244,7 @@ class CityHub extends BaseController
             'title'       => 'Engagement Photographers in Nashik | The Bridal Photography',
             'description' => 'Top engagement photographers in Nashik. Sula Vineyards, Pandavleni Caves, Gangapur Dam & more. Book: +91 83903 67637.',
             'canonical'   => '/nashik/engagement-photographers/',
-            'breadcrumb'  => [['Home', '/'], ['Nashik', '/nashik/engagement-photographers/'], ['Engagement', '/nashik/engagement-photographers/']],
+            'breadcrumb'  => [['Home', '/'], ['Nashik', '/nashik/'], ['Engagement', '/nashik/engagement-photographers/']],
         ]);
     }
 
@@ -266,7 +266,7 @@ class CityHub extends BaseController
             'title'       => 'Wedding Photographer in Chhatrapati Sambhajinagar | The Bridal Photography',
             'description' => 'Best wedding photographers in Chhatrapati Sambhajinagar. Candid, cinematic & traditional. Bibi Ka Maqbara, Daulatabad Fort & more. Book: +91 83903 67637.',
             'canonical'   => '/chhatrapati-sambhajinagar/wedding-photographers/',
-            'breadcrumb'  => [['Home', '/'], ['Chhatrapati Sambhajinagar', '/chhatrapati-sambhajinagar/wedding-photographers/'], ['Wedding', '/chhatrapati-sambhajinagar/wedding-photographers/']],
+            'breadcrumb'  => [['Home', '/'], ['Chhatrapati Sambhajinagar', '/chhatrapati-sambhajinagar/'], ['Wedding', '/chhatrapati-sambhajinagar/wedding-photographers/']],
         ]);
     }
 
@@ -276,7 +276,7 @@ class CityHub extends BaseController
             'title'       => 'Pre Wedding Shoot in Chhatrapati Sambhajinagar',
             'description' => 'Pre wedding shoot in Chhatrapati Sambhajinagar at heritage, garden and city locations. Cinematic couple shoots. Book: +91 83903 67637.',
             'canonical'   => '/chhatrapati-sambhajinagar/pre-wedding-shoot/',
-            'breadcrumb'  => [['Home', '/'], ['Chhatrapati Sambhajinagar', '/chhatrapati-sambhajinagar/pre-wedding-shoot/'], ['Pre-Wedding', '/chhatrapati-sambhajinagar/pre-wedding-shoot/']],
+            'breadcrumb'  => [['Home', '/'], ['Chhatrapati Sambhajinagar', '/chhatrapati-sambhajinagar/'], ['Pre-Wedding', '/chhatrapati-sambhajinagar/pre-wedding-shoot/']],
         ]);
     }
 
@@ -286,7 +286,7 @@ class CityHub extends BaseController
             'title'       => 'Engagement Photographers in Chhatrapati Sambhajinagar | The Bridal Photography',
             'description' => 'Top engagement photographers in Chhatrapati Sambhajinagar. Bibi Ka Maqbara, Daulatabad Fort, Ellora Caves & more. Book: +91 83903 67637.',
             'canonical'   => '/chhatrapati-sambhajinagar/engagement-photographers/',
-            'breadcrumb'  => [['Home', '/'], ['Chhatrapati Sambhajinagar', '/chhatrapati-sambhajinagar/engagement-photographers/'], ['Engagement', '/chhatrapati-sambhajinagar/engagement-photographers/']],
+            'breadcrumb'  => [['Home', '/'], ['Chhatrapati Sambhajinagar', '/chhatrapati-sambhajinagar/'], ['Engagement', '/chhatrapati-sambhajinagar/engagement-photographers/']],
         ]);
     }
 }

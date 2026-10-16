@@ -87,7 +87,7 @@
       <div class="rule-center" style="margin-bottom:1.4rem;"></div>
       <h2 class="section-title"><em>Calangute</em></h2>
     </div>
-    <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;margin-bottom:1.5rem;">Most professional photographers suggest <strong>pre wedding shoot Pune</strong> as a good idea, but won't disagree on having this done in Goa. Calangute Beach is yet another destination where romance is already in the air. So every single snap taken at the Calangute Beach is destined to be memorable. This is highly cherished beach of Goa for a pre-wedding shoot and there are multiple reasons why it is. The widespread sandy beach of Calangute offers you to take sensational pictures; then there are the swaying palm trees and stunning sunsets which couples don't want to miss on including in their pre-wedding photo session.</p>
+    <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;margin-bottom:1.5rem;">Calangute Beach is yet another destination where romance is already in the air. So every single snap taken at the Calangute Beach is destined to be memorable. This is highly cherished beach of Goa for a pre-wedding shoot and there are multiple reasons why it is. The widespread sandy beach of Calangute offers you to take sensational pictures; then there are the swaying palm trees and stunning sunsets which couples don't want to miss on including in their pre-wedding photo session.</p>
     <div class="grid-2" style="gap:1rem;">
       <img src="<?= base_url('assets/images/goa-calangute-1.webp') ?>" alt="5 Destinations for a Pre-Wedding Shoot In Goa" loading="lazy" style="width:100%;height:auto;">
       <img src="<?= base_url('assets/images/goa-calangute-2.webp') ?>" alt="5 Destinations for a Pre-Wedding Shoot In Goa" loading="lazy" style="width:100%;height:auto;">
@@ -338,8 +338,6 @@
   <div class="container">
     <p class="eyebrow" style="margin-bottom:.9rem;">Related Pages</p>
     <div class="tag-links">
-      <a href="<?= base_url('/pre-wedding-photography-packages/') ?>" class="tag-link">Pre-Wedding Packages</a>
-      <a href="<?= base_url('/pre-wedding-shoot-locations-in-pune/') ?>" class="tag-link">Locations in Pune</a>
       <a href="<?= base_url('/pre-wedding-shoot-locations-mumbai/') ?>" class="tag-link">Mumbai Locations</a>
       <a href="<?= base_url('/pre-wedding-shoot-satara/') ?>" class="tag-link">Satara</a>
       <a href="<?= base_url('/pre-wedding-shoot-lonavala/') ?>" class="tag-link">Lonavala</a>

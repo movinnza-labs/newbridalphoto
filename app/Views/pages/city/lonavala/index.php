@@ -271,7 +271,6 @@
       <a href="<?= base_url('/pre-wedding-shoot-lonavala/') ?>" class="tag-link">Pre wedding shoot locations in Lonavala</a>
       <a href="<?= base_url('/lonavala/wedding-photographers/') ?>" class="tag-link">Wedding Lonavala</a>
       <a href="<?= base_url('/lonavala/engagement-photographers/') ?>" class="tag-link">Engagement Lonavala</a>
-      <a href="<?= base_url('/mahabaleshwar/') ?>" class="tag-link">Mahabaleshwar</a>
       <a href="<?= base_url('/faq/') ?>" class="tag-link">FAQ</a>
     </div>
   </div>
