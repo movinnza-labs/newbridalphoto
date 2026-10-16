@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /demo/
+
+Sitemap: https://thebridal.photography/sitemap.xml
