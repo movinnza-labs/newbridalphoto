@@ -79,33 +79,49 @@ Options +FollowSymLinks
 # Text compression — Brotli preferred, gzip fallback. IfModule guards mean the
 # block is a no-op if the module isn't loaded on this server.
 <IfModule mod_brotli.c>
-    AddOutputFilterByType BROTLI_COMPRESS text/html text/plain text/css text/javascript application/javascript application/json application/xml application/rss+xml image/svg+xml font/ttf font/otf
+    AddOutputFilterByType BROTLI_COMPRESS text/html text/plain text/xml text/css text/javascript application/javascript application/x-javascript application/json application/xml application/xhtml+xml application/rss+xml image/svg+xml image/x-icon font/ttf font/otf font/opentype
 </IfModule>
 <IfModule mod_deflate.c>
-    AddOutputFilterByType DEFLATE text/html text/plain text/css text/javascript application/javascript application/json application/xml application/rss+xml image/svg+xml font/ttf font/otf
+    AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/x-javascript application/json application/xml application/xhtml+xml application/rss+xml image/svg+xml image/x-icon font/ttf font/otf font/opentype application/vnd.ms-fontobject application/x-font application/x-font-ttf
     # Don't double-compress already-compressed formats
-    SetEnvIfNoCase Request_URI \.(?:gif|jpe?g|png|webp|avif|ico|woff2?|mp4|webm)$ no-gzip dont-vary
+    SetEnvIfNoCase Request_URI \.(?:gif|jpe?g|png|webp|avif|ico|woff2?|mp4|webm|mp3|zip|gz)$ no-gzip dont-vary
 </IfModule>
 
 # Browser caching
 <IfModule mod_expires.c>
     ExpiresActive On
-    ExpiresByType image/jpeg   "access plus 1 year"
-    ExpiresByType image/png    "access plus 1 year"
-    ExpiresByType image/webp   "access plus 1 year"
-    ExpiresByType image/avif   "access plus 1 year"
-    ExpiresByType image/svg+xml "access plus 1 year"
-    ExpiresByType text/css     "access plus 1 year"
-    ExpiresByType application/javascript "access plus 1 year"
-    ExpiresByType text/javascript "access plus 1 year"
-    ExpiresByType font/woff2   "access plus 1 year"
+    ExpiresDefault                         "access plus 1 month"
+    ExpiresByType image/jpeg               "access plus 1 year"
+    ExpiresByType image/png                "access plus 1 year"
+    ExpiresByType image/gif                "access plus 1 year"
+    ExpiresByType image/webp               "access plus 1 year"
+    ExpiresByType image/avif               "access plus 1 year"
+    ExpiresByType image/svg+xml            "access plus 1 year"
+    ExpiresByType image/x-icon             "access plus 1 year"
+    ExpiresByType text/css                 "access plus 1 year"
+    ExpiresByType application/javascript   "access plus 1 year"
+    ExpiresByType text/javascript          "access plus 1 year"
+    ExpiresByType application/x-javascript "access plus 1 month"
+    ExpiresByType font/woff                "access plus 1 year"
+    ExpiresByType font/woff2               "access plus 1 year"
+    ExpiresByType font/ttf                 "access plus 1 year"
+    ExpiresByType font/otf                 "access plus 1 year"
+    ExpiresByType application/font-woff    "access plus 1 year"
+    ExpiresByType application/font-woff2   "access plus 1 year"
+    ExpiresByType text/html                "access plus 0 seconds"
+    ExpiresByType application/xml          "access plus 1 hour"
+    ExpiresByType application/json         "access plus 0 seconds"
 </IfModule>
 
 # Immutable cache for fingerprinted/versioned assets (you cache-bust with ?v=…)
 <IfModule mod_headers.c>
-    <FilesMatch "\.(woff2|woff|ttf|eot|css|js|webp|avif|jpe?g|png|svg|ico)$">
+    <FilesMatch "\.(woff2|woff|ttf|otf|eot|css|js|webp|avif|jpe?g|png|gif|svg|ico)$">
         Header set Cache-Control "public, max-age=31536000, immutable"
     </FilesMatch>
+    <FilesMatch "\.html$">
+        Header set Cache-Control "no-cache, must-revalidate"
+    </FilesMatch>
+    Header set Connection keep-alive
 </IfModule>
 
 ServerSignature Off
