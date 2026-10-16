@@ -11,6 +11,16 @@ Options +FollowSymLinks
 
     # RewriteBase /
 
+    # ── Block web access to secrets and server-only files ───────────────
+    # The site root is the project root, so .env, .git, app/, writable/ etc.
+    # sit inside it. OpenLiteSpeed ignores <FilesMatch>/Require, so these
+    # must be rewrite rules. .well-known stays open for SSL renewals.
+    RewriteRule (^|/)\.(?!well-known/) - [F,L]
+    RewriteRule ^(app|writable|vendor|tools|scripts|database|tests)(/|$) - [F,L,NC]
+    RewriteRule \.(sql|log|md|lock|zip|rar|7z|tar|gz|tgz|bak|orig|sh)$ - [F,L,NC]
+    RewriteRule \.(php|css|js|xml|html|txt|json)[-_0-9]+[a-z]*$ - [F,L,NC]
+    RewriteRule (^|/)(spark|preload\.php|htaccess-server|composer\.json)$ - [F,L,NC]
+
     # ── Canonical host: https://thebridal.photography (no www) ──────────
     # Only fires for the live domain, so localhost is not affected.
     # http:// or www. -> https://thebridal.photography in ONE hop, adding the
