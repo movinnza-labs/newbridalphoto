@@ -61,7 +61,7 @@
   <?php endif; ?>
 
   <!-- CSS (minified in place; cache-buster bumped) -->
-  <link rel="stylesheet" href="<?= base_url('assets/css/main.css?v=161026.0') ?>">
+  <link rel="stylesheet" href="<?= base_url('assets/css/main.css?v=161026.1') ?>">
 
   <!-- Visually-hidden utility (for accessible icon-only links) -->
   <style>.visually-hidden{position:absolute!important;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}</style>
