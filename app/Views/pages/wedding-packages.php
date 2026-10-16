@@ -455,7 +455,7 @@
       <a href="<?= base_url('/pre-wedding-photography-packages/') ?>" class="tag-link">Pre-Wedding Packages</a>
       <a href="<?= base_url('/engagement-photography-packages/') ?>" class="tag-link">Engagement Photography</a>
       <a href="<?= base_url('/roka-ring-ceremony-photography-pune/') ?>" class="tag-link">Roka Ceremony</a>
-      <a href="<?= base_url('/mumbai/') ?>" class="tag-link">Mumbai Wedding</a>
+      <a href="<?= base_url('/mumbai/') ?>" class="tag-link">Wedding Photographers in Mumbai</a>
       <a href="<?= base_url('/ahilyanagar/wedding-photographers/') ?>" class="tag-link">Ahilyanagar Wedding</a>
       <a href="<?= base_url('/wedding-films/') ?>" class="tag-link">Wedding Films</a>
       <a href="<?= base_url('/faq/') ?>" class="tag-link">FAQ</a>

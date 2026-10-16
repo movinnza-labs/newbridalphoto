@@ -360,11 +360,10 @@
   <div class="container">
     <p class="eyebrow" style="margin-bottom:.9rem;">Related Pages</p>
     <div class="tag-links">
-      <a href="<?= base_url('/mumbai/') ?>" class="tag-link">Photographers in Mumbai</a>
+      <a href="<?= base_url('/mumbai/') ?>" class="tag-link">Wedding Photographers in Mumbai</a>
       <a href="<?= base_url('/mumbai/engagement-photography-packages/') ?>" class="tag-link">Engagement Photographers in Mumbai</a>
       <a href="<?= base_url('/pre-wedding-shoot-lonavala/') ?>" class="tag-link">Lonavala</a>
       <a href="<?= base_url('/pre-wedding-shoot-mahabaleshwar/') ?>" class="tag-link">Mahabaleshwar</a>
-      <a href="<?= base_url('/wedding-photography-packages/') ?>" class="tag-link">Wedding Packages</a>
       <a href="<?= base_url('/faq/') ?>" class="tag-link">FAQ</a>
     </div>
   </div>

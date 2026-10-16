@@ -82,6 +82,7 @@ $routes->get('/mumbai/engagement-photography-packages/', 'CityHub::mumbaiEngagem
 $routes->get('/mumbai/pre-wedding-shoot/', function () {
     return redirect()->to('/pre-wedding-shoot-locations-mumbai/', 301);
 });
+// Page review Oct 2026: /mumbai/ is the Mumbai wedding page. Keep this 301 as is
 $routes->get('/mumbai/wedding-photographers/', function () {
     return redirect()->to('/mumbai/', 301);
 });

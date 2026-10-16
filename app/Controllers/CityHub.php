@@ -13,8 +13,8 @@ class CityHub extends BaseController
     public function mumbai(): string
     {
         return $this->render('pages/city/mumbai', [
-            'title'        => 'Photographers in Mumbai | The Bridal Photography',
-            'description'  => 'Photographers in Mumbai for weddings, pre wedding, engagement and maternity shoots at Marine Drive, Bandra and Film City. Call +91 83903 67637.',
+            'title'        => 'Wedding Photographers in Mumbai | The Bridal Photography',
+            'description'  => 'Wedding photographers in Mumbai for candid, traditional and cinematic weddings, plus engagement and pre wedding shoots. Call +91 83903 67637.',
             'canonical'    => '/mumbai/',
             'breadcrumb'   => [['Home', '/'], ['Mumbai', '/mumbai/']],
             'preloadImage' => 'assets/images/mumbai-wedding-card.webp',

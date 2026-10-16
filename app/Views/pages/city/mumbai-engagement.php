@@ -370,9 +370,8 @@
   <div class="container">
     <p class="eyebrow section-related-eyebrow">Related Pages</p>
     <div class="tag-links">
-      <a href="<?= base_url('/mumbai/') ?>" class="tag-link">Mumbai Hub</a>
+      <a href="<?= base_url('/mumbai/') ?>" class="tag-link">Wedding Photographers in Mumbai</a>
       <a href="<?= base_url('/pre-wedding-shoot-locations-mumbai/') ?>" class="tag-link">Pre-Wedding Mumbai</a>
-      <a href="<?= base_url('/wedding-photography-packages/') ?>" class="tag-link">Wedding Packages</a>
     </div>
   </div>
 </section>

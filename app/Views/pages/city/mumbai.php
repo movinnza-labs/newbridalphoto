@@ -8,9 +8,9 @@
   </div>
   <div class="page-hero-content">
     <div class="page-hero-content-inner">
-      <p class="eyebrow page-hero-eyebrow">Photography Services &middot; Mumbai</p>
+      <p class="eyebrow page-hero-eyebrow">Wedding Photography &middot; Mumbai</p>
       <div class="page-hero-rule"></div>
-      <h1>Photographers in<br><em>Mumbai</em></h1>
+      <h1>Wedding Photographers in<br><em>Mumbai</em></h1>
       <p class="page-hero-sub">The Bridal Photography - One of the best wedding, pre wedding &amp; engagement photographers in Mumbai India. we are professional photographers team have 10 years of experience in Wedding industry. we allready Coverd hundred's of wedding &amp; prewedding in mumbai &amp; india</p>
       <div class="page-hero-buttons">
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Now</a>
@@ -26,7 +26,7 @@
 <section class="section section-white">
   <div class="container">
     <div class="grid-3 grid-gap">
-      <a href="<?= base_url('/wedding-photography-packages/') ?>" class="card-warm mumbai-service-card">
+      <a href="#wedding-photographers-mumbai" class="card-warm mumbai-service-card">
         <img src="<?= base_url('assets/images/mumbai-wedding-card.webp') ?>" alt="Wedding Photography Mumbai" loading="lazy" class="mumbai-service-img">
         <h2 class="mumbai-service-title">The Best Wedding Photographers in Mumbai</h2>
       </a>
@@ -48,7 +48,7 @@
      =========================================================== -->
 
 <!-- Intro + Top Gallery -->
-<section class="section section-off">
+<section class="section section-off" id="wedding-photographers-mumbai">
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
@@ -351,7 +351,6 @@
     <div class="tag-links">
       <a href="<?= base_url('/pre-wedding-shoot-locations-mumbai/') ?>" class="tag-link">Pre wedding shoot locations in Mumbai</a>
       <a href="<?= base_url('/mumbai/engagement-photography-packages/') ?>" class="tag-link">Engagement Mumbai</a>
-      <a href="<?= base_url('/wedding-photography-packages/') ?>" class="tag-link">Wedding Packages</a>
       <a href="<?= base_url('/faq/') ?>" class="tag-link">FAQ</a>
     </div>
   </div>

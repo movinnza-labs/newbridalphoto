@@ -74,3 +74,8 @@
 /* Homepage hero: bottom space clears the stats bar, so the buttons are never covered */
 .hero-content{padding-bottom:11rem}
 @media (max-width:768px){.hero-content{padding-bottom:13.5rem}}
+/* Text-only sections (heading block with no grid under it): no gap left over below the text, lighter padding, wider paragraphs */
+.section-head:last-child{margin-bottom:0}
+.section-head:only-child .section-sub{max-width:780px}
+.section-head-rule+.section-sub{margin-top:0;font-size:1.02rem;color:var(--text-body)}
+@media(min-width:769px){.section:has(>.container>.section-head:only-child),.section:has(>.container-sm>.section-head:only-child){padding-top:4.25rem;padding-bottom:4.25rem}}
