@@ -41,8 +41,8 @@
       <p class="section-sub">A <strong><a href="<?= base_url('/pre-wedding-photography-packages/') ?>" style="color:var(--gold);">Pre-wedding photoshoot in Pune</a></strong> stands as one of the most gorgeous times to capture romantic photographs before marriage ceremonies begin. Noticeably absent are experienced professionals in this affordable service market, especially across Pune’s landscape. Our organization has designed this customized package for Pune’s most budget-friendly premium pre-wedding photographers to run from ₹9,999 so couples avoid spending additional money on memorable keepsakes.</p>
     </div>
     <div class="grid-2" style="gap:1.5rem;margin-top:2rem;">
-      <img src="<?= base_url('assets/images/budget-hero-1.webp') ?>" alt="Pre Wedding Shoot Under Rs.10000/- in Pune - Thebridal Photography" loading="lazy" style="width:100%;height:auto;">
-      <img src="<?= base_url('assets/images/budget-hero-2.webp') ?>" alt="Pre Wedding Shoot Under Rs.10000/- in Pune - Thebridal Photography" loading="lazy" style="width:100%;height:auto;">
+      <img src="<?= base_url('assets/images/budget-hero-1.webp') ?>" width="683" height="1024" alt="Pre Wedding Shoot Under Rs.10000/- in Pune - Thebridal Photography" loading="lazy" style="width:100%;height:auto;">
+      <img src="<?= base_url('assets/images/budget-hero-2.webp') ?>" width="683" height="1024" alt="Pre Wedding Shoot Under Rs.10000/- in Pune - Thebridal Photography" loading="lazy" style="width:100%;height:auto;">
     </div>
   </div>
 </section>
@@ -59,7 +59,7 @@
 
     <div class="feature-row" style="margin-bottom:3rem;">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/budget-pkg-highlight.webp') ?>" alt="Pre Wedding Shoot Under Rs.10000/-" loading="lazy" style="width:100%;height:auto;">
+        <img src="<?= base_url('assets/images/budget-pkg-highlight.webp') ?>" width="683" height="1024" alt="Pre Wedding Shoot Under Rs.10000/-" loading="lazy" style="width:100%;height:auto;">
       </div>
       <div>
         <h3 style="font-family:var(--font-serif);font-size:1.3rem;color:var(--gold);margin-bottom:.8rem;">Cost - Rs 9,999</h3>
@@ -68,8 +68,8 @@
         <h3 style="font-family:var(--font-serif);font-size:1.3rem;color:var(--text-primary);margin:1.5rem 0 .8rem;">3-hour session</h3>
         <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;">Couples will have three uninterrupted hours to capture a broad spectrum of photographs during which our photographers will explore multiple poses and expressions with different themes. Throughout the next three hours, we will use either indoor or delightful outdoor locations to create your unforgettable memories.</p>
 
-        <h3 style="font-family:var(--font-serif);font-size:1.3rem;color:var(--text-primary);margin:1.5rem 0 .8rem;">Unlimited photo shoots</h3>
-        <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;">The importance of every single second in photoshoots leads you to wonder why you should limit your shots. The duration of our video sessions allows for unlimited photo capture. Professional photography techniques capture the complete essence of your special moment, ensuring you have these memories forever.</p>
+        <h3 style="font-family:var(--font-serif);font-size:1.3rem;color:var(--text-primary);margin:1.5rem 0 .8rem;">Unlimited clicks during the session</h3>
+        <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;">We do not limit the number of photos we click during your 3-hour session. From all the photos we take, we pick 35 and edit them professionally, and you also get all the unedited (raw) photos the next day through a drive link.</p>
       </div>
     </div>
 
@@ -77,8 +77,8 @@
     <div class="feature-row reverse" style="margin-bottom:3rem;">
       <div class="feature-img-wrap">
         <div style="display:grid;grid-template-columns:1fr 1fr;gap:.5rem;">
-          <img src="<?= base_url('assets/images/budget-edited-1.webp') ?>" alt="Pre Wedding Shoot Under Rs.10000/- in Pune - Thebridal Photography" loading="lazy" style="width:100%;height:auto;">
-          <img src="<?= base_url('assets/images/budget-edited-2.webp') ?>" alt="Unlimited Pre Wedding Shoot Under Rs.10000/- in Pune - Thebridal Photography" loading="lazy" style="width:100%;height:auto;">
+          <img src="<?= base_url('assets/images/budget-edited-1.webp') ?>" width="683" height="1024" alt="Pre Wedding Shoot Under Rs.10000/- in Pune - Thebridal Photography" loading="lazy" style="width:100%;height:auto;">
+          <img src="<?= base_url('assets/images/budget-edited-2.webp') ?>" width="683" height="1024" alt="Pre Wedding Shoot Under Rs.10000/- in Pune - The Bridal Photography" loading="lazy" style="width:100%;height:auto;">
         </div>
       </div>
       <div>
@@ -94,21 +94,21 @@
   <div class="container">
     <div class="grid-3" style="gap:2rem;">
       <div class="card-white" style="padding:2rem;">
-        <h2 style="font-family:var(--font-serif);font-size:1.3rem;color:var(--text-primary);margin-bottom:.8rem;">Save the date photos</h2>
+        <h3 class="lvl-h2" style="font-family:var(--font-serif);font-size:1.3rem;color:var(--text-primary);margin-bottom:.8rem;">Save the date photos</h3>
         <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;">Your wedding announcement becomes unforgettable with personal 'Save the Date' photo designs. These pictures follow your chosen theme and personality to create visuals that you can comfortably share with your loved ones.</p>
       </div>
       <div class="card-white" style="padding:2rem;">
-        <h2 style="font-family:var(--font-serif);font-size:1.3rem;color:var(--text-primary);margin-bottom:.8rem;">Deliver edited photos in 7 days max</h2>
+        <h3 class="lvl-h2" style="font-family:var(--font-serif);font-size:1.3rem;color:var(--text-primary);margin-bottom:.8rem;">Deliver edited photos in 7 days max</h3>
         <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;">We will deliver your edited photographs to you within a maximum of seven days. The delivery of your edited photos will happen within seven days since we understand your excitement. We process the images quickly so you can instantly share your precious memories with others.</p>
       </div>
       <div class="card-white" style="padding:2rem;">
-        <h2 style="font-family:var(--font-serif);font-size:1.3rem;color:var(--text-primary);margin-bottom:.8rem;">All Unedited (Raw) Photos Next Day Drive Link</h2>
+        <h3 class="lvl-h2" style="font-family:var(--font-serif);font-size:1.3rem;color:var(--text-primary);margin-bottom:.8rem;">All Unedited (Raw) Photos Next Day Drive Link</h3>
         <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;">The next-day delivery of unedited raw images accompanies your edited photos. A direct link through the drive system allows you to view all the session pictures instantly. By using this method, you will always receive all your captured images.</p>
       </div>
     </div>
 
     <div class="card-white" style="padding:2rem;margin-top:2rem;">
-      <h2 style="font-family:var(--font-serif);font-size:1.3rem;color:var(--text-primary);margin-bottom:.8rem;">1 Candid Photographer</h2>
+      <h3 class="lvl-h2" style="font-family:var(--font-serif);font-size:1.3rem;color:var(--text-primary);margin-bottom:.8rem;">1 Candid Photographer</h3>
       <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;">The package comes with a candid photographer who specializes in photographing authentic, unposed, emotional moments. The candid photography technique helps your genuine relationship photos emerge naturally in every captured moment.</p>
     </div>
 
@@ -127,7 +127,7 @@
 
     <div class="feature-row" style="margin-bottom:3rem;">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/budget-why-pune.webp') ?>" alt="Pre Wedding Shoot Under Rs.10000/- in Pune - Thebridal Photography" loading="lazy" style="width:100%;height:auto;">
+        <img src="<?= base_url('assets/images/budget-why-pune.webp') ?>" width="683" height="1024" alt="Pre Wedding Shoot Under Rs.10000/- in Pune - Thebridal Photography" loading="lazy" style="width:100%;height:auto;">
       </div>
       <div>
         <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;margin-bottom:1rem;">Pune's city perfectly blends contemporary development with traditional elements. Pre-wedding images benefit from Pune's mix of heritage sites and natural settings, which allows photographers to create beautiful backgrounds.</p>
@@ -150,8 +150,8 @@
     </div>
 
     <div class="grid-2" style="gap:1.5rem;margin-bottom:2rem;">
-      <img src="<?= base_url('assets/images/budget-location-1.webp') ?>" alt="Pre Wedding Shoot" loading="lazy" style="width:100%;height:auto;">
-      <img src="<?= base_url('assets/images/budget-location-2.webp') ?>" alt="Pre Wedding Shoot" loading="lazy" style="width:100%;height:auto;">
+      <img src="<?= base_url('assets/images/budget-location-1.webp') ?>" width="683" height="1024" alt="Pre Wedding Shoot" loading="lazy" style="width:100%;height:auto;">
+      <img src="<?= base_url('assets/images/budget-location-2.webp') ?>" width="683" height="1024" alt="Pre Wedding Shoot" loading="lazy" style="width:100%;height:auto;">
     </div>
 
     <div class="grid-3" style="gap:1.5rem;">
@@ -206,7 +206,7 @@
 
     <div class="feature-row" style="margin-bottom:2rem;">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/budget-tips.webp') ?>" alt="Best out of Pre-Wedding Photography Under Rs.10000/- in Pune - Thebridal Photography" loading="lazy" style="width:100%;height:auto;">
+        <img src="<?= base_url('assets/images/budget-tips.webp') ?>" width="683" height="1024" alt="Best out of Pre-Wedding Photography Under Rs.10000/- in Pune - Thebridal Photography" loading="lazy" style="width:100%;height:auto;">
       </div>
       <div>
         <div style="margin-bottom:1.2rem;">
@@ -246,23 +246,23 @@
 
     <div class="feature-row reverse" style="margin-bottom:2rem;">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/budget-standout.webp') ?>" alt="The best locations in Pune for pre-wedding photoshoots" loading="lazy" style="width:100%;height:auto;">
+        <img src="<?= base_url('assets/images/budget-standout.webp') ?>" width="683" height="1024" alt="The best locations in Pune for pre-wedding photoshoots" loading="lazy" style="width:100%;height:auto;">
       </div>
       <div>
         <div style="margin-bottom:1.2rem;">
-          <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.4rem;"><strong>Affordable Pricing:</strong></h4>
+          <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.4rem;"><strong>Affordable Pricing:</strong></h3>
           <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">For Rs 9,999, customers can access this product, which remains the most budget-friendly option among similar ones.</p>
         </div>
         <div style="margin-bottom:1.2rem;">
-          <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.4rem;"><strong>Comprehensive Services:</strong></h4>
-          <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">Our package includes unlimited photos delivered fast while providing all services.</p>
+          <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.4rem;"><strong>Comprehensive Services:</strong></h3>
+          <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">Unlimited clicks during the session, 35 professionally edited photos, and all raw photos the next day through a drive link.</p>
         </div>
         <div style="margin-bottom:1.2rem;">
-          <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.4rem;"><strong>Experienced Photographer:</strong></h4>
+          <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.4rem;"><strong>Experienced Photographer:</strong></h3>
           <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">Our photographer captures genuine emotions and moments in each candid photograph.</p>
         </div>
         <div>
-          <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.4rem;"><strong>Client-Centric Approach:</strong></h4>
+          <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.4rem;"><strong>Client-Centric Approach:</strong></h3>
           <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">Your experience includes both comfort and satisfaction throughout the entire process due to our approach.</p>
         </div>
       </div>
@@ -283,8 +283,8 @@
     <div class="feature-row" style="margin-bottom:2rem;">
       <div class="feature-img-wrap">
         <div style="display:grid;grid-template-columns:1fr 1fr;gap:.5rem;">
-          <img src="<?= base_url('assets/images/budget-booking.webp') ?>" alt="Booking pre-wedding shoot Pune" loading="lazy" style="width:100%;height:auto;">
-          <img src="<?= base_url('assets/images/budget-outro.webp') ?>" alt="Pre-wedding shoot Pune" loading="lazy" style="width:100%;height:auto;">
+          <img src="<?= base_url('assets/images/budget-booking.webp') ?>" width="683" height="1024" alt="Booking pre-wedding shoot Pune" loading="lazy" style="width:100%;height:auto;">
+          <img src="<?= base_url('assets/images/budget-outro.webp') ?>" width="683" height="1024" alt="Pre-wedding shoot Pune" loading="lazy" style="width:100%;height:auto;">
         </div>
       </div>
       <div>

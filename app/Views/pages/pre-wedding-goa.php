@@ -10,7 +10,7 @@
     <div style="max-width:860px;">
       <p class="eyebrow" style="margin-bottom:.8rem;">Pre-Wedding Photography &middot; Goa</p>
       <div style="width:52px;height:1px;background:linear-gradient(90deg,var(--gold),transparent);margin-bottom:1.4rem;"></div>
-      <h1>5 Destinations for a Pre-Wedding Shoot<br><em>In Goa</em></h1>
+      <h1>Pre Wedding Shoot Locations<br><em>in Goa</em></h1>
       <p class="page-hero-sub">Goa is already known for the splendour of its sea beaches but more than that, this place is covered with lush green forests which provides enough scope to experiment with when taking snaps.</p>
       <div style="display:flex;gap:1rem;flex-wrap:wrap;margin-top:1.8rem;">
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Session Now!</a>
@@ -42,7 +42,7 @@
       <p class="section-sub" style="margin-top:1rem;">You don't need to be informed why Goa is so much liked for a photo shoot before the wedding. Goa is already known for the splendour of its sea beaches but more than that, this place is covered with lush green forests which provides enough scope to experiment with when taking snaps. Find out more about such unknown destinations to make your photo shoot memorable.</p>
     </div>
     <div style="text-align:center;margin-top:2rem;">
-      <img src="<?= base_url('assets/images/goa-intro.webp') ?>" alt="5 Destinations for a Pre-Wedding Shoot In Goa" loading="lazy" style="width:100%;max-width:800px;height:auto;">
+      <img src="<?= base_url('assets/images/goa-intro.webp') ?>" width="1024" height="684" alt="5 Destinations for a Pre-Wedding Shoot In Goa" loading="lazy" style="width:100%;max-width:800px;height:auto;">
     </div>
   </div>
 </section>
@@ -57,7 +57,7 @@
       <p class="section-sub">India's western coast is exceptionally known for some sensational locations, particularly Goa. The place boasts beautiful beaches with breath-taking views, lush greenery with incomparable denseness, and a vibrant culture unable to find elsewhere. All these contribute to the best pre wedding shoot locations in Goa. All that aspects make it an ideal destination for the people who are soon to get married and spend some memorable time snapping pre-wedding memories here.</p>
     </div>
     <div style="text-align:center;margin-top:2rem;">
-      <img src="<?= base_url('assets/images/goa-locations.webp') ?>" alt="5 Destinations for a Pre-Wedding Shoot In Goa" loading="lazy" style="width:100%;max-width:800px;height:auto;">
+      <img src="<?= base_url('assets/images/goa-locations.webp') ?>" width="1024" height="683" alt="5 Destinations for a Pre-Wedding Shoot In Goa" loading="lazy" style="width:100%;max-width:800px;height:auto;">
     </div>
   </div>
 </section>
@@ -71,10 +71,10 @@
     </div>
     <div class="feature-row" style="margin-bottom:2rem;">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/goa-chorla.webp') ?>" alt="5 Destinations for a Pre-Wedding Shoot In Goa" loading="lazy" style="width:100%;height:auto;">
+        <img src="<?= base_url('assets/images/goa-chorla.webp') ?>" width="1024" height="682" alt="5 Destinations for a Pre-Wedding Shoot In Goa" loading="lazy" style="width:100%;height:auto;">
       </div>
       <div>
-        <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;">Once you have chosen Goa as the place where you want to conduct your pre-wedding photo shoot and as you reach Goa, you will be told about the north-eastern territory where Chorala Ghats locate. The Ghats possess a rare view of greenery where forests surround all over. When you go exploring, you hear the sounds of cascading waterfalls and as you get closer, you get their mesmerizing view. The ambiance here is serenely romantic which means you have the opportunity not only to shoot peacefully but also to spend some quality time together.</p>
+        <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;">Once you have chosen Goa as the place where you want to conduct your pre-wedding photo shoot and as you reach Goa, you will be told about the north-eastern territory where Chorla Ghats locate. The Ghats possess a rare view of greenery where forests surround all over. When you go exploring, you hear the sounds of cascading waterfalls and as you get closer, you get their mesmerizing view. The ambiance here is serenely romantic which means you have the opportunity not only to shoot peacefully but also to spend some quality time together.</p>
       </div>
     </div>
   </div>
@@ -89,8 +89,8 @@
     </div>
     <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;margin-bottom:1.5rem;">Calangute Beach is yet another destination where romance is already in the air. So every single snap taken at the Calangute Beach is destined to be memorable. This is highly cherished beach of Goa for a pre-wedding shoot and there are multiple reasons why it is. The widespread sandy beach of Calangute offers you to take sensational pictures; then there are the swaying palm trees and stunning sunsets which couples don't want to miss on including in their pre-wedding photo session.</p>
     <div class="grid-2" style="gap:1rem;">
-      <img src="<?= base_url('assets/images/goa-calangute-1.webp') ?>" alt="5 Destinations for a Pre-Wedding Shoot In Goa" loading="lazy" style="width:100%;height:auto;">
-      <img src="<?= base_url('assets/images/goa-calangute-2.webp') ?>" alt="5 Destinations for a Pre-Wedding Shoot In Goa" loading="lazy" style="width:100%;height:auto;">
+      <img src="<?= base_url('assets/images/goa-calangute-1.webp') ?>" width="1024" height="683" alt="5 Destinations for a Pre-Wedding Shoot In Goa" loading="lazy" style="width:100%;height:auto;">
+      <img src="<?= base_url('assets/images/goa-calangute-2.webp') ?>" width="1024" height="683" alt="5 Destinations for a Pre-Wedding Shoot In Goa" loading="lazy" style="width:100%;height:auto;">
     </div>
   </div>
 </section>
@@ -100,12 +100,12 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center" style="margin-bottom:1.4rem;"></div>
-      <h3 class="section-title"><em>Panjim</em></h3>
+      <h2 class="section-title lvl-h3"><em>Panjim</em></h2>
     </div>
     <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;margin-bottom:1.5rem;">International travellers visit Goa for a variety of reasons. Among all the best factors here, there is a special mention of the colonial architecture they get to see at Panjim. This capital of the State of Goa brings together the glory of the history and the charm of modernity. Whether you want to have photos taken in a history backdrop or around trendy shops, you will not regret being at these Goa pre wedding shoot places.</p>
     <div class="grid-2" style="gap:1rem;">
-      <img src="<?= base_url('assets/images/goa-panjim-1.webp') ?>" alt="5 Destinations for a Pre-Wedding Shoot In Goa" loading="lazy" style="width:100%;height:auto;">
-      <img src="<?= base_url('assets/images/goa-panjim-2.webp') ?>" alt="5 Destinations for a Pre-Wedding Shoot In Goa" loading="lazy" style="width:100%;height:auto;">
+      <img src="<?= base_url('assets/images/goa-panjim-1.webp') ?>" width="683" height="1024" alt="5 Destinations for a Pre-Wedding Shoot In Goa" loading="lazy" style="width:100%;height:auto;">
+      <img src="<?= base_url('assets/images/goa-panjim-2.webp') ?>" width="683" height="1024" alt="5 Destinations for a Pre-Wedding Shoot In Goa" loading="lazy" style="width:100%;height:auto;">
     </div>
   </div>
 </section>
@@ -115,12 +115,12 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center" style="margin-bottom:1.4rem;"></div>
-      <h3 class="section-title"><em>Bat Island</em></h3>
+      <h2 class="section-title lvl-h3"><em>Bat Island</em></h2>
     </div>
     <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;margin-bottom:1.5rem;">Bat Island, situated off the coast of Goa is not large but is loved for its secluded position. You feel like being at a lone island and can't miss clicking stunning and distinct views as part of your pre-wedding shoot. Name it for the mangroves or love it for the azure waters around, your photo shoot is going to be outstanding here.</p>
     <div class="grid-2" style="gap:1rem;">
-      <img src="<?= base_url('assets/images/goa-bat-island-1.webp') ?>" alt="5 Destinations for a Pre-Wedding Shoot In Goa" loading="lazy" style="width:100%;height:auto;">
-      <img src="<?= base_url('assets/images/goa-bat-island-2.webp') ?>" alt="5 Destinations for a Pre-Wedding Shoot In Goa" loading="lazy" style="width:100%;height:auto;">
+      <img src="<?= base_url('assets/images/goa-bat-island-1.webp') ?>" width="1004" height="1024" alt="5 Destinations for a Pre-Wedding Shoot In Goa" loading="lazy" style="width:100%;height:auto;">
+      <img src="<?= base_url('assets/images/goa-bat-island-2.webp') ?>" width="1024" height="683" alt="5 Destinations for a Pre-Wedding Shoot In Goa" loading="lazy" style="width:100%;height:auto;">
     </div>
   </div>
 </section>
@@ -130,12 +130,12 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center" style="margin-bottom:1.4rem;"></div>
-      <h3 class="section-title"><em>Mandovi River</em></h3>
+      <h2 class="section-title lvl-h3"><em>Mandovi River</em></h2>
     </div>
     <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;margin-bottom:1.5rem;">Can you imagine a place with a world famous reputation for its fabulous beaches has a river as a centre of attraction? Probably you don't, but the fact is Mandovi River in Goa provides you the prospect of shooting exceptional snaps here. Whether you want to take snaps at the bank of Mandovi River or get into the water in a boat to pose differently, both ideas work as this undoubtedly is one among the <strong>best pre wedding shoot locations in Goa.</strong></p>
     <div class="grid-2" style="gap:1rem;">
-      <img src="<?= base_url('assets/images/goa-mandovi-1.webp') ?>" alt="5 Destinations for a Pre-Wedding Shoot In Goa" loading="lazy" style="width:100%;height:auto;">
-      <img src="<?= base_url('assets/images/goa-mandovi-2.webp') ?>" alt="5 Destinations for a Pre-Wedding Shoot In Goa" loading="lazy" style="width:100%;height:auto;">
+      <img src="<?= base_url('assets/images/goa-mandovi-1.webp') ?>" width="683" height="1024" alt="5 Destinations for a Pre-Wedding Shoot In Goa" loading="lazy" style="width:100%;height:auto;">
+      <img src="<?= base_url('assets/images/goa-mandovi-2.webp') ?>" width="684" height="1024" alt="5 Destinations for a Pre-Wedding Shoot In Goa" loading="lazy" style="width:100%;height:auto;">
     </div>
   </div>
 </section>
@@ -146,11 +146,11 @@
     <div class="section-head">
       <p class="eyebrow" style="margin-bottom:.7rem;">Pro Tips</p>
       <div class="rule-center" style="margin-bottom:1.4rem;"></div>
-      <h4 class="section-title">Tips for a Successful Pre-Wedding Shoot<br><em>in Goa</em></h4>
+      <h2 class="section-title lvl-h4">Tips for a Successful Pre-Wedding Shoot<br><em>in Goa</em></h2>
     </div>
     <div class="feature-row" style="margin-bottom:2rem;">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/goa-tips.webp') ?>" alt="5 Destinations for a Pre-Wedding Shoot In Goa" loading="lazy" style="width:100%;height:auto;">
+        <img src="<?= base_url('assets/images/goa-tips.webp') ?>" width="1024" height="683" alt="5 Destinations for a Pre-Wedding Shoot In Goa" loading="lazy" style="width:100%;height:auto;">
       </div>
       <div>
         <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;margin-bottom:1rem;">It's true that there is incredibly high number of locations in Goa where your pre-wedding photo shoot can go well. But it is equally true that you must have some tips handy before you move to Goa. First, it is important that you plan and gather every bit of information before starting your journey.</p>
@@ -165,7 +165,7 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center" style="margin-bottom:1.4rem;"></div>
-      <h4 class="section-title">Days &amp; Schedule:<br><em>Timing is Everything</em></h4>
+      <h2 class="section-title lvl-h4">Days &amp; Schedule:<br><em>Timing is Everything</em></h2>
       <p class="section-sub">When you're ready to set up your <strong>pre-wedding shoot</strong>, ensure that the schedule is well planned out to get the best use of time for the locations you are visiting. Goa may be a small state, but it has diverse landscapes from beaches and hills to forests and colonial towns. All these mean driving between places takes time.</p>
     </div>
 
@@ -188,7 +188,7 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center" style="margin-bottom:1.4rem;"></div>
-      <h4 class="section-title">Shooting Time:<br><em>Early Mornings &amp; Golden Hours</em></h4>
+      <h2 class="section-title lvl-h4">Shooting Time:<br><em>Early Mornings &amp; Golden Hours</em></h2>
       <p class="section-sub">When you do your shoot is very important when it comes to how good/bad a photo will end up, so pick a daytime that suits your needs. Goa can be quite hot and have harsh sunlight because it's a beach destination, so try not to film during the afternoon when the light is too bright, harsh and just annoying for smooth filming.</p>
     </div>
 
@@ -211,7 +211,7 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center" style="margin-bottom:1.4rem;"></div>
-      <h3 class="section-title">What Dresses<br><em>to Wear?</em></h3>
+      <h2 class="section-title lvl-h3">What Dresses<br><em>to Wear?</em></h2>
       <p class="section-sub">What you wear in your pre-wedding session will greatly contribute to the mood of your pictures. You should dress according to Goa's tropical weather condition, which is hot and has coastal wind. You want to be comfortable, but you also want to look cute and like you didn't just throw yourself together - or clunk along in a way that's totally uncoordinated with your man.</p>
     </div>
 
@@ -238,33 +238,33 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center" style="margin-bottom:1.4rem;"></div>
-      <h3 class="section-title">Charges:<br><em>What to Expect</em></h3>
+      <h2 class="section-title lvl-h3">Charges:<br><em>What to Expect</em></h2>
       <p class="section-sub"><strong>Pre-wedding shoot prices in Goa</strong> are quite expensive and can vary according to the photographer, location and time taken. A One day pre-wedding shoot in India can cost you from <strong>Rs 50,000 to Rs 1,00,000</strong> On average.</p>
     </div>
 
     <div class="grid-2" style="gap:1rem;margin:1.5rem 0;">
-      <img src="<?= base_url('assets/images/goa-story-1.webp') ?>" alt="pratik-and-sonal-goa-story" loading="lazy" style="width:100%;height:auto;">
-      <img src="<?= base_url('assets/images/goa-story-2.webp') ?>" alt="pratik-and-sonal-goa-story" loading="lazy" style="width:100%;height:auto;">
+      <img src="<?= base_url('assets/images/goa-story-1.webp') ?>" width="600" height="900" alt="pratik-and-sonal-goa-story" loading="lazy" style="width:100%;height:auto;">
+      <img src="<?= base_url('assets/images/goa-story-2.webp') ?>" width="560" height="900" alt="pratik-and-sonal-goa-story" loading="lazy" style="width:100%;height:auto;">
     </div>
 
     <div class="section-head" style="margin-top:2rem;">
-      <h4 style="font-family:var(--font-serif);font-size:1.3rem;color:var(--text-primary);margin-bottom:1rem;">Factors Affecting Costs?</h4>
+      <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.3rem;color:var(--text-primary);margin-bottom:1rem;">Factors Affecting Costs?</h3>
     </div>
     <div class="grid-2" style="gap:1.5rem;">
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;"><strong>Experience of the Photographer:</strong></h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;"><strong>Experience of the Photographer:</strong></h3>
         <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">If you hire well-established photographers or pre-wedding shoot photographers, that might cost you more. And so it's always good to get a professional in on the action; they'll know all the best angles, lighting and locations to showcase you in your best light.</p>
       </div>
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;"><strong>Number of Locations:</strong></h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;"><strong>Number of Locations:</strong></h3>
         <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">If you have several places in mind, the cost will be up as transportation, time and permits (if necessary) go on top of the price.</p>
       </div>
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;"><strong>Length of Your Shoot:</strong></h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;"><strong>Length of Your Shoot:</strong></h3>
         <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">A full day (10 hours) has generally been a standard, though that's decreasing as projects get smaller and we're all making sacrifices. Some photographers provide packages of varying numbers of outfits and locations for a fixed price.</p>
       </div>
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;"><strong>Extras:</strong></h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;"><strong>Extras:</strong></h3>
         <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">You might also have to pay for stuff like permits (particularly if it's required for drone shots or shooting at restricted locations), travel (you'll need a local guide and transportation), and makeup and styling services.</p>
       </div>
     </div>
@@ -276,7 +276,7 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center" style="margin-bottom:1.4rem;"></div>
-      <h3 class="section-title">Distance Between Locations:<br><em>Plan Your Travel</em></h3>
+      <h2 class="section-title lvl-h3">Distance Between Locations:<br><em>Plan Your Travel</em></h2>
       <p class="section-sub">Goa is a small state, but it may not seem so if you're hopping between a bunch of different places in one day - factor in how long everything takes to get to where! Popular locations for <strong>pre-wedding shoots</strong> can be more reasonable distances from each other and some careful scheduling is available to you to save time.</p>
     </div>
 
@@ -293,7 +293,7 @@
     </div>
 
     <div style="text-align:center;margin-top:2rem;">
-      <img src="<?= base_url('assets/images/goa-story-3.webp') ?>" alt="pratik-and-sonal-goa-story" loading="lazy" style="width:100%;max-width:600px;height:auto;">
+      <img src="<?= base_url('assets/images/goa-story-3.webp') ?>" width="900" height="600" alt="pratik-and-sonal-goa-story" loading="lazy" style="width:100%;max-width:600px;height:auto;">
     </div>
   </div>
 </section>
@@ -304,19 +304,20 @@
     <div class="section-head">
       <p class="eyebrow" style="margin-bottom:.7rem;">Common Questions</p>
       <div class="rule-center" style="margin-bottom:1.4rem;"></div>
-      <h4 class="section-title">Frequently Asked Questions<br><em>Pre-Wedding Shoot In Goa</em></h4>
+      <h2 class="section-title lvl-h4">Frequently Asked Questions<br><em>Pre-Wedding Shoot In Goa</em></h2>
     </div>
 
     <div class="feature-row" style="margin-bottom:2rem;">
       <div class="feature-img-wrap">
         <div style="display:grid;grid-template-columns:1fr 1fr;gap:.5rem;">
-          <img src="<?= base_url('assets/images/goa-faq-1.webp') ?>" alt="5 Destinations for a Pre-Wedding Shoot In Goa" loading="lazy" style="width:100%;height:auto;">
-          <img src="<?= base_url('assets/images/goa-faq-2.webp') ?>" alt="5 Destinations for a Pre-Wedding Shoot In Goa" loading="lazy" style="width:100%;height:auto;">
+          <img src="<?= base_url('assets/images/goa-faq-1.webp') ?>" width="683" height="1024" alt="5 Destinations for a Pre-Wedding Shoot In Goa" loading="lazy" style="width:100%;height:auto;">
+          <img src="<?= base_url('assets/images/goa-faq-2.webp') ?>" width="683" height="1024" alt="5 Destinations for a Pre-Wedding Shoot In Goa" loading="lazy" style="width:100%;height:auto;">
         </div>
       </div>
       <div>
-        <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;">One regularly asked question is how long the photo session would go. A photo-shoot at Goa provides you enough chances of making them me befitting for a photo shoot. The next curiosity of the people in terms of Goa pre wedding shoot places is the cost they would have to spend. Well, you may get your photo shoot done anywhere between fifty thousand to one lakh rupees for one day at any location here.</p>
-        <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;margin-top:1rem;">If you or anyone has a query regarding which type of clothes wear, you may be easily answered that your wardrobe should be according to the weather here. You don't know if it is going to be sunny on a particular day or not; so be ready with bunch of dressing varieties in your bag. You may sweat a lot around the sea and hence, cotton clothes are best to be at these places. Experts say the couple should prefer for lightweight.</p>
+        <div class="faq-item"><button class="faq-trigger"><span class="faq-q">How long does a pre wedding shoot in Goa take?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Most couples plan one full day. Goa has beaches, rivers, islands and forest ghats, so a day gives you enough time to shoot at a few of them.</p></div></div>
+        <div class="faq-item"><button class="faq-trigger"><span class="faq-q">How much does a pre wedding shoot in Goa cost?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>A one day pre wedding shoot in Goa usually costs between fifty thousand and one lakh rupees.</p></div></div>
+        <div class="faq-item"><button class="faq-trigger"><span class="faq-q">What should we wear for a pre wedding shoot in Goa?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Dress for the weather. It can be sunny one day and cloudy the next, so carry a few outfit options. You may sweat near the sea, so light cotton clothes work best.</p></div></div>
       </div>
     </div>
   </div>

@@ -8,7 +8,7 @@
     <div class="page-hero-content-inner">
       <p class="eyebrow page-hero-eyebrow">Wedding Photography &middot; Lonavala</p>
       <div class="page-hero-rule"></div>
-      <h1>Wedding Photoshoot<br><em>in Lonavala</em></h1>
+      <h1>Wedding Photographers<br><em>in Lonavala</em></h1>
       <p class="page-hero-sub">At The Bridal Photography, we specialize in destination wedding photoshoot in Lonavala and work in exquisite ways by adding creativity, storytelling with a mix of technical skills to maintain your special moments.</p>
       <div class="page-hero-buttons">
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Now</a>
@@ -82,7 +82,7 @@
     <div class="feature-text-block">
       <div>
         <h3 class="article-heading">Candid Emotions and Real Moments</h3>
-        <p class="article-text">We strive to capture real smiles, laughter, happy tears and moments that just happen. Your cherished memories are on nature time and that is special.</p>
+        <p class="article-text">We strive to capture real smiles, laughter, happy tears and moments that just happen. We let your day unfold at its own pace, so your memories stay natural and true.</p>
       </div>
     </div>
 
@@ -152,11 +152,11 @@
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"Every photo tells a story. The team film Lonavala wedding in an incredible way, and we couldn't be happier with the outcome."</p>
-        <h4 class="card-white-title article-heading-gap"><strong>Aditi &amp; Rahul</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>Aditi &amp; Rahul</strong></h3>
       </div>
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"Our wedding film was emotional, cinematic and breathtaking. The Bridal Photography team managed to get every moment of our celebration just right."</p>
-        <h4 class="card-white-title article-heading-gap"><strong>Mohan &amp; Diya</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>Mohan &amp; Diya</strong></h3>
       </div>
     </div>
   </div>
@@ -208,7 +208,7 @@
       <div class="enquire-contact-card">
         <div class="enquire-contact-item"><div class="enquire-contact-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.01-.24 11.36 11.36 0 003.58.57 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.36 11.36 0 00.57 3.58 1 1 0 01-.25 1.01l-2.2 2.2z"/></svg></div><a href="tel:+918390367637" class="enquire-contact-link">+91 8390367637</a></div>
         <div class="enquire-contact-item"><div class="enquire-contact-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg></div><a href="mailto:thebridal11@gmail.com" class="enquire-contact-link">thebridal11@gmail.com</a></div>
-        <p class="enquire-contact-text">Inquiry today by visiting our official website to know more.</p>
+        <p class="enquire-contact-text">Contact us today to book.</p>
         <a href="tel:+918390367637" class="btn btn-gold pkg-card-btn">Book a Free Consultation Call</a>
       </div>
       <div class="enquire-form-card">

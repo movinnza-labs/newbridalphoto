@@ -2,7 +2,7 @@
 <section class="page-hero">
   <div class="page-hero-bg"></div>
   <div class="page-hero-img">
-    <img src="<?= base_url('assets/images/mum-engage-1.webp') ?>" alt="Engagement Photography" width="1920" height="700" loading="eager" fetchpriority="high">
+    <img src="<?= base_url('assets/images/mum-engage-1.webp') ?>" alt="Engaged couple smiling and holding hands in front of floral decor" width="1920" height="700" loading="eager" fetchpriority="high">
   </div>
   <div class="page-hero-content">
     <div class="page-hero-content-inner">
@@ -44,23 +44,23 @@
     </div>
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Creative Direction</h4>
+        <h3 class="card-white-title lvl-h4">Creative Direction</h3>
         <p class="card-white-text">We assist you to plan themes, concepts and styling ideas according to your personality.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Honest Professionalism</h4>
+        <h3 class="card-white-title lvl-h4">Honest Professionalism</h3>
         <p class="card-white-text">Our engagement photographers in Chhatrapati Sambhajinagar are able to take natural expressions and emotions as shown in poses.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Professional Equipment</h4>
+        <h3 class="card-white-title lvl-h4">Professional Equipment</h3>
         <p class="card-white-text">The cameras, lenses, and lighting systems are of high quality that guarantees a perfect outcome.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Seasoned Team</h4>
+        <h3 class="card-white-title lvl-h4">Seasoned Team</h3>
         <p class="card-white-text">We have been in the engagement and wedding field long enough and know when, where, and when to capture.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">On Time Delivery</h4>
+        <h3 class="card-white-title lvl-h4">On Time Delivery</h3>
         <p class="card-white-text">We keep time and deliver well edited photographs in time.</p>
       </div>
     </div>
@@ -124,23 +124,23 @@
     </div>
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Chhatrapati Sambhajinagar</h4>
+        <h3 class="card-white-title lvl-h4">Chhatrapati Sambhajinagar</h3>
         <p class="card-white-text">The city, which was formerly referred to as Aurangabad, provides an excellent cultural and architectural background.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Bibi Ka Maqbara</h4>
+        <h3 class="card-white-title lvl-h4">Bibi Ka Maqbara</h3>
         <p class="card-white-text">This monument is often referred to as the Mini Taj and offers a royal and romantic experience.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Daulatabad Fort</h4>
+        <h3 class="card-white-title lvl-h4">Daulatabad Fort</h3>
         <p class="card-white-text">A grand castle with theatrical architecture and sweeping scenery - ideal scenery to shoot boldly and cinematically.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Ellora Caves</h4>
+        <h3 class="card-white-title lvl-h4">Ellora Caves</h3>
         <p class="card-white-text">A UNESCO world heritage site that has spectacular old carvings and artistic scenery.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Siddharth Garden and Zoo</h4>
+        <h3 class="card-white-title lvl-h4">Siddharth Garden and Zoo</h3>
         <p class="card-white-text">Perfectly suited to nature lovers who want to find green vegetation and outdoor comfort.</p>
       </div>
     </div>
@@ -183,23 +183,23 @@
     </div>
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Consultation</h4>
+        <h3 class="card-white-title lvl-h4">Consultation</h3>
         <p class="card-white-text">We know your story, tastes and expectations.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Concept Planning</h4>
+        <h3 class="card-white-title lvl-h4">Concept Planning</h3>
         <p class="card-white-text">We assist in finalizing themes, outfits and location ideas.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Shoot Day Management</h4>
+        <h3 class="card-white-title lvl-h4">Shoot Day Management</h3>
         <p class="card-white-text">The team takes you through poses and makes the session enjoyable and stress-free.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Post-Production</h4>
+        <h3 class="card-white-title lvl-h4">Post-Production</h3>
         <p class="card-white-text">The professional editing and creative additions make sure that the results are polished.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Delivery</h4>
+        <h3 class="card-white-title lvl-h4">Delivery</h3>
         <p class="card-white-text">On time distribution of final images and videos.</p>
       </div>
     </div>
@@ -216,24 +216,24 @@
       <p class="eyebrow section-head-eyebrow">Packages</p>
       <div class="rule-center section-head-rule"></div>
       <h2 class="section-title">Packages<br><em>and Pricing</em></h2>
-      <p class="section-sub">We have engagement photographers in Chhatrapati Sambhajinagar packages that are flexible and can fit various budgets and needs:</p>
+      <p class="section-sub">Packages start from Rs 7,000. Our engagement packages in Chhatrapati Sambhajinagar are flexible and fit different budgets and needs:</p>
     </div>
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Basic Package</h4>
+        <h3 class="card-white-title lvl-h4">Basic Package</h3>
         <p class="card-white-text">2-3 hour shoot</p>
         <p class="card-white-text">Single location</p>
         <p class="card-white-text">25-30 edited images</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Premium Package</h4>
+        <h3 class="card-white-title lvl-h4">Premium Package</h3>
         <p class="card-white-text">4-5 hour shoot</p>
         <p class="card-white-text">Multiple locations</p>
         <p class="card-white-text">50+ edited images</p>
         <p class="card-white-text">Engagement highlight video</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Luxury Package</h4>
+        <h3 class="card-white-title lvl-h4">Luxury Package</h3>
         <p class="card-white-text">Full-day shoot</p>
         <p class="card-white-text">Multiple outfits &amp; locations</p>
         <p class="card-white-text">70+ edited images</p>
@@ -258,23 +258,23 @@
     </div>
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Don't match, coordinate:</h4>
+        <h3 class="card-white-title lvl-h4">Don't match, coordinate:</h3>
         <p class="card-white-text">Select different colors rather than the same outfits.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">First, comfort:</h4>
+        <h3 class="card-white-title lvl-h4">First, comfort:</h3>
         <p class="card-white-text">Put on clothes that you are comfortable with.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Soft pastels and neutrals:</h4>
+        <h3 class="card-white-title lvl-h4">Soft pastels and neutrals:</h3>
         <p class="card-white-text">These are very beautiful in natural light.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Few accessories:</h4>
+        <h3 class="card-white-title lvl-h4">Few accessories:</h3>
         <p class="card-white-text">Continue to style classy and harmonious.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Natural movements:</h4>
+        <h3 class="card-white-title lvl-h4">Natural movements:</h3>
         <p class="card-white-text">Walk hand-in-hand, laugh, talk - candid moments make magic.</p>
       </div>
     </div>
@@ -305,15 +305,15 @@
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"Our engagement shoot was amazing! The crew members were so welcoming, and the shots were enchanted."</p>
-        <h4 class="card-white-title article-heading-gap"><strong>Manisha &amp; Dinesh</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>Manisha &amp; Dinesh</strong></h3>
       </div>
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"Professional, creative, and friendly. Our interaction movie was surpassing anticipations."</p>
-        <h4 class="card-white-title article-heading-gap"><strong>Pawan &amp; Nidhi</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>Pawan &amp; Nidhi</strong></h3>
       </div>
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"The Bridal Photography was a perfect match of our chemistry. Very much recommended in Chhatrapati Sambhajinagar! The Bridal Photography team helped turn our love story into a work of art."</p>
-        <h4 class="card-white-title article-heading-gap"><strong>Pawan &amp; Anusha</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>Pawan &amp; Anusha</strong></h3>
       </div>
     </div>
   </div>
@@ -364,7 +364,7 @@
       <div class="enquire-contact-card">
         <div class="enquire-contact-item"><div class="enquire-contact-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.01-.24 11.36 11.36 0 003.58.57 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.36 11.36 0 00.57 3.58 1 1 0 01-.25 1.01l-2.2 2.2z"/></svg></div><a href="tel:+918390367637" class="enquire-contact-link">+91 8390367637</a></div>
         <div class="enquire-contact-item"><div class="enquire-contact-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg></div><a href="mailto:thebridal11@gmail.com" class="enquire-contact-link">thebridal11@gmail.com</a></div>
-        <p class="enquire-contact-text">Inquiry today by visiting our official website to know more.</p>
+        <p class="enquire-contact-text">Contact us today to book.</p>
         <a href="tel:+918390367637" class="btn btn-gold pkg-card-btn">Book a Free Consultation Call</a>
       </div>
       <div class="enquire-form-card">

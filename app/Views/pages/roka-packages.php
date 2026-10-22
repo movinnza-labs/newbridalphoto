@@ -10,7 +10,7 @@
     <div class="page-hero-content-inner">
       <p class="eyebrow page-hero-eyebrow">Roka &amp; Ring Ceremony Photography &middot; Pune</p>
       <div class="page-hero-rule"></div>
-      <h1>Roka Ceremony shoot | Ring ceremony shoot<br><em>in Pune</em></h1>
+      <h1>Roka and Ring Ceremony Photography<br><em>in Pune</em></h1>
       <p class="page-hero-sub">Professional Roka Ceremony photoshoot to capture your special moments. Pune's top Roka ceremony Photography Team. Reserve today.</p>
       <div class="page-hero-buttons">
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Now</a>
@@ -27,8 +27,11 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
+      <h2 class="section-title">What Happens at a<br><em>Roka Ceremony?</em></h2>
       <p class="section-sub">The Roka ceremony, also known as the 'ring ceremony' or 'engagement ceremony,' is a traditional Indian prewedding ritual that marks the official beginning of a couple's journey towards marriage. It is a sacred and auspicious occasion that symbolizes the formal acceptance of the relationship by both families.</p>
       <p class="section-sub section-sub-gap">At its core, the Roka ceremony is a symbolic exchange of rings or other tokens between the bride and groom, signifying their commitment to one another. This exchange is typically accompanied by the recitation of sacred mantras and the performance of rituals that seek blessings from the divine for a prosperous and fulfilling married life.</p>
+      <p class="section-sub section-sub-gap">On the day, the two families meet, often at one family's home or at a small venue. Elders bless the couple, gifts and sweets are exchanged between the families, and in many families the couple also exchange rings. It usually ends with a meal that both families share.</p>
+      <p class="section-sub section-sub-gap">We photograph the whole event: the families arriving and greeting each other, the decor, the rituals and blessings, the ring exchange, candid moments with guests, and posed portraits of the couple and both families.</p>
       <p class="section-sub section-sub-gap">While the specific rituals and customs associated with the Roka ceremony may vary across different regions and communities, some common elements include:</p>
     </div>
   </div>
@@ -49,7 +52,7 @@
         <p class="article-text">Close family members and friends are invited to witness and participate in the ceremony, creating a sense of community and shared joy.</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/roka-001.webp') ?>" alt="Roka Ceremony" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/roka-001.webp') ?>" width="1024" height="683" alt="Couple standing beside a floral welcome sign at their Roka ceremony in Pune" loading="lazy" class="feature-img-full">
       </div>
     </div>
 
@@ -61,7 +64,7 @@
         <p class="article-text">Offerings are made to deities, seeking their blessings and protection for the couple's future.</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/roka-01.webp') ?>" alt="Roka Ceremony" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/roka-01.webp') ?>" width="1024" height="731" alt="Floral welcome sign and flower vases at the entrance of a Roka ceremony venue" loading="lazy" class="feature-img-full">
       </div>
     </div>
 
@@ -73,7 +76,7 @@
         <p class="article-text">Sacred mantras are chanted, and elders from both families bestow their blessings upon the couple, wishing them a lifetime of happiness and prosperity.</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/roka-02.webp') ?>" alt="Roka Ceremony" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/roka-02.webp') ?>" width="1024" height="683" alt="Couple posing in front of a flower wall backdrop at their Roka ceremony" loading="lazy" class="feature-img-full">
       </div>
     </div>
 
@@ -84,7 +87,7 @@
         <p class="article-text article-text-gap">The Roka ceremony is not just a mere tradition; it is a cherished and deeply meaningful event that sets the stage for the couple's journey towards marriage. It is a time for families to come together, share in the joy, and celebrate the union of two souls embarking on a new chapter of life together.</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/roka-09.webp') ?>" alt="Roka Ceremony" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/roka-09.webp') ?>" width="1024" height="683" alt="Couple relaxing on a rug together during the Roka celebration" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>
@@ -95,34 +98,34 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h4 class="section-title">The Importance of Roka Ceremony<br><em>Photography</em></h4>
+      <h2 class="section-title lvl-h4">The Importance of Roka Ceremony<br><em>Photography</em></h2>
     </div>
 
     <p class="article-text">The Roka ceremony marks the official beginning of a couple's journey towards marriage in Indian culture. This auspicious occasion is a cherished moment that deserves to be captured and preserved through the art of photography. Roka ceremony photography holds immense significance as it allows couples and their families to relive the joy, emotions, and traditions that unfold during this pre-wedding event.</p>
 
-    <h5 class="article-heading-sm">Preserving Precious Moments:</h5>
+    <h3 class="article-heading-sm lvl-h5">Preserving Precious Moments:</h3>
     <p class="article-text">The Roka ceremony is a whirlwind of emotions, from the excitement of the couple to the pride and happiness of their families. Professional photography ensures that these fleeting moments are frozen in time, allowing you to savor the memories for years to come. Each candid smile, embrace, and ritual is captured, creating a visual narrative that encapsulates the essence of this special day.</p>
 
     <div class="feature-row feature-row-natural">
       <div>
-        <h5 class="article-heading-sm">Capturing Emotions:</h5>
+        <h3 class="article-heading-sm lvl-h5">Capturing Emotions:</h3>
         <p class="article-text">The Roka ceremony is a deeply emotional occasion, with a blend of joy, nervousness, and anticipation. A skilled photographer has the ability to capture the raw emotions and genuine expressions of the couple and their loved ones. These candid shots are priceless, as they authentically portray the feelings that words often fail to express.</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/roka-08.webp') ?>" alt="Roka Ceremony" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/roka-08.webp') ?>" width="1024" height="683" alt="Couple sitting on the floor and smiling at each other after the Roka ceremony" loading="lazy" class="feature-img-full">
       </div>
     </div>
 
-    <h5 class="article-heading-sm article-heading-gap">Creating Lasting Memories:</h5>
+    <h3 class="article-heading-sm article-heading-gap lvl-h5">Creating Lasting Memories:</h3>
     <p class="article-text">As the years pass, memories can fade, but photographs remain as tangible reminders of the cherished moments. Roka ceremony photography creates a visual legacy that can be passed down through generations, allowing future family members to witness and appreciate the rich cultural traditions and the love that brought the couple together.</p>
 
-    <h6 class="article-heading-sm">Significance in Indian Culture:</h6>
+    <h4 class="article-heading-sm lvl-h6">Significance in Indian Culture:</h4>
     <p class="article-text">The Roka ceremony holds profound cultural and traditional significance in Indian society. It is a symbolic representation of the union between two families and the beginning of a new chapter in the couple's life. Professional photography not only captures the rituals and customs but also preserves the essence of this deeply rooted tradition for future generations.</p>
     <p class="article-text section-sub-gap">By investing in professional Roka ceremony photography, couples and their families can immortalize the magic of this momentous occasion, ensuring that the memories remain vivid and cherished for a lifetime.</p>
 
     <div class="grid-2 grid-gap roka-grid-uniform">
-      <img src="<?= base_url('assets/images/roka-07.webp') ?>" alt="Roka Ceremony" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/roka-11.webp') ?>" alt="Roka Ceremony" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/roka-07.webp') ?>" width="731" height="1024" alt="Bride in a red embroidered suit standing with the groom in a navy kurta at the Roka" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/roka-11.webp') ?>" width="683" height="1024" alt="Couple sitting close together on a patterned carpet with flowers behind them" loading="lazy" class="feature-img-full">
     </div>
   </div>
 </section>
@@ -149,7 +152,7 @@
         <p class="article-text article-text-gap">By carefully considering these factors, you can find a photographer who not only captures stunning visuals but also understands the significance of the Roka ceremony, ensuring that your pre-engagement memories are preserved with utmost care and artistry.</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/roka-03.webp') ?>" alt="Roka Ceremony" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/roka-03.webp') ?>" width="1024" height="683" alt="Couple standing in front of a green floral backdrop at a Roka ceremony in Pune" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>
@@ -160,7 +163,7 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h3 class="section-title">Preparing for the Roka<br><em>Ceremony Shoot</em></h3>
+      <h2 class="section-title lvl-h3">Preparing for the Roka<br><em>Ceremony Shoot</em></h2>
       <p class="section-sub">Proper preparation is key to capturing stunning Roka ceremony photographs. Here are some essential elements to consider:</p>
     </div>
 
@@ -189,37 +192,37 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h4 class="section-title">Candid vs.<br><em>Posed Shots</em></h4>
+      <h2 class="section-title lvl-h4">Candid vs.<br><em>Posed Shots</em></h2>
       <p class="section-sub">When it comes to capturing the essence of a Roka ceremony, both candid and posed shots play crucial roles in creating a well-rounded collection of memories. Each style offers unique advantages and disadvantages, and combining them can result in a truly comprehensive visual narrative.</p>
     </div>
 
     <div class="grid-3 grid-gap roka-grid-uniform">
-      <img src="<?= base_url('assets/images/roka-13.webp') ?>" alt="Roka Ceremony" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/roka-10.webp') ?>" alt="Roka Ceremony" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/roka-09.webp') ?>" alt="Roka Ceremony" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/roka-13.webp') ?>" width="683" height="1024" alt="Candid photo of the couple laughing together as they sit on a carpet" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/roka-10.webp') ?>" width="1024" height="683" alt="Groom leaning towards the bride as they sit on a rug, candid Roka ceremony photo" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/roka-09.webp') ?>" width="1024" height="683" alt="Candid moment of the groom resting his head close to the bride at their Roka" loading="lazy" class="feature-img-full">
     </div>
 
-    <h4 class="article-heading article-heading-gap">Candid Shots:</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Candid Shots:</h3>
     <p class="article-text">Candid photography allows the photographer to capture genuine, unscripted moments as they unfold naturally. These shots often convey raw emotions, spontaneity, and authenticity, freezing in time the laughter, tears, and heartfelt interactions between the couple and their loved ones. Candid shots are particularly effective in capturing the atmosphere, ambiance, and energy of the event, providing a sense of being there in the moment.</p>
     <p class="article-text article-text-gap">However, candid photography can be challenging, as it requires the photographer to be constantly alert, anticipating and reacting quickly to fleeting moments. Additionally, some candid shots may not be as visually polished or composed as posed shots, potentially sacrificing technical perfection for authenticity.</p>
 
-    <h4 class="article-heading article-heading-gap">Posed Shots:</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Posed Shots:</h3>
     <p class="article-text">Posed shots, on the other hand, offer a more controlled and curated approach to photography. These shots are carefully composed and staged, allowing the photographer to capture the couple and their families in a flattering light, with perfect framing, lighting, and expressions. Posed shots are often used for traditional portraits, group shots, and specific cultural rituals or ceremonies.</p>
     <p class="article-text article-text-gap">The advantage of posed shots is their ability to create visually stunning and timeless images that can be treasured for generations. However, they may lack the spontaneity and candid emotions captured in unscripted moments, potentially feeling too staged or contrived.</p>
 
     <div class="grid-2 grid-gap roka-grid-uniform">
-      <img src="<?= base_url('assets/images/roka-15.webp') ?>" alt="Roka Ceremony" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/roka-16.webp') ?>" alt="Roka Ceremony" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/roka-15.webp') ?>" width="683" height="1024" alt="Bride in a red suit holding roses in a solo portrait at her Roka ceremony" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/roka-16.webp') ?>" width="683" height="1024" alt="Groom holding the bride from behind in a posed Roka ceremony portrait" loading="lazy" class="feature-img-full">
     </div>
 
     <div class="feature-row feature-row-natural">
       <div>
-        <h5 class="article-heading">Combining the Best of Both Worlds:</h5>
+        <h4 class="article-heading lvl-h5">Combining the Best of Both Worlds:</h4>
         <p class="article-text">The true magic lies in skillfully blending candid and posed shots to create a comprehensive visual narrative of the Roka ceremony. A skilled photographer will seamlessly transition between capturing candid moments and guiding the couple and their families into posed shots, ensuring a diverse collection of images that tell the complete story.</p>
         <p class="article-text article-text-gap">Candid shots will capture the raw emotions, laughter, and intimate moments, while posed shots will provide timeless portraits and traditional shots that can be cherished for years to come. By combining these styles, the photographer can create a well-rounded collection that not only preserves the memories but also showcases the beauty, traditions, and emotions of this significant occasion.</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/roka-14.webp') ?>" alt="Roka Ceremony" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/roka-14.webp') ?>" width="1600" height="2400" alt="Couple seated together on a carpet in a posed portrait at their Roka ceremony" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>
@@ -230,7 +233,7 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h5 class="section-title">Traditional and Contemporary<br><em>Styles</em></h5>
+      <h2 class="section-title lvl-h5">Traditional and Contemporary<br><em>Styles</em></h2>
     </div>
 
     <div class="feature-row reverse feature-row-natural">
@@ -242,7 +245,7 @@
         <p class="article-text article-text-gap">Ultimately, the key to achieving a unique and memorable Roka ceremony shoot is to collaborate with a photographer who understands your vision and can skillfully blend traditional and contemporary elements to create a cohesive and personalized experience. With their artistic expertise and your input, you can craft a visual narrative that truly reflects your love story and the significance of this cherished occasion.</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/roka-18.webp') ?>" alt="Roka Ceremony" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/roka-18.webp') ?>" width="683" height="1024" alt="Smiling couple holding hands in a posed portrait at their Roka ceremony" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>
@@ -274,7 +277,7 @@
       <p class="article-text"><strong>Peak Season:</strong> Like many other services, photography rates may be higher during peak wedding seasons or popular dates, as demand is higher.</p>
     </div>
 
-    <h4 class="article-heading article-heading-gap">Tips for Budgeting</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Tips for Budgeting</h3>
     <div class="article-content-block">
       <p class="article-text"><strong>Prioritize Quality over Cost:</strong> While it's important to stay within your budget, remember that Roka ceremony photography is an investment in preserving precious memories. Consider allocating a reasonable portion of your overall budget to ensure high-quality results.</p>
     </div>
@@ -288,7 +291,7 @@
       <p class="article-text"><strong>Consider Off-Peak Dates:</strong> If your Roka ceremony is scheduled during an off-peak season or on a weekday, you may be able to negotiate more favorable rates.</p>
     </div>
 
-    <h5 class="article-heading article-heading-gap">Getting Value for Money</h5>
+    <h3 class="article-heading article-heading-gap lvl-h5">Getting Value for Money</h3>
     <p class="article-text">When it comes to Roka ceremony photography, it's essential to strike a balance between cost and quality. Look for photographers who not only fit your budget but also have a style and approach that resonates with you. Review their portfolios, read reviews, and discuss their approach to ensure you're getting value for your investment. Remember, these photographs will be cherished for generations, making it worthwhile to invest in a skilled professional who can capture the essence of your special day.</p>
   </div>
 </section>
@@ -298,13 +301,28 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h6 class="section-title">Preserving Memories<br><em>for a Lifetime</em></h6>
+      <h2 class="section-title lvl-h6">Preserving Memories<br><em>for a Lifetime</em></h2>
     </div>
 
     <p class="article-text">Photographs have an unparalleled ability to freeze fleeting moments in time, preserving them for generations to come. The Roka ceremony marks a significant milestone in a couple's journey, a moment when two families come together to celebrate their union. These cherished memories deserve to be captured with utmost care and artistry, creating heirlooms that will be treasured for a lifetime.</p>
     <p class="article-text article-text-gap">The emotional value of Roka ceremony photographs cannot be overstated. They serve as a tangible reminder of the love, joy, and anticipation that filled the air on that special day. Years from now, when the couple looks back at these images, they will be transported back to the very moment when their journey towards a lifelong commitment began. The laughter, the embraces, and the radiant smiles will come alive, evoking the same warmth and happiness that was felt on that day.</p>
     <p class="article-text article-text-gap">Moreover, these photographs hold immense significance for future generations. Children and grandchildren will have the opportunity to witness the beginnings of their family's story, gaining a deeper appreciation for their roots and the love that brought their parents or grandparents together. These visual narratives become a legacy, passed down from one generation to the next, fostering a sense of connection and continuity.</p>
-    <p class="article-text article-text-gap">In a world where moments pass by in the blink of an eye, the art of capturing them through photography becomes increasingly invaluable. Roka ceremony photographs are not mere images; they are windows into the past, <a href="<?= base_url('/contact/') ?>" class="article-link">contact us</a> to relive cherished moments and celebrate the enduring bond of love that brought two families together.</p>
+    <p class="article-text article-text-gap">In a world where moments pass by in the blink of an eye, the art of capturing them through photography becomes increasingly invaluable. Roka ceremony photographs are not mere images; they are windows into the past that let you relive cherished moments and the bond of love that brought two families together. <a href="<?= base_url('/contact/') ?>" class="article-link">Contact us</a> to book photography for your Roka ceremony.</p>
+  </div>
+</section>
+
+<!-- FAQs -->
+<section class="section section-off">
+  <div class="container-sm">
+    <div class="section-head">
+      <p class="eyebrow section-head-eyebrow">Common Questions</p>
+      <div class="rule-center section-head-rule"></div>
+      <h2 class="section-title">Frequently Asked <em>Questions</em></h2>
+    </div>
+    <div class="faq-item"><button class="faq-trigger"><span class="faq-q">How much does Roka ceremony photography cost in Pune?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Roka ceremony photography in Pune usually costs from Rs 10,000 to Rs 30,000 or more. The price depends on the hours of coverage and on extras such as videography or an album. Call us for a quote for your event.</p></div></div>
+    <div class="faq-item"><button class="faq-trigger"><span class="faq-q">What do you photograph at a Roka ceremony?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>We cover the decor, the rituals, the blessings from elders, the exchange of rings or gifts, candid moments with guests, and posed portraits of the couple and both families.</p></div></div>
+    <div class="faq-item"><button class="faq-trigger"><span class="faq-q">Do you take candid or posed photos?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Both. Candid photos capture the real emotions of the day, and posed photos give you traditional portraits and family group shots. We mix the two so you get the complete story.</p></div></div>
+    <div class="faq-item"><button class="faq-trigger"><span class="faq-q">How do I book a Roka ceremony shoot?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Call us on <a href="tel:+918390367637" class="article-link">+91 83903 67637</a>, message us on WhatsApp or use our <a href="<?= base_url('/contact/') ?>" class="article-link">contact form</a>. Share your date, venue and the coverage you need, and we will confirm availability.</p></div></div>
   </div>
 </section>
 

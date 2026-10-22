@@ -10,8 +10,9 @@
     <div class="page-hero-content-inner">
       <p class="eyebrow page-hero-eyebrow">Maternity Photography &middot; Pune</p>
       <div class="page-hero-rule"></div>
-      <h1>Maternity Photoshoot in Pune:<br><em>Cherishing the Beauty of Your Pregnancy</em></h1>
+      <h1>Maternity Photographer<br><em>in Pune</em></h1>
       <p class="page-hero-sub">Welcome to The Bridal Photography, where we celebrate the beautiful journey of motherhood with our bespoke maternity photoshoots in Pune.</p>
+      <p class="page-hero-sub" style="margin-top:.4rem;"><strong>Starting from &#8377;6,000</strong></p>
       <div class="page-hero-buttons">
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Now</a>
         <a href="tel:+918390367637" class="btn btn-white">+91 83903 67637</a>
@@ -39,107 +40,13 @@
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
       <h2 class="section-title">Capturing the Radiance of Maternity:<br><em>A Timeless Celebration</em></h2>
-      <p class="section-sub">Welcome to The Bridal Photography, where we celebrate the beautiful journey of motherhood with our bespoke maternity photoshoots in Pune. Our dedicated team of <strong>maternity photographer pune</strong> captures the grace and joy of your pregnancy, creating timeless images that you will treasure forever.</p>
-    </div>
-  </div>
-</section>
-
-<!-- Celebrate your pregnancy -->
-<section class="section section-off">
-  <div class="container">
-    <div class="section-head">
-      <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Celebrate your pregnancy<br><em>with us!</em></h2>
-      <p class="section-sub">Women of all ages agree that their first pregnancies are some of the most special and memorable things ever happening to them. Many people want to take pictures or videos of their pregnancies so they can look back on this once-in-a-lifetime event whenever they want. Pregnancy is a big event in your and your family's lives, and pictures of it are the best way to remember and cherish it. Even though it's just starting to catch on in India, maternity photography is becoming increasingly popular.</p>
-    </div>
-  </div>
-</section>
-
-<!-- Overview -->
-<section class="section section-white">
-  <div class="container">
-    <div class="section-head">
-      <p class="eyebrow section-head-eyebrow">About</p>
-      <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Overview of<br><em>Maternity Photoshoot</em></h2>
-      <p class="section-sub">Maternity photo shoot pune can be called a work of art, and our goal is to create the most beautiful artwork for you. Therefore, our goal is to make the process as efficient, stress-free, and pleasant as possible so that you would look glowing. Our approach offers a number of methods, including traditional and formal to modern and artistic based on your choices. Our main emphasis is on the portrayal of pregnancy and the connection between you and your baby to get photos which will be treasured.</p>
-    </div>
-  </div>
-</section>
-
-<!-- Our Services -->
-<section class="section section-off">
-  <div class="container">
-    <div class="section-head">
-      <p class="eyebrow section-head-eyebrow">What We Offer</p>
-      <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Our<br><em>Services</em></h2>
-    </div>
-
-    <div class="grid-3 grid-gap">
-      <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Personalized Photoshoots</strong></h4>
-        <p class="card-white-text">Individual appointments with you to ensure you get what you envision and desire.</p>
-      </div>
-      <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>On-Location Shoots</strong></h4>
-        <p class="card-white-text">This means that we go to the agreed place, be it your house, a studio, or any chosen outdoor area.</p>
-      </div>
-      <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Professional Editing</strong></h4>
-        <p class="card-white-text">Sophisticated editing for your photos to look professional and enhanced.</p>
-      </div>
-      <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Photo Albums and Prints</strong></h4>
-        <p class="card-white-text">Choice of elegant covers and archival quality prints at resolution.</p>
-      </div>
-      <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Maternity Wardrobe and Props</strong></h4>
-        <p class="card-white-text">For your maternity portrait, we have different dresses and props to make your shoot more interesting.</p>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- Creating Lasting Memories -->
-<section class="section section-white">
-  <div class="container">
-    <div class="section-head">
-      <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Creating Lasting<br><em>Memories</em></h2>
-      <p class="section-sub">At The Bridal Photography, <strong>Maternity Photography Services in Pune,</strong> we know pregnant women must deal with mental and physical challenges. So, we go out of our way to ensure our pregnant clients are comfortable and at ease during their photo sessions. This way, we can capture the joy and magic of their pregnancies in all their glory. Through our photos, we try to tell the unique story of each expecting couple and show their special bond as they prepare to become parents.</p>
-    </div>
-  </div>
-</section>
-
-<!-- Facilities -->
-<section class="section section-off">
-  <div class="container">
-    <div class="section-head">
-      <p class="eyebrow section-head-eyebrow">Our Setup</p>
-      <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title"><em>Facilities</em></h2>
-    </div>
-
-    <div class="grid-3 grid-gap">
-      <div class="card-white card-white-padded-sm">
-        <h3 class="card-white-title">Advanced Equipment</h3>
-        <p class="card-white-text">High-quality cameras and expensive equipment for obtaining high-quality images.</p>
-      </div>
-      <div class="card-white card-white-padded-sm">
-        <h3 class="card-white-title">Skilled Photographers</h3>
-        <p class="card-white-text">Professionals who are certainly apt in most forms of photography.</p>
-      </div>
-      <div class="card-white card-white-padded-sm">
-        <h3 class="card-white-title">Flexible Scheduling</h3>
-        <p class="card-white-text">Flexibility of timing depends on the time preferred by the clients.</p>
-      </div>
+      <p class="section-sub">Our dedicated team of <strong>maternity photographer pune</strong> captures the grace and joy of your pregnancy, creating timeless images that you will treasure forever.</p>
     </div>
   </div>
 </section>
 
 <!-- Photography Packages -->
-<section class="section section-white">
+<section class="section section-off">
   <div class="container">
     <div class="section-head">
       <p class="eyebrow section-head-eyebrow">Transparent Pricing</p>
@@ -194,6 +101,100 @@
   </div>
 </section>
 
+<!-- Celebrate your pregnancy -->
+<section class="section section-white">
+  <div class="container">
+    <div class="section-head">
+      <div class="rule-center section-head-rule"></div>
+      <h2 class="section-title">Celebrate your pregnancy<br><em>with us!</em></h2>
+      <p class="section-sub">Women of all ages agree that their first pregnancies are some of the most special and memorable things ever happening to them. Many people want to take pictures or videos of their pregnancies so they can look back on this once-in-a-lifetime event whenever they want. Pregnancy is a big event in your and your family's lives, and pictures of it are the best way to remember and cherish it. Even though it's just starting to catch on in India, maternity photography is becoming increasingly popular.</p>
+    </div>
+  </div>
+</section>
+
+<!-- Overview -->
+<section class="section section-off">
+  <div class="container">
+    <div class="section-head">
+      <p class="eyebrow section-head-eyebrow">About</p>
+      <div class="rule-center section-head-rule"></div>
+      <h2 class="section-title">Overview of<br><em>Maternity Photoshoot</em></h2>
+      <p class="section-sub">Maternity photo shoot pune can be called a work of art, and our goal is to create the most beautiful artwork for you. Therefore, our goal is to make the process as efficient, stress-free, and pleasant as possible so that you would look glowing. Our approach offers a number of methods, including traditional and formal to modern and artistic based on your choices. Our main emphasis is on the portrayal of pregnancy and the connection between you and your baby to get photos which will be treasured.</p>
+    </div>
+  </div>
+</section>
+
+<!-- Our Services -->
+<section class="section section-white">
+  <div class="container">
+    <div class="section-head">
+      <p class="eyebrow section-head-eyebrow">What We Offer</p>
+      <div class="rule-center section-head-rule"></div>
+      <h2 class="section-title">Our<br><em>Services</em></h2>
+    </div>
+
+    <div class="grid-3 grid-gap">
+      <div class="card-white card-white-padded-sm">
+        <h3 class="card-white-title lvl-h4"><strong>Personalized Photoshoots</strong></h3>
+        <p class="card-white-text">Individual appointments with you to ensure you get what you envision and desire.</p>
+      </div>
+      <div class="card-white card-white-padded-sm">
+        <h3 class="card-white-title lvl-h4"><strong>On-Location Shoots</strong></h3>
+        <p class="card-white-text">This means that we go to the agreed place, be it your house, a studio, or any chosen outdoor area.</p>
+      </div>
+      <div class="card-white card-white-padded-sm">
+        <h3 class="card-white-title lvl-h4"><strong>Professional Editing</strong></h3>
+        <p class="card-white-text">Sophisticated editing for your photos to look professional and enhanced.</p>
+      </div>
+      <div class="card-white card-white-padded-sm">
+        <h3 class="card-white-title lvl-h4"><strong>Photo Albums and Prints</strong></h3>
+        <p class="card-white-text">Choice of elegant covers and archival quality prints at resolution.</p>
+      </div>
+      <div class="card-white card-white-padded-sm">
+        <h3 class="card-white-title lvl-h4"><strong>Maternity Wardrobe and Props</strong></h3>
+        <p class="card-white-text">For your maternity portrait, we have different dresses and props to make your shoot more interesting.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Creating Lasting Memories -->
+<section class="section section-off">
+  <div class="container">
+    <div class="section-head">
+      <div class="rule-center section-head-rule"></div>
+      <h2 class="section-title">Creating Lasting<br><em>Memories</em></h2>
+      <p class="section-sub">At The Bridal Photography, <strong>Maternity Photography Services in Pune,</strong> we know pregnant women must deal with mental and physical challenges. So, we go out of our way to ensure our pregnant clients are comfortable and at ease during their photo sessions. This way, we can capture the joy and magic of their pregnancies in all their glory. Through our photos, we try to tell the unique story of each expecting couple and show their special bond as they prepare to become parents.</p>
+    </div>
+  </div>
+</section>
+
+<!-- Facilities -->
+<section class="section section-white">
+  <div class="container">
+    <div class="section-head">
+      <p class="eyebrow section-head-eyebrow">Our Setup</p>
+      <div class="rule-center section-head-rule"></div>
+      <h2 class="section-title"><em>Facilities</em></h2>
+    </div>
+
+    <div class="grid-3 grid-gap">
+      <div class="card-white card-white-padded-sm">
+        <h3 class="card-white-title">Advanced Equipment</h3>
+        <p class="card-white-text">High-quality cameras and expensive equipment for obtaining high-quality images.</p>
+      </div>
+      <div class="card-white card-white-padded-sm">
+        <h3 class="card-white-title">Skilled Photographers</h3>
+        <p class="card-white-text">Professionals who are certainly apt in most forms of photography.</p>
+      </div>
+      <div class="card-white card-white-padded-sm">
+        <h3 class="card-white-title">Flexible Scheduling</h3>
+        <p class="card-white-text">Flexibility of timing depends on the time preferred by the clients.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
 <!-- Best Photographs / Gallery -->
 <section class="section section-off">
   <div class="container">
@@ -204,14 +205,14 @@
     </div>
 
     <div class="maternity-gallery">
-      <img src="<?= base_url('assets/images/maternity-portrait.webp') ?>" alt="Maternity portrait photoshoot in Pune" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/maternity-outdoor.webp') ?>" alt="Outdoor maternity photoshoot in Pune" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/maternity-picnic.webp') ?>" alt="Picnic theme maternity photoshoot in Pune" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/maternity-park-walk.webp') ?>" alt="Couple walking in a park, maternity photoshoot in Pune" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/maternity-candid.webp') ?>" alt="Candid maternity photoshoot in Pune" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/maternity-creative.webp') ?>" alt="Creative maternity photoshoot pose in Pune" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/maternity-elegant.webp') ?>" alt="Elegant gown maternity photoshoot in Pune" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/maternity-family.webp') ?>" alt="Family maternity photoshoot in Pune" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/maternity-portrait.webp') ?>" width="1363" height="2048" alt="Maternity portrait photoshoot in Pune" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/maternity-outdoor.webp') ?>" width="1363" height="2048" alt="Outdoor maternity photoshoot in Pune" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/maternity-picnic.webp') ?>" width="1363" height="2048" alt="Picnic theme maternity photoshoot in Pune" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/maternity-park-walk.webp') ?>" width="1363" height="2048" alt="Couple walking in a park, maternity photoshoot in Pune" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/maternity-candid.webp') ?>" width="1363" height="2048" alt="Candid maternity photoshoot in Pune" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/maternity-creative.webp') ?>" width="1363" height="2048" alt="Creative maternity photoshoot pose in Pune" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/maternity-elegant.webp') ?>" width="1363" height="2048" alt="Elegant gown maternity photoshoot in Pune" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/maternity-family.webp') ?>" width="1363" height="2048" alt="Family maternity photoshoot in Pune" loading="lazy" class="maternity-gallery-img">
     </div>
   </div>
 </section>
@@ -227,19 +228,19 @@
 
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Your Home</h4>
+        <h3 class="card-white-title lvl-h4">Your Home</h3>
         <p class="card-white-text">For a comfortable and personal setting.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Professional Studio</h4>
+        <h3 class="card-white-title lvl-h4">Professional Studio</h3>
         <p class="card-white-text">Offering a controlled environment with various backdrops.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Outdoor Locations</h4>
+        <h3 class="card-white-title lvl-h4">Outdoor Locations</h3>
         <p class="card-white-text">Parks, gardens, and scenic spots around Pune for a natural look.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Banquet Halls</h4>
+        <h3 class="card-white-title lvl-h4">Banquet Halls</h3>
         <p class="card-white-text">Beautiful indoor setting for a decent and peaceful atmosphere.</p>
       </div>
     </div>
@@ -254,7 +255,7 @@
       <h2 class="section-title">Maternity Photographers<br><em>in Pune</em></h2>
     </div>
 
-    <p class="article-text">Most women get maternity pictures taken after 32 weeks of pregnancy or at the beginning of the eighth month. Between weeks 34 and 36, when the baby bump is at its biggest, is the best time for a maternity photoshoot.</p>
+    <p class="article-text">The best time for a maternity photoshoot is between 28 and 32 weeks of pregnancy (the seventh to eighth month). By then the baby bump shows clearly, and most mothers are still comfortable enough to move and pose.</p>
 
     <div class="section-head section-head-gap">
       <h2 class="section-title">Creating Beautiful Memories<br><em>For A Lifetime</em></h2>
@@ -269,22 +270,11 @@
     <p class="article-text">At The Bridal Photography, we know that pregnant women have different needs and budgets, so we offer different maternity photoshoot packages at different prices. You can also get a maternity photo package made just for your needs. Our maternity packages can be upgraded to include international maternity couture gowns. We also offer digital photography, high-resolution digital prints, a photo album, and make-up and hair styling as optional extras.</p>
 
     <div class="section-head section-head-gap">
-      <h2 class="section-title">Portraits of Pregnant Women<br><em>that are Used for Marketing</em></h2>
-    </div>
-
-    <p class="article-text">At The Bridal Photography, <strong>Maternity Photography Services in Pune,</strong> we know pregnant women must deal with mental and physical challenges. So, we go out of our way to ensure our pregnant clients are comfortable and at ease during their photo sessions. This way, we can capture the joy and magic of their pregnancies in all their glory. Through our photos, we try to tell the unique story of each expecting couple and show their special bond as they prepare to become parents.</p>
-
-    <div class="section-head section-head-gap">
       <h2 class="section-title">We Can Take Pictures of Your Pregnancy<br><em>Both Inside and Outside</em></h2>
     </div>
 
     <p class="article-text">We offer pregnancy photo sessions as well as <strong>Maternity Photographers in Pune,</strong> in the privacy of your own home or at a nearby outdoor spot. This is to make sure you are comfortable and happy. The way the sun shines on the face of a pregnant woman during an outdoor photoshoot gives the pictures a natural, ethereal, and magical feel. During our private maternity photoshoots, we can use studio lighting to make beautiful, long-lasting pictures of you while you are pregnant in your home. We try to keep our photoshoots simple, without awkward poses or extraneous props, so your pregnancy looks as natural as possible.</p>
 
-    <div class="section-head section-head-gap">
-      <h2 class="section-title">Do You Want the Best Maternity Photographer<br><em>to Take Pictures of Your Most Important Moments?</em></h2>
-    </div>
-
-    <p class="article-text">At The Bridal Photography, we know that pregnant women have different needs and budgets, so we offer different maternity photoshoot packages at different prices. You can also get a maternity photo package made just for your needs. Our maternity packages can be upgraded to include international maternity couture gowns. We also offer digital photography, high-resolution digital prints, a photo album, and make-up and hair styling as optional extras.</p>
   </div>
 </section>
 
@@ -292,7 +282,7 @@
 <section class="section section-white">
   <div class="container">
     <h2 class="enquire-section-title">Book Now or Enquire</h2>
-    <p class="enquire-section-bold">Get ready to experience the most beautiful moments of your pregancy covered up in pictures. Don't wait to schedule your maternity photoshoot with us.</p>
+    <p class="enquire-section-bold">Get ready to experience the most beautiful moments of your pregnancy covered up in pictures. Don't wait to schedule your maternity photoshoot with us.</p>
     <p class="enquire-section-sub">Have questions or need more details about our Maternity photoshoot Pune services? Feel free to reach out to us. Fill out the inquiry form below or contact us directly for personalized assistance and information.</p>
 
     <div class="contact-layout">
@@ -370,7 +360,7 @@
       ['How much does a maternity photoshoot cost in Pune?',
        'The general cost estimated in a maternity shoot ranges from Rs 6,000 - Rs 18,000, this cost totally depends on various factors like no. Of pictures, shoot hours and package you select.'],
       ['Which is the most ideal month for women for a maternity photoshoot?',
-       'The most appropriate time for the maternity shoot is when the woman is 7-8 months pregnant. This is the time that allows you to look beautiful with a pregnancy glow and yet be comfortable to pose.'],
+       'The best time for a maternity shoot is between 28 and 32 weeks of pregnancy (the seventh to eighth month). This is the time that allows you to look beautiful with a pregnancy glow and yet be comfortable to pose.'],
       ['What are the top locations in Pune for a photoshoot?',
        'Well-known sites for the shoot could be a park, a garden, an excellent spot outdoors, your place, or a professional studio. Select a place that is in your preferred mode of interior decor, and the environment provides comfort.'],
       ['Do you provide maternity dresses and props for the photoshoot?',

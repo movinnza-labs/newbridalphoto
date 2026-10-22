@@ -27,15 +27,15 @@
   <div class="container">
     <div class="grid-3 grid-gap">
       <a href="<?= base_url('/lonavala/wedding-photographers/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/mumbai-wedding-card.webp') ?>" alt="Wedding Photography Lonavala" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/mumbai-wedding-card.webp') ?>" width="1024" height="683" alt="Wedding Photography Lonavala" loading="lazy" class="mumbai-service-img">
         <h2 class="mumbai-service-title">Wedding Photographers in Lonavala</h2>
       </a>
       <a href="<?= base_url('/lonavala/engagement-photographers/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/engage-card-gold.webp') ?>" alt="Engagement Photography Lonavala" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/engage-card-gold.webp') ?>" width="1024" height="1024" alt="Engagement Photography Lonavala" loading="lazy" class="mumbai-service-img">
         <h2 class="mumbai-service-title">Engagement Photographers in Lonavala</h2>
       </a>
       <a href="<?= base_url('/pre-wedding-shoot-lonavala/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/mumbai-prewedding-card.webp') ?>" alt="Pre-Wedding Shoot Lonavala" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/mumbai-prewedding-card.webp') ?>" width="1024" height="683" alt="Pre-Wedding Shoot Lonavala" loading="lazy" class="mumbai-service-img">
         <h2 class="mumbai-service-title">Pre Wedding Shoot in Lonavala</h2>
       </a>
     </div>
@@ -75,8 +75,8 @@
     <div class="section-head">
       <p class="eyebrow section-head-eyebrow">Why Choose Us</p>
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Why Choose Bridal Photography<br><em>for a Photoshoot in Lonaval?</em></h2>
-      <p class="section-sub">Picking the right photographer can really affect how you remember. At The Bridal Photography, we blend in both technical skills with artistic narration to give the edgy out-turns.</p>
+      <h2 class="section-title">Why Choose Bridal Photography<br><em>for a Photoshoot in Lonavala?</em></h2>
+      <p class="section-sub">The photographer you pick shapes how you remember your day. At The Bridal Photography, we combine technical skill with artistic storytelling to give you photos with a fresh, modern feel.</p>
     </div>
     <div class="card-white card-white-padded">
       <h3 class="card-white-heading-lg"><strong>Reasons clients trust us:</strong></h3>
@@ -232,7 +232,7 @@
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
       <h2 class="section-title">Book Now or <em>Enquire</em></h2>
-      <p class="section-sub">Ready to capture your love story? Contact us today to book your photoshoot in Lonavala or for any inquires.</p>
+      <p class="section-sub">Ready to capture your love story? Contact us today to book your photoshoot in Lonavala or for any enquiries.</p>
     </div>
     <div class="contact-layout">
       <div class="enquire-contact-card">
@@ -244,7 +244,7 @@
           <div class="enquire-contact-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg></div>
           <a href="mailto:thebridal11@gmail.com" class="enquire-contact-link">thebridal11@gmail.com</a>
         </div>
-        <p class="enquire-contact-text">Inquiry today by visiting our official website to know more.</p>
+        <p class="enquire-contact-text">Contact us today to book.</p>
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold pkg-card-btn">Book a Free Consultation Call</a>
       </div>
       <div class="enquire-form-card">

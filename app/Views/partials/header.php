@@ -13,14 +13,14 @@ $isHome = rtrim($currentUrl, '/') === rtrim(base_url(), '/');
           <source srcset="<?= base_url('assets/images/logo.webp') ?>" type="image/webp">
           <img class="nav-logo-light"
                src="<?= base_url('assets/images/logo.png') ?>"
-               alt="The Bridal Photography Pune" width="160" height="44" loading="eager">
+               alt="The Bridal Photography" width="160" height="44" loading="eager">
         </picture>
         <!-- Light logo for transparent dark hero -->
         <picture>
           <source srcset="<?= base_url('assets/images/logo.webp') ?>" type="image/webp">
           <img class="nav-logo-dark"
                src="<?= base_url('assets/images/logo.png') ?>"
-               alt="The Bridal Photography Pune" width="160" height="44" loading="eager">
+               alt="The Bridal Photography" width="160" height="44" loading="eager">
         </picture>
       </a>
 
@@ -73,13 +73,17 @@ $isHome = rtrim($currentUrl, '/') === rtrim(base_url(), '/');
         </li>
 
         <li class="nav-dropdown">
-          <a href="<?= base_url('/baby-photoshoot-pune/') ?>"
-             class="<?= str_contains($currentUrl, 'baby-photoshoot') || str_contains($currentUrl, 'newborn-photography') ? 'active' : '' ?>">
-            Baby Shoot ▾
+          <a href="<?= base_url('/services/') ?>"
+             class="<?= str_contains($currentUrl, '/services') || str_contains($currentUrl, 'baby-photoshoot') || str_contains($currentUrl, 'newborn-photography') || str_contains($currentUrl, 'birthday-photography') || str_contains($currentUrl, 'housewarming-photography') || str_contains($currentUrl, 'product-photography') ? 'active' : '' ?>">
+            Services ▾
           </a>
           <ul class="nav-dropdown-menu">
             <li><a href="<?= base_url('/baby-photoshoot-pune/') ?>">Baby Photoshoot</a></li>
             <li><a href="<?= base_url('/newborn-photography-pune/') ?>">Newborn Photography</a></li>
+            <li><a href="<?= base_url('/birthday-photography-pune/') ?>">Birthday Photography</a></li>
+            <li><a href="<?= base_url('/housewarming-photography-pune/') ?>">Housewarming Photography</a></li>
+            <li><a href="<?= base_url('/fashion-and-product-photography/') ?>">Fashion &amp; Product Photography</a></li>
+            <li><a href="<?= base_url('/services/') ?>">All Services</a></li>
           </ul>
         </li>
 
@@ -170,11 +174,15 @@ $isHome = rtrim($currentUrl, '/') === rtrim(base_url(), '/');
 
       <div class="mob-group">
         <button class="mob-group-toggle" aria-expanded="false">
-          Baby Shoot <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+          Services <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
         </button>
         <div class="mob-group-links">
           <a href="<?= base_url('/baby-photoshoot-pune/') ?>">Baby Photoshoot</a>
           <a href="<?= base_url('/newborn-photography-pune/') ?>">Newborn Photography</a>
+          <a href="<?= base_url('/birthday-photography-pune/') ?>">Birthday Photography</a>
+          <a href="<?= base_url('/housewarming-photography-pune/') ?>">Housewarming Photography</a>
+          <a href="<?= base_url('/fashion-and-product-photography/') ?>">Fashion &amp; Product Photography</a>
+          <a href="<?= base_url('/services/') ?>">All Services</a>
         </div>
       </div>
 

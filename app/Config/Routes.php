@@ -143,6 +143,10 @@ $routes->get('/blog/when-should-i-take-my-pre-wedding-shoot/', function () {
     return redirect()->to('/when-to-take-pre-wedding-shoot/', 301);
 });
 
+// D-11: lorem ipsum test post was removed for good. 410 tells Google to drop it faster than a 404.
+$routes->get('/blog/odio-non-quo-rerum-a/', static function () {
+    return service('response')->setStatusCode(410)->setBody('Gone');
+});
 $routes->get('/blog/',           'Blog::index');
 $routes->get('/blog/(:segment)/', 'Blog::detail/$1');
 

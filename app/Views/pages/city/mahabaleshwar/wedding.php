@@ -2,13 +2,13 @@
 <section class="page-hero">
   <div class="page-hero-bg"></div>
   <div class="page-hero-img">
-    <img src="<?= base_url('assets/images/mumbai-wp-1.webp') ?>" alt="Wedding Photography" width="1920" height="700" loading="eager" fetchpriority="high">
+    <img src="<?= base_url('assets/images/mahab-weather.webp') ?>" alt="Green valley and waterfall in Mahabaleshwar" width="1000" height="667" loading="eager" fetchpriority="high">
   </div>
   <div class="page-hero-content">
     <div class="page-hero-content-inner">
       <p class="eyebrow page-hero-eyebrow">Wedding Photography &middot; Mahabaleshwar</p>
       <div class="page-hero-rule"></div>
-      <h1>Wedding Photographer<br><em>in Mahabaleshwar</em></h1>
+      <h1>Wedding Photographers<br><em>in Mahabaleshwar</em></h1>
       <p class="page-hero-sub">At The Bridal Photography, our specialty is elegant and personal wedding photoshoots in Mahabaleshwar. Whether it's a small hilltop ceremony or that grand resort wedding, we capture every moment in beauty.</p>
       <div class="page-hero-buttons">
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Now</a>
@@ -207,15 +207,15 @@
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"The Bridal Photography captured our Mahabaleshwar wedding. The valley shots were breathtaking!"</p>
-        <h4 class="card-white-title article-heading-gap"><strong>Priya &amp; Nikhil</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>Priya &amp; Nikhil</strong></h3>
       </div>
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"The team gave us guidance for the poses and made us feel comfortable. Our wedding film feels so much like a movie."</p>
-        <h4 class="card-white-title article-heading-gap"><strong>Ananya &amp; Rohan</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>Ananya &amp; Rohan</strong></h3>
       </div>
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"Professional, punctual, and incredibly creative. Highly recommended for destination weddings."</p>
-        <h4 class="card-white-title article-heading-gap"><strong>Kavya &amp; Siddharth</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>Kavya &amp; Siddharth</strong></h3>
       </div>
     </div>
   </div>
@@ -268,7 +268,7 @@
       <div class="enquire-contact-card">
         <div class="enquire-contact-item"><div class="enquire-contact-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.01-.24 11.36 11.36 0 003.58.57 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.36 11.36 0 00.57 3.58 1 1 0 01-.25 1.01l-2.2 2.2z"/></svg></div><a href="tel:+918390367637" class="enquire-contact-link">+91 8390367637</a></div>
         <div class="enquire-contact-item"><div class="enquire-contact-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg></div><a href="mailto:thebridal11@gmail.com" class="enquire-contact-link">thebridal11@gmail.com</a></div>
-        <p class="enquire-contact-text">Inquiry today by visiting our official website to know more.</p>
+        <p class="enquire-contact-text">Contact us today to book.</p>
         <a href="tel:+918390367637" class="btn btn-gold pkg-card-btn">Book a Free Consultation Call</a>
       </div>
       <div class="enquire-form-card">
@@ -287,5 +287,5 @@
   </div>
 </section>
 
-<section class="section-related-pages"><div class="container"><p class="eyebrow section-related-eyebrow">Related Pages</p><div class="tag-links"><a href="<?= base_url('/pre-wedding-shoot-mahabaleshwar/') ?>" class="tag-link">Pre-Wedding Mahabaleshwar</a><a href="<?= base_url('/mahabaleshwar/engagement-photographers/') ?>" class="tag-link">Engagement Mahabaleshwar</a><a href="<?= base_url('/mahabaleshwar/') ?>" class="tag-link">Photographers in Mahabaleshwar</a><a href="<?= base_url('/faq/') ?>" class="tag-link">FAQ</a></div></div></section>
+<section class="section-related-pages"><div class="container"><p class="eyebrow section-related-eyebrow">Related Pages</p><div class="tag-links"><a href="<?= base_url('/pre-wedding-shoot-mahabaleshwar/') ?>" class="tag-link">Pre-Wedding Mahabaleshwar</a><a href="<?= base_url('/mahabaleshwar/engagement-photographers/') ?>" class="tag-link">Engagement Mahabaleshwar</a><a href="<?= base_url('/mahabaleshwar/') ?>" class="tag-link">Photographers in Mahabaleshwar</a><a href="<?= base_url('/blog/the-charm-of-mahabaleshwar-ideal-backdrops-for-wedding-photography/') ?>" class="tag-link">Wedding photo spots in Mahabaleshwar</a><a href="<?= base_url('/faq/') ?>" class="tag-link">FAQ</a></div></div></section>
 <section class="cta-section"><div class="container-xs cta-section-inner"><h2 class="cta-title">Need a Photographer?<br><em class="cta-title-em">Someone With Experience to Collaborate With?</em></h2><div class="cta-buttons"><a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Let's Work</a><a href="https://wa.me/918390367637" class="btn btn-outline-dark" target="_blank" rel="noopener">WhatsApp Us</a></div></div></section>

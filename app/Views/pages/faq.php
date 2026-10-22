@@ -13,11 +13,11 @@
       <div>
         <h2 style="font-family:var(--font-serif);font-size:1.5rem;color:var(--gold);margin:0 0 1.5rem;font-weight:400;">Pricing &amp; Packages</h2>
         <?php foreach([
-          ['How much does a pre-wedding shoot cost?','Packages start at ₹9,999 (budget), ₹14,999 (Silver), ₹29,999 (Gold - most popular), ₹55,555 (Diamond + reel). See our <a href="'.base_url('/pre-wedding-photography-packages/').'" style="color:var(--gold);">full packages page</a>.'],
+          ['How much does a pre-wedding shoot cost?','Our pre-wedding packages are ₹14,999 (Gold), ₹29,999 (Platinum - most popular, with cinematic video and a 1 min reel) and ₹55,555 (Diamond - 2 days destination shoot). See our <a href="'.base_url('/pre-wedding-photography-packages/').'" style="color:var(--gold);">full packages page</a>. For a smaller budget, we also have a <a href="'.base_url('/pre-wedding-shoot-pune-under-10000/').'" style="color:var(--gold);">₹9,999 budget package</a>.'],
           ['How much does wedding photography cost?','Wedding packages: ₹35,000/day (Gold), ₹55,000/day (Platinum), ₹75,000/day (Diamond with cinematic film). All include a videographer.'],
           ['How much does maternity photography cost?','₹6,000 (Gold studio), ₹9,000 (Platinum studio + outdoor), ₹18,000 (Diamond full day + film). Designer gowns provided free.'],
           ['How much does engagement photography cost?','₹7,000 (Gold), ₹22,000 (Platinum), ₹35,000 (Diamond). Also covers Roka and ring ceremonies.'],
-          ['Is there a budget option under ₹10,000?','Yes - our <a href="'.base_url('/pre-wedding-shoot-pune-under-10000/').'" style="color:var(--gold);">₹9,999 package</a> includes 1 photographer, 3 hrs, 1 Pune location, 35 edited photos. Same Sony A7M4 equipment.'],
+          ['Is there a budget option under ₹10,000?','Yes - our <a href="'.base_url('/pre-wedding-shoot-pune-under-10000/').'" style="color:var(--gold);">₹9,999 package</a> includes 1 candid photographer, a 3-hour session, 35 edited photos and all raw photos the next day through a drive link.'],
         ] as [$q,$a]): ?>
         <div class="faq-item"><button class="faq-trigger"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button><div class="faq-body"><p><?= $a ?></p></div></div>
         <?php endforeach; ?>
@@ -25,7 +25,7 @@
       <div>
         <h2 style="font-family:var(--font-serif);font-size:1.5rem;color:var(--gold);margin:0 0 1.5rem;font-weight:400;">Process &amp; Delivery</h2>
         <?php foreach([
-          ['How many photos will I receive?','Wedding: 250 edited photos in 15 days. Pre-wedding Silver: 50 in 7 days. Gold: 150 in 15 days. Diamond: 300+ in 15 days. Maternity: 30–100+ photos in 7–15 days.'],
+          ['How many photos will I receive?','Wedding: 250 edited photos in 15 days. Pre-wedding: 60 to 70 edited photos with every package (Gold, Platinum and Diamond). Maternity: 30 to 100+ edited photos in 7 to 25 days, depending on the package.'],
           ['What is the cancellation policy?','20% advance confirms your date. 100% refund if cancelled 8 or more days before. Cancellations within 7 days are non-refundable.'],
           ['What if it rains on shoot day?','We monitor forecasts 48 hrs before. Outdoor shoots can be rescheduled at no charge. Equipment is fully weather-protected.'],
           ['How are photos delivered?','Via a private password-protected online gallery. Download all photos in full resolution. Albums (₹400/page) and raw data (₹6,500) are available add-ons.'],

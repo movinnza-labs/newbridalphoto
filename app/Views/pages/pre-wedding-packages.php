@@ -10,8 +10,9 @@
     <div style="max-width:860px;">
       <p class="eyebrow" style="margin-bottom:.8rem;">Pre-Wedding Photography &middot; Pune</p>
       <div style="width:52px;height:1px;background:linear-gradient(90deg,var(--gold),transparent);margin-bottom:1.4rem;"></div>
-      <h1>Pre Wedding Shoot in Pune:<br><em>Packages and Prices</em></h1>
+      <h1>Pre Wedding Shoot Packages<br><em>and Prices in Pune</em></h1>
       <p class="page-hero-sub">A pre-wedding photo shoot is a perfect approach in capturing the anticipation and excitement and raw emotions on this beautiful phase of your journey.</p>
+      <p class="page-hero-sub" style="margin-top:.4rem;"><strong>Starting from &#8377;14,999</strong></p>
       <div style="display:flex;gap:1rem;flex-wrap:wrap;margin-top:1.8rem;">
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Appointment Now</a>
         <a href="tel:+918390367637" class="btn btn-white">+91 83903 67637</a>
@@ -57,12 +58,12 @@
     <div class="feature-row" style="margin-bottom:3rem;">
       <div class="feature-img-wrap">
         <div style="display:grid;grid-template-columns:1fr 1fr;gap:.5rem;">
-          <img src="<?= base_url('assets/images/pkg-celebrate-bond-1.webp') ?>" alt="anurag-and-juhi-for-pre-wedding-story" loading="lazy" style="width:100%;height:auto;">
-          <img src="<?= base_url('assets/images/pkg-celebrate-bond-2.webp') ?>" alt="anurag-and-juhi-for-pre-wedding-story" loading="lazy" style="width:100%;height:auto;">
+          <img src="<?= base_url('assets/images/pkg-celebrate-bond-1.webp') ?>" width="900" height="600" alt="anurag-and-juhi-for-pre-wedding-story" loading="lazy" style="width:100%;height:auto;">
+          <img src="<?= base_url('assets/images/pkg-celebrate-bond-2.webp') ?>" width="900" height="600" alt="anurag-and-juhi-for-pre-wedding-story" loading="lazy" style="width:100%;height:auto;">
         </div>
       </div>
       <div>
-        <h4 style="font-family:var(--font-serif);font-size:1.3rem;color:var(--text-primary);margin-bottom:.8rem;">Celebrate the bond</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.3rem;color:var(--text-primary);margin-bottom:.8rem;">Celebrate the bond</h3>
         <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;">That day or time when everything in your life will be so exciting for you both during the engagement. It is the time when you're full of romance and happiness together. Such a beautiful day can be captured with a pre-wedding shoot.</p>
       </div>
     </div>
@@ -70,10 +71,10 @@
     <!-- Used to the camera -->
     <div class="feature-row reverse" style="margin-bottom:3rem;">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/pkg-umbrella-pose.webp') ?>" alt="Pre-Wedding-Romantic-Pose-Under-Umbrella" loading="lazy" style="width:100%;height:auto;">
+        <img src="<?= base_url('assets/images/pkg-umbrella-pose.webp') ?>" width="1024" height="683" alt="Pre-Wedding-Romantic-Pose-Under-Umbrella" loading="lazy" style="width:100%;height:auto;">
       </div>
       <div>
-        <h4 style="font-family:var(--font-serif);font-size:1.3rem;color:var(--text-primary);margin-bottom:.8rem;">Used to the camera</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.3rem;color:var(--text-primary);margin-bottom:.8rem;">Used to the camera</h3>
         <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;">Most couples are not used to staying in front of a camera for too long a time. Pre-wedding shoots enable you to get very used up with your photographer so that you will feel very relaxed at the wedding.</p>
         <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;margin-top:.8rem;">The time before you tie the knot is probably one of the most exciting chapters of your life. A pre-wedding shoot captures the feelings of closeness and happiness that blossom in this lovely phase.</p>
       </div>
@@ -82,7 +83,7 @@
     <!-- Getting comfortable with the camera -->
     <div class="feature-row" style="margin-bottom:3rem;">
       <div>
-        <h4 style="font-family:var(--font-serif);font-size:1.3rem;color:var(--text-primary);margin-bottom:.8rem;">Getting comfortable with the camera</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.3rem;color:var(--text-primary);margin-bottom:.8rem;">Getting comfortable with the camera</h3>
         <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;">Most couples are not accustomed to standing in front of the camera for long hours. A pre-wedding shoot builds rapport with your photographer, thereby helping you overcome any nervousness when the time comes.</p>
       </div>
       <div></div>
@@ -91,10 +92,10 @@
     <!-- Make Your Wedding Day Personal -->
     <div class="feature-row reverse" style="margin-bottom:2rem;">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/pkg-capture-memories.webp') ?>" alt="Top 7 Pre Wedding Shoot" loading="lazy" style="width:100%;height:auto;">
+        <img src="<?= base_url('assets/images/pkg-capture-memories.webp') ?>" width="1024" height="683" alt="Top 7 Pre Wedding Shoot" loading="lazy" style="width:100%;height:auto;">
       </div>
       <div>
-        <h4 style="font-family:var(--font-serif);font-size:1.3rem;color:var(--text-primary);margin-bottom:.8rem;">Make Your Wedding Day Personal</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.3rem;color:var(--text-primary);margin-bottom:.8rem;">Make Your Wedding Day Personal</h3>
         <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;">The photos from the pre-wedding session can be used when sending out wedding invitations, signing guest books, and personalizing decor.</p>
         <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;margin-top:.8rem;"><strong>Capture forever memories:</strong> The pre-wedding shoot locations that are chosen have some sort of emotional value attached to them for the couple. This will make the memory even more unique and personal.</p>
       </div>
@@ -119,9 +120,9 @@
       <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;margin-bottom:1.5rem;">Choose from a selection of local recommended spots that can be in the form of parks, gardens or even urban landscapes. We also offer you to shoot at a location meaningful to you, maybe where your first date was or where the proposal took place.</p>
 
       <div class="grid-3" style="gap:1rem;margin-bottom:1.5rem;">
-        <img src="<?= base_url('assets/images/pkg-gold-1.webp') ?>" alt="anurag-and-juhi-for-pre-wedding-story" loading="lazy" style="width:100%;height:auto;">
-        <img src="<?= base_url('assets/images/pkg-gold-2.webp') ?>" alt="anurag-and-juhi-for-pre-wedding-story" loading="lazy" style="width:100%;height:auto;">
-        <img src="<?= base_url('assets/images/pkg-gold-3.webp') ?>" alt="Pre-Wedding-Beach-Side-Romantic-Couple-Sunset-Goa" loading="lazy" style="width:100%;height:auto;">
+        <img src="<?= base_url('assets/images/pkg-gold-1.webp') ?>" width="600" height="900" alt="anurag-and-juhi-for-pre-wedding-story" loading="lazy" style="width:100%;height:auto;">
+        <img src="<?= base_url('assets/images/pkg-gold-2.webp') ?>" width="900" height="600" alt="anurag-and-juhi-for-pre-wedding-story" loading="lazy" style="width:100%;height:auto;">
+        <img src="<?= base_url('assets/images/pkg-gold-3.webp') ?>" width="1024" height="683" alt="Pre-Wedding-Beach-Side-Romantic-Couple-Sunset-Goa" loading="lazy" style="width:100%;height:auto;">
       </div>
 
       <ul class="pkg-detail-list">
@@ -165,9 +166,9 @@
       <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;margin-bottom:1.5rem;">A destination pre-wedding photoshoot is a lovely way of capturing the romance and excitement of your soon-to-be nuptials in a location which is absolutely out of the world. Unlike standard shoots, destination shoots create lifetime memories by discovering scenic backdrops that represent the couple's personalities and love story. Whether it is a sandy beach, a green mountain range, or an effervescent city, every destination adds a unique flavor to photographs.</p>
 
       <div class="grid-3" style="gap:1rem;margin-bottom:1.5rem;">
-        <img src="<?= base_url('assets/images/pkg-diamond-1.webp') ?>" alt="Pre Wedding Shoot" loading="lazy" style="width:100%;height:auto;">
-        <img src="<?= base_url('assets/images/pkg-diamond-2.webp') ?>" alt="pratik-and-sonal-pre-wedding-story-goa" loading="lazy" style="width:100%;height:auto;">
-        <img src="<?= base_url('assets/images/pkg-card-diamond.webp') ?>" alt="Pre-Wedding Photography Packages" loading="lazy" style="width:100%;height:auto;">
+        <img src="<?= base_url('assets/images/pkg-diamond-1.webp') ?>" width="960" height="960" alt="Pre Wedding Shoot" loading="lazy" style="width:100%;height:auto;">
+        <img src="<?= base_url('assets/images/pkg-diamond-2.webp') ?>" width="960" height="960" alt="pratik-and-sonal-pre-wedding-story-goa" loading="lazy" style="width:100%;height:auto;">
+        <img src="<?= base_url('assets/images/pkg-card-diamond.webp') ?>" width="1024" height="1024" alt="Pre-Wedding Photography Packages" loading="lazy" style="width:100%;height:auto;">
       </div>
 
       <ul class="pkg-detail-list">
@@ -203,7 +204,7 @@
     </div>
     <div class="pkg-grid">
       <div class="pkg-card">
-        <img src="<?= base_url('assets/images/pkg-card-gold.webp') ?>" alt="Pre-Wedding Photography Packages" loading="lazy" style="width:100%;margin-bottom:1.2rem;">
+        <img src="<?= base_url('assets/images/pkg-card-gold.webp') ?>" width="1024" height="1024" alt="Pre-Wedding Photography Packages" loading="lazy" style="width:100%;margin-bottom:1.2rem;">
         <p class="pkg-tier">Photography</p>
         <h3 class="pkg-name">Gold</h3>
         <div class="pkg-price">Rs. 14,999/-</div>
@@ -219,7 +220,7 @@
       </div>
       <div class="pkg-card featured">
         <div class="pkg-badge">Most Popular</div>
-        <img src="<?= base_url('assets/images/pkg-card-platinum.webp') ?>" alt="Pre-Wedding Photography Packages" loading="lazy" style="width:100%;margin-bottom:1.2rem;">
+        <img src="<?= base_url('assets/images/pkg-card-platinum.webp') ?>" width="1024" height="1024" alt="Pre-Wedding Photography Packages" loading="lazy" style="width:100%;margin-bottom:1.2rem;">
         <p class="pkg-tier">Photography &amp; Videography</p>
         <h3 class="pkg-name">Platinum</h3>
         <div class="pkg-price">Rs. 29,999/-</div>
@@ -238,7 +239,7 @@
         <a href="https://wa.me/918390367637" class="btn btn-gold" style="display:block;text-align:center;" target="_blank" rel="noopener">Choose Plan</a>
       </div>
       <div class="pkg-card">
-        <img src="<?= base_url('assets/images/pkg-card-diamond.webp') ?>" alt="Pre-Wedding Photography Packages" loading="lazy" style="width:100%;margin-bottom:1.2rem;">
+        <img src="<?= base_url('assets/images/pkg-card-diamond.webp') ?>" width="1024" height="1024" alt="Pre-Wedding Photography Packages" loading="lazy" style="width:100%;margin-bottom:1.2rem;">
         <p class="pkg-tier">2 Days Destination Pre-wedding Shoot</p>
         <h3 class="pkg-name">Diamond</h3>
         <div class="pkg-price">Rs. 55,555/-</div>
@@ -267,28 +268,28 @@
     <div class="section-head">
       <p class="eyebrow" style="margin-bottom:.7rem;">Customize Your Package</p>
       <div class="rule-center" style="margin-bottom:1.4rem;"></div>
-      <h2 class="section-title">Add-Ons at Consider The Bridal Photography<br><em>With Pre-Wedding Package</em></h2>
+      <h2 class="section-title">Add-Ons<br><em>With Pre-Wedding Package</em></h2>
       <p class="section-sub">Every person is unique, and so should be their photo shoot. For you to have that perfectly made session exclusively yours, we offer the following add-ons which can be taken with any package:</p>
     </div>
     <div class="grid-2" style="gap:1.5rem;">
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Extra photo retouching</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Extra photo retouching</h3>
         <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">We will also retouch or edit some more photos at an additional small cost just to ensure that everyone gets pictures that perfectly go with the style or preference.</p>
       </div>
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Dressing and styling consultancy</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Dressing and styling consultancy</h3>
         <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">Know not what to wear? No worries. Our specialized styling expertise will see to it that you are correctly dressed for the photo shoot while conveying your personality or capturing the theme of the shoot.</p>
       </div>
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Hair and Makeup</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Hair and Makeup</h3>
         <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">Enhance and refine your appearance with the in-house hair and makeup artists working on set with you.</p>
       </div>
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Lengthier photo shoot</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Lengthier photo shoot</h3>
         <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">Multiple locations or extend the time for an hour to get more perfect shots at a rate of extended time.</p>
       </div>
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Photobook and prints</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Photobook and prints</h3>
         <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">A lot of print-quality options - a photo book or framed prints so memories can be beautifully strewn about your home or wedding venue.</p>
       </div>
     </div>
@@ -309,10 +310,10 @@
       <!-- Photos -->
       <div class="card-white" style="padding:2rem;">
         <h3 style="font-family:var(--font-serif);font-size:1.4rem;color:var(--text-primary);margin-bottom:.5rem;">Photos</h3>
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--gold);margin-bottom:1rem;">250 Images</h4>
-        <img src="<?= base_url('assets/images/pkg-deliverables-photo.webp') ?>" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" style="width:100%;margin-bottom:1rem;">
+        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--gold);margin-bottom:1rem;">60 to 70 Edited Images</h4>
+        <img src="<?= base_url('assets/images/pkg-deliverables-photo.webp') ?>" width="1024" height="683" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" style="width:100%;margin-bottom:1rem;">
         <ul class="pkg-detail-list">
-          <li>All Photos high resolution edited images 250 Photos Number of edited images depends on event.</li>
+          <li>60 to 70 high-resolution edited photos with every package (Gold, Platinum and Diamond).</li>
           <li>Images will be delivered through a cloud based password-protected online gallery which will be active for <strong>07 Days.</strong></li>
           <li><strong>DELIVERY TIMELINE: Edited photos 15 days</strong></li>
         </ul>
@@ -327,7 +328,7 @@
           <li>3 to 4 minute cinematic film</li>
           <li>Traditional film depend on event and rituals</li>
           <li><strong>DELIVERY TIMELINE: Edited videos 25 days</strong></li>
-          <li><strong>REVISIONS NA Wedding Teaser &amp; Films within month &ndash; REVISIONS &ndash; 1 Round within 7 Days of Delivery</strong></li>
+          <li><strong>Revisions: 1 round within 7 days of delivery</strong></li>
         </ul>
       </div>
 
@@ -359,15 +360,15 @@
     </div>
     <div class="grid-3" style="gap:1.5rem;">
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Pre-shoot consultation</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Pre-shoot consultation</h3>
         <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">Before we go out for the shoot, we would discuss your concept, which venue you prefer, what costumes you want to wear, and any specific theme or props that you would like to include.</p>
       </div>
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Pre-shoot shoot guidance</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Pre-shoot shoot guidance</h3>
         <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">On the day of shoot, our experienced photographers will guide you through some poses and candid moments so you don't feel nervous at all.</p>
       </div>
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Magic post-production</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Magic post-production</h3>
         <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">After shooting, each image is carefully edited so that you have the finest quality photos that would reflect emotions and beauty about your love story.</p>
       </div>
     </div>
@@ -383,7 +384,7 @@
     </div>
     <div class="grid-2" style="gap:1.5rem;">
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.8rem;">Dates</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.8rem;">Dates</h3>
         <ul class="pkg-detail-list">
           <li>This proposal is valid for 30 days</li>
           <li>The dates are not confirmed and subject to our availability which may change without prior notice.</li>
@@ -391,23 +392,23 @@
         </ul>
       </div>
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.8rem;">Travel, Food &amp; Accommodation</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.8rem;">Travel, Food &amp; Accommodation</h3>
         <ul class="pkg-detail-list">
           <li>For events outside Pune, air travel, local transport.</li>
           <li>Accommodation will be arranged by client or charged as per actuals. For outstation as well as Mumbai events, the crew eats with guests or a per diem, per meal will be charged for each crew member</li>
         </ul>
       </div>
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.8rem;">Copyrights</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.8rem;">Copyrights</h3>
         <ul class="pkg-detail-list">
           <li>The Bridal Photography reserves the right to all photographs and film content.</li>
           <li>We may use a part of the content on our social media/website to promote our work A non-disclosure agreement can be signed to restrict the usage of photos or videos by paying an additional 20% fee.</li>
         </ul>
       </div>
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.8rem;">Drones</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.8rem;">Drones</h3>
         <ul class="pkg-detail-list">
-          <li>Drones are subject to DCGA &amp; government regulations.</li>
+          <li>Drones are subject to DGCA &amp; government regulations.</li>
           <li>The client has the responsibility of obtaining permissions to fly drone from the event venue and local authorities</li>
         </ul>
       </div>
@@ -471,6 +472,8 @@
       <a href="<?= base_url('/when-to-take-pre-wedding-shoot/') ?>" class="tag-link">Timing Guide</a>
       <a href="<?= base_url('/pre-wedding-shoot-satara/') ?>" class="tag-link">Satara</a>
       <a href="<?= base_url('/pre-wedding-shoot-locations-in-goa/') ?>" class="tag-link">Goa</a>
+      <a href="<?= base_url('/pre-wedding-shoot-mulshi/') ?>" class="tag-link">Mulshi Lake Pre Wedding Shoot</a>
+      <a href="<?= base_url('/pre-wedding-shoot-lakshadweep/') ?>" class="tag-link">Lakshadweep pre wedding shoot</a>
       <a href="<?= base_url('/pre-wedding-shoot-locations-mumbai/') ?>" class="tag-link">Mumbai</a>
       <a href="<?= base_url('/wedding-photography-packages/') ?>" class="tag-link">Wedding Packages</a>
       <a href="<?= base_url('/faq/') ?>" class="tag-link">FAQ</a>

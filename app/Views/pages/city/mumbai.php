@@ -11,7 +11,7 @@
       <p class="eyebrow page-hero-eyebrow">Wedding Photography &middot; Mumbai</p>
       <div class="page-hero-rule"></div>
       <h1>Wedding Photographers in<br><em>Mumbai</em></h1>
-      <p class="page-hero-sub">The Bridal Photography - One of the best wedding, pre wedding &amp; engagement photographers in Mumbai India. we are professional photographers team have 10 years of experience in Wedding industry. we allready Coverd hundred's of wedding &amp; prewedding in mumbai &amp; india</p>
+      <p class="page-hero-sub">The Bridal Photography - One of the best wedding, pre wedding &amp; engagement photographers in Mumbai India. We are a team of professional photographers with 10 years of experience in the wedding industry. We have already covered hundreds of weddings &amp; pre weddings in Mumbai &amp; India.</p>
       <div class="page-hero-buttons">
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Now</a>
         <a href="tel:+918390367637" class="btn btn-white">+91 83903 67637</a>
@@ -26,16 +26,16 @@
 <section class="section section-white">
   <div class="container">
     <div class="grid-3 grid-gap">
-      <a href="#wedding-photographers-mumbai" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/mumbai-wedding-card.webp') ?>" alt="Wedding Photography Mumbai" loading="lazy" class="mumbai-service-img">
+      <div class="card-warm mumbai-service-card">
+        <img src="<?= base_url('assets/images/mumbai-wedding-card.webp') ?>" width="1024" height="683" alt="Wedding Photography Mumbai" loading="lazy" class="mumbai-service-img">
         <h2 class="mumbai-service-title">The Best Wedding Photographers in Mumbai</h2>
-      </a>
+      </div>
       <a href="<?= base_url('/mumbai/engagement-photography-packages/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/engage-card-gold.webp') ?>" alt="Engagement Photography Packages" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/engage-card-gold.webp') ?>" width="1024" height="1024" alt="Engagement Photography Packages" loading="lazy" class="mumbai-service-img">
         <h2 class="mumbai-service-title">Engagement Photographers in Mumbai</h2>
       </a>
      <a href="<?= base_url('/pre-wedding-shoot-locations-mumbai/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/mumbai-prewedding-card.webp') ?>" alt="Pre-wedding Shoot Mumbai" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/mumbai-prewedding-card.webp') ?>" width="1024" height="683" alt="Pre-wedding Shoot Mumbai" loading="lazy" class="mumbai-service-img">
         <h2 class="mumbai-service-title">The Best Pre-wedding Shoot In Mumbai</h2>
       </a>
     </div>
@@ -57,9 +57,9 @@
     </div>
 
     <div class="maternity-gallery maternity-gallery-3col">
-      <img src="<?= base_url('assets/images/mumbai-wp-1.webp') ?>" alt="Wedding Photographers in Mumbai" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/mumbai-wp-2.webp') ?>" alt="Wedding Photographers in Mumbai" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/mumbai-wp-3.webp') ?>" alt="Wedding Photographers in Mumbai" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/mumbai-wp-1.webp') ?>" width="1600" height="2400" alt="Bride and groom walking down a flower-lined wedding aisle" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/mumbai-wp-2.webp') ?>" width="1600" height="2400" alt="Groom in a white sherwani and safa holding the bride close" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/mumbai-wp-3.webp') ?>" width="1600" height="2400" alt="Couple portrait in a pink silk saree and ivory kurta by a carved wooden door" loading="lazy" class="maternity-gallery-img">
     </div>
   </div>
 </section>
@@ -94,15 +94,15 @@
 <section class="section section-off">
   <div class="container">
     <div class="maternity-gallery maternity-gallery-3col">
-      <img src="<?= base_url('assets/images/mumbai-wp-5.webp') ?>" alt="Wedding Photography Mumbai" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/mumbai-wp-6.webp') ?>" alt="Wedding Photography Mumbai" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/mumbai-wp-7.webp') ?>" alt="Wedding Photography Mumbai" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/mumbai-wp-1.webp') ?>" alt="Wedding Photography Mumbai" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/mumbai-wp-8.webp') ?>" alt="Wedding Photography Mumbai" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/mumbai-wp-3.webp') ?>" alt="Wedding Photography Mumbai" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/mumbai-wp-9.webp') ?>" alt="Wedding Photography Mumbai" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/mumbai-wp-2.webp') ?>" alt="Wedding Photography Mumbai" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/mumbai-wp-10.webp') ?>" alt="Wedding Photography Mumbai" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/mumbai-wp-5.webp') ?>" width="1600" height="2400" alt="Couple holding hands outdoors, bride in a yellow lehenga" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/mumbai-wp-6.webp') ?>" width="1600" height="2400" alt="Close-up of the couple, bride in yellow with mehendi hands" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/mumbai-wp-7.webp') ?>" width="1600" height="2400" alt="Bride looking down under a red embroidered veil" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/mumbai-wp-1.webp') ?>" width="1600" height="2400" alt="Wide shot of the decorated wedding aisle with the couple" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/mumbai-wp-8.webp') ?>" width="1600" height="2400" alt="Bride in a pink silk saree standing beside the groom" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/mumbai-wp-3.webp') ?>" width="1600" height="2400" alt="Couple sharing a quiet moment in front of a carved door" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/mumbai-wp-9.webp') ?>" width="1600" height="2400" alt="Bride in a white lehenga twirling beside the groom" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/mumbai-wp-2.webp') ?>" width="1600" height="2400" alt="Groom and bride forehead to forehead in white outfits" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/mumbai-wp-10.webp') ?>" width="1600" height="2400" alt="Couple posing on a stage with orange and yellow decor" loading="lazy" class="maternity-gallery-img">
     </div>
   </div>
 </section>
@@ -171,12 +171,12 @@
     </div>
 
     <div class="maternity-gallery maternity-gallery-3col">
-      <img src="<?= base_url('assets/images/mumbai-wp-11.webp') ?>" alt="Wedding Portfolio Mumbai" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/mumbai-wp-3.webp') ?>" alt="Wedding Portfolio Mumbai" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/mumbai-wp-12.webp') ?>" alt="Wedding Portfolio Mumbai" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/mumbai-wp-5.webp') ?>" alt="Wedding Portfolio Mumbai" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/mumbai-wp-1.webp') ?>" alt="Wedding Portfolio Mumbai" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/mumbai-wp-13.webp') ?>" alt="Wedding Portfolio Mumbai" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/mumbai-wp-11.webp') ?>" width="1600" height="2400" alt="Groom in a white safa and the bride smiling, close-up" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/mumbai-wp-3.webp') ?>" width="1600" height="2400" alt="Traditional couple portrait, bride in pink with gold jewellery" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/mumbai-wp-12.webp') ?>" width="1600" height="2400" alt="Groom holding the bride from behind, bride in a pink saree" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/mumbai-wp-5.webp') ?>" width="1600" height="2400" alt="Candid outdoor walk, bride in a yellow and multicolour lehenga" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/mumbai-wp-1.webp') ?>" width="1600" height="2400" alt="Bride and groom at the end of a floral wedding aisle" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/mumbai-wp-13.webp') ?>" width="1600" height="2400" alt="Bride in a red bridal lehenga with the groom holding a sword" loading="lazy" class="maternity-gallery-img">
     </div>
   </div>
 </section>
@@ -221,9 +221,9 @@
 <section class="section section-off">
   <div class="container">
     <div class="maternity-gallery maternity-gallery-3col">
-      <img src="<?= base_url('assets/images/mumbai-wp-6.webp') ?>" alt="Mumbai Wedding Photography" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/mumbai-wp-8.webp') ?>" alt="Mumbai Wedding Photography" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/mumbai-wp-9.webp') ?>" alt="Mumbai Wedding Photography" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/mumbai-wp-6.webp') ?>" width="1600" height="2400" alt="Romantic close-up portrait, bride in a yellow outfit" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/mumbai-wp-8.webp') ?>" width="1600" height="2400" alt="Formal couple portrait, bride in pink and groom in ivory" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/mumbai-wp-9.webp') ?>" width="1600" height="2400" alt="Bride in white holding her lehenga as the groom watches" loading="lazy" class="maternity-gallery-img">
     </div>
   </div>
 </section>
@@ -240,12 +240,12 @@
       <div class="card-white card-white-padded-sm">
         <div class="testimonial-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
         <p class="card-white-text">"We couldn't have asked for a better team of wedding photographers. Every shot tells a story, and we are utterly delighted with the way they captured our special day!"</p>
-        <h4 class="card-white-title article-heading-gap"><strong>- Aditi &amp; Rahul</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>- Aditi &amp; Rahul</strong></h3>
       </div>
       <div class="card-white card-white-padded-sm">
         <div class="testimonial-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
         <p class="card-white-text">"The wedding film's cinematic work left us in tears. Thank you so much for bringing out every moment so beautifully!"</p>
-        <h4 class="card-white-title article-heading-gap"><strong>- Priya &amp; Vikram</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>- Priya &amp; Vikram</strong></h3>
       </div>
     </div>
   </div>
@@ -280,7 +280,7 @@
   <div class="container container-sm">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <p class="section-sub">The Bridal Photography having clients from all over India &amp; Out of India like the US, Canada, UK, and Dubai, etc. Considering the scope of Photography, we have started providing our Photography services in Mumbai. We coverd Candid photography, Cinmeatic Shoot &amp; Traditionl photography Videgraphy Services in wedding Events</p>
+      <p class="section-sub">The Bridal Photography having clients from all over India &amp; Out of India like the US, Canada, UK, and Dubai, etc. Considering the scope of Photography, we have started providing our Photography services in Mumbai. We cover candid photography, cinematic shoots, traditional photography and videography at wedding events.</p>
     </div>
 
     <div class="card-white card-white-padded mumbai-office-card">
@@ -289,7 +289,7 @@
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg>
         </div>
         <div class="mumbai-office-body">
-          <h4 class="mumbai-office-label">Office</h4>
+          <h3 class="mumbai-office-label lvl-h4">Office</h3>
           <p class="mumbai-office-text">1st Floor, Modi House, Off Link Rd, near Fun Republic Road, Khar, Andheri West, Mumbai, Maharashtra 400053</p>
         </div>
       </div>
@@ -299,7 +299,7 @@
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.01-.24 11.36 11.36 0 003.58.57 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.36 11.36 0 00.57 3.58 1 1 0 01-.25 1.01l-2.2 2.2z"/></svg>
         </div>
         <div class="mumbai-office-body">
-          <h4 class="mumbai-office-label">Managed By</h4>
+          <h3 class="mumbai-office-label lvl-h4">Managed By</h3>
           <p class="mumbai-office-text">Anil Anande &middot; <a href="tel:+918806225566" class="enquire-contact-link">+91 8806225566</a></p>
         </div>
       </div>
@@ -325,7 +325,7 @@
           <div class="enquire-contact-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg></div>
           <a href="mailto:thebridal11@gmail.com" class="enquire-contact-link">thebridal11@gmail.com</a>
         </div>
-        <p class="enquire-contact-text">Inquiry today by visiting our official website to know more.</p>
+        <p class="enquire-contact-text">Contact us today to book.</p>
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold pkg-card-btn">Book a Free Consultation Call</a>
       </div>
       <div class="enquire-form-card">

@@ -8,8 +8,9 @@
     <div class="page-hero-content-inner">
       <p class="eyebrow page-hero-eyebrow">Maternity Photography &middot; Ahilyanagar</p>
       <div class="page-hero-rule"></div>
-      <h1>Maternity photographer<br><em>in Ahilyanagar</em></h1>
+      <h1>Maternity Photographer<br><em>in Ahilyanagar</em></h1>
       <p class="page-hero-sub">Pregnancy is the most beautiful and emotional experience in life. It is the time of waiting, excitement and closeness.</p>
+      <p class="page-hero-sub" style="margin-top:.4rem;"><strong>Starting from ₹6,000</strong></p>
       <div class="page-hero-buttons">
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Now</a>
         <a href="tel:+918390367637" class="btn btn-white">+91 83903 67637</a>
@@ -27,9 +28,9 @@
       <p class="section-sub">Pregnancy is the most beautiful and emotional experience in life. It is the time of waiting, excitement and closeness when you are ready to bring a new life into your life. By documenting these wonderful times using professional maternity photography you will have the opportunity to keep the memories that you will have all your life. In need of a reliable maternity photographer in Ahilyanagar? The Bridal Photography will provide you with a high-quality, relaxing, and artistic maternity photoshoot experience that will be custom-made to fit the needs of a pregnant mother. In a combination of artistic imagination, precaution measures, and individualistic experience, our maternity photoshoot in Ahilyanagar sessions are devoted to the natural, relaxed, and fashionable celebration of motherhood.</p>
     </div>
     <div class="grid-3 grid-gap article-img-center">
-      <img src="<?= base_url('assets/images/ahily-mat-1.webp') ?>" alt="Maternity Ahilyanagar" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/ahily-mat-2.webp') ?>" alt="Maternity Ahilyanagar" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/ahily-mat-3.webp') ?>" alt="Maternity Ahilyanagar" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/ahily-mat-1.webp') ?>" width="1707" height="2560" alt="Maternity Ahilyanagar" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/ahily-mat-2.webp') ?>" width="1707" height="2560" alt="Maternity Ahilyanagar" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/ahily-mat-3.webp') ?>" width="1707" height="2560" alt="Maternity Ahilyanagar" loading="lazy" class="feature-img-full">
     </div>
   </div>
 </section>
@@ -52,7 +53,7 @@
       <p class="eyebrow section-head-eyebrow">Transparent Pricing</p>
       <div class="rule-center section-head-rule"></div>
       <h2 class="section-title">Maternity Photography<br><em>Packages &amp; Pricing</em></h2>
-      <p class="section-sub">Our packages of maternity photography can be adjusted to various tastes and budgets. Common inclusions can be:</p>
+      <p class="section-sub">Our maternity photography packages start from Rs 6,000 and can be adjusted to various tastes and budgets. Common inclusions can be:</p>
     </div>
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm"><p class="card-white-text">Pre-shoot consultation</p></div>
@@ -62,7 +63,7 @@
       <div class="card-white card-white-padded-sm"><p class="card-white-text">Editing and retouching is done professionally</p></div>
       <div class="card-white card-white-padded-sm"><p class="card-white-text">Digital photographs of high resolution</p></div>
     </div>
-    <p class="article-text article-text-gap">Selection of customized maternity photoshoots in Ahilyanagar packages as well can be done based on the amount of outfits, locations, session duration, and special theme requirements.</p>
+    <p class="article-text article-text-gap">We also offer custom maternity photoshoot packages in Ahilyanagar based on the number of outfits, locations, session duration and theme. Designer gowns are available for your shoot.</p>
   </div>
 </section>
 
@@ -77,20 +78,20 @@
     </div>
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Natural &amp; Emotional Moments</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Natural &amp; Emotional Moments</strong></h3>
         <p class="card-white-text">We capture genuine emotions and beautiful connections between parents, filled with love, joy, and excitement.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Comfortable &amp; Relaxed Sessions</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Comfortable &amp; Relaxed Sessions</strong></h3>
         <p class="card-white-text">We ensure every maternity shoot feels calm, comfortable, and enjoyable, so you feel confident throughout.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Indoor &amp; Outdoor Shoots</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Indoor &amp; Outdoor Shoots</strong></h3>
         <p class="card-white-text">From cozy indoor setups to natural outdoor locations, we create settings that match your style and Vibe.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Editing &amp; Timeless Photos</strong></h4>
-        <p class="card-white-text">Each photo is carefully edited to enhance colors and details while keeping a natural and timeless Look For Vibe.</p>
+        <h3 class="card-white-title lvl-h4"><strong>Editing &amp; Timeless Photos</strong></h3>
+        <p class="card-white-text">Each photo is carefully edited to enhance colors and details while keeping a natural and timeless look.</p>
       </div>
     </div>
   </div>
@@ -106,9 +107,9 @@
       <p class="section-sub section-sub-gap">Reach out to us for the availability of our best Maternity photographer in Ahilyanagar.</p>
     </div>
     <div class="maternity-gallery maternity-gallery-3col">
-      <img src="<?= base_url('assets/images/ahily-mat-4.webp') ?>" alt="Maternity Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-mat-5.webp') ?>" alt="Maternity Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-mat-6.webp') ?>" alt="Maternity Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-mat-4.webp') ?>" width="1703" height="2560" alt="Maternity Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-mat-5.webp') ?>" width="1703" height="2560" alt="Maternity Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-mat-6.webp') ?>" width="1703" height="2560" alt="Maternity Ahilyanagar" loading="lazy" class="maternity-gallery-img">
     </div>
   </div>
 </section>
@@ -124,19 +125,19 @@
     </div>
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Candid Maternity Portraits</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Candid Maternity Portraits</strong></h3>
         <p class="card-white-text">We capture natural and emotional maternity moments that reflect love, connection, and the joy of welcoming your little one.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Family Maternity Sessions</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Family Maternity Sessions</strong></h3>
         <p class="card-white-text">Include your partner and loved ones to capture meaningful family moments filled with warmth and connection.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Creative Maternity Concepts</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Creative Maternity Concepts</strong></h3>
         <p class="card-white-text">From indoor setups to outdoor locations, we create unique concepts with styling, props, and beautiful backgrounds.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Maternity Videos &amp; Reels</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Maternity Videos &amp; Reels</strong></h3>
         <p class="card-white-text">We create cinematic maternity videos and reels that beautifully capture your motherhood journey. For Happiness.</p>
       </div>
     </div>
@@ -153,27 +154,27 @@
     </div>
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Nature Parks and Gardens</h4>
+        <h3 class="card-white-title lvl-h4">Nature Parks and Gardens</h3>
         <p class="card-white-text">Fresh landscapes, open skies, and lush greenery create beautiful backdrops for maternity portraits.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Scenic Outdoor and Resorts</h4>
+        <h3 class="card-white-title lvl-h4">Scenic Outdoor and Resorts</h3>
         <p class="card-white-text">Outdoor locations offer a cinematic feel with natural light and scenic views for stunning maternity shots.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Studio Setups</h4>
+        <h3 class="card-white-title lvl-h4">Studio Setups</h3>
         <p class="card-white-text">Controlled lighting and elegant backdrops create a clean and timeless maternity look.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">At-Home Maternity Shoots</h4>
+        <h3 class="card-white-title lvl-h4">At-Home Maternity Shoots</h3>
         <p class="card-white-text">Comfort of your home adds a personal touch with warm, intimate, and relaxed moments.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Anand Dham Garden</h4>
+        <h3 class="card-white-title lvl-h4">Anand Dham Garden</h3>
         <p class="card-white-text">A peaceful green space with lush gardens and open paths, perfect for natural photos.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Sina River Bank</h4>
+        <h3 class="card-white-title lvl-h4">Sina River Bank</h3>
         <p class="card-white-text">Open skies, flowing water, and sunset views create a calm and romantic outdoor setting.</p>
       </div>
     </div>
@@ -190,25 +191,25 @@
     </div>
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Elegant Gown Portraits</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Elegant Gown Portraits</strong></h3>
         <p class="card-white-text">Flowing maternity gowns create an elegant and graceful look, highlighting the beauty of motherhood.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Couple Maternity Moments</strong></h4>
-        <p class="card-white-text">Include your partner to capture love, connection, and Shared joy during this special journey. Which is Enjoyable.</p>
+        <h3 class="card-white-title lvl-h4"><strong>Couple Maternity Moments</strong></h3>
+        <p class="card-white-text">Include your partner to capture love, connection, and shared joy during this special journey.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Silhouette Sunset Shots</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Silhouette Sunset Shots</strong></h3>
         <p class="card-white-text">Sunset lighting create dramatic and artistic silhouettes that enhance the beauty of your Shoot.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Candid Indoor Comfort Poses</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Candid Indoor Comfort Poses</strong></h3>
         <p class="card-white-text">Indoor sessions focus on natural moments, soft emotions, and comfortable, relaxed expressions. of Enjoyable Shoot.</p>
       </div>
     </div>
     <div class="grid-2 grid-gap article-img-center">
-      <img src="<?= base_url('assets/images/ahily-mat-7.webp') ?>" alt="Maternity Ahilyanagar" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/osho-6.webp') ?>" alt="Maternity Ahilyanagar" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/ahily-mat-7.webp') ?>" width="1600" height="2400" alt="Maternity Ahilyanagar" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/osho-6.webp') ?>" width="1707" height="2560" alt="Maternity Ahilyanagar" loading="lazy" class="feature-img-full">
     </div>
   </div>
 </section>
@@ -222,7 +223,7 @@
     </div>
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Outfit Tips</h4>
+        <h3 class="card-white-title lvl-h4">Outfit Tips</h3>
         <div class="article-content-block">
           <p class="article-text"><strong>Soft &amp; Elegant Colors:</strong> Soft pastel colors, neutral tones, and light shades photograph beautifully for maternity shoots. These colors create a calm and elegant look while keeping the focus on your baby bump and expressions.</p>
         </div>
@@ -234,7 +235,7 @@
         </div>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Pose Tips</h4>
+        <h3 class="card-white-title lvl-h4">Pose Tips</h3>
         <div class="article-content-block">
           <p class="article-text"><strong>Baby Bump Highlight Pose:</strong> Gently place your hands around your baby bump and look down with a soft smile. This pose beautifully highlights the connection between mother and baby while creating a warm and emotional photograph.</p>
         </div>
@@ -259,19 +260,19 @@
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"In Ahilyanagar, we value the team's patience, professionalism and creativity. They did the best job."</p>
-        <h4 class="card-white-title article-heading-gap"><strong>- Suman and Rahul</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>- Suman and Rahul</strong></h3>
       </div>
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"Beautiful candid captures by an experienced photographer in Ahilyanagar. We recommend them."</p>
-        <h4 class="card-white-title article-heading-gap"><strong>- Shiba and Saurabh</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>- Shiba and Saurabh</strong></h3>
       </div>
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"We just loved the way they did on-time delivery of photos after editing. The team was cordial and amiable."</p>
-        <h4 class="card-white-title article-heading-gap"><strong>- Nisha and Niyas</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>- Nisha and Niyas</strong></h3>
       </div>
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"Our maternity photoshoot was such a beautiful experience. The team made us feel very comfortable and guided us throughout the session. The photos captured our excitement and emotions perfectly, and we will cherish these memories forever. Highly recommended for anyone looking to capture their motherhood journey."</p>
-        <h4 class="card-white-title article-heading-gap"><strong>- Happy Parents</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>- Maternity Client</strong></h3>
       </div>
     </div>
   </div>
@@ -295,15 +296,15 @@
     <div class="section-head">
       <p class="eyebrow section-head-eyebrow">Common Questions</p>
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Trending Frequently Asked<br><em>Questions</em></h2>
+      <h2 class="section-title">Frequently Asked<br><em>Questions</em></h2>
     </div>
     <?php foreach([
       ['When is the best time for a maternity photoshoot?',
        'Usually, the best time is during the 28th to 34th week of pregnancy as the baby bump is already noticeable and at the same time, you are not too uncomfortable to take pictures.'],
       ['Is it possible to do the shoot back home in Ahilyanagar?',
        'Yes, absolutely. The home sessions are popular due to the comfort, privacy as well as personal touch.'],
-      ['Do you lead with positions and costumes?',
-       'Yes. In our team, there is a full instruction on how to pose, the choice of outfit, and the manner of styling to achieve a confident and flattering outcome.'],
+      ['Do you guide us with poses and outfits?',
+       'Yes. Our team guides you on poses, outfit choice and styling, so you feel confident and look your best.'],
       ['How many photographs will we get?',
        'The total number of final edited photographs varies depending on the package that you choose, yet all the photos are professionally edited and sent in high quality.'],
     ] as [$q,$a]): ?>
@@ -323,7 +324,7 @@
       <div class="enquire-contact-card">
         <div class="enquire-contact-item"><div class="enquire-contact-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.01-.24 11.36 11.36 0 003.58.57 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.36 11.36 0 00.57 3.58 1 1 0 01-.25 1.01l-2.2 2.2z"/></svg></div><a href="tel:+918390367637" class="enquire-contact-link">+91 8390367637</a></div>
         <div class="enquire-contact-item"><div class="enquire-contact-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg></div><a href="mailto:thebridal11@gmail.com" class="enquire-contact-link">thebridal11@gmail.com</a></div>
-        <p class="enquire-contact-text">Inquiry today by visiting our official website to know more.</p>
+        <p class="enquire-contact-text">Contact us today to book.</p>
         <a href="tel:+918390367637" class="btn btn-gold pkg-card-btn">Book a Free Consultation Call</a>
       </div>
       <div class="enquire-form-card">

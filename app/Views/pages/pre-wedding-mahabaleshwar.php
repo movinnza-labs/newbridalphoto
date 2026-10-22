@@ -11,7 +11,7 @@
       <p class="eyebrow page-hero-eyebrow">Pre-Wedding Photography &middot; Mahabaleshwar</p>
       <div class="page-hero-rule"></div>
       <h1>Pre Wedding Shoot in<br><em>Mahabaleshwar</em></h1>
-      <p class="page-hero-sub">Greetings, lovebirds and photography enthusiasts! Mahabaleshwar is not just a scenic hill station but a perfect canvas for capturing the pure essence of love.</p>
+      <p class="page-hero-sub">Our guide to the best spots, seasons, themes and tips for a pre wedding shoot in Mahabaleshwar.</p>
       <div class="page-hero-buttons">
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Now</a>
         <a href="tel:+918390367637" class="btn btn-white">+91 83903 67637</a>
@@ -56,7 +56,7 @@
     <!-- Lush Greenery -->
     <div class="feature-row feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/mahab-venna.webp') ?>" alt="Pre-Wedding Destinations in Mahabaleshwar" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/mahab-venna.webp') ?>" width="1000" height="563" alt="Pre-Wedding Destinations in Mahabaleshwar" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <h3 class="article-heading">Lush Greenery and Scenic Landscapes</h3>
@@ -67,7 +67,7 @@
     <!-- Alluring Weather -->
     <div class="feature-row reverse feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/mahab-weather.webp') ?>" alt="Misty weather in Mahabaleshwar for a pre wedding shoot" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/mahab-weather.webp') ?>" width="1000" height="667" alt="Misty weather in Mahabaleshwar for a pre wedding shoot" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <h3 class="article-heading">Alluring Weather</h3>
@@ -87,7 +87,7 @@
 
     <div class="feature-row feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/mahab-fort.webp') ?>" alt="Pre-Wedding Destinations in Mahabaleshwar" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/mahab-fort.webp') ?>" width="279" height="181" alt="Pre-Wedding Destinations in Mahabaleshwar" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text">Beyond its natural beauty, Mahabaleshwar boasts a rich history and charming colonial architecture. The Pratapgad Fort and Mahabaleshwar Temple offer a historical touch to your pre-wedding album, creating a beautiful blend of tradition and modern romance.</p>
@@ -107,7 +107,7 @@
     <!-- Strawberry Fields -->
     <div class="feature-row reverse feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/mahab-strawberry.webp') ?>" alt="Pre-Wedding Destinations in Mahabaleshwar" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/mahab-strawberry.webp') ?>" width="700" height="298" alt="Pre-Wedding Destinations in Mahabaleshwar" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <h3 class="article-heading">Strawberry Fields Forever</h3>
@@ -120,9 +120,9 @@
     <p class="article-text">Venna Lake provides a dreamy lakeside setting for couples to capture serene moments. Boat rides, lakeside strolls, and candid shots against the backdrop of the calm waters create a timeless and romantic feel.</p>
 
     <div class="grid-3 grid-gap article-img-center">
-      <img src="<?= base_url('assets/images/mahab-lake-1.webp') ?>" alt="Pre-Wedding Destinations in Mahabaleshwar" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/mahab-lake-2.webp') ?>" alt="Pre-Wedding Destinations in Mahabaleshwar" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/mahab-lake-3.webp') ?>" alt="Pre-Wedding Destinations in Mahabaleshwar" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mahab-lake-1.webp') ?>" width="259" height="194" alt="Pre-Wedding Destinations in Mahabaleshwar" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mahab-lake-2.webp') ?>" width="299" height="168" alt="Pre-Wedding Destinations in Mahabaleshwar" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mahab-lake-3.webp') ?>" width="275" height="183" alt="Pre-Wedding Destinations in Mahabaleshwar" loading="lazy" class="feature-img-full">
     </div>
 
     <!-- Misty Magic -->
@@ -141,28 +141,28 @@
     </div>
 
     <!-- Timing is Key -->
-    <h4 class="article-heading">Timing is Key</h4>
+    <h3 class="article-heading lvl-h4">Timing is Key</h3>
     <p class="article-text">Plan your shoot during the early morning or late afternoon to capture the soft, golden light that enhances the natural beauty of Mahabaleshwar.</p>
 
     <div class="grid-3 grid-gap article-img-center">
-      <img src="<?= base_url('assets/images/mahab-shoot-1.webp') ?>" alt="Golden hour pre wedding shoot in Mahabaleshwar" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/mahab-shoot-2.webp') ?>" alt="Morning light pre wedding shoot in Mahabaleshwar" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/mahab-shoot-3.webp') ?>" alt="Couple pre wedding photoshoot in Mahabaleshwar" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mahab-shoot-1.webp') ?>" width="683" height="1024" alt="Golden hour pre wedding shoot in Mahabaleshwar" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mahab-shoot-2.webp') ?>" width="683" height="1024" alt="Morning light pre wedding shoot in Mahabaleshwar" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mahab-shoot-3.webp') ?>" width="448" height="1024" alt="Couple pre wedding photoshoot in Mahabaleshwar" loading="lazy" class="feature-img-full">
     </div>
 
     <!-- Blend of Attire -->
     <div class="feature-row feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/mahab-attire.webp') ?>" alt="Pre-Wedding Destinations in Mahabaleshwar" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/mahab-attire.webp') ?>" width="259" height="194" alt="Pre-Wedding Destinations in Mahabaleshwar" loading="lazy" class="feature-img-full">
       </div>
       <div>
-        <h4 class="article-heading">Blend of Traditional and Modern Attire</h4>
+        <h3 class="article-heading lvl-h4">Blend of Traditional and Modern Attire</h3>
         <p class="article-text">With the historical sites in Mahabaleshwar, consider a wardrobe that combines traditional and modern elements. Flowing gowns against the backdrop of forts or classic attire for a temple shoot can add a unique touch.</p>
       </div>
     </div>
 
     <!-- Local Flavors -->
-    <h4 class="article-heading article-heading-gap">Local Flavors and Elements</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Local Flavors and Elements</h3>
     <p class="article-text">Incorporate local elements like fresh strawberries, traditional Maharashtrian jewelry, or even a horse-drawn carriage for a touch of local charm.</p>
 
     <p class="article-text article-text-gap">At The Bridal Photography, we're excited to embark on this journey with you, capturing the magic of your love amidst the picturesque landscapes of Mahabaleshwar. Book your pre-wedding shoot with us and let the romance unfold in every frame. Mahabaleshwar is not just a destination; it's a love story waiting to be told through the lens of our experienced photographers.</p>
@@ -215,6 +215,7 @@
       <a href="<?= base_url('/mahabaleshwar/') ?>" class="tag-link">Photographers in Mahabaleshwar</a>
       <a href="<?= base_url('/mahabaleshwar/wedding-photographers/') ?>" class="tag-link">Wedding Mahabaleshwar</a>
       <a href="<?= base_url('/mahabaleshwar/engagement-photographers/') ?>" class="tag-link">Engagement Mahabaleshwar</a>
+      <a href="<?= base_url('/blog/the-charm-of-mahabaleshwar-ideal-backdrops-for-wedding-photography/') ?>" class="tag-link">Wedding photo spots in Mahabaleshwar</a>
       <a href="<?= base_url('/when-to-take-pre-wedding-shoot/') ?>" class="tag-link">When to Shoot</a>
     </div>
   </div>

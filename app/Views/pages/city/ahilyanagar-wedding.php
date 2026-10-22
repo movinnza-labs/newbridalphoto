@@ -10,6 +10,7 @@
       <div class="page-hero-rule"></div>
       <h1>Wedding Photographers<br><em>in Ahilyanagar</em></h1>
       <p class="page-hero-sub">Book us for the best wedding photoshoot in Ahilyanagar and make your wedding memories long-lasting.</p>
+      <p class="page-hero-sub" style="margin-top:.4rem;"><strong>Starting from ₹35,000 per day</strong></p>
       <div class="page-hero-buttons">
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Now</a>
         <a href="tel:+918390367637" class="btn btn-white">+91 83903 67637</a>
@@ -30,14 +31,14 @@
 
     <!-- Gallery -->
     <div class="maternity-gallery maternity-gallery-3col">
-      <img src="<?= base_url('assets/images/ahily-wed-1.webp') ?>" alt="Wedding Photography Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-wed-2.webp') ?>" alt="Wedding Photography Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-wed-3.webp') ?>" alt="Wedding Photography Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-wed-4.webp') ?>" alt="Wedding Photography Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-wed-5.webp') ?>" alt="Wedding Photography Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-wed-6.webp') ?>" alt="Wedding Photography Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-wed-7.webp') ?>" alt="Wedding Photography Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-wed-8.webp') ?>" alt="Wedding Photography Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-1.webp') ?>" width="1600" height="2400" alt="Wedding Photography Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-2.webp') ?>" width="1600" height="2400" alt="Wedding Photography Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-3.webp') ?>" width="683" height="1024" alt="Wedding Photography Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-4.webp') ?>" width="1600" height="2400" alt="Wedding Photography Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-5.webp') ?>" width="683" height="1024" alt="Wedding Photography Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-6.webp') ?>" width="1600" height="2400" alt="Wedding Photography Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-7.webp') ?>" width="1600" height="2400" alt="Wedding Photography Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-8.webp') ?>" width="1600" height="2400" alt="Wedding Photography Ahilyanagar" loading="lazy" class="maternity-gallery-img">
     </div>
   </div>
 </section>
@@ -60,28 +61,28 @@
     <div class="section-head">
       <p class="eyebrow section-head-eyebrow">Why Choose Us</p>
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Why to Select The Bridal Photography in Ahilyanagar<br><em>for Wedding Photography?</em></h2>
+      <h2 class="section-title">Why Choose The Bridal Photography in Ahilyanagar<br><em>for Wedding Photography?</em></h2>
       <p class="section-sub">Choosing the right wedding photographer is all about trust, artistry and experience. This is why couples in Ahilyanagar opt for The Bridal Photography:</p>
     </div>
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Experienced Professional Team</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Experienced Professional Team</strong></h3>
         <p class="card-white-text">Your big day will get professional photography by experienced wedding photographers who bring the coordination and experience.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Local Venue Expertise</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Local Venue Expertise</strong></h3>
         <p class="card-white-text">With our wedding photoshoot in Ahilyanagar service, we know all the popular wedding venues and outdoor sites in Ahilyanagar.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Creative Storytelling Approach</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Creative Storytelling Approach</strong></h3>
         <p class="card-white-text">We take more than pictures, we tell your love story with feelings, details and stunning creative vision.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Modern Equipment</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Modern Equipment</strong></h3>
         <p class="card-white-text">We utilize cutting edge tools ranging from high end cameras to the latest photo editing softwares and techniques to produce clean, crisp quality photos.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Customized Packages</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Customized Packages</strong></h3>
         <p class="card-white-text">Every wedding is unique. We provide flexible photography options to suit your needs, budget and occasion size.</p>
       </div>
     </div>
@@ -112,7 +113,7 @@
     <!-- Cinematic Couple Portraits -->
     <div class="feature-row feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/ahily-wed-5.webp') ?>" alt="Cinematic Couple Portraits" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/ahily-wed-5.webp') ?>" width="683" height="1024" alt="Cinematic Couple Portraits" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <h3 class="article-heading">Cinematic Couple Portraits</h3>
@@ -124,7 +125,7 @@
     <!-- Creative Night Photography -->
     <div class="feature-row reverse feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/ahily-wed-9.webp') ?>" alt="Creative Night Photography" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/ahily-wed-9.webp') ?>" width="1600" height="2400" alt="Creative Night Photography" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <h3 class="article-heading">Creative Night Photography</h3>
@@ -136,7 +137,7 @@
     <!-- Candid Emotions -->
     <div class="feature-row feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/ahily-wed-10.webp') ?>" alt="Candid Emotions" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/ahily-wed-10.webp') ?>" width="1600" height="2400" alt="Candid Emotions" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <h3 class="article-heading">Candid Emotions &amp; Real Moments</h3>
@@ -148,7 +149,7 @@
     <!-- Family & Guest -->
     <div class="feature-row reverse feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/ahily-wed-11.webp') ?>" alt="Family Coverage" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/ahily-wed-11.webp') ?>" width="1600" height="2400" alt="Family Coverage" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <h3 class="article-heading">Family &amp; Guest Candid Coverage</h3>
@@ -170,23 +171,23 @@
     </div>
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Wedding Lawns with Lighting Arrangements</h4>
+        <h3 class="card-white-title lvl-h4">Wedding Lawns with Lighting Arrangements</h3>
         <p class="card-white-text">Magical evening photography is possible on outdoor lawns adorned with fairy lights, chandeliers and stage props. We capture at heart warming, soulful and spacious venue functions supported by magnificent lighting.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Banquet Halls with Stage D&eacute;cor</h4>
+        <h3 class="card-white-title lvl-h4">Banquet Halls with Stage D&eacute;cor</h3>
         <p class="card-white-text">For classic wedding photography, you can choose the indoor banquet halls where you have decorated stages. From custom gallery orders to family photos so well-lit and posed, we are the full service one stop shop for all your photography needs.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Traditional Temple Ceremonies</h4>
+        <h3 class="card-white-title lvl-h4">Traditional Temple Ceremonies</h3>
         <p class="card-white-text">There is no question temple weddings are emotional and full of culture. And we concentrate on rituals, blessings and genuine reactions even as we are respectful of tradition and religious atmosphere.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Garden Day Weddings With Floral Mandaps</h4>
+        <h3 class="card-white-title lvl-h4">Garden Day Weddings With Floral Mandaps</h3>
         <p class="card-white-text">Your daytime garden wedding offer a lot of natural light, colorful scenes and fresh flower decorations perfect for casual photos as well as romantic poses.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Reception Dance Floors and Candid Moments</h4>
+        <h3 class="card-white-title lvl-h4">Reception Dance Floors and Candid Moments</h3>
         <p class="card-white-text">Our wedding photographers in Ahilyanagar film great moments on the dance floor, speeches and guests having a good time.</p>
       </div>
     </div>
@@ -219,9 +220,9 @@
 <section class="section section-off">
   <div class="container">
     <div class="maternity-gallery maternity-gallery-3col">
-      <img src="<?= base_url('assets/images/ahily-wed-12.webp') ?>" alt="Wedding Photography Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-wed-13.webp') ?>" alt="Wedding Photography Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-wed-14.webp') ?>" alt="Wedding Photography Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-12.webp') ?>" width="1600" height="2400" alt="Wedding Photography Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-13.webp') ?>" width="1600" height="2400" alt="Wedding Photography Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-14.webp') ?>" width="1600" height="2400" alt="Wedding Photography Ahilyanagar" loading="lazy" class="maternity-gallery-img">
     </div>
   </div>
 </section>
@@ -237,15 +238,15 @@
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"Absolutely amazing experience! The Bridal Photography did a fab job of capturing all the feels. Our wedding album looks stunning."</p>
-        <h4 class="card-white-title article-heading-gap"><strong>- Neha &amp; Rohan</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>- Neha &amp; Rohan</strong></h3>
       </div>
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"Professional team with great ideas. The candid photos came out amazing."</p>
-        <h4 class="card-white-title article-heading-gap"><strong>- Aditi &amp; Sameer</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>- Aditi &amp; Sameer</strong></h3>
       </div>
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"From the rituals to reception fun, all moments have been captured beautifully. Best Candid photographers in Ahilyanagar."</p>
-        <h4 class="card-white-title article-heading-gap"><strong>- Priya &amp; Kunal</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>- Priya &amp; Kunal</strong></h3>
       </div>
     </div>
   </div>
@@ -260,8 +261,8 @@
       <h2 class="section-title">Trending Frequently Asked<br><em>Questions</em></h2>
     </div>
     <?php foreach([
-      ['How much Ahilyanagar photographers charge for wedding?',
-       'The cost of wedding photography is determined by the length of the event, photographer\'s experience, coverage style and other factors. The Bridal Photography has a variety of packages for every budget; however, all the packages offer top notch quality.'],
+      ['How much do wedding photographers in Ahilyanagar charge?',
+       'Our wedding photography packages start from Rs 35,000 per day. The final cost depends on the length of the event, the coverage style and the services you choose.'],
       ['Do you blend candid &amp; traditional photography?',
        'Yes, we offer both candid as well traditional wedding photography. Our crew maintains proper records of the natural shots and important ceremonial moments.'],
       ['How early should we book our date?',
@@ -285,7 +286,7 @@
       <div class="enquire-contact-card">
         <div class="enquire-contact-item"><div class="enquire-contact-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.01-.24 11.36 11.36 0 003.58.57 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.36 11.36 0 00.57 3.58 1 1 0 01-.25 1.01l-2.2 2.2z"/></svg></div><a href="tel:+918390367637" class="enquire-contact-link">+91 8390367637</a></div>
         <div class="enquire-contact-item"><div class="enquire-contact-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg></div><a href="mailto:thebridal11@gmail.com" class="enquire-contact-link">thebridal11@gmail.com</a></div>
-        <p class="enquire-contact-text">Inquiry today by visiting our official website to know more.</p>
+        <p class="enquire-contact-text">Contact us today to book.</p>
         <a href="tel:+918390367637" class="btn btn-gold pkg-card-btn">Book a Free Consultation Call</a>
       </div>
       <div class="enquire-form-card">
@@ -304,5 +305,5 @@
   </div>
 </section>
 
-<section class="section-related-pages"><div class="container"><p class="eyebrow section-related-eyebrow">Related Pages</p><div class="tag-links"><a href="<?= base_url('/ahilyanagar/') ?>" class="tag-link">Ahilyanagar Hub</a><a href="<?= base_url('/ahilyanagar/pre-wedding-shoot/') ?>" class="tag-link">Pre-Wedding</a><a href="<?= base_url('/ahilyanagar/engagement-photographers/') ?>" class="tag-link">Engagement</a><a href="<?= base_url('/faq/') ?>" class="tag-link">FAQ</a></div></div></section>
+<section class="section-related-pages"><div class="container"><p class="eyebrow section-related-eyebrow">Related Pages</p><div class="tag-links"><a href="<?= base_url('/ahilyanagar/') ?>" class="tag-link">Ahilyanagar Hub</a><a href="<?= base_url('/ahilyanagar/pre-wedding-shoot/') ?>" class="tag-link">Pre-Wedding</a><a href="<?= base_url('/ahilyanagar/engagement-photographers/') ?>" class="tag-link">Engagement</a><a href="<?= base_url('/ahilyanagar/corporate-event-meeting-shoot/') ?>" class="tag-link">Corporate Event Photography in Ahilyanagar</a><a href="<?= base_url('/faq/') ?>" class="tag-link">FAQ</a></div></div></section>
 <section class="cta-section"><div class="container-xs cta-section-inner"><h2 class="cta-title">Need a Photographer?<br><em class="cta-title-em">Someone With Experience to Collaborate With?</em></h2><div class="cta-buttons"><a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Let's Work</a><a href="https://wa.me/918390367637" class="btn btn-outline-dark" target="_blank" rel="noopener">WhatsApp Us</a></div></div></section>

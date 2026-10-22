@@ -10,7 +10,7 @@
     <div class="page-hero-content-inner">
       <p class="eyebrow page-hero-eyebrow">Pre-Wedding Photography &middot; Pune</p>
       <div class="page-hero-rule"></div>
-      <h1>Pre Wedding Shoot<br><em>Locations in Pune</em></h1>
+      <h1>18 Best Pre Wedding Shoot<br><em>Locations in Pune</em></h1>
       <p class="page-hero-sub">Please feel free to browse through our Website, The Bridal Photography, your specialists pre wedding photographer in pune.</p>
       <div class="page-hero-buttons">
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book your session now!</a>
@@ -38,7 +38,7 @@
         <p class="article-text article-text-gap">Here's a detailed list of some of the reasonable <strong>budget pre-wedding shoots in Pune</strong>, along with their unique features and costs:</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/engage-time.webp') ?>" alt="Pre-Wedding Photoshoot Pune Couple" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/engage-time.webp') ?>" width="7008" height="4672" alt="Pre-Wedding Photoshoot Pune Couple" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>
@@ -67,7 +67,7 @@
         </ul>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/snapcity-3.webp') ?>" alt="Snapcity Pre-Wedding Shoot Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/snapcity-3.webp') ?>" width="1024" height="683" alt="Snapcity Pre-Wedding Shoot Pune" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>
@@ -82,11 +82,11 @@
     </div>
     <div class="feature-row reverse feature-row-balanced">
       <div>
-        <p class="article-text">If you have a preference for cinematic and traditional settings, PBA Film City is the ideal choice. Gujarat offers more than 50 sets, including themed rooms such as the stunning Rajwada, along with other traditional elements, making it an ideal location for spectacular photo shoots. Apart from various props, cars, cycles, and even a private lake, your shoot looks luxurious and quite royal. Also, go for <strong>Pre-wedding photographers in Pune</strong> who know the locations.</p>
+        <p class="article-text">If you have a preference for cinematic and traditional settings, PBA Film City is the ideal choice. It offers more than 50 sets, including themed rooms such as the stunning Rajwada, along with other traditional elements, making it an ideal location for spectacular photo shoots. Apart from various props, cars, cycles, and even a private lake, your shoot looks luxurious and quite royal. Also, go for <strong>Pre-wedding photographers in Pune</strong> who know the locations.</p>
         <h3 class="article-heading article-heading-gap">Features:</h3>
         <ul class="pkg-detail-list">
           <li>Traditional Rajwada sets.</li>
-          <li>Old model cars and cycles are the subject of awards.</li>
+          <li>Vintage cars and cycles to use as props.</li>
           <li>It's a small private lake where some select images from the series are captured.</li>
           <li>Our team will provide the changing facilities.</li>
           <li>The distance from the city is 29 km.</li>
@@ -95,7 +95,7 @@
         <p class="article-text">For a whole day, depending on the intricacy of the gown, the charges range between ₹8,000 and ₹10,000.</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/pba-filmcity-1.webp') ?>" alt="PBA Film City Pre-Wedding Shoot Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/pba-filmcity-1.webp') ?>" width="1024" height="683" alt="PBA Film City Pre-Wedding Shoot Pune" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>
@@ -124,7 +124,7 @@
         <p class="article-text article-text-gap"><strong>Also Read :</strong> <a href="<?= base_url('/pre-wedding-shoot-satara/') ?>" class="article-link"><strong>Top 7 Pre Wedding Shoot Location in Satara</strong></a></p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/pixelcity-1.webp') ?>" alt="Pixel City Pre-Wedding Shoot Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/pixelcity-1.webp') ?>" width="683" height="1024" alt="Pixel City Pre-Wedding Shoot Pune" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>
@@ -139,7 +139,7 @@
     </div>
     <div class="feature-row reverse feature-row-balanced">
       <div>
-        <p class="article-text">The pre-wedding shoot at Sets by Pune Dusk, which is on a budget, promises a picturesque backdrop of hills and a nearby river. Including over thirty sets from nature tonight, this is perfect for couples who want nature and imagination on a table. One aspect they offer is their drone package, which is absolutely worth it to capture the gorgeous surroundings.</p>
+        <p class="article-text">The pre-wedding shoot at Sets by Pune Dusk, which is on a budget, promises a picturesque backdrop of hills and a nearby river. With more than thirty day and night sets surrounded by natural scenery, it suits couples who want both nature and creative set designs in one place. One aspect they offer is their drone package, which is absolutely worth it to capture the gorgeous surroundings.</p>
         <h3 class="article-heading article-heading-gap">Features:</h3>
         <ul class="pkg-detail-list">
           <li>A scenic hilltop location.</li>
@@ -153,7 +153,7 @@
         <p class="article-text">₹6,000 to ₹10,000.</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/punedusk-3.webp') ?>" alt="The Bhor Pune Dusk Sets Pre-Wedding Shoot" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/punedusk-3.webp') ?>" width="1024" height="683" alt="The Bhor Pune Dusk Sets Pre-Wedding Shoot" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>
@@ -174,7 +174,7 @@
         <p class="article-text">Saras Baug, formerly a dried-up lake and now a garden and landmark of the city, is lush with vegetation. In addition, you have a 25-acre area to use when taking pre-wedding photos in Pune to add variety to your shots. Plan a morning shoot to avoid crowds and enjoy the weather. This is a romantic destination close to Pune.</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/parvati-hill.webp') ?>" alt="Parvati Hill Pre-Wedding Shoot Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/parvati-hill.webp') ?>" width="287" height="176" alt="Parvati Hill Pre-Wedding Shoot Pune" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>
@@ -205,7 +205,7 @@
         </ul>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/viva-filmcity-1.webp') ?>" alt="PBA Viva Film City Bopdev Ghat" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/viva-filmcity-1.webp') ?>" width="1024" height="683" alt="PBA Viva Film City Bopdev Ghat" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>
@@ -233,7 +233,7 @@
         <p class="article-text">₹3,500 for 6 hours (3 pm to 9 pm).</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/natures-paradise-1.webp') ?>" alt="Nature's Paradise Sets Veer Dam" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/natures-paradise-1.webp') ?>" width="1024" height="663" alt="Nature's Paradise Sets Veer Dam" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>
@@ -251,7 +251,7 @@
         <p class="article-text">Singhad Fort, which is almost a ruin, is one of the best locations in Pune for pre-wedding photography and looks especially lovely during the monsoon season. The area becomes much greener after rain, and your album naturally becomes much more colorful. The fort looks equally captivating at all times of day, which is the best part. Don't overlook the lovely surroundings while you're shooting.</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/sinhagad-fort.webp') ?>" alt="Sinhagad Fort Pre-Wedding Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/sinhagad-fort.webp') ?>" width="1024" height="576" alt="Sinhagad Fort Pre-Wedding Pune" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>
@@ -269,7 +269,7 @@
         <p class="article-text">Looking for historic locations in Pune for a pre-wedding photo shoot? Aga Khan Palace, an architectural marvel built in 1892, features Italian arches and expansive lawns. A meticulously carved stone fountain is located directly on its front. The entire panorama serves as a lovely backdrop for the pictures. Aga Khan Palace is the best option if you're looking for elegant pre-wedding photography locations in Pune. Anytime of the day is suitable for planning a shoot here.</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/aga-khan-palace.webp') ?>" alt="Aga Khan Palace Pre-Wedding Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/aga-khan-palace.webp') ?>" width="274" height="184" alt="Aga Khan Palace Pre-Wedding Pune" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>
@@ -296,7 +296,7 @@
         <p class="article-text">500 INR for 4 hours.</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/sangameshwar-temple.webp') ?>" alt="Sangameshwar Temple Saswad Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/sangameshwar-temple.webp') ?>" width="1024" height="576" alt="Sangameshwar Temple Saswad Pune" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>
@@ -326,7 +326,7 @@
         </ul>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/empress-garden-1.webp') ?>" alt="Empress Garden Hadapsar Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/empress-garden-1.webp') ?>" width="683" height="1024" alt="Empress Garden Hadapsar Pune" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>
@@ -337,20 +337,21 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Fort Jagdhavgadh &amp;<br><em>Pataleshwar Temple</em></h2>
+      <h2 class="section-title">Fort Jadhavgadh, Pataleshwar Temple<br><em>&amp; Khadakwasla Lake</em></h2>
     </div>
     <div class="feature-row reverse feature-row-balanced">
       <div>
-        <h3 class="article-heading">Fort Jagdhavgadh</h3>
+        <h3 class="article-heading">Fort Jadhavgadh</h3>
         <p class="article-text">Fort Jadhavgadh, which has a 300-year history, is now a 3-star hotel. You can anticipate a blending of modernity and antiquity here. One of Pune's most stunning and tranquil pre-wedding photo locations, it features a pool, a lush lawn, fortified walls, and exquisite decor.</p>
         <p class="article-text article-text-gap">Please take note that since this is a resort, special permission from the management is required for a pre-wedding photo shoot here.</p>
         <h3 class="article-heading article-heading-gap">Pataleshwar Temple: Rugged And Enchanting</h3>
         <p class="article-text">Pataleshwar Temple will never disappoint couples looking for a rugged setting for their pre-wedding photoshoot in Pune. Rustic square pillars, mandapa, and other heritage-related buildings can be found at this archaeological site from the eighth century. Arrive here before sunrise for colorful and attractive pictures.</p>
         <p class="article-text article-text-gap">Please be aware that taking pictures here might require special authorization.</p>
-        <p class="article-text article-text-gap">Khadakwasla Lake, a serene and breathtaking location, is a fantastic pre-wedding shoot location just a 40-minute drive from Pune. The best time to take photos of the blazing sun rays is before sunrise. Couples who prefer simplicity and elegance frequently choose the lake as their backdrop due to its tranquility.</p>
+        <h3 class="article-heading article-heading-gap">Khadakwasla Lake</h3>
+        <p class="article-text">Khadakwasla Lake, a serene and breathtaking location, is a fantastic pre-wedding shoot location just a 40-minute drive from Pune. The best time to take photos of the blazing sun rays is before sunrise. Couples who prefer simplicity and elegance frequently choose the lake as their backdrop due to its tranquility.</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/fort-jadhavgadh.webp') ?>" alt="Fort Jagdhavgadh Pre-Wedding Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/fort-jadhavgadh.webp') ?>" width="750" height="422" alt="Fort Jadhavgadh Pre-Wedding Pune" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>
@@ -377,7 +378,7 @@
         <p class="article-text">₹500 for a 2-hour slot.</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/paul-deshpande-1.webp') ?>" alt="Paul Deshpande Japanese Garden Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/paul-deshpande-1.webp') ?>" width="683" height="1024" alt="Paul Deshpande Japanese Garden Pune" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>
@@ -401,10 +402,10 @@
           <li>The distance from the city is 1.2 km.</li>
         </ul>
         <h3 class="article-heading article-heading-gap">Cost:</h3>
-        <p class="article-text">It depends on the time of construction and the approval of permits.</p>
+        <p class="article-text">There is no set fee. The cost depends on the time of the shoot and on any permits needed for the spots you choose.</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/pune-street-1.webp') ?>" alt="Pune Street Mandai Shaniwar Wada" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/pune-street-1.webp') ?>" width="1024" height="683" alt="Pune Street Mandai Shaniwar Wada" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>
@@ -439,19 +440,19 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Last Few Ideas to Bear in Mind<br><em>About Your Engagement Session</em></h2>
+      <h2 class="section-title">Last Few Ideas to Bear in Mind<br><em>About Your Pre Wedding Shoot</em></h2>
     </div>
     <div class="feature-row feature-row-balanced">
       <div>
         <ol class="pkg-detail-list">
           <li><strong>Plan your theme:</strong> Start choosing your theme early and then choose the right venue.</li>
           <li><strong>Have a budget:</strong> Find a location that offers packages, such as props and costumes, to avoid incurring extra costs.</li>
-          <li><strong>Timing is everything:</strong> Outdoor shooting is possible only at dawn and dusk.</li>
+          <li><strong>Timing is everything:</strong> Outdoor light is softest at dawn and dusk, so plan outdoor spots for those hours.</li>
         </ol>
         <p class="article-text article-text-gap">These offers can make your pre-wedding photoshoot in Pune as exciting as your ceremony itself, all at an honest and reasonable price. Pune has something for every couple: a beautiful garden, a lovely lake view, or a movie set background. Choose an affordable pre-wedding location in Pune that resonates with your story. Choose a location that resonates with your story and creates enduring memories.</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/engage-couple-reception.webp') ?>" alt="Engagement Session Pune Couple" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/engage-couple-reception.webp') ?>" width="1024" height="473" alt="Engagement Session Pune Couple" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>
@@ -469,7 +470,7 @@
         <p class="article-text">Lavasa, one of Pune's most popular locations for photo shoots, is just a 2-hour drive from Pune and reminds us of a bustling Italian township. Warasgaon Lake completes this masterfully designed city's array of vibrant buildings. The city makes for a beautiful backdrop, but the lake's beauty is just as alluring. Choose the best locations for your lovely pre-wedding album as you wander the area.</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/lavasa-couple-1.webp') ?>" alt="Lavasa Pre-Wedding Shoot Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/lavasa-couple-1.webp') ?>" width="1024" height="796" alt="Lavasa Pre-Wedding Shoot Pune" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>
@@ -513,7 +514,7 @@
         </p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/lavasa-couple-2.webp') ?>" alt="Pre-Wedding Shoot Couple at Lavasa" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/lavasa-couple-2.webp') ?>" width="1600" height="1068" alt="Pre-Wedding Shoot Couple at Lavasa" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>
@@ -534,12 +535,12 @@
 <section class="section section-white">
   <div class="container">
     <div class="pw-collage">
-      <img src="<?= base_url('assets/images/pw-collage-1.webp') ?>" alt="Pre-wedding shoot" loading="lazy" class="pw-collage-tall">
-      <img src="<?= base_url('assets/images/pw-collage-2.webp') ?>" alt="Pre-wedding shoot" loading="lazy" class="pw-collage-wide">
-      <img src="<?= base_url('assets/images/pw-collage-3.webp') ?>" alt="Pre-wedding shoot" loading="lazy" class="pw-collage-sm">
-      <img src="<?= base_url('assets/images/pw-collage-4.webp') ?>" alt="Pre-wedding shoot" loading="lazy" class="pw-collage-sm">
-      <img src="<?= base_url('assets/images/pw-collage-5.webp') ?>" alt="Pre-wedding shoot" loading="lazy" class="pw-collage-tall">
-      <img src="<?= base_url('assets/images/pw-collage-6.webp') ?>" alt="Pre-wedding shoot" loading="lazy" class="pw-collage-wide">
+      <img src="<?= base_url('assets/images/pw-collage-1.webp') ?>" width="1600" height="2400" alt="Pre-wedding shoot" loading="lazy" class="pw-collage-tall">
+      <img src="<?= base_url('assets/images/pw-collage-2.webp') ?>" width="1600" height="2400" alt="Pre-wedding shoot" loading="lazy" class="pw-collage-wide">
+      <img src="<?= base_url('assets/images/pw-collage-3.webp') ?>" width="1600" height="1067" alt="Pre-wedding shoot" loading="lazy" class="pw-collage-sm">
+      <img src="<?= base_url('assets/images/pw-collage-4.webp') ?>" width="1600" height="1067" alt="Pre-wedding shoot" loading="lazy" class="pw-collage-sm">
+      <img src="<?= base_url('assets/images/pw-collage-5.webp') ?>" width="1600" height="1068" alt="Pre-wedding shoot" loading="lazy" class="pw-collage-tall">
+      <img src="<?= base_url('assets/images/pw-collage-6.webp') ?>" width="2560" height="1182" alt="Pre-wedding shoot" loading="lazy" class="pw-collage-wide">
     </div>
   </div>
 </section>
@@ -554,27 +555,27 @@
     </div>
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Engagement Sessions</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Engagement Sessions</strong></h3>
         <p class="card-white-text">Your love story is unique, and we believe your engagement photos should reflect that. Our photographers will work closely with you to create a personalized session that showcases your personalities and love for each other.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Save-the-Date Photoshoots</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Save-the-Date Photoshoots</strong></h3>
         <p class="card-white-text">Announce your wedding date in style with stunning save-the-date photos. Whether you envision a romantic beach scene or a cozy urban setting, we'll help you bring your vision to life.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Bridal Showers and Bachelor/Bachelorette Parties</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Bridal Showers and Bachelor/Bachelorette Parties</strong></h3>
         <p class="card-white-text">Before you say 'I do,' celebrate with your closest friends and family. Our photographers will be there to capture all the laughter, joy, and heartfelt moments shared during these pre-wedding festivities.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Wedding Rehearsal Dinners</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Wedding Rehearsal Dinners</strong></h3>
         <p class="card-white-text">The night before the big day is a time for excitement and anticipation. Let us document the love and support of your closest friends and family as you rehearse for your wedding ceremony.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Destination Pre-Wedding Shoots</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Destination Pre-Wedding Shoots</strong></h3>
         <p class="card-white-text">Dreaming of a picturesque destination for your pre-wedding photos? Our team is experienced in capturing love stories against breathtaking backdrops around the globe. Whether it's a romantic European getaway or a tropical paradise, we'll ensure your photos are as unforgettable as the journey itself.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Attention to Detail</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Attention to Detail</strong></h3>
         <p class="card-white-text">We believe that it's the little details that make a big difference. From scouting locations to arranging props and styling, we pay attention to every detail to ensure that your pre-wedding shoot is nothing short of perfection.</p>
       </div>
     </div>
@@ -605,15 +606,15 @@
     </div>
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Advanced Equipment</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Advanced Equipment</strong></h3>
         <p class="card-white-text">High-quality cameras and expensive equipment for obtaining high-quality images.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Skilled Photographers</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Skilled Photographers</strong></h3>
         <p class="card-white-text">Professionals who are certainly apt in most forms of photography.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Flexible Scheduling</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Flexible Scheduling</strong></h3>
         <p class="card-white-text">Flexibility of timing depends on the time preferred by the clients.</p>
       </div>
     </div>
@@ -645,19 +646,19 @@
       <p class="section-sub">Browse our portfolio to see examples of our pre-wedding shoots. Explore our stunning pre-wedding photos and videos.</p>
     </div>
     <div class="maternity-gallery maternity-gallery-3col">
-      <img src="<?= base_url('assets/images/pw-gal-1.webp') ?>" alt="Pre-wedding shoot" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/pw-gal-2.webp') ?>" alt="Pre-wedding shoot" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/pw-gal-3.webp') ?>" alt="Pre-wedding shoot" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/pw-gal-4.webp') ?>" alt="Pre-wedding shoot" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/pw-gal-5.webp') ?>" alt="Pre-wedding shoot" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/pkg-celebrate-bond-1.webp') ?>" alt="Pre-wedding shoot" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/pw-gal-6.webp') ?>" alt="Pre-wedding shoot" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/pw-gal-7.webp') ?>" alt="Pre-wedding shoot" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/pw-gal-8.webp') ?>" alt="Pre-wedding shoot" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/pw-gal-9.webp') ?>" alt="Pre-wedding shoot" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/pw-gal-10.webp') ?>" alt="Pre-wedding shoot" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/pw-gal-11.webp') ?>" alt="Pre-wedding shoot" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/pw-gal-12.webp') ?>" alt="Pre-wedding shoot" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/pw-gal-1.webp') ?>" width="900" height="600" alt="Pre-wedding shoot" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/pw-gal-2.webp') ?>" width="900" height="600" alt="Pre-wedding shoot" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/pw-gal-3.webp') ?>" width="900" height="600" alt="Pre-wedding shoot" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/pw-gal-4.webp') ?>" width="900" height="600" alt="Pre-wedding shoot" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/pw-gal-5.webp') ?>" width="900" height="600" alt="Pre-wedding shoot" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/pkg-celebrate-bond-1.webp') ?>" width="900" height="600" alt="Pre-wedding shoot" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/pw-gal-6.webp') ?>" width="900" height="600" alt="Pre-wedding shoot" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/pw-gal-7.webp') ?>" width="900" height="600" alt="Pre-wedding shoot" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/pw-gal-8.webp') ?>" width="900" height="600" alt="Pre-wedding shoot" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/pw-gal-9.webp') ?>" width="900" height="600" alt="Pre-wedding shoot" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/pw-gal-10.webp') ?>" width="900" height="600" alt="Pre-wedding shoot" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/pw-gal-11.webp') ?>" width="900" height="600" alt="Pre-wedding shoot" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/pw-gal-12.webp') ?>" width="900" height="600" alt="Pre-wedding shoot" loading="lazy" class="maternity-gallery-img">
     </div>
   </div>
 </section>
@@ -740,6 +741,7 @@
       <a href="<?= base_url('/pre-wedding-shoot-lonavala/') ?>" class="tag-link">Lonavala</a>
       <a href="<?= base_url('/pre-wedding-shoot-mulshi/') ?>" class="tag-link">Mulshi Lake</a>
       <a href="<?= base_url('/pre-wedding-shoot-lavasa/') ?>" class="tag-link">Lavasa</a>
+      <a href="<?= base_url('/pre-wedding-shoot-lakshadweep/') ?>" class="tag-link">Lakshadweep pre wedding shoot</a>
       <a href="<?= base_url('/pre-wedding-shoot-locations-in-goa/') ?>" class="tag-link">Goa</a>
       <a href="<?= base_url('/pre-wedding-shoot-locations-mumbai/') ?>" class="tag-link">Mumbai</a>
       <a href="<?= base_url('/when-to-take-pre-wedding-shoot/') ?>" class="tag-link">When to Shoot</a>

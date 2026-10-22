@@ -10,6 +10,7 @@
       <div class="page-hero-rule"></div>
       <h1>Engagement Photographers<br><em>in Ahilyanagar</em></h1>
       <p class="page-hero-sub">Having a partner is the start of a beautiful journey together &ndash; a life full of love, excitement, blessings of your family, memorable experiences.</p>
+      <p class="page-hero-sub" style="margin-top:.4rem;"><strong>Starting from ₹7,000</strong></p>
       <div class="page-hero-buttons">
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Now</a>
         <a href="tel:+918390367637" class="btn btn-white">+91 83903 67637</a>
@@ -45,12 +46,12 @@
 <section class="section section-white">
   <div class="container">
     <div class="maternity-gallery maternity-gallery-3col">
-      <img src="<?= base_url('assets/images/ahily-eng-1.webp') ?>" alt="Engagement Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-eng-2.webp') ?>" alt="Engagement Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-eng-3.webp') ?>" alt="Engagement Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-eng-4.webp') ?>" alt="Engagement Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-eng-5.webp') ?>" alt="Engagement Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-eng-6.webp') ?>" alt="Engagement Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-eng-1.webp') ?>" width="1600" height="2400" alt="Engagement Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-eng-2.webp') ?>" width="1600" height="2400" alt="Engagement Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-eng-3.webp') ?>" width="1600" height="2400" alt="Engagement Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-eng-4.webp') ?>" width="1600" height="2400" alt="Engagement Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-eng-5.webp') ?>" width="1600" height="2400" alt="Engagement Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-eng-6.webp') ?>" width="1600" height="2400" alt="Engagement Ahilyanagar" loading="lazy" class="maternity-gallery-img">
     </div>
   </div>
 </section>
@@ -87,19 +88,19 @@
     </div>
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Candid Emotion Shots</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Candid Emotion Shots</strong></h3>
         <p class="card-white-text">We capture real emotions, not posed moments. Every photo reflects genuine laughter, love, and heartfelt connections with your family.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Couple Pose Guidance</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Couple Pose Guidance</strong></h3>
         <p class="card-white-text">Not comfortable in front of the camera? We guide you with simple, natural poses that look elegant, relaxed, and romantic.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Indoor Lighting Setup</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Indoor Lighting Setup</strong></h3>
         <p class="card-white-text">Indoor venues need the right lighting setup. We use professional lights to create bright, sharp, and beautifully balanced images.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Creative Ring Moments</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Creative Ring Moments</strong></h3>
         <p class="card-white-text">We focus on your most special highlights. From ring exchange to stage moments, we capture every detail with creativity and Images.</p>
       </div>
     </div>
@@ -112,7 +113,7 @@
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
       <h2 class="section-title">Engagement Photoshoot in Ahilyanagar-<br><em>Portfolio</em></h2>
-      <p class="section-sub">Our engagement photoshoot in Ahilyangar portfolio has a diverse variety of shoots such as candid wedding, romantic couple, classy indoor engagements, as well as bright outdoor engagement photoshoots. Every album is a manifestation of our desire to tell stories, be creative and record real feelings.</p>
+      <p class="section-sub">Our engagement photoshoot in Ahilyanagar portfolio has a diverse variety of shoots such as candid wedding, romantic couple, classy indoor engagements, as well as bright outdoor engagement photoshoots. Every album is a manifestation of our desire to tell stories, be creative and record real feelings.</p>
       <p class="section-sub section-sub-gap">Couples are advised to visit our portfolio in order to know more about our style, quality and versatility before making the reservation.</p>
     </div>
     <p class="article-text">Reach out to us for the availability of our best engagement photographer in Ahilyanagar.</p>
@@ -126,23 +127,23 @@
       <p class="eyebrow section-head-eyebrow">What We Offer</p>
       <div class="rule-center section-head-rule"></div>
       <h2 class="section-title">Engagement Photography Services<br><em>at The Bridal Photography</em></h2>
-      <p class="section-sub">We provide all kinds of engagement photography packages to cover everything in our way:</p>
+      <p class="section-sub">Our engagement photography packages start from Rs 7,000. We offer packages to cover every part of your day:</p>
     </div>
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Candid Couple Portraits</strong></h4>
-        <p class="card-white-text">We capture natural moments without stiff poses. Your genuine laughter, emotion and connect are Beautifully Reflected. and it is Important For Environment.</p>
+        <h3 class="card-white-title lvl-h4"><strong>Candid Couple Portraits</strong></h3>
+        <p class="card-white-text">We capture natural moments without stiff poses. Your genuine laughter, emotion and connection are reflected beautifully.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Family &amp; Ceremony</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Family &amp; Ceremony</strong></h3>
         <p class="card-white-text">Engagements bring together loved ones and rituals. We document every meaningful interaction &amp; capture your story with warmth and emotion.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Styled Concept Shoots</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Styled Concept Shoots</strong></h3>
         <p class="card-white-text">Want a creative and artistic experience? We use props, backgrounds, and styling to create a beautiful visual story that suits for shoots.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Short Films &amp; Reels</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Short Films &amp; Reels</strong></h3>
         <p class="card-white-text">Bring your memories to life through motion. We create cinematic reels and short films that you can relive and share anytime.</p>
       </div>
     </div>
@@ -159,19 +160,19 @@
     </div>
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Ring Exchange Close-Ups</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Ring Exchange Close-Ups</strong></h3>
         <p class="card-white-text">Close-up shots of your ring exchange highlight the most Symbolic Movement of Your Engagement Beautifully.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Couple Candid Reactions</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Couple Candid Reactions</strong></h3>
         <p class="card-white-text">We capture genuine smiles, laughter, and spontaneous Expressions to Create Natural Movements.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Family Moments</strong></h4>
-        <p class="card-white-text">We document blessings, group shots, and emotional interactions that reflect the Joy of Your Familiy.</p>
+        <h3 class="card-white-title lvl-h4"><strong>Family Moments</strong></h3>
+        <p class="card-white-text">We document blessings, group shots, and emotional interactions that reflect the joy of your family.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Stage Decor Wide Shots</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Stage Decor Wide Shots</strong></h3>
         <p class="card-white-text">We capture venue decor, stage design, and ambiance to beautifully narrate the story of Your Event.</p>
       </div>
     </div>
@@ -208,7 +209,7 @@
     </div>
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Outfit Tips</h4>
+        <h3 class="card-white-title lvl-h4">Outfit Tips</h3>
         <ul class="pkg-detail-list">
           <li>Color co-ordination rather than color matching.</li>
           <li>Wear comfortable clothes to move freely.</li>
@@ -217,7 +218,7 @@
         </ul>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Pose Tips</h4>
+        <h3 class="card-white-title lvl-h4">Pose Tips</h3>
         <ul class="pkg-detail-list">
           <li>Communicate with your partner in a natural way.</li>
           <li>Smooth smiles and eye contact form emotional photographic images.</li>
@@ -239,15 +240,15 @@
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"Our engagement is something that we will not forget. The photographs were able to capture all the feelings in a magnificent way."</p>
-        <h4 class="card-white-title article-heading-gap"><strong>- Riya &amp; Karan</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>- Riya &amp; Karan</strong></h3>
       </div>
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"Highly skilled, amiable and professional team of the Bridal Photography. We really liked the way our photographs are natural."</p>
-        <h4 class="card-white-title article-heading-gap"><strong>- Sneha &amp; Amit</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>- Sneha &amp; Amit</strong></h3>
       </div>
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"Fast and beautiful photography. I strongly recommend to engagement photographers in Ahilyanagar."</p>
-        <h4 class="card-white-title article-heading-gap"><strong>- Priya &amp; Rahul</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>- Priya &amp; Rahul</strong></h3>
       </div>
     </div>
   </div>
@@ -275,7 +276,7 @@
     </div>
     <?php foreach([
       ['What is the price of engagement photography in Ahilyanagar?',
-       'The cost is based on the number of coverage hours, location, team size, and deliverables. We provide tailor-made packages to various budgets.'],
+       'Packages start from Rs 7,000. The final cost is based on the number of coverage hours, location, team size, and deliverables. We provide tailor-made packages to various budgets.'],
       ['Do you cover only ceremonies or couple shoots also?',
        'We discuss both the engagement ceremonies and dedicated couple photoshoots; it is up to you.'],
       ['What will be the number of photos that we will be given?',
@@ -297,9 +298,9 @@
     <h2 class="enquire-section-title">Book Now or Enquire</h2>
     <div class="contact-layout">
       <div class="enquire-contact-card">
-        <div class="enquire-contact-item"><div class="enquire-contact-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.01-.24 11.36 11.36 0 003.58.57 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.36 11.36 0 00.57 3.58 1 1 0 01-.25 1.01l-2.2 2.2z"/></svg></div><a href="tel:+918390367637" class="enquire-contact-link">+91 8390367637</a></div>
+        <div class="enquire-contact-item"><div class="enquire-contact-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.01-.24 11.36 11.36 0 003.58.57 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.36 11.36 0 00.57 3.58 1 1 0 01-.25 1.01l-2.2 2.2z"/></svg></div><a href="tel:+918390367637" class="enquire-contact-link">+91 83903 67637</a></div>
         <div class="enquire-contact-item"><div class="enquire-contact-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg></div><a href="mailto:thebridal11@gmail.com" class="enquire-contact-link">thebridal11@gmail.com</a></div>
-        <p class="enquire-contact-text">Inquiry today by visiting our official website to know more.</p>
+        <p class="enquire-contact-text">Contact us today to book.</p>
         <a href="tel:+918390367637" class="btn btn-gold pkg-card-btn">Book a Free Consultation Call</a>
       </div>
       <div class="enquire-form-card">
@@ -318,5 +319,5 @@
   </div>
 </section>
 
-<section class="section-related-pages"><div class="container"><p class="eyebrow section-related-eyebrow">Related Pages</p><div class="tag-links"><a href="<?= base_url('/ahilyanagar/') ?>" class="tag-link">Ahilyanagar Hub</a><a href="<?= base_url('/ahilyanagar/pre-wedding-shoot/') ?>" class="tag-link">Pre-Wedding</a><a href="<?= base_url('/ahilyanagar/wedding-photographers/') ?>" class="tag-link">Wedding Photographers in Ahilyanagar</a><a href="<?= base_url('/faq/') ?>" class="tag-link">FAQ</a></div></div></section>
+<section class="section-related-pages"><div class="container"><p class="eyebrow section-related-eyebrow">Related Pages</p><div class="tag-links"><a href="<?= base_url('/ahilyanagar/') ?>" class="tag-link">Ahilyanagar Hub</a><a href="<?= base_url('/ahilyanagar/pre-wedding-shoot/') ?>" class="tag-link">Pre-Wedding</a><a href="<?= base_url('/ahilyanagar/wedding-photographers/') ?>" class="tag-link">Wedding Photographers in Ahilyanagar</a><a href="<?= base_url('/ahilyanagar/maternity-photographer/') ?>" class="tag-link">Maternity Photographer in Ahilyanagar</a><a href="<?= base_url('/ahilyanagar/baby-photoshoot/') ?>" class="tag-link">Baby Photoshoot in Ahilyanagar</a><a href="<?= base_url('/faq/') ?>" class="tag-link">FAQ</a></div></div></section>
 <section class="cta-section"><div class="container-xs cta-section-inner"><h2 class="cta-title">Need a Photographer?<br><em class="cta-title-em">Someone With Experience to Collaborate With?</em></h2><div class="cta-buttons"><a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Let's Work</a><a href="https://wa.me/918390367637" class="btn btn-outline-dark" target="_blank" rel="noopener">WhatsApp Us</a></div></div></section>

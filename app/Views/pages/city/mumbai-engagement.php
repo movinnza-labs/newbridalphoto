@@ -12,6 +12,7 @@
       <div class="page-hero-rule"></div>
       <h1>Engagement Photographers<br><em>in Mumbai</em></h1>
       <p class="page-hero-sub">Mumbai, called the 'City of Dreams,' sees new love stories created daily. The beginning of an elegant partnership deserves special celebration through engagement photography.</p>
+      <p class="page-hero-sub" style="margin-top:.4rem;"><strong>Starting from ₹7,000</strong></p>
       <div class="page-hero-buttons">
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Now</a>
         <a href="tel:+918390367637" class="btn btn-white">+91 83903 67637</a>
@@ -32,9 +33,9 @@
     </div>
 
     <div class="grid-3 grid-gap">
-      <img src="<?= base_url('assets/images/mum-engage-1.webp') ?>" alt="Engagement Photography Mumbai" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/mum-engage-2.webp') ?>" alt="Engagement Photography Mumbai" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/mum-engage-3.webp') ?>" alt="Engagement Photography Mumbai" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mum-engage-1.webp') ?>" width="683" height="1024" alt="Engagement Photography Mumbai" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mum-engage-2.webp') ?>" width="725" height="1024" alt="Engagement Photography Mumbai" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mum-engage-3.webp') ?>" width="1600" height="2379" alt="Engagement Photography Mumbai" loading="lazy" class="feature-img-full">
     </div>
   </div>
 </section>
@@ -60,7 +61,7 @@
 
     <div class="feature-row feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/mum-engage-prewedding.webp') ?>" alt="Pre Wedding photoshoot" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/mum-engage-prewedding.webp') ?>" width="2560" height="2560" alt="Pre Wedding photoshoot" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text">Our pre-wedding photography service is based on the idea of the beautiful relationship and happiness between you and your fianc&eacute;. All couples are unique and thus, we spice up the sessions to be a reflection of the two of you. With a romantic shoot on the beautiful location in mind, or if you prefer to have a fun-themed session, our strategy is developed accordingly. Here at our team, we always ensure that the equipment and methods used produce the best results of your photographs.</p>
@@ -80,15 +81,15 @@
 
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Engagement Photography</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Engagement Photography</strong></h3>
         <p class="card-white-text">We provide bespoke engagement photography, capturing genuine emotions, special moments, and little things. Our photographers collaborate with the couple to produce bespoke themes from traditional to contemporary so that each picture has a story to tell.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Bespoke Shoots</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Bespoke Shoots</strong></h3>
         <p class="card-white-text">With the belief that each couple is one of a kind, we provide personalized engagement shoots to showcase your individuality. Whether you have always dreamed of a beach proposal, a fairy tale castle, or easy-going city streets, we'll bring your fantasy to life with incredible photographs.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Post-Shoot Services</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Post-Shoot Services</strong></h3>
         <p class="card-white-text">Once your shoot is over, our post-processing specialists polish your photos. From colour grading to high-end retouching, we ready your wedding photographs for sharing and printing.</p>
       </div>
     </div>
@@ -105,15 +106,15 @@
     </div>
 
     <div class="grid-3 grid-gap">
-      <img src="<?= base_url('assets/images/mum-engage-4.webp') ?>" alt="Engagement Photography Mumbai" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/mum-engage-5.webp') ?>" alt="Engagement Photography Mumbai" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/mum-engage-6.webp') ?>" alt="Engagement Photography Mumbai" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mum-engage-4.webp') ?>" width="683" height="1024" alt="Engagement Photography Mumbai" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mum-engage-5.webp') ?>" width="1600" height="2400" alt="Engagement Photography Mumbai" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mum-engage-6.webp') ?>" width="683" height="1024" alt="Engagement Photography Mumbai" loading="lazy" class="feature-img-full">
     </div>
 
     <div class="grid-3 grid-gap article-img-center">
-      <img src="<?= base_url('assets/images/mum-engage-7.webp') ?>" alt="Engagement Photography Mumbai" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/mum-engage-8.webp') ?>" alt="Engagement Photography Mumbai" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/mum-engage-9.webp') ?>" alt="Engagement Photography Mumbai" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mum-engage-7.webp') ?>" width="1600" height="2400" alt="Engagement Photography Mumbai" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mum-engage-8.webp') ?>" width="1600" height="2262" alt="Engagement Photography Mumbai" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mum-engage-9.webp') ?>" width="1600" height="2400" alt="Engagement Photography Mumbai" loading="lazy" class="feature-img-full">
     </div>
   </div>
 </section>
@@ -163,23 +164,23 @@
 
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Expertise</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Expertise</strong></h3>
         <p class="card-white-text">Years of experience in engagement photoshoots.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Customization</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Customization</strong></h3>
         <p class="card-white-text">Themed as well as destination-based shoots of your choice.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>High-Tech Equipment</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>High-Tech Equipment</strong></h3>
         <p class="card-white-text">Use of the best-of-the-best camera, lighting, and editing software.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Professional Editing</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Professional Editing</strong></h3>
         <p class="card-white-text">Post-production editing to provide images with a spectacular touch.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Budget-Friendly Packages</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Budget-Friendly Packages</strong></h3>
         <p class="card-white-text">Customized pricing plans to suit every budget.</p>
       </div>
     </div>
@@ -197,7 +198,7 @@
 
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded">
-        <img src="<?= base_url('assets/images/mum-engage-1.webp') ?>" alt="Engagement Photography Mumbai" loading="lazy" class="card-white-full-img">
+        <img src="<?= base_url('assets/images/mum-engage-1.webp') ?>" width="683" height="1024" alt="Engagement Photography Mumbai" loading="lazy" class="card-white-full-img">
         <h3 class="card-white-title">Basic Package</h3>
         <ul class="pkg-detail-list">
           <li>20 Edited Photos</li>
@@ -205,7 +206,7 @@
         </ul>
       </div>
       <div class="card-white card-white-padded">
-        <img src="<?= base_url('assets/images/mum-engage-6.webp') ?>" alt="Engagement Photography Mumbai" loading="lazy" class="card-white-full-img">
+        <img src="<?= base_url('assets/images/mum-engage-6.webp') ?>" width="683" height="1024" alt="Engagement Photography Mumbai" loading="lazy" class="card-white-full-img">
         <h3 class="card-white-title">Standard Package</h3>
         <ul class="pkg-detail-list">
           <li>40 Edited Photos</li>
@@ -213,7 +214,7 @@
         </ul>
       </div>
       <div class="card-white card-white-padded">
-        <img src="<?= base_url('assets/images/mum-engage-4.webp') ?>" alt="Engagement Photography Mumbai" loading="lazy" class="card-white-full-img">
+        <img src="<?= base_url('assets/images/mum-engage-4.webp') ?>" width="683" height="1024" alt="Engagement Photography Mumbai" loading="lazy" class="card-white-full-img">
         <h3 class="card-white-title">Premium Package</h3>
         <ul class="pkg-detail-list">
           <li>70 Edited Photos</li>
@@ -221,7 +222,7 @@
         </ul>
       </div>
       <div class="card-white card-white-padded">
-        <img src="<?= base_url('assets/images/mum-engage-2.webp') ?>" alt="Engagement Photography Mumbai" loading="lazy" class="card-white-full-img">
+        <img src="<?= base_url('assets/images/mum-engage-2.webp') ?>" width="725" height="1024" alt="Engagement Photography Mumbai" loading="lazy" class="card-white-full-img">
         <h3 class="card-white-title">Luxury Package</h3>
         <ul class="pkg-detail-list">
           <li>Customized shootings with videography</li>
@@ -248,15 +249,15 @@
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"The team was professional and mingled our engagement well. I would definitely recommend them!"</p>
-        <h4 class="card-white-title article-heading-gap"><strong>Riya &amp; Arjun</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>Riya &amp; Arjun</strong></h3>
       </div>
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"They took just what we wanted and provided us with stunning snaps. Wonderful experience!"</p>
-        <h4 class="card-white-title article-heading-gap"><strong>Priya &amp; Sameer</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>Priya &amp; Sameer</strong></h3>
       </div>
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"The final shots and editing were even better than what we expected. Good work!"</p>
-        <h4 class="card-white-title article-heading-gap"><strong>Meera &amp; Rohan</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>Meera &amp; Rohan</strong></h3>
       </div>
     </div>
   </div>
@@ -295,7 +296,7 @@
       ['Will there be a guest changing room?',
        'Yes, on a case basis, we can arrange for a change area if wardrobe changes need to be facilitated.'],
       ['How much do engagement photographers charge?',
-       'Packages start from INR 15,000 onwards based on location, days, and additional services like videography.'],
+       'Packages start from Rs 7,000. The final price depends on location, hours, and extra services like videography.'],
       ['Can I choose the shooting location?',
        'You can choose, subject to our advice, or give us a location where you prefer us to shoot.'],
     ] as [$q,$a]): ?>
@@ -333,7 +334,7 @@
           </div>
           <a href="https://thebridal.photography/" class="enquire-contact-link" target="_blank" rel="noopener">https://thebridal.photography/</a>
         </div>
-        <p class="enquire-contact-text">Inquiry today by visiting our official website to know more.</p>
+        <p class="enquire-contact-text">Contact us today to book.</p>
         <a href="tel:+918390367637" class="btn btn-gold pkg-card-btn">Book a Free Consultation Call</a>
       </div>
 

@@ -27,15 +27,15 @@
   <div class="container">
     <div class="grid-3 grid-gap">
       <a href="<?= base_url('/mahabaleshwar/wedding-photographers/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/mumbai-wedding-card.webp') ?>" alt="Wedding Photography Mahabaleshwar" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/mahab-shoot-1.webp') ?>" width="683" height="1024" alt="Bride and groom wedding portrait" loading="lazy" class="mumbai-service-img" style="aspect-ratio:1/1;object-fit:cover;object-position:center 25%;">
         <h2 class="mumbai-service-title">Wedding Photographers in Mahabaleshwar</h2>
       </a>
       <a href="<?= base_url('/mahabaleshwar/engagement-photographers/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/engage-card-gold.webp') ?>" alt="Engagement Photography Mahabaleshwar" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/engage-card-gold.webp') ?>" width="1024" height="1024" alt="Engagement Photography Mahabaleshwar" loading="lazy" class="mumbai-service-img">
         <h2 class="mumbai-service-title">Engagement Photographers in Mahabaleshwar</h2>
       </a>
       <a href="<?= base_url('/pre-wedding-shoot-mahabaleshwar/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/mumbai-prewedding-card.webp') ?>" alt="Pre-Wedding Shoot Mahabaleshwar" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/mahab-venna.webp') ?>" width="1000" height="563" alt="Venna Lake, a pre wedding shoot spot in Mahabaleshwar" loading="lazy" class="mumbai-service-img">
         <h2 class="mumbai-service-title">Pre Wedding Shoot in Mahabaleshwar</h2>
       </a>
     </div>
@@ -233,7 +233,7 @@
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
       <h2 class="section-title">Book Now or <em>Enquire</em></h2>
-      <p class="section-sub">Ready to capture your love story? Contact us today to book your photoshoot in Mahabaleshwar or for any inquires.</p>
+      <p class="section-sub">Ready to capture your love story? Contact us today to book your photoshoot in Mahabaleshwar or for any enquiries.</p>
     </div>
     <div class="contact-layout">
       <div class="enquire-contact-card">
@@ -245,7 +245,7 @@
           <div class="enquire-contact-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg></div>
           <a href="mailto:thebridal11@gmail.com" class="enquire-contact-link">thebridal11@gmail.com</a>
         </div>
-        <p class="enquire-contact-text">Inquiry today by visiting our official website to know more.</p>
+        <p class="enquire-contact-text">Contact us today to book.</p>
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold pkg-card-btn">Book a Free Consultation Call</a>
       </div>
       <div class="enquire-form-card">
@@ -272,6 +272,7 @@
       <a href="<?= base_url('/pre-wedding-shoot-mahabaleshwar/') ?>" class="tag-link">Pre wedding shoot locations in Mahabaleshwar</a>
       <a href="<?= base_url('/mahabaleshwar/wedding-photographers/') ?>" class="tag-link">Wedding Mahabaleshwar</a>
       <a href="<?= base_url('/mahabaleshwar/engagement-photographers/') ?>" class="tag-link">Engagement Mahabaleshwar</a>
+      <a href="<?= base_url('/blog/the-charm-of-mahabaleshwar-ideal-backdrops-for-wedding-photography/') ?>" class="tag-link">Wedding photo spots in Mahabaleshwar</a>
       <a href="<?= base_url('/faq/') ?>" class="tag-link">FAQ</a>
     </div>
   </div>

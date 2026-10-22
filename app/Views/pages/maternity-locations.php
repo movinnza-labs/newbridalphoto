@@ -42,7 +42,7 @@
         <p class="article-text">Before organizing any photo shoot, you prominently look for the prerequisites and want to make sure all is right before it begins. Every aspect matters, whether it is about the brand and quality of the photographic lens to be used, the photographer's experience and skill, or the properties required according to the event. This list specifically mentions the importance of selecting the best and most suitable location for a convenient and successful maternity photo shoot in Pune.</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/materloc-hero.webp') ?>" alt="Maternity Photoshoot Locations Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/materloc-hero.webp') ?>" width="1500" height="1000" alt="Maternity Photoshoot Locations Pune" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>
@@ -71,12 +71,12 @@
     <p class="article-text article-text-gap">From the mother's perspective, the spirituality in the air here is extremely healthy - not just physically but also mentally. The rejuvenation on the mother's face can make photos captivating.</p>
 
     <div class="maternity-gallery maternity-gallery-3col matloc-gallery">
-      <img src="<?= base_url('assets/images/osho-1.webp') ?>" alt="Maternity photoshoot of a family at Osho Garden, Pune" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/osho-2.webp') ?>" alt="Maternity photoshoot at Osho Garden, Pune" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/osho-3.webp') ?>" alt="Maternity photoshoot at Osho Garden, Pune" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/osho-4.webp') ?>" alt="Maternity photoshoot at Osho Garden, Pune" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/osho-5.webp') ?>" alt="Maternity photoshoot at Osho Garden, Pune" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/osho-6.webp') ?>" alt="Maternity photoshoot at Osho Garden, Pune" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/osho-1.webp') ?>" width="1707" height="2560" alt="Maternity photoshoot of a family at Osho Garden, Pune" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/osho-2.webp') ?>" width="1707" height="2560" alt="Maternity photoshoot at Osho Garden, Pune" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/osho-3.webp') ?>" width="1707" height="2560" alt="Maternity photoshoot at Osho Garden, Pune" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/osho-4.webp') ?>" width="1707" height="2560" alt="Maternity photoshoot at Osho Garden, Pune" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/osho-5.webp') ?>" width="1707" height="2560" alt="Maternity photoshoot at Osho Garden, Pune" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/osho-6.webp') ?>" width="1707" height="2560" alt="Maternity photoshoot at Osho Garden, Pune" loading="lazy" class="maternity-gallery-img">
     </div>
   </div>
 </section>
@@ -106,7 +106,7 @@
         <p class="article-text article-text-gap">From the mother's perspective, it offers an elevation in mood and a change in attitude, particularly if the lady has not walked out of home for some months and wants to break some barriers.</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/matloc-vetal.webp') ?>" alt="Maternity photoshoot at Vetal Tekdi, Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/matloc-vetal.webp') ?>" width="1067" height="1600" alt="Maternity photoshoot at Vetal Tekdi, Pune" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>
@@ -125,7 +125,7 @@
         <p class="article-text article-text-gap">From the mother's perspective, Pashan Lake is a comfortable place to be, as it relieves the lady from pregnancy stress and makes her dream of a beautiful baby - a baby as attractive as the greenery of trees and the vastness of the lake around her. Stunning photographs are guaranteed.</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/matloc-pashan.webp') ?>" alt="Maternity photoshoot at Pashan Lake, Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/matloc-pashan.webp') ?>" width="1024" height="683" alt="Maternity photoshoot at Pashan Lake, Pune" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>
@@ -148,18 +148,16 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Empress<br><em>garden</em></h2>
+      <h2 class="section-title">Empress<br><em>Garden</em></h2>
     </div>
-    <p class="article-text">Whenever you think about a place that has been aesthetically landscaped and thoughtfully raised, Express Garden will be on your mind. The garden has everything, right from serene spots to winding paths and from invigorating greenery to still ponds. Your maternity photographer in Pune will thank you for choosing this place for the photo shoot.</p>
-    <p class="article-text article-text-gap">From the mother's perspective, the Express Garden has a rare calming effect that every lady deserves during her pregnancy period.</p>
+    <p class="article-text">Whenever you think about a place that has been aesthetically landscaped and thoughtfully raised, Empress Garden will be on your mind. The garden has everything, right from serene spots to winding paths and from invigorating greenery to still ponds. Your maternity photographer in Pune will thank you for choosing this place for the photo shoot.</p>
+    <p class="article-text article-text-gap">From the mother's perspective, the Empress Garden has a rare calming effect that every lady deserves during her pregnancy period.</p>
 
     <div class="maternity-gallery maternity-gallery-3col matloc-gallery">
-      <img src="<?= base_url('assets/images/osho-1.webp') ?>" alt="Maternity photoshoot of a family in a Pune garden" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/matloc-empress-1.webp') ?>" alt="Couple maternity photoshoot with Mommy to be and Daddy to be props at Empress Garden, Pune" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/matloc-empress-2.webp') ?>" alt="Maternity photoshoot at Empress Garden, Pune" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/matloc-empress-3.webp') ?>" alt="Maternity photoshoot at Empress Garden, Pune" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/matloc-empress-4.webp') ?>" alt="Maternity photoshoot at Empress Garden, Pune" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/osho-6.webp') ?>" alt="Maternity photoshoot in a Pune garden" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/matloc-empress-1.webp') ?>" width="1707" height="2560" alt="Couple maternity photoshoot with Mommy to be and Daddy to be props at Empress Garden, Pune" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/matloc-empress-2.webp') ?>" width="1707" height="2560" alt="Maternity photoshoot at Empress Garden, Pune" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/matloc-empress-3.webp') ?>" width="1707" height="2560" alt="Maternity photoshoot at Empress Garden, Pune" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/matloc-empress-4.webp') ?>" width="1707" height="2560" alt="Maternity photoshoot at Empress Garden, Pune" loading="lazy" class="maternity-gallery-img">
     </div>
   </div>
 </section>
@@ -175,16 +173,16 @@
     <p class="article-text article-text-gap">From the mother's perspective, this place taps the vibes of academic excellence and they may transfer to the baby as well.</p>
 
     <div class="maternity-gallery maternity-gallery-3col matloc-gallery">
-      <img src="<?= base_url('assets/images/matloc-uni-1.webp') ?>" alt="Couple maternity photoshoot at University of Pune campus" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/matloc-uni-2.webp') ?>" alt="Couple maternity photoshoot at University of Pune campus" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/matloc-uni-3.webp') ?>" alt="Couple maternity photoshoot at University of Pune campus" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/matloc-uni-4.webp') ?>" alt="Couple maternity photoshoot at University of Pune campus" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/matloc-uni-5.webp') ?>" alt="Couple maternity photoshoot at University of Pune campus" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/matloc-uni-6.webp') ?>" alt="Couple maternity photoshoot at University of Pune campus" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/matloc-uni-7.webp') ?>" alt="Couple maternity photoshoot at University of Pune campus" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/matloc-uni-8.webp') ?>" alt="Couple maternity photoshoot at University of Pune campus" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/matloc-uni-9.webp') ?>" alt="Couple maternity photoshoot at University of Pune campus" loading="lazy" class="maternity-gallery-img">
-      <!--<img src="<?= base_url('assets/images/matloc-uni-10.webp') ?>" alt="Maternity Photoshoot Pune" loading="lazy" class="maternity-gallery-img">-->
+      <img src="<?= base_url('assets/images/matloc-uni-1.webp') ?>" width="1975" height="2560" alt="Couple maternity photoshoot at University of Pune campus" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/matloc-uni-2.webp') ?>" width="1707" height="2560" alt="Couple maternity photoshoot at University of Pune campus" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/matloc-uni-3.webp') ?>" width="1703" height="2560" alt="Couple maternity photoshoot at University of Pune campus" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/matloc-uni-4.webp') ?>" width="1834" height="2560" alt="Couple maternity photoshoot at University of Pune campus" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/matloc-uni-5.webp') ?>" width="1883" height="2560" alt="Couple maternity photoshoot at University of Pune campus" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/matloc-uni-6.webp') ?>" width="1707" height="2560" alt="Couple maternity photoshoot at University of Pune campus" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/matloc-uni-7.webp') ?>" width="2016" height="2560" alt="Couple maternity photoshoot at University of Pune campus" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/matloc-uni-8.webp') ?>" width="1703" height="2560" alt="Couple maternity photoshoot at University of Pune campus" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/matloc-uni-9.webp') ?>" width="1703" height="2560" alt="Couple maternity photoshoot at University of Pune campus" loading="lazy" class="maternity-gallery-img">
+      <!--<img src="<?= base_url('assets/images/matloc-uni-10.webp') ?>" width="2560" height="2071" alt="Maternity Photoshoot Pune" loading="lazy" class="maternity-gallery-img">-->
     </div>
   </div>
 </section>
@@ -199,13 +197,11 @@
     <div class="feature-row reverse feature-row-balanced">
       <div>
         <p class="article-text">Pune is surrounded by many captivating locales that are best suited for conducting a maternity photo shoot. Most of these places are moderately crowded, so they do not pose any hindrance to the mother and your photo shoot can also take place hassle-free.</p>
-        <p class="article-text article-text-gap">Let us turn your wedding day into a timeless masterpiece that you will cherish for a lifetime.</p>
-        <p class="article-text article-text-gap">Don't just remember your wedding day; Live again through the lens of our art.</p>
         <p class="article-text article-text-gap">Love happiness, laughter, and a lifetime of beautiful memories!</p>
         <p class="article-text article-text-gap">With love and shutter clicks,<br>The Bridal Photography.</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/matloc-closing.webp') ?>" alt="Maternity photoshoot outdoors in Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/matloc-closing.webp') ?>" width="1707" height="2560" alt="Maternity photoshoot outdoors in Pune" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>

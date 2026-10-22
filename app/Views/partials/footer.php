@@ -12,8 +12,8 @@
         </picture>
       </a>
       <p class="footer-brand-text">
-        Award-winning wedding, pre-wedding & maternity photography studio.
-        Pune · Mumbai · Ahilyanagar · Maharashtra.
+        Wedding, pre-wedding &amp; maternity photography studio since 2014.
+        Pune · Mumbai · Goa · Ahilyanagar · Maharashtra.
       </p>
       <div class="footer-socials">
         <a href="https://www.instagram.com/thebridal.photography/" target="_blank" rel="noopener noreferrer"
@@ -80,11 +80,10 @@
           +91 83903 67637
         </a>
         <a href="mailto:thebridal11@gmail.com">thebridal11@gmail.com</a>
-        <span style="color:rgba(248,244,239,.3);font-size:.78rem;margin-top:.4rem;">
-          Katraj, Pune 411046
-        </span>
-        <span style="color:rgba(248,244,239,.3);font-size:.78rem;">Swargate, Pune</span>
-        <span style="color:rgba(248,244,239,.3);font-size:.78rem;">Mumbai Branch</span>
+        <span style="color:rgba(248,244,239,.3);font-size:.78rem;margin-top:.4rem;display:block;">Katraj, Pune 411046</span>
+        <span style="color:rgba(248,244,239,.3);font-size:.78rem;display:block;">Guruwar Peth, Pune 411042</span>
+        <span style="color:rgba(248,244,239,.3);font-size:.78rem;display:block;">Andheri West, Mumbai 400053</span>
+        <span style="color:rgba(248,244,239,.3);font-size:.78rem;display:block;">Panaji, Goa 403001</span>
       </div>
     </div>
 

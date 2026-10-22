@@ -10,8 +10,9 @@
     <div class="page-hero-content-inner">
       <p class="eyebrow page-hero-eyebrow">Baby Photoshoot &middot; Pune</p>
       <div class="page-hero-rule"></div>
-      <h1>Baby Photoshoot in Pune<br><em>Milestone, Cake Smash &amp; Birthday Shoots</em></h1>
+      <h1>Baby Photoshoot<br><em>in Pune</em></h1>
       <p class="page-hero-sub">To hold memories for life, taking photographs is always the best option. From the little fingers of a newborn, to the cute smiling faces at the cake smash party, every milestone in your child's journey should be captured with love and creativity.</p>
+      <p class="page-hero-sub" style="margin-top:.4rem;"><strong>Starting from &#8377;6,000</strong></p>
       <div class="page-hero-buttons">
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Now</a>
         <a href="tel:+918390367637" class="btn btn-white">+91 83903 67637</a>
@@ -40,10 +41,10 @@
       <div>
         <p class="article-text article-text-dropcap">The Bridal Photography offer professional baby photoshoot in Pune capturing beautiful memories of your loveable newborn creatively and safely.</p>
         <p class="article-text article-text-gap">We offer newborn baby shoots, milestone shoots, cakesmash photography, toddler portraits and pre-birthday &amp; creative family photography. We have our customized baby photoshoot packages across Pune and PCMC that can be in a cozy studio indoors or fresh natural location outside.</p>
-        <p class="article-text article-text-gap">Photography sessions are carefully arranged in order to keep the baby comfortable and parents at ease. Our baby photographers Pune specialize in natural expressions, creative props, artistic themes and emotion centred family sessions that documents memories that will last a lifetime. We provide baby photoshoots across Baner, Wakad, Kharadi, Hinjawadi, talegaon, wagholi, bhor, vellha, hadapsar, magarpatta city kothrud and all Pune locations.</p>
+        <p class="article-text article-text-gap">Photography sessions are carefully arranged in order to keep the baby comfortable and parents at ease. Our baby photographers Pune specialize in natural expressions, creative props, artistic themes and emotion centred family sessions that documents memories that will last a lifetime. We provide baby photoshoots across Baner, Wakad, Kharadi, Hinjewadi, talegaon, wagholi, bhor, vellha, hadapsar, magarpatta city kothrud and all Pune locations.</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/baby-shoot-pune.webp') ?>" alt="Baby Photoshoot Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/baby-shoot-pune.webp') ?>" width="1600" height="1318" alt="Baby Photoshoot Pune" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>
@@ -58,7 +59,7 @@
     </div>
     <div class="feature-row feature-row-balanced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/baby-photoshoot-with-parents.webp') ?>" alt="Indoor Baby Shoot with Parents" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/baby-photoshoot-with-parents.webp') ?>" width="1600" height="1035" alt="Indoor Baby Shoot with Parents" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text">Yes, parents can join indoor baby shoots in our Katraj studio for family portraits. The beauty of a baby photoshoot is that if parents are part of those memories, it makes all the more sense. We recommend mom &amp; dad to be a part of the session for emotional family portraits that beautifully highlights your bond with the child.</p>
@@ -85,7 +86,7 @@
     </div>
     <div class="feature-row reverse feature-row-balanced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/baby-shoot-themes.webp') ?>" alt="Indoor Baby Shoot Studio Themes" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/baby-shoot-themes.webp') ?>" width="1600" height="1199" alt="Indoor Baby Shoot Studio Themes" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text">We have a theme based indoor baby photography studio in Katraj specially created for creative baby photoshoots. Shooting indoors in a studio has become very popular.</p>
@@ -123,7 +124,7 @@
     </div>
     <div class="feature-row feature-row-balanced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/best-baby-photoshoot.webp') ?>" alt="Outdoor Baby Photoshoot" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/best-baby-photoshoot.webp') ?>" width="1600" height="1082" alt="Outdoor Baby Photoshoot" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text">Outdoor baby shoots are done at garden locations across Pune &amp; PCMC, and we carry props and setups with no travel charges. Outdoors gets natural light, greenery, non posed photo opportunities and beautiful family interactions. Outdoor shoots are ideal for:</p>
@@ -245,11 +246,11 @@
     </div>
     <div class="feature-row feature-row-balanced">
       <div class="bshower-img-stack">
-        <img src="<?= base_url('assets/images/new-born-baby-shoot.webp') ?>" alt="Newborn Baby Photography" loading="lazy" class="bshower-stack-img">
-        <img src="<?= base_url('assets/images/one-month-baby-shoot.webp') ?>" alt="One Month Baby Shoot" loading="lazy" class="bshower-stack-img">
+        <img src="<?= base_url('assets/images/new-born-baby-shoot.webp') ?>" width="1600" height="2400" alt="Newborn Baby Photography" loading="lazy" class="bshower-stack-img">
+        <img src="<?= base_url('assets/images/one-month-baby-shoot.webp') ?>" width="1600" height="2400" alt="One Month Baby Shoot" loading="lazy" class="bshower-stack-img">
       </div>
       <div>
-        <p class="article-text">The best time for a newborn photoshoot is when the baby is 5 to 14 days old, as babies sleep deeply and can be gently posed in wrapped poses.</p>
+        <p class="article-text">The best time for a newborn photoshoot is when the baby is 5 to 14 days old, as babies sleep deeply and can be gently posed in wrapped poses. This is different from the best age for other baby shoots: milestone shoots work best at 6 to 12 months, and pre-birthday or cake smash shoots at around 11 months.</p>
         <p class="article-text article-text-gap">Newborn shoots are done in our Katraj studio with hygienic props, baby-safe posing and a warm, calm room. Newborn packages start from Rs 6,000.</p>
         <p class="article-text article-text-gap">See packages, safety steps and FAQs on our <a href="<?= base_url('/newborn-photography-pune/') ?>" class="article-link">Newborn Photography in Pune</a> page.</p>
       </div>
@@ -266,7 +267,7 @@
     </div>
     <div class="feature-row reverse feature-row-balanced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/baby-shoot.webp') ?>" alt="6 Month Baby Photoshoot" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/baby-shoot.webp') ?>" width="1600" height="2400" alt="6 Month Baby Photoshoot" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text">A 6 months baby is the cutest age for pictures. This is the stage when babies will sit with support and smile, and look playful. The highlights of our 6 month baby photoshoot sessions are:</p>
@@ -292,7 +293,7 @@
     </div>
     <div class="feature-row feature-row-balanced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/cake-smash-photography.webp') ?>" alt="Cake Smash Photography" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/cake-smash-photography.webp') ?>" width="1600" height="1027" alt="Cake Smash Photography" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text">A cake smash shoot is best done at around 11 months, before the first birthday party. Cake smash birthday photography is one of the most joyful ways to have fun on a baby's first birthday. There are giggles, silly faces and cute messiness in these sessions.</p>
@@ -308,7 +309,7 @@
     </div>
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Important Information</h4>
+        <h3 class="card-white-title lvl-h4">Important Information</h3>
         <p class="card-white-text">Parents need to bring the cake for the session</p>
         <p class="card-white-text">Or,</p>
         <p class="card-white-text">Parents need to pay additional charges if cake arrangement is required from our side. Cake smash photography in Pune is the best before your birthday party, so you can use it for:</p>
@@ -320,7 +321,7 @@
         </ul>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">We offer bespoke themes depending on:</h4>
+        <h3 class="card-white-title lvl-h4">We offer bespoke themes depending on:</h3>
         <ul class="pkg-detail-list">
           <li>Cartoon characters</li>
           <li>Princess themes</li>
@@ -344,7 +345,7 @@
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">Yes, we photograph twins as newborns, at 6 months, for pre-birthday shoots and as toddlers. Twin babies create double the joy and double the memories. Our twin baby photography sessions are carefully planned to highlight the adorable bond between siblings.</p>
-        <h4 class="card-white-title">We provide:</h4>
+        <h3 class="card-white-title lvl-h4">We provide:</h3>
         <ul class="pkg-detail-list">
           <li>Twin prop sets</li>
           <li>Matching themes</li>
@@ -354,7 +355,7 @@
         </ul>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Twin baby shoots can be done for:</h4>
+        <h3 class="card-white-title lvl-h4">Twin baby shoots can be done for:</h3>
         <ul class="pkg-detail-list">
           <li>Newborn twins</li>
           <li>6 month twins</li>
@@ -376,7 +377,7 @@
     </div>
     <div class="feature-row feature-row-balanced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/kids-photography.webp') ?>" alt="Toddler and Kids Photography in Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/kids-photography.webp') ?>" width="1600" height="2397" alt="Toddler and Kids Photography in Pune" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text">Toddler shoots work best outdoors, where toddlers can move and play naturally. Even toddlers are those energetic little beings, playful and expressive. Our toddler photography service in Pune is personalised, natural, and a creative way to capture their true nature.</p>
@@ -404,7 +405,7 @@
     <p class="article-text">For kids aged 2 to 5 years, we recommend outdoor shoots. Two to 5 years children are energetic and imaginative. Outdoor photography is also appropriate for this age since kids tend to enjoy open spaces and playful environments.</p>
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Outdoor kids photography includes:</h4>
+        <h3 class="card-white-title lvl-h4">Outdoor kids photography includes:</h3>
         <ul class="pkg-detail-list">
           <li>Natural candid portraits</li>
           <li>Running shots</li>
@@ -415,7 +416,7 @@
         </ul>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">We provide photography for:</h4>
+        <h3 class="card-white-title lvl-h4">We provide photography for:</h3>
         <ul class="pkg-detail-list">
           <li>Boys photography</li>
           <li>Girls photography</li>
@@ -437,7 +438,7 @@
     </div>
     <div class="feature-row reverse feature-row-balanced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/pre-birthday-shoot-pune.webp') ?>" alt="Pre Birthday Photoshoot in Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/pre-birthday-shoot-pune.webp') ?>" width="1600" height="1295" alt="Pre Birthday Photoshoot in Pune" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text"><a href="<?= base_url('/birthday-photography-pune/') ?>" class="article-link">Pre-birthday shoot</a> is normally done anytime between the 11 month mark leading up to your child becoming a year old. This is the golden age because your baby can now sit up, pull himself or herself up to a standing position with assistance from mum and dad, smile more (and naturally!), play with props etc.</p>
@@ -473,7 +474,7 @@
     </div>
     <div class="feature-row feature-row-balanced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/birthday-photo-shoot-pune.webp') ?>" alt="First Birthday Photoshoot in Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/birthday-photo-shoot-pune.webp') ?>" width="1600" height="1067" alt="First Birthday Photoshoot in Pune" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text">We cover first birthday parties at home, hotels, banquets and outdoor venues across Pune. Celebrating your baby turning one is a special occasion that only happens once in the life of your child. Baby photographer Pune is available for,</p>
@@ -498,9 +499,9 @@
     </div>
     <p class="article-text article-text-gap">We record every moment and every type of celebration so you can replay these memories until the end of time.</p>
     <div class="maternity-gallery maternity-gallery-3col matloc-gallery">
-      <img src="<?= base_url('assets/images/birthday-photography.webp') ?>" alt="Birthday Photography" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/birthday-photoshoot-pune.webp') ?>" alt="Birthday Photoshoot Pune" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/birthday-shoot.webp') ?>" alt="Birthday Shoot" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/birthday-photography.webp') ?>" width="1600" height="2240" alt="Birthday Photography" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/birthday-photoshoot-pune.webp') ?>" width="1600" height="2240" alt="Birthday Photoshoot Pune" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/birthday-shoot.webp') ?>" width="1600" height="1067" alt="Birthday Shoot" loading="lazy" class="maternity-gallery-img">
     </div>
   </div>
 </section>
@@ -541,7 +542,7 @@
     </div>
     <div class="feature-row feature-row-balanced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/baby-shoot-props.webp') ?>" alt="Baby Photoshoot Packages and Props" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/baby-shoot-props.webp') ?>" width="1600" height="1090" alt="Baby Photoshoot Packages and Props" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text"><strong>Starting Prices:</strong></p>
@@ -617,17 +618,12 @@
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">We thought let us book our daughter's first birthday photoshoot from The Bridal Photography and it was so special. The baby photographer was super patient with our little one and the photos turned out amazing. Decorations and props were artistic and on brand with our theme.</p>
         <p class="card-white-text">Availed our service for one year old baby girl</p>
-        <h4 class="card-white-title">Seema &amp; Rohit</h4>
+        <h3 class="card-white-title lvl-h4">Seema &amp; Rohit</h3>
       </div>
       <div class="card-white card-white-padded-sm">
-        <p class="card-white-text">We found our newborn photography session to be very comfortable and professional. The photographer was excellent at keeping our baby snug and safe, and got some wonderful wrapped poses. "This is more than we ever could have hoped for, family portraits go here.</p>
-        <p class="card-white-text">Availed our new born photography session</p>
-        <h4 class="card-white-title">Rani &amp; Sumedh</h4>
-      </div>
-      <div class="card-white card-white-padded-sm">
-        <p class="card-white-text">We opted out for a pre-birthday shoot outdoors and it turned out great. The images were illuminated with candid family moments and creative props. Definitely Recommend for baby shoots in Pune.</p>
+        <p class="card-white-text">We opted for a pre-birthday shoot outdoors and it turned out great. The images were illuminated with candid family moments and creative props. Definitely Recommend for baby shoots in Pune.</p>
         <p class="card-white-text">Availed our pre birthday shoot service</p>
-        <h4 class="card-white-title">Ashish &amp; Punam</h4>
+        <h3 class="card-white-title lvl-h4">Ashish &amp; Punam</h3>
       </div>
     </div>
   </div>

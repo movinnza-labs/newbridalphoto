@@ -1,6 +1,6 @@
 <section class="page-hero">
   <div class="page-hero-bg"></div>
-  <div class="page-hero-img"><img src="<?= base_url('assets/images/prewedding-mumbai-locations.webp') ?>" alt="Pre-Wedding Shoot<br><em>in Mumbai</em> photography" width="1920" height="700" loading="eager"></div>
+  <div class="page-hero-img"><img src="<?= base_url('assets/images/prewedding-mumbai-locations.webp') ?>" width="1600" height="900" alt="Pre-Wedding Shoot<br><em>in Mumbai</em> photography" width="1920" height="700" loading="eager"></div>
   <div class="page-hero-content"><div style="max-width:820px;">
     <p class="eyebrow" style="margin-bottom:.8rem;">Pre-Wedding Photography · Mumbai</p>
     <div style="width:52px;height:1px;background:linear-gradient(90deg,var(--gold),transparent);margin-bottom:1.4rem;"></div>

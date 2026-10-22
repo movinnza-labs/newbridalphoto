@@ -10,8 +10,9 @@
     <div class="page-hero-content-inner">
       <p class="eyebrow page-hero-eyebrow">Birthday Photography &middot; Pune</p>
       <div class="page-hero-rule"></div>
-      <h1>Capture Every Joyful Moment with Professional Birthday<br><em>Photographer Services in Pune</em></h1>
+      <h1>Birthday Photographer<br><em>in Pune</em></h1>
       <p class="page-hero-sub">Birthday celebrations are about life, affection, and simple happiness by having near ones.</p>
+      <p class="page-hero-sub" style="margin-top:.4rem;"><strong>Starting from &#8377;6,000</strong></p>
       <div class="page-hero-buttons">
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Now</a>
         <a href="tel:+918390367637" class="btn btn-white">+91 83903 67637</a>
@@ -39,7 +40,7 @@
     <div class="section-head">
       <p class="eyebrow section-head-eyebrow">What We Offer</p>
       <div class="rule-center section-head-rule"></div>
-      <h3 class="section-title">Our birthday photography services encompass<br><em>a range of offerings</em></h3>
+      <h2 class="section-title lvl-h3">Our birthday photography services encompass<br><em>a range of offerings</em></h2>
     </div>
 
     <div class="grid-3 grid-gap">
@@ -95,7 +96,7 @@
       <div class="rule-center section-head-rule"></div>
       <h2 class="section-title">Book Your Birthday Photographer<br><em>in Pune</em></h2>
       <p class="section-sub">Special occasions such as birthdays obviously should not be left unmarked, especially when you can take beautiful photos. In case you are seeking a birthday photographer for the event taking place in Pune, we are up for the task and ready to offer you the best of our work in terms of pictures. No matter if it is a dinner for two or a cocktail reception and dancing for fifty of your closest friends, the goal is to tell the story of your birthday from beginning to end.</p>
-      <p class="section-sub section-sub-gap">Give us a call today and let us plan for your birthday event as well as get to know more about how we can make your special day even more special with my birthday photographer offerings.</p>
+      <p class="section-sub section-sub-gap">Give us a call today and let us plan for your birthday event as well as get to know more about how we can make your special day even more special with our birthday photography packages.</p>
     </div>
   </div>
 </section>
@@ -163,7 +164,15 @@
       <p class="eyebrow section-head-eyebrow">Our Work</p>
       <div class="rule-center section-head-rule"></div>
       <h2 class="section-title">Best<br><em>Photographs</em></h2>
-      <p class="section-sub">You can take a look at our portfolio to see the type of baby photoshoots we offer. They focus on the happy and natural moments depicted in our images to demonstrate how engaging and unforgettable an event can be.</p>
+      <p class="section-sub">Take a look at some of our birthday shoots. They focus on happy and natural moments to show how joyful and memorable a birthday can be.</p>
+    </div>
+    <div class="maternity-gallery maternity-gallery-3col">
+      <img src="<?= base_url('assets/images/birthday-photography.webp') ?>" width="1600" height="2240" alt="Birthday girl in a pink gown and birthday sash posing in our Pune studio" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/birthday-photoshoot-pune.webp') ?>" width="1600" height="2240" alt="Girl in a pink party dress and tiara at her birthday photoshoot in Pune" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/birthday-shoot.webp') ?>" width="1600" height="1067" alt="Parents holding their son behind the birthday cake with a black and gold balloon arch" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/birthday-photo-shoot-pune.webp') ?>" width="1600" height="1067" alt="Parents hugging their daughter next to her birthday cake at a party in Pune" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/pre-birthday-shoot-pune.webp') ?>" width="1600" height="1295" alt="Baby boy in a hat sitting on a crate at an outdoor pre-birthday shoot in Pune" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/cake-smash-photography.webp') ?>" width="1600" height="1027" alt="Baby at an outdoor cake smash shoot with a ONE sign and a rainbow umbrella" loading="lazy" class="maternity-gallery-img">
     </div>
   </div>
 </section>
@@ -188,9 +197,9 @@
     </div>
     <?php foreach([
       ['Why should anyone choose The Bridal Photography for Birthday photography?',
-       'We- leading birthday photographers in Pune is recognised for our: Ability to capture genuine emotions and spontaneous moments, Creative use of lighting and composition, Proficiency in both indoor and outdoor settings, Skilful post-production techniques, Timely delivery of high-quality images, Excellent customer service and communication.'],
+       'As birthday photographers in Pune, we focus on: capturing real emotions and natural moments, creative use of light and composition, shooting both indoors and outdoors, careful editing, on-time delivery of your photos, and clear communication with you before and after the event.'],
       ['What kind of packages do you offer for birthday photography in Pune?',
-       'We understand that every birthday celebration is unique, so we offer a variety of birthday photographer packages in Pune to suit different needs and budgets: Basic Package: Suitable for small groups, this package contains event documentation, group photos, and snapshots. Standard Package: This package provides additional hours of coverage, editing of pictures, and both formal and reportage photography. It also has the provision of an online gallery for sharing set up for the individual. Premium Package: Ideal for clients who expect a massive number of guests, it tends to include several photographers, extended coverage, individual albums, and a cinematographic trailer. All of the packages can be tailored to fit your requirements, so you will receive the desired level of coverage for your occasion.'],
+       'We have three birthday packages. Gold (Rs 6,000): 45 edited photos, 3 themed setups, all props provided and 7-day delivery. Platinum (Rs 8,000): 60 edited photos, specialised props, 5+ themed setups and 10-day delivery. Diamond (Rs 18,000): full day coverage, 100+ edited photos, a cinematic birthday film, family portraits and 15-day delivery. Talk to us if you need something changed to suit your party.'],
       ['Can you provide candid photography for birthday parties in Pune?',
        'Yes, we specialize in candid photography for birthday parties in Pune. Our approach to candid photography includes discreet camera work to capture natural expressions and interactions. We do strategic positioning to document key moments without interrupting the flow of the event. Our candid photography aims to tell the story of your birthday celebration through genuine, and unposed moments.'],
     ] as [$q,$a]): ?>
@@ -206,7 +215,7 @@
 <section class="section section-off">
   <div class="container">
     <h2 class="enquire-section-title">Book Now or Enquire</h2>
-    <p class="enquire-section-sub">Contact us to discuss your baby's photoshoot and create beautiful memories that you will cherish forever.</p>
+    <p class="enquire-section-sub">Contact us to plan your birthday photoshoot or party coverage and create beautiful memories that you will cherish forever.</p>
 
     <div class="contact-layout">
       <div class="enquire-contact-card">
@@ -269,14 +278,14 @@
     </div>
 
     <div class="section-head section-head-gap">
-      <h3 class="section-title">Creating Beautiful Memories<br><em>For A Lifetime</em></h3>
+      <h2 class="section-title lvl-h3">Creating Beautiful Memories<br><em>For A Lifetime</em></h2>
     </div>
     <p class="article-text">We can look back at the past through pictures. There are many special times in our lives that we would do anything to relive. As professional photographers of newborns, toddlers, and babies, the team at The Bridal Photography, <strong>baby shoot photographers in Pune,</strong> has caught many of these moments over the years. Everyone in the world can now have these kinds of experiences.</p>
     <p class="article-text article-text-gap">Most people think that a newborn photography album or a baby photoshoot album needs a million pictures to tell your child's story. On the other hand, Bridal Photography knows that timing is the most important thing. Each scene is carefully planned out, and its movement is recorded, so the story is interesting.</p>
     <p class="article-text article-text-gap">Suppose you choose an outdoor <strong>baby shoot photography service in Pune</strong>, a home photoshoot, or a studio session for newborn photography. Let your creativity run wild, keep it natural, and catch your baby in the moment. The Baby Photoshoot and Newborn Photography from The Bridal Photography can give you a keepsake that will remind you of this special time in your life.</p>
 
     <div class="section-head section-head-gap">
-      <h3 class="section-title">We Love Kids and Teens.<br><em>One of our Other Big Interests is Photography.</em></h3>
+      <h2 class="section-title lvl-h3">We Love Kids and Teens.<br><em>One of our Other Big Interests is Photography.</em></h2>
     </div>
     <p class="article-text">Some of the best and most memorable times in a parent's life are the first years and months of their child's life. When a new baby comes into the world, magic has come to life. Your child's magical childhood years go by faster than you can blink. Your life and the way you think will never be the same again. You'll be thinking about your perfect little angel all the time.</p>
     <p class="article-text article-text-gap">The obvious warmth and love make a newborn or infant photoshoot so special. Details like how small a baby's hands and feet are, how their lips are shaped, how soft their skin is, and how quickly they smile while they sleep. Such small details don't last long, and the times they represent are, at best, brief.</p>
@@ -291,9 +300,9 @@
     <p class="article-text article-text-gap">Pick one of our skilled and experienced newborn, baby, or child photographers and take it easy. We can help you take beautiful pictures of your baby and print high-quality photo albums for newborns.</p>
 
     <div class="section-head section-head-gap">
-      <h2 class="section-title">Where in India or India have you looked for<br><em>the best place to take pictures of a new baby?</em></h2>
+      <h2 class="section-title">Looking for a Birthday and Baby<br><em>Photographer in Pune?</em></h2>
     </div>
-    <p class="article-text">Here at bridal photography, <strong>baby shoot photoshoot service in Pune,</strong> you can find professional photographers who are good at taking pictures of brides and grooms. You should have the best quote, and we hope giving it to you will make you happy. Since making art takes a lot of time, we only take on a small number of projects each year.</p>
+    <p class="article-text">At The Bridal Photography, you will find photographers who are used to working with babies, children and families, whether it is a studio birthday shoot, a pre-birthday shoot or full coverage of the party. Tell us about your plans and we will share a clear quote for the package that suits you.</p>
   </div>
 </section>
 
@@ -305,6 +314,7 @@
       <a href="<?= base_url('/baby-photoshoot-pune/') ?>" class="tag-link">Baby Photoshoot</a>
       <a href="<?= base_url('/baby-shower-photography-packages/') ?>" class="tag-link">Baby Shower Photography</a>
       <a href="<?= base_url('/newborn-photography-pune/') ?>" class="tag-link">Newborn Photography</a>
+      <a href="<?= base_url('/blog/candid-birthday-photography-tips/') ?>" class="tag-link">Candid Birthday Photography Tips</a>
       <a href="<?= base_url('/services/') ?>" class="tag-link">All Services</a>
       <a href="<?= base_url('/faq/') ?>" class="tag-link">FAQ</a>
     </div>

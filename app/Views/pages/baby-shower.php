@@ -10,8 +10,9 @@
     <div class="page-hero-content-inner">
       <p class="eyebrow page-hero-eyebrow">Baby Shower Photography &middot; Pune</p>
       <div class="page-hero-rule"></div>
-      <h1>Baby Shower Photography<br><em>Packages</em></h1>
-      <p class="page-hero-sub">We strive to capture your love story in the most gracious way possible. All the memories of your 'once in a lifetime' event will be hand-picked with precision and made into films &amp; photographs that you can cherish forever.</p>
+      <h1>Baby Shower Photography<br><em>Packages in Pune</em></h1>
+      <p class="page-hero-sub">We capture your baby shower in a gentle and natural way. The rituals, the blessings and the smiles of your family are picked with care and made into photos and films that you can keep forever.</p>
+      <p class="page-hero-sub" style="margin-top:.4rem;"><strong>Starting from &#8377;6,000</strong></p>
       <div class="page-hero-buttons">
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Now</a>
         <a href="tel:+918390367637" class="btn btn-white">+91 83903 67637</a>
@@ -41,7 +42,7 @@
         <p class="article-text article-text-dropcap">When expecting a new addition to the family, a baby shower is a cherished celebration that brings loved ones together to express their joy and best wishes for the parents-to-be. This momentous occasion deserves to be captured beautifully, and this is where professional baby shower photographers in Pune come into play. In this article, we will explore the world of professional baby shower photoshoots and help you find the perfect photographer to capture those precious moments.</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/babyshower-intro.webp') ?>" alt="Baby Shower Photography" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/babyshower-intro.webp') ?>" width="1024" height="683" alt="Baby Shower Photography" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>
@@ -52,8 +53,8 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Baby Shower Photography<br><em>Packages</em></h2>
-      <p class="section-sub">We strive to capture your love story in the most gracious way possible. All the memories of your 'once in a lifetime' event will be hand-picked with precision and made into films &amp; photographs that you can cherish forever.</p>
+      <h2 class="section-title">Capturing Your<br><em>Baby Shower</em></h2>
+      <p class="section-sub">We cover the whole baby shower: the rituals, the blessings from elders, the decorations, the games and the small candid moments between the parents-to-be and their guests. You get edited photos, and with our Platinum and Diamond packages, edited videos too.</p>
     </div>
   </div>
 </section>
@@ -68,7 +69,7 @@
     </div>
     <div class="pkg-grid">
       <div class="pkg-card">
-        <img src="<?= base_url('assets/images/babyshower-card-gold.webp') ?>" alt="Baby Shower Photography Packages" loading="lazy" class="pkg-card-img">
+        <img src="<?= base_url('assets/images/babyshower-card-gold.webp') ?>" width="1024" height="1024" alt="Baby Shower Photography Packages" loading="lazy" class="pkg-card-img">
         <p class="pkg-tier">Photography</p>
         <h3 class="pkg-name">Gold</h3>
         <div class="pkg-price">Rs. 6,000/-</div>
@@ -82,7 +83,7 @@
       </div>
       <div class="pkg-card featured">
         <div class="pkg-badge">Most Popular</div>
-        <img src="<?= base_url('assets/images/babyshower-card-platinum.webp') ?>" alt="Baby Shower Photography Packages" loading="lazy" class="pkg-card-img">
+        <img src="<?= base_url('assets/images/babyshower-card-platinum.webp') ?>" width="1024" height="1024" alt="Baby Shower Photography Packages" loading="lazy" class="pkg-card-img">
         <p class="pkg-tier">Photography &amp; Videography</p>
         <h3 class="pkg-name">Platinum</h3>
         <div class="pkg-price">Rs. 18,000/-</div>
@@ -99,7 +100,7 @@
         <a href="https://wa.me/918390367637" class="btn btn-gold pkg-card-btn" target="_blank" rel="noopener">Choose Plan</a>
       </div>
       <div class="pkg-card">
-        <img src="<?= base_url('assets/images/babyshower-card-diamond.webp') ?>" alt="Baby Shower Photography Packages" loading="lazy" class="pkg-card-img">
+        <img src="<?= base_url('assets/images/babyshower-card-diamond.webp') ?>" width="1024" height="1024" alt="Baby Shower Photography Packages" loading="lazy" class="pkg-card-img">
         <p class="pkg-tier">Cinematic + Photography</p>
         <h3 class="pkg-name">Diamond</h3>
         <div class="pkg-price">Rs. 28,000/-</div>
@@ -150,7 +151,7 @@
           <li>3 to 4 minute cinematic film</li>
           <li>Traditional film depend on event and rituals</li>
           <li><strong>DELIVERY TIMELINE: Edited videos 25 days</strong></li>
-          <li><strong>REVISIONS NA Wedding Teaser &amp; Films within month &ndash; REVISIONS &ndash; 1 Round within 7 Days of Delivery</strong></li>
+          <li><strong>Revisions: 1 round within 7 days of delivery</strong></li>
         </ul>
       </div>
 
@@ -180,7 +181,7 @@
 <!--    </div>-->
 <!--    <div class="grid-2 grid-gap">-->
 <!--      <div class="card-white card-white-padded-sm">-->
-<!--        <h4 class="card-white-title">Dates</h4>-->
+<!--        <h3 class="card-white-title lvl-h4">Dates</h3>-->
 <!--        <ul class="pkg-detail-list">-->
 <!--          <li>This proposal is valid for 30 days</li>-->
 <!--          <li>The dates are not confirmed and subject to our availability which may change without prior notice.</li>-->
@@ -188,23 +189,23 @@
 <!--        </ul>-->
 <!--      </div>-->
 <!--      <div class="card-white card-white-padded-sm">-->
-<!--        <h4 class="card-white-title">Travel, Food &amp; Accommodation</h4>-->
+<!--        <h3 class="card-white-title lvl-h4">Travel, Food &amp; Accommodation</h3>-->
 <!--        <ul class="pkg-detail-list">-->
 <!--          <li>For events outside Pune, air travel, local transport.</li>-->
 <!--          <li>Accommodation will be arranged by client or charged as per actuals. For outstation as well as Mumbai events, the crew eats with guests or a per diem, per meal will be charged for each crew member</li>-->
 <!--        </ul>-->
 <!--      </div>-->
 <!--      <div class="card-white card-white-padded-sm">-->
-<!--        <h4 class="card-white-title">Copyrights</h4>-->
+<!--        <h3 class="card-white-title lvl-h4">Copyrights</h3>-->
 <!--        <ul class="pkg-detail-list">-->
 <!--          <li>The Bridal Photography reserves the right to all photographs and film content.</li>-->
 <!--          <li>We may use a part of the content on our social media/website to promote our work A non-disclosure agreement can be signed to restrict the usage of photos or videos by paying an additional 20% fee.</li>-->
 <!--        </ul>-->
 <!--      </div>-->
 <!--      <div class="card-white card-white-padded-sm">-->
-<!--        <h4 class="card-white-title">Drones</h4>-->
+<!--        <h3 class="card-white-title lvl-h4">Drones</h3>-->
 <!--        <ul class="pkg-detail-list">-->
-<!--          <li>Drones are subject to DCGA &amp; government regulations.</li>-->
+<!--          <li>Drones are subject to DGCA &amp; government regulations.</li>-->
 <!--          <li>The client has the responsibility of obtaining permissions to fly drone from the event venue and local authorities</li>-->
 <!--        </ul>-->
 <!--      </div>-->
@@ -233,15 +234,15 @@
     </div>
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Memorable Moments</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Memorable Moments</strong></h3>
         <p class="card-white-text">A professional photographer ensures that every significant moment, from the joy of opening gifts to the emotions of parents, is captured beautifully.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>High-Quality Images</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>High-Quality Images</strong></h3>
         <p class="card-white-text">Professional photographers use high-end equipment, resulting in high-resolution and sharp images.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Creative Expertise</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Creative Expertise</strong></h3>
         <p class="card-white-text">They bring creativity and artistic vision to the photos, making each shot unique and special.</p>
       </div>
     </div>
@@ -264,11 +265,11 @@
   <div class="container">
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Preparing for the Photoshoot</h4>
+        <h3 class="card-white-title lvl-h4">Preparing for the Photoshoot</h3>
         <p class="card-white-text">Schedule: Plan the photoshoot at a time convenient for the parents and guests. Outfits: Choose outfits that complement the theme and make you feel comfortable.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Choosing a Theme and Location</h4>
+        <h3 class="card-white-title lvl-h4">Choosing a Theme and Location</h3>
         <p class="card-white-text">Select a theme that reflects your style and preferences. Discuss with the photographer about the best location to bring your vision to life.</p>
       </div>
     </div>
@@ -284,24 +285,24 @@
     </div>
     <div class="feature-row feature-row-balanced">
       <div class="bshower-img-stack">
-        <img src="<?= base_url('assets/images/babyshower-benefit-1.webp') ?>" alt="Baby Shower Photography moment" loading="lazy" class="bshower-stack-img">
-        <img src="<?= base_url('assets/images/babyshower-benefit-2.webp') ?>" alt="Baby Shower Photography moment" loading="lazy" class="bshower-stack-img">
+        <img src="<?= base_url('assets/images/babyshower-benefit-1.webp') ?>" width="1200" height="1800" alt="Baby Shower Photography moment" loading="lazy" class="bshower-stack-img">
+        <img src="<?= base_url('assets/images/babyshower-benefit-2.webp') ?>" width="1200" height="1800" alt="Baby Shower Photography moment" loading="lazy" class="bshower-stack-img">
       </div>
       <div class="grid-2 grid-gap">
         <div class="card-white card-white-padded-sm">
-          <h4 class="card-white-title"><strong>Cherished Memories</strong></h4>
+          <h3 class="card-white-title lvl-h4"><strong>Cherished Memories</strong></h3>
           <p class="card-white-text">Don't let this special occasion go un-photographed &ndash; capture all the fun and affection shared during your baby shower.</p>
         </div>
         <div class="card-white card-white-padded-sm">
-          <h4 class="card-white-title"><strong>Family Keepsakes</strong></h4>
+          <h3 class="card-white-title lvl-h4"><strong>Family Keepsakes</strong></h3>
           <p class="card-white-text">Beautiful photos give people a chance to recall the event, this is in preparation for the camera so all friends and family can enjoy the event.</p>
         </div>
         <div class="card-white card-white-padded-sm">
-          <h4 class="card-white-title"><strong>Professional Quality</strong></h4>
+          <h3 class="card-white-title lvl-h4"><strong>Professional Quality</strong></h3>
           <p class="card-white-text">Precise photos of key events by professional photographers help to capture joyous emotions and positive feelings.</p>
         </div>
         <div class="card-white card-white-padded-sm">
-          <h4 class="card-white-title"><strong>Creative Storytelling</strong></h4>
+          <h3 class="card-white-title lvl-h4"><strong>Creative Storytelling</strong></h3>
           <p class="card-white-text">Beautiful and creative pictures can go a long way in capturing the essence of your baby shower, adding to the fun.</p>
         </div>
       </div>
@@ -319,20 +320,20 @@
     </div>
     <div class="feature-row reverse feature-row-balanced">
       <div class="bshower-img-stack">
-        <img src="<?= base_url('assets/images/babyshower-facility-1.webp') ?>" alt="Baby Shower Photography setup" loading="lazy" class="bshower-stack-img">
-        <img src="<?= base_url('assets/images/babyshower-facility-2.webp') ?>" alt="Baby Shower Photography setup" loading="lazy" class="bshower-stack-img">
+        <img src="<?= base_url('assets/images/babyshower-facility-1.webp') ?>" width="1200" height="1800" alt="Baby Shower Photography setup" loading="lazy" class="bshower-stack-img">
+        <img src="<?= base_url('assets/images/babyshower-facility-2.webp') ?>" width="1200" height="1800" alt="Baby Shower Photography setup" loading="lazy" class="bshower-stack-img">
       </div>
       <div class="bshower-card-stack">
         <div class="card-white card-white-padded-sm">
-          <h4 class="card-white-title"><strong>Advanced Equipment</strong></h4>
+          <h3 class="card-white-title lvl-h4"><strong>Advanced Equipment</strong></h3>
           <p class="card-white-text">High-resolution cameras and professional gear to ensure the highest quality images.</p>
         </div>
         <div class="card-white card-white-padded-sm">
-          <h4 class="card-white-title"><strong>Skilled Photographers</strong></h4>
+          <h3 class="card-white-title lvl-h4"><strong>Skilled Photographers</strong></h3>
           <p class="card-white-text">Experienced professionals who excel in capturing the essence of your baby shower.</p>
         </div>
         <div class="card-white card-white-padded-sm">
-          <h4 class="card-white-title"><strong>Flexible Scheduling</strong></h4>
+          <h3 class="card-white-title lvl-h4"><strong>Flexible Scheduling</strong></h3>
           <p class="card-white-text">Adaptable timing to suit your event's schedule and preferences.</p>
         </div>
       </div>
@@ -350,16 +351,16 @@
       <p class="section-sub">Explore our portfolio to see examples of our work and how we capture the joy and beauty of baby showers. Our photos showcase the heartfelt moments, decorations, and special interactions that make each event unique.</p>
     </div>
     <div class="maternity-gallery maternity-gallery-3col bshower-gallery">
-      <img src="<?= base_url('assets/images/bshower-gal-1.webp') ?>" alt="Baby Shower Photography" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/bshower-gal-2.webp') ?>" alt="Baby Shower Photography" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/bshower-gal-3.webp') ?>" alt="Baby Shower Photography" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/bshower-gal-4.webp') ?>" alt="Baby Shower Photography" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/bshower-gal-5.webp') ?>" alt="Baby Shower Photography" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/bshower-gal-6.webp') ?>" alt="Baby Shower Photography" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/bshower-gal-7.webp') ?>" alt="Baby Shower Photography" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/bshower-gal-8.webp') ?>" alt="Baby Shower Photography" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/bshower-gal-9.webp') ?>" alt="Baby Shower Photography" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/bshower-gal-10.webp') ?>" alt="Baby Shower Photography" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/bshower-gal-1.webp') ?>" width="1600" height="2400" alt="Baby Shower Photography" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/bshower-gal-2.webp') ?>" width="1600" height="2400" alt="Baby Shower Photography" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/bshower-gal-3.webp') ?>" width="1600" height="2400" alt="Baby Shower Photography" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/bshower-gal-4.webp') ?>" width="1518" height="2280" alt="Baby Shower Photography" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/bshower-gal-5.webp') ?>" width="1600" height="1067" alt="Baby Shower Photography" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/bshower-gal-6.webp') ?>" width="1600" height="1067" alt="Baby Shower Photography" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/bshower-gal-7.webp') ?>" width="1600" height="1067" alt="Baby Shower Photography" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/bshower-gal-8.webp') ?>" width="1600" height="2400" alt="Baby Shower Photography" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/bshower-gal-9.webp') ?>" width="1600" height="2400" alt="Baby Shower Photography" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/bshower-gal-10.webp') ?>" width="1600" height="2400" alt="Baby Shower Photography" loading="lazy" class="maternity-gallery-img">
     </div>
   </div>
 </section>
@@ -376,9 +377,9 @@
       ['What are the best locations in Pune for a baby shower photoshoot?',
        'Popular locations include private homes, elegant banquet halls, and beautiful outdoor spaces such as gardens and parks. Select a venue that will suit your theme and environment so that the guests feel relaxed.'],
       ['What is the cost of baby shower photography in Pune?',
-       'The cost typically ranges from Rs 15,000 to Rs 35,000, depending on the package details, duration of coverage, and additional services included.'],
+       'Our baby shower packages are Rs 6,000 (Gold), Rs 18,000 (Platinum) and Rs 28,000 (Diamond) per day. The price depends on the package you choose, the coverage you need and any add-ons such as an extra photographer or an album.'],
       ['How much do you charge for a baby shower photograph?',
-       'Our starting rates are from 15000 for a basic package. More so, to enhance the quality of the work and enable our clients to obtain the best, we ensure that we have flexible prices and prices for packages that you can choose from.'],
+       'Our baby shower photography starts from Rs 6,000 per day for the Gold package. The Platinum package (Rs 18,000) adds candid photography and videography, and the Diamond package (Rs 28,000) includes a cinematic 3 minute song along with traditional photography and videography.'],
       ['What is the best time of day for a baby shower photoshoot in Pune?',
        'It should, however, be noted that a photo shoot is preferably done when it is light in the day. Natural light in the form of morning or early afternoon is best to use as it gives good coloring to the pictures.'],
     ] as [$q,$a]): ?>

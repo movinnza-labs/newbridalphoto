@@ -38,7 +38,7 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center" style="margin-bottom:1.4rem;"></div>
-      <p class="section-sub">Mumbai presents itself not only as a city in flux. Its coastline, heritage buildings, forts, gardens, and hidden alleyways offer perfect settings for couples wishing to engrave memories in photographs. Whether sea views, colonial architecture, lush green landscapes, or studio-style control, here are 10 really famous places for Pre-Wedding photoshoot Mumbai, and what makes each one special.</strong></p>
+      <p class="section-sub">Mumbai presents itself not only as a city in flux. Its coastline, heritage buildings, forts, gardens, and hidden alleyways offer perfect settings for couples wishing to engrave memories in photographs. Whether sea views, colonial architecture, lush green landscapes, or studio-style control, here are 10 really famous places for Pre-Wedding photoshoot Mumbai, and what makes each one special.</p>
     </div>
   </div>
 </section>
@@ -57,7 +57,7 @@
       <!-- 1. Marine Drive -->
       <div class="card-white" style="padding:1.8rem;">
         <h2 style="font-family:var(--font-serif);font-size:1.3rem;color:var(--text-primary);margin-bottom:.8rem;">Marine Drive / Queen's Necklace</h2>
-        <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;margin-bottom:.8rem;"><strong>Why to choose:</strong> Marine Drive, perhaps the most celebrated promenade of Mumbai, provides panoramic views of the Arabian Sea with the city skyline in the background. During the golden hour, the lights along the road curve appear like a glowing necklace, which is why it is also called the golden hour.</p>
+        <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;margin-bottom:.8rem;"><strong>Why to choose:</strong> Marine Drive, perhaps the most celebrated promenade of Mumbai, provides panoramic views of the Arabian Sea with the city skyline in the background. In the evening, the street lights along the curved road glow like a string of pearls, which is why it is also called the Queen's Necklace. Come at golden hour for soft light over the sea.</p>
         <p style="font-size:.84rem;color:var(--text-muted);line-height:1.7;"><strong>Best time to shoot:</strong> Early morning (less crowded) or just before sunset</p>
         <p style="font-size:.84rem;color:var(--text-muted);line-height:1.7;"><strong>Best for:</strong> Romantic, candid, silhouette, walking-it-out shots</p>
         <p style="font-size:.84rem;color:var(--text-muted);line-height:1.7;"><strong>Tips:</strong> For commercial/published photo sessions, check whether you requires any permissions. Since the location is open to the weather, lighting can significantly influence the outcome of your pictures.</p>
@@ -76,8 +76,8 @@
 
     <!-- Images after Bandra Fort -->
     <div class="grid-2" style="gap:1rem;margin:2rem 0;">
-      <img src="<?= base_url('assets/images/mumbai-prewedding-01.webp') ?>" alt="Pre-Wedding Shoot" loading="lazy" style="width:100%;height:auto;">
-      <img src="<?= base_url('assets/images/mumbai-prewedding-02.webp') ?>" alt="Pre-Wedding Shoot" loading="lazy" style="width:100%;height:auto;">
+      <img src="<?= base_url('assets/images/mumbai-prewedding-01.webp') ?>" width="683" height="1024" alt="Pre-Wedding Shoot" loading="lazy" style="width:100%;height:auto;">
+      <img src="<?= base_url('assets/images/mumbai-prewedding-02.webp') ?>" width="683" height="1024" alt="Pre-Wedding Shoot" loading="lazy" style="width:100%;height:auto;">
     </div>
 
     <div class="grid-2" style="gap:2rem;">
@@ -103,7 +103,7 @@
 
     <!-- Image after Gateway -->
     <div style="margin:2rem 0;text-align:center;">
-      <img src="<?= base_url('assets/images/mumbai-prewedding-03.webp') ?>" alt="Pre-Wedding Shoot Mumbai" loading="lazy" style="width:100%;max-width:800px;height:auto;">
+      <img src="<?= base_url('assets/images/mumbai-prewedding-03.webp') ?>" width="1024" height="683" alt="Pre-Wedding Shoot Mumbai" loading="lazy" style="width:100%;max-width:800px;height:auto;">
     </div>
 
     <div class="grid-2" style="gap:2rem;">
@@ -215,7 +215,7 @@
     </div>
 
     <div style="margin-bottom:2rem;text-align:center;">
-      <img src="<?= base_url('assets/images/mumbai-prewedding-04.webp') ?>" alt="Pre-Wedding Shoot" loading="lazy" style="width:100%;max-width:500px;height:auto;">
+      <img src="<?= base_url('assets/images/mumbai-prewedding-04.webp') ?>" width="683" height="1024" alt="Pre-Wedding Shoot" loading="lazy" style="width:100%;max-width:500px;height:auto;">
     </div>
 
     <div class="grid-3" style="gap:1.5rem;">
@@ -293,12 +293,12 @@
     <div class="feature-row" style="margin-bottom:2rem;">
       <div class="feature-img-wrap">
         <div style="display:grid;grid-template-columns:1fr 1fr;gap:.5rem;">
-          <img src="<?= base_url('assets/images/mumbai-prewedding-05.webp') ?>" alt="Pre Wedding Shoot" loading="lazy" style="width:100%;height:auto;">
-          <img src="<?= base_url('assets/images/mumbai-prewedding-06.webp') ?>" alt="Pre Wedding Shoot" loading="lazy" style="width:100%;height:auto;">
+          <img src="<?= base_url('assets/images/mumbai-prewedding-05.webp') ?>" width="683" height="1024" alt="Pre Wedding Shoot" loading="lazy" style="width:100%;height:auto;">
+          <img src="<?= base_url('assets/images/mumbai-prewedding-06.webp') ?>" width="1024" height="683" alt="Pre Wedding Shoot" loading="lazy" style="width:100%;height:auto;">
         </div>
       </div>
       <div>
-        <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;margin-bottom:1rem;">Mumbai and its environs have splendid range of destinations close at hand. The least common reason would not surprise you: According to data, 62% of pre-wedding shoots in Mumbai choose venues within a 100 km radius, which just about gets the distance-scenery ratio right.</p>
+        <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;margin-bottom:1rem;">Mumbai and its surroundings have a wide range of shoot locations close at hand, so you can get varied scenery without long travel.</p>
         <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;margin-bottom:1rem;">And since there are beaches, hilltops and studios in close proximity, couples have the option to organize shoots which suit their story, style and comfort level best.</p>
         <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;">Also, the city's thriving creative industry ensures a myriad of seasoned photographers and videographers specialising in pre-wed photography with top-of-the-line gadgets such as drones and high-res cameras for grand captures.</p>
       </div>
@@ -317,23 +317,23 @@
 
     <div class="grid-3" style="gap:1.5rem;">
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;"><strong>Timing</strong></h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;"><strong>Timing</strong></h3>
         <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">The golden hour (in first few hours of the morning followed by the last few before sunset) are perfect for some soft light and some beautiful photographs.</p>
       </div>
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;"><strong>Permissions</strong></h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;"><strong>Permissions</strong></h3>
         <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">Some beaches and studio sets require advanced permissions; plan ahead to avoid last minute wrangles.</p>
       </div>
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;"><strong>Weather</strong></h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;"><strong>Weather</strong></h3>
         <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">Pay special attention to the weather forecast. Mumbai is lush green in the monsoon season (June through September), but it can interfere with plans.</p>
       </div>
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;"><strong>Outfits &amp; Props</strong></h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;"><strong>Outfits &amp; Props</strong></h3>
         <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">Match outfits with the location, opt for flowy dresses on beaches and something rustic if it mountain ranges.</p>
       </div>
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;"><strong>Expertise</strong></h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;"><strong>Expertise</strong></h3>
         <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">Availing onboard photographers and planners takes you through the process with no hassle and some inspirations.</p>
       </div>
     </div>
@@ -352,6 +352,21 @@
     <div style="text-align:center;margin-top:1.5rem;">
       <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Session Now!</a>
     </div>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section class="section section-white">
+  <div class="container-sm">
+    <div class="section-head">
+      <p class="eyebrow" style="margin-bottom:.7rem;">Common Questions</p>
+      <div class="rule-center" style="margin-bottom:1.4rem;"></div>
+      <h2 class="section-title">Frequently Asked <em>Questions</em></h2>
+    </div>
+    <div class="faq-item"><button class="faq-trigger"><span class="faq-q">What is the best time of day for a pre wedding shoot in Mumbai?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Golden hour works best. That is the first few hours after sunrise and the last few hours before sunset, when the light is soft. Marine Drive also looks lovely after dark, when its street lights come on.</p></div></div>
+    <div class="faq-item"><button class="faq-trigger"><span class="faq-q">Which are the best pre wedding shoot locations in Mumbai?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Popular spots include Marine Drive, Bandra Fort and Bandstand, the Gateway of India, the Asiatic Library steps, Worli Sea Face, Kala Ghoda and Sanjay Gandhi National Park. For indoor themes, studios like Cine City have many ready sets.</p></div></div>
+    <div class="faq-item"><button class="faq-trigger"><span class="faq-q">Do we need permission to shoot at these locations?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Some beaches and studio sets need permission in advance. Plan ahead so there are no last minute problems on the day of the shoot.</p></div></div>
+    <div class="faq-item"><button class="faq-trigger"><span class="faq-q">Is the monsoon a good time for a pre wedding shoot in Mumbai?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Mumbai is green and fresh from June to September, but heavy rain can upset plans. If you choose the monsoon, keep a backup date and check the forecast. You can see our <a href="<?= base_url('/pre-wedding-photography-packages/') ?>" style="color:var(--gold);">pre wedding packages</a> to plan your shoot.</p></div></div>
   </div>
 </section>
 

@@ -10,7 +10,7 @@
     <div class="page-hero-content-inner">
       <p class="eyebrow page-hero-eyebrow">Pre-Wedding Photography &middot; Satara &middot; Maharashtra</p>
       <div class="page-hero-rule"></div>
-      <h1>Top 7 Pre Wedding Shoot Locations<br><em>in Satara</em></h1>
+      <h1>7 Best Pre Wedding Shoot Locations<br><em>in Satara</em></h1>
       <p class="page-hero-sub">Satara, a beautiful town in Maharashtra, boasts abundant natural beauty and historical sites, making it an ideal location for pre-wedding shoots.</p>
       <div class="page-hero-buttons">
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Now</a>
@@ -41,8 +41,8 @@
       <p class="section-sub">Satara, a beautiful town in Maharashtra, boasts abundant natural beauty and historical sites, making it an ideal location for pre-wedding shoots. Studded with dense forest, flowing waterfalls, and smooth levels of land, Satara provides the best locales for the moment's capture.</p>
     </div>
     <div class="grid-2 grid-gap grid-2-uniform">
-      <img src="<?= base_url('assets/images/satara-extra-1.webp') ?>" alt="Pre-wedding shoot Satara" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/satara-extra-3.webp') ?>" alt="Pre-wedding shoot Satara" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/satara-extra-1.webp') ?>" width="1024" height="683" alt="Pre-wedding shoot Satara" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/satara-extra-3.webp') ?>" width="683" height="1024" alt="Pre-wedding shoot Satara" loading="lazy" class="feature-img-full">
     </div>
   </div>
 </section>
@@ -57,7 +57,7 @@
 
     <div class="feature-row feature-row-spaced feature-row-balanced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/satara-thoseghar.webp') ?>" alt="Thoseghar Waterfall Satara" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/satara-thoseghar.webp') ?>" width="683" height="1024" alt="Thoseghar Waterfall Satara" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text">Situated near the Satara district, the Thoseghar Waterfall, renowned for its towering structure and surrounded by lush trees and plantations, is a popular destination for Pre-wedding shoots. The lush forests, waterfalls, and pools create a sight that evokes the symbolism of fairy tales and inspires people to dream. Taking a shot with the falls creates a natural-looking romantic screen of mist, which makes any picture look good for the eyes.</p>
@@ -83,7 +83,7 @@
 
     <div class="feature-row reverse feature-row-spaced feature-row-balanced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/satara-kaas.webp') ?>" alt="Kaas Plateau Satara" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/satara-kaas.webp') ?>" width="1024" height="683" alt="Kaas Plateau Satara" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text">Also known as the 'Valley of Flowers of Maharashtra,' the Kaas Plateau is a UNESCO World Natural Heritage site for tourism. The plateau's blooming season fills the entire area with flowers, ranging from pink, purple, and yellow to white.</p>
@@ -111,7 +111,7 @@
 
     <div class="feature-row feature-row-spaced feature-row-balanced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/satara-urmodi.webp') ?>" alt="Urmodi Dam Satara" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/satara-urmodi.webp') ?>" width="1024" height="683" alt="Urmodi Dam Satara" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text">This is another excellent location for a pre-wedding photoshoot in Satara. Located amidst hilly terrains and calm water bodies, Urmodi Dam is the perfect place for a pre-wedding shoot. The quietude of the location, in addition to the fabulous views of beautiful natural scenery, makes the place perfect for lovers to pose for marvelous photos.</p>
@@ -127,17 +127,17 @@
   </div>
 </section>
 
-<!-- 4. Chakhewadi Windmill Farms -->
+<!-- 4. Chalkewadi Windmill Farms -->
 <section class="section section-white">
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Chakhewadi<br><em>Windmill Farms</em></h2>
+      <h2 class="section-title">Chalkewadi<br><em>Windmill Farms</em></h2>
     </div>
 
     <div class="feature-row reverse feature-row-spaced feature-row-balanced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/satara-windmill.webp') ?>" alt="Chakhewadi Windmill Farms Satara" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/satara-windmill.webp') ?>" width="1024" height="683" alt="Chalkewadi Windmill Farms Satara" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text">As a location for couples searching for that picturesque scenery to formally make their union, Chalkewadi Windmill Farms is perfect. Whether the sky is clear or there is a storm behind the horizon, the large, factory-like windmills cool the picture and the atmosphere. It's important to note that the vast expanse of the windmills allows for the capture of unique and captivating angles.</p>
@@ -161,7 +161,7 @@
       <h2 class="section-title">Vajrai<br><em>Waterfall</em></h2>
     </div>
 
-    <p class="article-text">Vajrai Waterfall is near Satara, and it has a height of 145 meters, making it the second tallest waterfall in India. It's immensely romantic and serene. Stretching over three tiers with plants and trees on the sides, it provides a photographic background worth the journey for portrait shoots before the wedding.</p>
+    <p class="article-text">Vajrai Waterfall is near Satara, and it has a height of 145 meters, making it one of the tallest waterfalls in India. It's immensely romantic and serene. Stretching over three tiers with plants and trees on the sides, it provides a photographic background worth the journey for portrait shoots before the wedding.</p>
 
     <h3 class="article-heading article-heading-gap">Why It's Perfect for a Pre-Wedding Shoot?</h3>
     <ul class="pkg-detail-list">
@@ -173,8 +173,8 @@
     <h4 class="article-heading article-heading-gap">Pro Tip: It's advisable to wear appropriate footwear as the waterfall requires a short hike.</h4>
 
     <div class="grid-2 grid-gap article-img-center grid-2-uniform">
-      <img src="<?= base_url('assets/images/satara-vajrai-1.webp') ?>" alt="Vajrai Waterfall Satara" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/satara-vajrai-2.webp') ?>" alt="Vajrai Waterfall Satara" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/satara-vajrai-1.webp') ?>" width="683" height="1024" alt="Vajrai Waterfall Satara" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/satara-vajrai-2.webp') ?>" width="873" height="1024" alt="Vajrai Waterfall Satara" loading="lazy" class="feature-img-full">
     </div>
   </div>
 </section>
@@ -189,7 +189,7 @@
 
     <div class="feature-row feature-row-spaced feature-row-balanced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/satara-lodwick.webp') ?>" alt="Lodwick Point Satara" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/satara-lodwick.webp') ?>" width="1024" height="683" alt="Lodwick Point Satara" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text">Lodwick Point consists of elevated land and provides stunning views of the valleys and mountains. The cool breeze and the beautiful and scenic view of the area make Lodwick Point an ideal square for couples. Place the LODWICK PILLAR, a historical landmark, in your pictures to evoke a sense of history.</p>
@@ -215,7 +215,7 @@
 
     <div class="feature-row reverse feature-row-spaced feature-row-balanced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/satara-ajinkyatara.webp') ?>" alt="Ajinkyatara Fort Satara" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/satara-ajinkyatara.webp') ?>" width="683" height="1024" alt="Ajinkyatara Fort Satara" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text">For those people who are interested in history as well as nature lovers, the Ajinkyatara Fort is a wonderful place. This historical structure affords a beautiful view of Satara City and the central treetop hills. The old structure of the fort and its gates add a rustic yet royal look to your pre-wedding shoot.</p>

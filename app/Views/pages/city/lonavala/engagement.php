@@ -2,13 +2,13 @@
 <section class="page-hero">
   <div class="page-hero-bg"></div>
   <div class="page-hero-img">
-    <img src="<?= base_url('assets/images/mum-engage-1.webp') ?>" alt="Engagement Photography" width="1920" height="700" loading="eager" fetchpriority="high">
+    <img src="<?= base_url('assets/images/mum-engage-1.webp') ?>" alt="Engaged couple smiling and holding hands in front of floral decor" width="1920" height="700" loading="eager" fetchpriority="high">
   </div>
   <div class="page-hero-content">
     <div class="page-hero-content-inner">
       <p class="eyebrow page-hero-eyebrow">Engagement Photography &middot; Lonavala</p>
       <div class="page-hero-rule"></div>
-      <h1>Engagement Photoshoot<br><em>in Lonavala</em></h1>
+      <h1>Engagement Photographers<br><em>in Lonavala</em></h1>
       <p class="page-hero-sub">For its mist-covered hills, a rich maze of valleys, tranquil lakes, and star-studded scenery, Lonavala has now become one of the most preferred spots for couples wanting their engagement photographs to be shot. The Bridal Photography offers the best engagement photoshoot in Lonavala.</p>
       <div class="page-hero-buttons">
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Now</a>
@@ -24,8 +24,8 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <p class="section-sub">Your engagement is the start of a beautiful new story. It is a tribute to love, devotion and forever. Having a bit more romance to your memories through taking the time and place in consistent with being in a romantic spot; like lonavala.</p>
-      <p class="section-sub section-sub-gap">For its mist-covered hills, a rich maze of valleys, tranquil lakes, and star-studded scenery, Lonavala has now become one of the most preferred spots for couples wanting their engagement photographs to be shot. The Bridal Photography offers the best engagement photoshoot in Lonavala.</p>
+      <p class="section-sub">Your engagement is the start of a beautiful new story. It is a tribute to love, devotion and forever. Choosing a romantic place like Lonavala adds even more meaning to your memories.</p>
+      <p class="section-sub section-sub-gap">Our team knows how to use the hills, valleys and lakes as a natural backdrop, so your photos feel relaxed, personal and full of feeling.</p>
       <p class="section-sub section-sub-gap">We are expert in crafting epic engagement photography adventures fusing candid emotions with cinematic storytelling and artistic imagination. Whether you are thinking of an intimate ring ceremony or a pre-wedding shoot in Lonavala, with our expert team, they will make sure that every moment is captured well.</p>
     </div>
   </div>
@@ -44,27 +44,27 @@
     </div>
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Experience in Scenic Outdoor Locations</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Experience in Scenic Outdoor Locations</strong></h3>
         <p class="card-white-text">We are pro at shooting hill station, luxury resort and outdoor shoot in Lonavala. This allows us to use the environment in creative way for spectacular engagement photos.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Specialize to Work with Natural Light &amp; Weather</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Specialize to Work with Natural Light &amp; Weather</strong></h3>
         <p class="card-white-text">No matter whether you want the misty fog or a golden sunset, we know how to work with varying light and topography so every picture looks magical and professional.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Versatile Photography Style</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Versatile Photography Style</strong></h3>
         <p class="card-white-text">With our style you'll receive a mix of candid work, traditional portraits and cinematic photographs to ensure you end up with a beautifully balanced engagement album.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Dedicated Team for Complete Coverage</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Dedicated Team for Complete Coverage</strong></h3>
         <p class="card-white-text">We have special team for couple portraits and ceremony. We do not let any eye pleasing moment pass out without getting captured in our camera.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Premium Editing &amp; Presentation</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Premium Editing &amp; Presentation</strong></h3>
         <p class="card-white-text">We provide high-end editing and design, custom-designed albums and cinematic highlight videos to enhance your visual story.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Comfort-First Approach</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Comfort-First Approach</strong></h3>
         <p class="card-white-text">Our attention is on you feeling at ease. During engagement photoshoot in Lonavala being relaxed allows your natural compatibility to translate in every single frame.</p>
       </div>
     </div>
@@ -138,7 +138,7 @@
       <p class="eyebrow section-head-eyebrow">Packages</p>
       <div class="rule-center section-head-rule"></div>
       <h2 class="section-title">Packages<br><em>and Pricing</em></h2>
-      <p class="section-sub">Our engagement photography packages are designed to suit different budgets and event scales. Whether you need coverage for a simple ring ceremony, a scenic couple shoot, or a full engagement celebration, we offer flexible options.</p>
+      <p class="section-sub">Packages start from Rs 7,000. Our engagement photography packages are designed to suit different budgets and event scales. Whether you need coverage for a simple ring ceremony, a scenic couple shoot, or a full engagement celebration, we offer flexible options.</p>
       <p class="section-sub section-sub-gap">Our engagement photoshoot in Lonavala packages include professional photography coverage, edited high-resolution images, creative direction, and online delivery. Add-ons such as cinematic videos, reels, premium albums, or extended shoot hours are also available.</p>
       <p class="section-sub section-sub-gap">We recommend booking early, especially during peak wedding seasons, to secure your preferred date.</p>
     </div>
@@ -169,15 +169,15 @@
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"The team made us very comfortable for our engagement shoot in Lonavala. The sunset portraits were magical."</p>
-        <h4 class="card-white-title article-heading-gap"><strong>Nisha &amp; Karan</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>Nisha &amp; Karan</strong></h3>
       </div>
       <div class="card-white card-white-padded-sm">
-        <p class="card-white-text">"We adored the way they they took a candid photo approach to their photography. Time every single shot feels candid, emotional and perfectly composed."</p>
-        <h4 class="card-white-title article-heading-gap"><strong>Sanya &amp; Deepak</strong></h4>
+        <p class="card-white-text">"We adored the way they took a candid approach to their photography. Every single shot feels candid, emotional and perfectly composed."</p>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>Sanya &amp; Deepak</strong></h3>
       </div>
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"The team Bridal Photography captured our ceremony and couple shoot both beautifully. The photos exceeded our expectations."</p>
-        <h4 class="card-white-title article-heading-gap"><strong>Priya &amp; Sameer</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>Priya &amp; Sameer</strong></h3>
       </div>
     </div>
   </div>
@@ -217,7 +217,7 @@
       <div class="enquire-contact-card">
         <div class="enquire-contact-item"><div class="enquire-contact-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.01-.24 11.36 11.36 0 003.58.57 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.36 11.36 0 00.57 3.58 1 1 0 01-.25 1.01l-2.2 2.2z"/></svg></div><a href="tel:+918390367637" class="enquire-contact-link">+91 8390367637</a></div>
         <div class="enquire-contact-item"><div class="enquire-contact-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg></div><a href="mailto:thebridal11@gmail.com" class="enquire-contact-link">thebridal11@gmail.com</a></div>
-        <p class="enquire-contact-text">Inquiry today by visiting our official website to know more.</p>
+        <p class="enquire-contact-text">Contact us today to book.</p>
         <a href="tel:+918390367637" class="btn btn-gold pkg-card-btn">Book a Free Consultation Call</a>
       </div>
       <div class="enquire-form-card">

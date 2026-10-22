@@ -796,3 +796,103 @@ Lonavala folder page into `/pre-wedding-shoot-lonavala/`. Mahabaleshwar folder p
 - `D:\xampp\htdocs\thebridal\app\Views\pages\maternity-photographer.php` to `<web root>/app/Views/pages/maternity-photographer.php`
 
 **Still open:** replacement homepage photos (client to send).
+
+---
+
+## Round 4 (22 Oct 2026): Developer Points PDF (D-01 to D-16)
+
+Source: `TheBridalPhotography_Developer_Points.pdf` (Movinnza SEO team, live data 21 Oct 2026).
+**Backup first:** the scratchpad backup of `app/`, `main.css`, `sitemap.xml` and `tb_blogs` was taken before any change.
+
+| # | Status | What was done |
+|---|---|---|
+| D-01 | Done | Old LocalBusiness block (short address, logo image, "₹₹", aggregateRating 4.9/1179) removed from `layouts/main.php`. New `app/Libraries/PageSchema.php` prints Organization + WebSite on every page (Appendix A1). Full Pune LocalBusiness (`#business`) only on `/`, all 4 offices on `/contact/`, Mumbai office on `/mumbai/`. No aggregateRating anywhere. |
+| D-02 | Done | BreadcrumbList is built from the same `$breadcrumb` array that `partials/breadcrumb.php` prints, so JSON and visible trail always match. Last crumb has no `item`. 58 pages. |
+| D-03 | Done | Service (name, serviceType, areaServed city, provider `#business`, no prices) on 36 service, package and city pages. Baby and newborn pages keep their own Service + FAQPage blocks. |
+| D-04 | Done | Article on 12 guides, BlogPosting on the 5 posts (`datePublished` = published_at, `dateModified` = updated_at when later), CollectionPage on `/blog/`. All image URLs absolute. |
+| D-05 | Done | No old URL is hard-coded in the views. The redirecting links are in the database: run **`tools/dev_points_oct2026_db_updates.sql`** (archives the duplicate "when should I take" post, fixes the PBA, Snap City and Mahabaleshwar links, Mahabaleshwar post now links Mahabaleshwar pages only). Works on the live DB whether or not the older SQL files were run. Safe to run twice. |
+| D-06 | Done | Header "Baby Shoot" menu is now "Services" (Baby, Newborn, Birthday, Housewarming, Fashion & Product, All Services), desktop and mobile. `/services/` has a link in every section plus a new card grid for all 13 service pages. Lakshadweep linked from Pune locations + pre-wedding packages; Mulshi from packages + ideas post (SQL); Mahabaleshwar post from `/mahabaleshwar/`, `/pre-wedding-shoot-mahabaleshwar/`, `/mahabaleshwar/wedding-photographers/`; Ahilyanagar corporate from `/services/` + Ahilyanagar wedding; Ahilyanagar baby and maternity from the hub, each other and the engagement page; candid birthday post from `/birthday-photography-pune/`; birthday page from the post (SQL). Homepage "Fashion & Retail" card now goes to `/fashion-and-product-photography/`. |
+| D-07 | Done (1 question open) | `/ahilyanagar/` baby shower card (went to a Pune page) removed; a "Baby Photoshoot in Ahilyanagar" card already existed, and the baby page was added to Related Pages. Logo alt is "The Bridal Photography" on both header logos. **Open:** step 3, may the global menu and footer (Pune links) stay on city pages? |
+| D-08 | **Partly done, rest waiting on client** | Correction 22 Oct: the shared galleries (`partials/gallery-engagement.php`, `gallery-wedding.php`, `gallery-prewedding.php`) still load `mum-engage-*`, `mumbai-wp-*` and `mumbai-prewedding-*` files on all non-Mumbai city pages, Mahabaleshwar included; the engagement gallery alts are now distinct and true. | Mahabaleshwar: Mumbai files replaced with photos already in the project (engagement hero `mahab-venna.webp`, wedding hero `mahab-weather.webp`, hub cards `mahab-shoot-1.webp` (square crop) and `mahab-venna.webp`); schema images updated. Lonavala, Nashik and Sambhajinagar still need real photos (SEO doc S-10). Note: `mahab-venna`/`mahab-weather` are scenery, and the hub hero `prewedding-mahabaleshwar.webp` is a blog graphic with text, not a photo; replace with the client's own Mahabaleshwar shoots when available. Nothing renamed: renaming Mumbai photos would only hide that they are Mumbai shoots. When photos arrive, swap the `src` and update the image name in `PageSchema::PAGES` for that page. |
+| D-09 | Done | og:image = page hero/primary image, absolute https URL, with real `og:image:width/height` read from the file, plus `twitter:image`. Blog posts use the featured image made absolute. `/faq/` (no photo) uses the homepage hero, never the logo. |
+| D-10 | Done | width/height added to 463 images in 43 views (real pixel size of each file) + the homepage offer loop (read at runtime). Global CSS `img` rule now has `height:auto`. fetchpriority="high" on the `/about-us/`, `/pre-wedding-shoot-lonavala/` and `/blog/` heroes. No hero is lazy. |
+| D-11 | Done | All 74 route redirects and all `.htaccess` rules are 301. Live checked 22 Oct: 8 sample rows are one 301 each. `/blog/odio-non-quo-rerum-a/` now returns **410 Gone** (`Routes.php`). |
+| D-12 | Done | 540 headings re-levelled with a script: section titles are H2, then no level is skipped (H4 under H2 became H3 and so on), no H5/H6 left. Contact subtitle H6 is now a `<p>`. Budget page feature lines are H3 under "Package Highlights". First H2 that repeated the H1 reworded on baby shower ("Capturing Your Baby Shower"), venues ("Planning a Destination Wedding Near Pune"), housewarming ("Capturing Your New Beginning"), wedding films ("Our Latest Films"). Look unchanged: a renamed tag gets class `lvl-hN` and zero-specificity CSS restores the old size and margins (checked with before/after screenshots). |
+| D-13 | Done | `tools/build_sitemap.php` no longer uses file dates (an upload resets them). It hashes the visible text inside `<main>` and keeps the old lastmod unless that text changed (`tools/sitemap_content_hashes.json`, created on the first run). `sitemap.xml`: lastmod 2026-10-22 only for the 6 pages whose text changed today (services, ahilyanagar, baby shower, venues, housewarming, wedding films). The other dates were left as they were. |
+| D-14 | Done | Blog cards on `/blog/`, the homepage and "Related Articles" are `<article>`: category in its own `<span>`, a space, then `<h3><a>title</a></h3>`. The whole card stays clickable (CSS stretched link). |
+| D-15 | Done | The 8 iframes on `/wedding-films/` now use the same click-to-load facade the homepage already had (`.yt-facade` + `main.js`), so no extra library. The homepage already loaded videos on click. |
+| D-16 | **Waiting on SEO sign-off** | The SEO document (titles, metas, H1s, text edits) was not part of this PDF. Apply after sign-off. |
+
+**Checked on a local copy (59 sitemap URLs):** all 200, JSON-LD valid, 0 aggregateRating, Organization + WebSite on all, LocalBusiness only on `/` (1), `/contact/` (4), `/mumbai/` (1), 58 BreadcrumbLists equal to the visible trail, 36 Service, 12 Article, 5 BlogPosting, og:image a photo with size on every page, 0 images without width/height, 1 H1 and no skipped levels on every template, no internal link to a 3xx/4xx URL, every sitemap URL has 3+ inlinks, city hub body links stay in their city.
+
+**Confirm with the client before go-live:** opening hours (not added), priceRange "₹6,000 to ₹75,000", Mumbai office area (contact page says "Khar, Andheri West"; schema uses Andheri West as in Appendix A).
+
+**Not changed, noted:** on the homepage the video play icon shape takes the default link colour (blue); fixed on `/wedding-films/` only. Unused views (`pre-wedding-locations-in-pune.php`, `city/mumbai-prewedding.php`, `city/mumbai-wedding.php`, `city/lonavala/prewedding.php`, `city/mahabaleshwar/prewedding.php`) were not re-levelled.
+
+### To deploy
+1. Back up the live site and `tb_blogs`.
+2. Upload: `app/Libraries/PageSchema.php` (new), `app/Config/Routes.php`, `app/Views/` (layouts, partials, pages, blog: changed files listed by the diff), `assets/css/main.css` (cache-buster `?v=221026.1`), `tools/build_sitemap.php`, `sitemap.xml`.
+3. Run `tools/dev_points_oct2026_db_updates.sql` on the live DB. The last SELECT must return 0 rows.
+4. Rich Results Test on `/`, `/contact/`, `/mumbai/`, 5 inner pages and 1 blog post. Facebook Sharing Debugger on 2 pages. Resubmit the sitemap in GSC.
+
+---
+
+## Round 5 (22 Oct 2026): SEO Points PDF (S-01 to S-13)
+
+Source: `TheBridalPhotography_SEO_Points.pdf`. The page cards were not ticked "Approved" in the PDF; applied on request.
+
+**Done**
+- **S-01/S-02/S-03:** all 59 titles, metas and H1s from Section 2 (controllers for 54 pages, `tools/seo_points_oct2026_db_updates.sql` for the 5 blog posts). Checked on a local copy: every page matches, all titles 60 chars or less, metas 120 to 155, no em dash, no "4.9"/"Silver" in metas.
+  - Changed from the PDF on purpose (numbers and prices must be true on the page):
+    - Venues page: "8 Best" changed to "17 Best". The page lists 17.
+    - Pune locations: "20 Best" changed to "18 Best". The page covers 18 named spots.
+    - Roka: "From ₹10,000" removed. On the page Rs 10,000 is an average market range, not our price.
+    - Housewarming: "₹7,000" removed. It is not shown anywhere on the site.
+    - Mahabaleshwar blog meta: Venna Lake and Arthur's Seat replaced with Wilson Point and Lingmala Falls. The post does not cover the first two.
+- **S-04:** price conflicts fixed:
+  - baby shower FAQ (from Rs 6,000)
+  - Mumbai engagement FAQ (Rs 7,000)
+  - wedding album (Rs 12,000)
+  - FAQ page pre wedding tiers now match the packages page
+  - "Starting from" line in the hero of every page that has a price in its title
+- **S-05:** every Section 3 phrase removed (checked on the rendered pages), plus the per-page "Fix on page" items.
+- **S-07:** maternity duplicates removed, one timing range (28 to 32 weeks), typo fixed, price table moved near the top.
+- **S-10:** contact, fashion/product, wedding films, timing guide and Lakshadweep each now have 500+ words of main text.
+- **S-11:** "Award-winning" removed (footer, homepage, blog sidebar, default meta). About page says 10+ years only.
+- Roka: new "What Happens at a Roka Ceremony?" section, a FAQ, and 16 distinct image alts.
+- Sitemap: lastmod 2026-10-22 for the 53 pages whose visible text changed.
+
+**SEO team tasks (not code):** S-06 batches and GSC indexing requests, S-08 Rich Results/GSC checks, S-12 originality check of the Mahabaleshwar copy (no paragraphs shared with the Lonavala pages were found), S-13 checklist after deploy.
+
+**Needs client**
+- **Photos (S-09):**
+  - Lonavala, Nashik and Sambhajinagar still use Mumbai files.
+  - Ahilyanagar hub uses Pune files.
+  - Lakshadweep "laksha-goa-1..4" and the banner look like Goa.
+  - Lonavala pre wedding hero is a Satara text graphic.
+  - saras-baug.webp has stock watermarks.
+- **Prices:**
+  - Roka starting price.
+  - Housewarming price.
+  - Snap City blog prices, timings and phone number.
+  - Mumbai engagement tier prices.
+- **Delivery times:**
+  - Wedding videos 25 days vs 15 to 45 days.
+  - Engagement photos 1 week vs 15 days.
+  - Corporate photos 24 hours vs a couple of days.
+  - Contact reply: about page says 2 hours, contact page says 24 hours.
+- **Photo counts:**
+  - Baby shower: 45 vs 250.
+  - Engagement: 45 vs 250.
+  - Pre wedding: "250 Images" changed to 60 to 70 to match the cards; please confirm.
+- **Real reviews and names:**
+  - Rani & Sumedh testimonial removed (it had placeholder text).
+  - "Happy Parents" / "Maternity Client" labels need real names.
+  - Names for homepage testimonial videos 1 to 3.
+- **Other:**
+  - Office opening hours.
+  - Newborn: home shoots or studio only?
+  - Homepage celebrity client list needs proof.
+  - Wedding films "₹35,000/Day": that is the traditional video package; cinematic films are in the ₹75,000 package.
+
+**Deploy:** upload changed `app/` files, `assets/css/main.css`, `sitemap.xml`. On the live DB, run `tools/dev_points_oct2026_db_updates.sql` first, then `tools/seo_points_oct2026_db_updates.sql` (it also edits `tb_blog_ctas`; back up both tables first).

@@ -52,6 +52,10 @@ desktop.ini
 .vscode/
 .idea/
 
-# ── Database dump (wanted in repo) ─────────────────
-!/database/
-!/database/**
+# ── Database dumps and admin logins (never push: customer data, password hashes) ──
+/database/
+*.sql.gz
+/app/Database/admin_users.sql
+
+# ── Local editor / tool folders ─────────────────────
+.claude/

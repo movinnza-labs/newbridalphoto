@@ -20,7 +20,7 @@
       </h1>
 
       <p class="hero-sub">
-        Award-winning <a href="<?= base_url('/pre-wedding-shoot-locations-in-pune/') ?>"
+        Candid <a href="<?= base_url('/pre-wedding-shoot-locations-in-pune/') ?>"
           style="color:rgba(255,255,255,.75);text-decoration:underline;text-decoration-color:rgba(201,169,110,.5);">pre-wedding photography</a>,
         <a href="<?= base_url('/wedding-photography-packages/') ?>"
           style="color:rgba(255,255,255,.75);text-decoration:underline;text-decoration-color:rgba(201,169,110,.5);">wedding coverage</a>
@@ -136,7 +136,7 @@
         <div class="rule-left" style="margin-bottom:1.2rem;"></div>
         <h2 class="section-title" style="margin-bottom:.5rem;">About</h2>
         <h2 class="section-title"><em>The Bridal Photography</em></h2>
-        <p style="margin-top:1.2rem;">As an award winning photography company with clients like Sanjay Ag. (Century Plywood); Dr.DY Patil Group; Hon.Ajit Pawar; Sanjay Ghodawat group; Muthoot Group; Actor Arjun Rampal; Cricketer Bhuvneshwar Kr; Being Human Group (Mandana Ind.); Somany Tiles family; Punj-Lloyd family; Dollar Club Garments; Jindal Steels; Adani Family; Ambuja-Neotias &amp; Fashion Designer Rahul Mishra; Sabyasachi among others, our work has helped us achieve an international level exposure &amp; standards.</p>
+        <p style="margin-top:1.2rem;">As a photography company, we have worked with clients like Sanjay Ag. (Century Plywood); Dr.DY Patil Group; Hon.Ajit Pawar; Sanjay Ghodawat group; Muthoot Group; Actor Arjun Rampal; Cricketer Bhuvneshwar Kr; Being Human Group (Mandana Ind.); Somany Tiles family; Punj-Lloyd family; Dollar Club Garments; Jindal Steels; Adani Family; Ambuja-Neotias &amp; Fashion Designer Rahul Mishra; Sabyasachi among others, our work has helped us achieve an international level exposure &amp; standards.</p>
         <div class="home-about-services">
           <a href="<?= base_url('/pre-wedding-shoot-locations-in-pune/') ?>" class="home-about-service-card">
             <span>Pre-wedding Shoot</span>
@@ -270,7 +270,7 @@
               </svg>
             </div>
             <div>
-              <h5>Capturing Your Moments with Expertise</h5>
+              <h3 class="lvl-h5">Capturing Your Moments with Expertise</h3>
               <p>Our seasoned photographer brings years of professional experience to your special day. With a keen eye for detail and an innate talent for capturing emotion, they ensure that every moment, from the tender glances to the joyous celebrations, is preserved beautifully for you to cherish forever.</p>
             </div>
           </div>
@@ -281,7 +281,7 @@
               </svg>
             </div>
             <div>
-              <h5>Crafting Timeless Memories</h5>
+              <h3 class="lvl-h5">Crafting Timeless Memories</h3>
               <p>Entrust your wedding memories to someone who understands the significance of each shot. Our photographer not only knows how to compose stunning images but also recognizes the fleeting nature of the moments they capture.</p>
             </div>
           </div>
@@ -292,7 +292,7 @@
               </svg>
             </div>
             <div>
-              <h5>Support 24/7</h5>
+              <h3 class="lvl-h5">Support 24/7</h3>
             </div>
           </div>
         </div>
@@ -440,10 +440,11 @@
         ['Baby Shower Shoot',                    'home-offer-babyshower.webp',  '/baby-shower-photography-packages/'],
         ['Baby Shoot',                           'home-offer-baby.webp',        '/baby-photoshoot-pune/'],
         ['Private Jet/Helicopter Shoot Proposal','home-offer-privatejet.webp',  '/services/'],
-        ['Fashion &amp; Retail Product Shoot',   'home-offer-fashion.webp',      '/services/'],
+        ['Fashion &amp; Retail Product Shoot',   'home-offer-fashion.webp',      '/fashion-and-product-photography/'],
       ] as $offer): [$title, $img, $url] = $offer; $offerAlt = isset($offer[3]) ? esc($offer[3]) : strip_tags($title); ?>
       <a href="<?= base_url($url) ?>" class="home-offer-card">
-        <img src="<?= base_url('assets/images/' . $img) ?>" alt="<?= $offerAlt ?>" loading="lazy">
+        <?php $offerDim = @getimagesize(FCPATH . 'assets/images/' . $img); ?>
+        <img src="<?= base_url('assets/images/' . $img) ?>"<?= $offerDim ? ' width="' . $offerDim[0] . '" height="' . $offerDim[1] . '"' : '' ?> alt="<?= $offerAlt ?>" loading="lazy">
         <div class="home-offer-card-overlay"></div>
         <div class="home-offer-card-title"><?= $title ?></div>
       </a>
@@ -538,7 +539,7 @@
 
     <div class="blog-grid">
       <?php foreach ($recentBlogs as $b): ?>
-      <a href="<?= base_url('/blog/' . esc($b['slug']) . '/') ?>" class="blog-card" style="text-decoration:none;">
+      <article class="blog-card">
         <div class="blog-card-img">
           <?php if ($b['featured_image']): ?>
           <?php $bImg = str_starts_with($b['featured_image'], 'http') ? $b['featured_image'] : base_url($b['featured_image']); ?>
@@ -547,12 +548,11 @@
           <?php endif; ?>
         </div>
         <div class="blog-card-body">
-          <p class="blog-card-cat"><?= esc(ucfirst(str_replace('-', ' ', $b['category'] ?? 'Blog'))) ?></p>
-          <h3 class="blog-card-title"><?= esc($b['title']) ?></h3>
+          <span class="blog-card-cat"><?= esc(ucfirst(str_replace('-', ' ', $b['category'] ?? 'Blog'))) ?></span> <h3 class="blog-card-title"><a href="<?= base_url('/blog/' . esc($b['slug']) . '/') ?>"><?= esc($b['title']) ?></a></h3>
           <p class="blog-card-excerpt"><?= esc(substr(strip_tags($b['excerpt'] ?? $b['content'] ?? ''), 0, 110)) ?>…</p>
           <span class="blog-card-link">Read Article</span>
         </div>
-      </a>
+      </article>
       <?php endforeach; ?>
     </div>
 

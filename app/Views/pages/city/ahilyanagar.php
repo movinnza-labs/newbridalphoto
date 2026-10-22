@@ -45,55 +45,49 @@
     <div class="grid-3 grid-gap">
       <!-- Pre-Wedding -->
       <a href="<?= base_url('/ahilyanagar/pre-wedding-shoot/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/pune-street-3.webp') ?>" alt="Pre-Wedding Shoot in Ahilyanagar" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/pune-street-3.webp') ?>" width="683" height="1024" alt="Pre-Wedding Shoot in Ahilyanagar" loading="lazy" class="mumbai-service-img">
         <h3 class="mumbai-service-title">Pre-Wedding Shoot in Ahilyanagar</h3>
       </a>
 
       <!-- Engagement -->
       <a href="<?= base_url('/ahilyanagar/engagement-photographers/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/engage-card-gold.webp') ?>" alt="Engagement Photography Packages" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/engage-card-gold.webp') ?>" width="1024" height="1024" alt="Engagement Photography Packages" loading="lazy" class="mumbai-service-img">
         <h3 class="mumbai-service-title">Engagement Photography in Ahilyanagar</h3>
       </a>
 
       <!-- Wedding -->
       <a href="<?= base_url('/ahilyanagar/wedding-photographers/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/ahily-wedding.webp') ?>" alt="Wedding Photography in Ahilyanagar" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/ahily-wedding.webp') ?>" width="683" height="1024" alt="Wedding Photography in Ahilyanagar" loading="lazy" class="mumbai-service-img">
         <h3 class="mumbai-service-title">Wedding Photography in Ahilyanagar</h3>
       </a>
 
       <!-- Birthday -->
       <a href="<?= base_url('/ahilyanagar/baby-photoshoot/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/ahily-birthday.webp') ?>" alt="Baby Photography Packages" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/ahily-birthday.webp') ?>" width="1600" height="1600" alt="Baby Photography Packages" loading="lazy" class="mumbai-service-img">
         <h3 class="mumbai-service-title">Birthday Photoshoot in Ahilyanagar</h3>
-      </a>
-
-      <!-- Baby Shower -->
-      <a href="<?= base_url('/baby-shower-photography-packages/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/babyshower-card-diamond.webp') ?>" alt="Baby Shower Photography Packages" loading="lazy" class="mumbai-service-img">
-        <h3 class="mumbai-service-title">Baby Shower Photography in Ahilyanagar</h3>
       </a>
 
       <!-- Maternity -->
       <a href="<?= base_url('/ahilyanagar/maternity-photographer/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/ahily-maternity.webp') ?>" alt="Maternity Photography Packages" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/ahily-maternity.webp') ?>" width="1024" height="1014" alt="Maternity Photography Packages" loading="lazy" class="mumbai-service-img">
         <h3 class="mumbai-service-title">Maternity Photoshoot in Ahilyanagar</h3>
       </a>
 
       <!-- Baby -->
       <a href="<?= base_url('/ahilyanagar/baby-photoshoot/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/ahily-baby.webp') ?>" alt="Baby Photography Packages" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/ahily-baby.webp') ?>" width="1024" height="1024" alt="Baby Photography Packages" loading="lazy" class="mumbai-service-img">
         <h3 class="mumbai-service-title">Baby Photoshoot in Ahilyanagar</h3>
       </a>
 
       <!-- Newborn -->
       <a href="<?= base_url('/ahilyanagar/baby-photoshoot/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/ahily-newborn.webp') ?>" alt="Newborn photoshoot in Ahilyanagar" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/ahily-newborn.webp') ?>" width="1024" height="1024" alt="Newborn photoshoot in Ahilyanagar" loading="lazy" class="mumbai-service-img">
         <h3 class="mumbai-service-title">Newborn and Baby Photoshoot in Ahilyanagar</h3>
       </a>
 
       <!-- Event -->
       <a href="<?= base_url('/ahilyanagar/corporate-event-meeting-shoot/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/ahily-event.webp') ?>" alt="Event Photography in Ahilyanagar" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/ahily-event.webp') ?>" width="1024" height="683" alt="Event Photography in Ahilyanagar" loading="lazy" class="mumbai-service-img">
         <h3 class="mumbai-service-title">Event Photography in Ahilyanagar</h3>
       </a>
     </div>
@@ -153,7 +147,7 @@
     <div class="section-head">
       <p class="eyebrow section-head-eyebrow">Common Questions</p>
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Trending Frequently Asked<br><em>Questions</em></h2>
+      <h2 class="section-title">Frequently Asked<br><em>Questions</em></h2>
     </div>
     <?php foreach([
       ['What kind of photography do you provide in Ahilyanagar?',
@@ -186,6 +180,7 @@
       <a href="<?= base_url('/ahilyanagar/wedding-photographers/') ?>" class="tag-link">Wedding Ahilyanagar</a>
       <a href="<?= base_url('/ahilyanagar/engagement-photographers/') ?>" class="tag-link">Engagement Ahilyanagar</a>
       <a href="<?= base_url('/ahilyanagar/maternity-photographer/') ?>" class="tag-link">Maternity Ahilyanagar</a>
+      <a href="<?= base_url('/ahilyanagar/baby-photoshoot/') ?>" class="tag-link">Baby Photoshoot in Ahilyanagar</a>
       <a href="<?= base_url('/ahilyanagar/corporate-event-meeting-shoot/') ?>" class="tag-link">Corporate Event Shoot in Ahilyanagar</a>
       <a href="<?= base_url('/faq/') ?>" class="tag-link">FAQ</a>
     </div>

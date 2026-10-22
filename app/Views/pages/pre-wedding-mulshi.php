@@ -10,7 +10,7 @@
     <div class="page-hero-content-inner">
       <p class="eyebrow page-hero-eyebrow">Pre-Wedding Photography &middot; Mulshi &middot; Pune</p>
       <div class="page-hero-rule"></div>
-      <h1>Capturing Love in the Serenity<br><em>of Mulshi</em></h1>
+      <h1>Pre Wedding Shoot<br><em>at Mulshi Lake</em></h1>
       <p class="page-hero-sub">Love is an adventure, and what better way to kickstart your journey into marital bliss than with a pre-wedding photoshoot in the breathtaking landscapes of Mulshi, Pune?</p>
       <div class="page-hero-buttons">
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Now</a>
@@ -38,7 +38,7 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Mulshi is blessed with a pleasant climate throughout the year,<br><em>making it an ideal location for pre-wedding shoots.</em></h2>
+      <h2 class="section-title">Mulshi Lake, with its green monsoon hills and misty mornings,<br><em>is a calm and scenic spot for pre wedding shoots.</em></h2>
       <p class="section-sub">Love is an adventure, and what better way to kickstart your journey into marital bliss than with a pre-wedding photoshoot in the breathtaking landscapes of Mulshi, Pune? Nestled amidst the Western Ghats, Mulshi offers a perfect blend of tranquility, natural beauty, and a touch of rustic charm that sets the stage for timeless pre-wedding memories.</p>
     </div>
   </div>
@@ -56,7 +56,7 @@
     <!-- The Romantic Backdrop -->
     <div class="feature-row feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/mulshi-backdrop.webp') ?>" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/mulshi-backdrop.webp') ?>" width="1024" height="683" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <h3 class="article-heading">The Romantic Backdrop</h3>
@@ -71,14 +71,14 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h3 class="section-title">Picture-Perfect<br><em>Locations</em></h3>
+      <h2 class="section-title lvl-h3">Picture-Perfect<br><em>Locations</em></h2>
     </div>
 
     <p class="article-text">Mulshi is a treasure trove of picturesque spots that serve as the perfect canvas for your pre-wedding photoshoot. From the quaint villages and charming cottages to the lush meadows and ancient forts, Mulshi offers a diverse range of settings to suit every couple's unique style. The rustic charm of the local architecture, coupled with the untouched natural beauty, provides a stunning backdrop for capturing the essence of your love story.</p>
 
     <div class="grid-2 grid-gap article-img-center">
-      <img src="<?= base_url('assets/images/mulshi-locations-1.webp') ?>" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/mulshi-locations-2.webp') ?>" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mulshi-locations-1.webp') ?>" width="1600" height="1067" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mulshi-locations-2.webp') ?>" width="1600" height="1067" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" class="feature-img-full">
     </div>
   </div>
 </section>
@@ -88,15 +88,15 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h3 class="section-title">Sunset<br><em>Romance</em></h3>
+      <h2 class="section-title lvl-h3">Sunset<br><em>Romance</em></h2>
     </div>
 
     <p class="article-text">As the sun sets over Mulshi, the sky transforms into a canvas of warm hues, casting a golden glow over the landscape. Seize the opportunity to capture the intimate moments between you and your partner during this magical hour. The soft, warm light creates a romantic ambiance, turning every photograph into a work of art that narrates your love story with every glance and touch.</p>
 
     <div class="grid-3 grid-gap article-img-center">
-      <img src="<?= base_url('assets/images/mulshi-sunset-1.webp') ?>" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/mulshi-sunset-2.webp') ?>" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/mulshi-sunset-3.webp') ?>" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mulshi-sunset-1.webp') ?>" width="1600" height="2400" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mulshi-sunset-2.webp') ?>" width="1600" height="1067" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mulshi-sunset-3.webp') ?>" width="1600" height="1067" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" class="feature-img-full">
     </div>
   </div>
 </section>
@@ -106,19 +106,19 @@
   <div class="container">
     <div class="grid-2 grid-gap">
       <div>
-        <h4 class="article-heading">Culinary Delights</h4>
+        <h3 class="article-heading lvl-h4">Culinary Delights</h3>
         <p class="article-text">A pre-wedding shoot in Mulshi isn't just about the landscapes; it's also a journey into the heart of Maharashtra's culinary delights. Consider incorporating a culinary experience into your photoshoot, whether it's a romantic picnic by the lakeside or a cozy dinner under the starlit sky. The local flavors and vibrant Maharashtrian cuisine add a touch of authenticity to your pre-wedding memories.</p>
       </div>
       <div>
-        <h4 class="article-heading">Professional Guidance</h4>
+        <h3 class="article-heading lvl-h4">Professional Guidance</h3>
         <p class="article-text">To ensure your Mulshi pre-wedding photoshoot is a seamless experience, consider enlisting the expertise of a professional wedding photographer. A seasoned photographer will not only capture the raw emotions but also guide you through the best locations and poses, ensuring that each frame encapsulates the essence of your love story.</p>
       </div>
     </div>
 
     <div class="grid-3 grid-gap article-img-center">
-      <img src="<?= base_url('assets/images/mulshi-guide-1.webp') ?>" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/mulshi-guide-2.webp') ?>" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/mulshi-guide-3.webp') ?>" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mulshi-guide-1.webp') ?>" width="1600" height="1067" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mulshi-guide-2.webp') ?>" width="1600" height="2400" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mulshi-guide-3.webp') ?>" width="1600" height="1067" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" class="feature-img-full">
     </div>
   </div>
 </section>
@@ -128,13 +128,13 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h4 class="section-title">Escape the<br><em>Ordinary</em></h4>
+      <h2 class="section-title lvl-h4">Escape the<br><em>Ordinary</em></h2>
     </div>
 
     <p class="article-text">Mulshi offers a refreshing break from the conventional pre-wedding photoshoot locations. The rustic charm of the local villages, coupled with the untouched natural beauty, provides a unique and intimate setting that stands out from the typical urban or beachside shoots. Couples can embrace the extraordinary and create a pre-wedding album that reflects their distinct love story.</p>
 
     <div class="article-img-center">
-      <img src="<?= base_url('assets/images/mulshi-escape.webp') ?>" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" class="article-img">
+      <img src="<?= base_url('assets/images/mulshi-escape.webp') ?>" width="1024" height="683" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" class="article-img">
     </div>
   </div>
 </section>
@@ -144,7 +144,7 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h4 class="section-title">Professional Guidance for<br><em>Seamless Memories</em></h4>
+      <h2 class="section-title lvl-h4">Professional Guidance for<br><em>Seamless Memories</em></h2>
     </div>
 
     <p class="article-text">For couples embarking on the adventure of marriage, Mulshi stands as the quintessential pre-wedding destination. With its stunning landscapes, romantic sunsets, culinary delights, and professional guidance, Mulshi offers an unparalleled experience for creating memories that transcend time. Embrace the tranquility of Mulshi and let your love story unfold amidst the natural grandeur of this enchanting destination, ensuring that your pre-wedding moments become cherished treasures of your marital journey.</p>

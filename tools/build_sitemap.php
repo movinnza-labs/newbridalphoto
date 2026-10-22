@@ -11,7 +11,10 @@
  *    closures (old-URL 301s) and admin routes are skipped
  *  - adds published blog posts from the database
  *  - fetches every URL; only 200 pages whose canonical equals their own URL go in
- *  - lastmod = date of the page's view file (blog: updated_at)
+ *  - lastmod (D-13) = date the page's main content last changed: the visible text inside
+ *    <main> is hashed and compared with tools/sitemap_content_hashes.json. Same text keeps
+ *    the lastmod already in sitemap.xml; changed or new text gets today. Header, footer,
+ *    markup-only and image-attribute changes do not move it. Blog posts: updated_at.
  *  - adds <image:image> entries (max 20 per page) for location and service pages
  *
  * Output: sitemap.xml in the project root (the file robots.txt points to).
@@ -40,25 +43,21 @@ foreach ($m as [, $path, $ctrl, $method]) {
     $pages[$path] = ['ctrl' => $ctrl, 'method' => $method];
 }
 
-// ── 2. Controller method -> view file ────────────────────────────────────
-$viewOf = function (string $ctrl, string $method) use ($root): ?string {
-    static $src = [];
-    $src[$ctrl] ??= (string) @file_get_contents("$root/app/Controllers/$ctrl.php");
-    if (! preg_match('/function\s+' . $method . '\s*\(.*?(?=\n\s*(public|private|protected)\s+function|\z)/s', $src[$ctrl], $body)) {
-        return null;
-    }
-    if (preg_match("/render\\('([^']+)'/", $body[0], $v) || preg_match("/'view'\\s*=>\\s*'([^']+)'/", $body[0], $v)) {
-        return $v[1];
-    }
-    return null;
-};
-
+// ── 2. Previous lastmod and content hashes ───────────────────────────────
 $entries = [];
 foreach ($pages as $path => $p) {
-    $view = $viewOf($p['ctrl'], $p['method']) ?? ($path === '/' ? 'pages/home' : null);
-    $file = $view ? "$root/app/Views/$view.php" : null;
-    $entries[$path] = ['lastmod' => ($file && is_file($file)) ? filemtime($file) : time()];
+    $entries[$path] = ['lastmod' => null]; // decided from the content hash in step 4
 }
+
+// lastmod already published, and content hashes from the last run
+$prevLastmod = [];
+if (preg_match_all('#<loc>' . preg_quote($live, '#') . '(/[^<]*)</loc>\s*<lastmod>([^<]+)</lastmod>#', (string) @file_get_contents("$root/sitemap.xml"), $pm, PREG_SET_ORDER)) {
+    foreach ($pm as [, $pp, $pd]) {
+        $prevLastmod[$pp] = strtotime($pd);
+    }
+}
+$hashFile = "$root/tools/sitemap_content_hashes.json";
+$hashes   = json_decode((string) @file_get_contents($hashFile), true) ?: [];
 
 // ── 3. Blog posts from the database (.env settings) ──────────────────────
 $env = [];
@@ -108,9 +107,18 @@ foreach ($entries as $path => $e) {
         continue;
     }
 
+    $main = explode('</main>', explode('<main', $html, 2)[1] ?? '', 2)[0];
+    if ($e['lastmod'] === null) {
+        $text = preg_replace('#<(script|style)\b.*?</>#is', '', $main);
+        $text = trim(preg_replace('/\s+/u', ' ', html_entity_decode(strip_tags($text), ENT_QUOTES | ENT_HTML5, 'UTF-8')));
+        $hash = sha1($text);
+        $same = isset($prevLastmod[$path]) && (! isset($hashes[$path]) || $hashes[$path] === $hash);
+        $e['lastmod'] = $same ? $prevLastmod[$path] : time();
+        $hashes[$path]  = $hash;
+    }
+
     $images = [];
     if (! in_array($path, $noImages, true) && ! str_starts_with($path, '/blog/')) {
-        $main = explode('</main>', explode('<main', $html, 2)[1] ?? '', 2)[0];
         preg_match_all('/<img\b[^>]*\bsrc="([^"]+)"/', $main, $imgs);
         foreach ($imgs[1] as $src) {
             if (! preg_match('#/(assets/images/[^"?\s]+)#', $src, $im)) {
@@ -141,6 +149,9 @@ foreach ($ok as $path => $e) {
 }
 $x .= "</urlset>\n";
 file_put_contents("$root/sitemap.xml", $x);
+ksort($hashes);
+file_put_contents($hashFile, json_encode($hashes, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES) . "
+");
 
 $imgCount = array_sum(array_map(static fn ($e) => count($e['images']), $ok));
 echo 'Wrote sitemap.xml: ' . count($ok) . " URLs, $imgCount image entries\n";

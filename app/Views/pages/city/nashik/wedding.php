@@ -45,23 +45,23 @@
     </div>
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Professional Staff</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Professional Staff</strong></h3>
         <p class="card-white-text">Experienced wedding photographers in Nashik and cinematographers who are knowledgeable of Indian wedding traditions and schedule.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Honest &amp; Filmmaking Experience</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Honest &amp; Filmmaking Experience</strong></h3>
         <p class="card-white-text">We combine the documentary approach of coverage and the creativity of storytelling.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Professional Coordination</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Professional Coordination</strong></h3>
         <p class="card-white-text">Effective communication with the planners, decorators and families.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Premium Editing Style</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Premium Editing Style</strong></h3>
         <p class="card-white-text">Classy color schemes and classic finishes.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Relaxing Experience</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Relaxing Experience</strong></h3>
         <p class="card-white-text">We maintain a calm environment to ensure that you have fun all the time.</p>
       </div>
     </div>
@@ -83,19 +83,19 @@
     </div>
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Sula Vineyards</h4>
+        <h3 class="card-white-title lvl-h4">Sula Vineyards</h3>
         <p class="card-white-text">An idyllic vineyard location ideal for sunset Pheras and cocktail nights.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Panchavati</h4>
+        <h3 class="card-white-title lvl-h4">Panchavati</h3>
         <p class="card-white-text">Suited to traditional and temple-type ceremonies.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Gangapur Dam</h4>
+        <h3 class="card-white-title lvl-h4">Gangapur Dam</h3>
         <p class="card-white-text">Picturesque water front backdrop of wedding portraits.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Hotel and resorts in Nashik</h4>
+        <h3 class="card-white-title lvl-h4">Hotel and resorts in Nashik</h3>
         <p class="card-white-text">Ideal venue to hold big indoor and outdoor events.</p>
       </div>
     </div>
@@ -280,15 +280,15 @@
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"The Bridal Photography team is highly skilled, friendly, and professional. We especially appreciate how natural our photographs look."</p>
-        <h4 class="card-white-title article-heading-gap"><strong>Amresh and Punam</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>Amresh and Punam</strong></h3>
       </div>
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"The wedding shoot was truly memorable; the photographs perfectly captured all the emotion and joy."</p>
-        <h4 class="card-white-title article-heading-gap"><strong>Mohammad Niyas &amp; Rizwana</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>Mohammad Niyas &amp; Rizwana</strong></h3>
       </div>
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"The photography was fast and yielded beautiful results. I would highly recommend them as wedding photographers in Nashik."</p>
-        <h4 class="card-white-title article-heading-gap"><strong>Rajni, and Rajesh</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>Rajni, and Rajesh</strong></h3>
       </div>
     </div>
   </div>
@@ -316,8 +316,8 @@
     <?php foreach([
       ['Do you offer photography and videography services?',
        'Yes, we do provide full packages which entails professional photography and cinematic videography.'],
-      ['Are you a vineyard and resort wedding planner in Nashik?',
-       'Absolutely. We also do vineyard weddings on the vineyards such as Sula Vineyards as well as on the luxury resorts in and around Nashik.'],
+      ['Do you cover vineyard and resort weddings in Nashik?',
+       'Yes. We photograph vineyard weddings at places such as Sula Vineyards, as well as weddings at luxury resorts in and around Nashik.'],
       ['When can I book your team?',
        'We suggest that reservation should be made at least 3-6 months beforehand, particularly during peak season of wedding (November-February), when dates are fast filling.'],
       ['Do you offer albums and cinematic movies?',
@@ -339,7 +339,7 @@
       <div class="enquire-contact-card">
         <div class="enquire-contact-item"><div class="enquire-contact-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.01-.24 11.36 11.36 0 003.58.57 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.36 11.36 0 00.57 3.58 1 1 0 01-.25 1.01l-2.2 2.2z"/></svg></div><a href="tel:+918390367637" class="enquire-contact-link">+91 8390367637</a></div>
         <div class="enquire-contact-item"><div class="enquire-contact-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg></div><a href="mailto:thebridal11@gmail.com" class="enquire-contact-link">thebridal11@gmail.com</a></div>
-        <p class="enquire-contact-text">Inquiry today by visiting our official website to know more.</p>
+        <p class="enquire-contact-text">Contact us today to book.</p>
         <a href="tel:+918390367637" class="btn btn-gold pkg-card-btn">Book a Free Consultation Call</a>
       </div>
       <div class="enquire-form-card">

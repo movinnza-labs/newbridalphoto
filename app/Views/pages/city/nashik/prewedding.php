@@ -44,19 +44,19 @@
     </div>
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Creative Direction That Seems Natural, not Posed</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Creative Direction That Seems Natural, not Posed</strong></h3>
         <p class="card-white-text">Our pre-wedding photographer in Nashik leads you through the shoot in a very easy way that you are not embarrassed. We are not strict with poses and instead promote natural movements, conversations and sincere moments that capture your actual relationship.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Premium Edits and Signature Color Tones</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Premium Edits and Signature Color Tones</strong></h3>
         <p class="card-white-text">We have a way of editing that will add more flavor to your love story. Starting with soft pastel colors, all the frames are color-graded to achieve a cinematic finish in warm golden tones.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Friendly Team, Relaxed Shoot Experience</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Friendly Team, Relaxed Shoot Experience</strong></h3>
         <p class="card-white-text">We know that there are many couples who are not comfortable before the camera. Our staff makes sure that you have a comfortable environment in order to have all the moments.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Timely Delivery and Custom Packages</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Timely Delivery and Custom Packages</strong></h3>
         <p class="card-white-text">We value professionalism. Your edited pictures and movies are delivered to you on schedule, and no extra charges.</p>
       </div>
     </div>
@@ -99,27 +99,27 @@
     </div>
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Sula Vineyards and Local Winery Streets</h4>
+        <h3 class="card-white-title lvl-h4">Sula Vineyards and Local Winery Streets</h3>
         <p class="card-white-text">Sula Vineyards features European-style attractions with green rows of vineyards, open skies and romantic paths. It fits beautifully in classy and dreamy frames.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Pandavleni (Pandava) Caves</h4>
+        <h3 class="card-white-title lvl-h4">Pandavleni (Pandava) Caves</h3>
         <p class="card-white-text">The historic Pandavleni Caves offer a historic rock-cut background with city panoramic views. Best suited to those couples who appreciate tradition and scenic landscapes.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Gangapur Dam Backwaters Sunset</h4>
+        <h3 class="card-white-title lvl-h4">Gangapur Dam Backwaters Sunset</h3>
         <p class="card-white-text">The magical golden-hour portraits at Gangapur Dam are created by the reflection of the sunset on the calm waters and soft skies. The place is among the best places for pre-wedding shoots in Nashik.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Harihar / Anjaneri Viewpoints</h4>
-        <p class="card-white-text">The picturesque paths in the environs of Harihar Fort and Anjneri Hill provide the adventurous and breathtaking elevated scenes.</p>
+        <h3 class="card-white-title lvl-h4">Harihar / Anjaneri Viewpoints</h3>
+        <p class="card-white-text">The picturesque paths in the environs of Harihar Fort and Anjaneri Hill provide the adventurous and breathtaking elevated scenes.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Ashoka / Tringalwadi Side Trails</h4>
+        <h3 class="card-white-title lvl-h4">Ashoka / Tringalwadi Side Trails</h3>
         <p class="card-white-text">The grandeur of the Tringalwadi Fort provides the ideal location of cinematic wide-angle shots with dramatic skies.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Countryside Farms, resort and Floral Fields</h4>
+        <h3 class="card-white-title lvl-h4">Countryside Farms, resort and Floral Fields</h3>
         <p class="card-white-text">Couples that love the cozy, rustic appeal, countryside settings in the areas of Nashik have open fields, vegetation, and serene ambiance. We also explore secret places according to the season and your theme.</p>
       </div>
     </div>
@@ -136,19 +136,19 @@
     </div>
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Candid and Lifestyle Photography</h4>
+        <h3 class="card-white-title lvl-h4">Candid and Lifestyle Photography</h3>
         <p class="card-white-text">Authentic emotions, uncontrollable laughter.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Cinematic Frames</h4>
+        <h3 class="card-white-title lvl-h4">Cinematic Frames</h3>
         <p class="card-white-text">Dramatic compositions and narration.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Fine Art Editing</h4>
+        <h3 class="card-white-title lvl-h4">Fine Art Editing</h3>
         <p class="card-white-text">Soft tones and classy color grading.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Minimalist Romance</h4>
+        <h3 class="card-white-title lvl-h4">Minimalist Romance</h3>
         <p class="card-white-text">Simple backgrounds and emphasis on your relationship.</p>
       </div>
     </div>
@@ -165,19 +165,19 @@
     </div>
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Consultation and Concept Planning</h4>
+        <h3 class="card-white-title lvl-h4">Consultation and Concept Planning</h3>
         <p class="card-white-text">We know your vision, costumes, favorite places, and atmosphere.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Location Scouting &amp; Timeline Planning</h4>
+        <h3 class="card-white-title lvl-h4">Location Scouting &amp; Timeline Planning</h3>
         <p class="card-white-text">We decide timing according to the light conditions, the sunrise or the sunset to give the best light.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Shoot Day Execution</h4>
+        <h3 class="card-white-title lvl-h4">Shoot Day Execution</h3>
         <p class="card-white-text">Our pre wedding photographers in Nashik show you the way in a natural way, taking spontaneous shots.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Editing &amp; Delivery</h4>
+        <h3 class="card-white-title lvl-h4">Editing &amp; Delivery</h3>
         <p class="card-white-text">High-quality color grading and movie cuts are also done within the stipulated time. The whole experience is pleasant and non-stressful.</p>
       </div>
     </div>
@@ -240,7 +240,7 @@
       <div class="enquire-contact-card">
         <div class="enquire-contact-item"><div class="enquire-contact-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.01-.24 11.36 11.36 0 003.58.57 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.36 11.36 0 00.57 3.58 1 1 0 01-.25 1.01l-2.2 2.2z"/></svg></div><a href="tel:+918390367637" class="enquire-contact-link">+91 8390367637</a></div>
         <div class="enquire-contact-item"><div class="enquire-contact-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg></div><a href="mailto:thebridal11@gmail.com" class="enquire-contact-link">thebridal11@gmail.com</a></div>
-        <p class="enquire-contact-text">Inquiry today by visiting our official website to know more.</p>
+        <p class="enquire-contact-text">Contact us today to book.</p>
         <a href="tel:+918390367637" class="btn btn-gold pkg-card-btn">Book a Free Consultation Call</a>
       </div>
       <div class="enquire-form-card">

@@ -159,7 +159,7 @@ $content .= $ctaAppend;
           <div>
             <p style="font-weight:600;color:var(--text-primary);margin:0 0 .25rem;font-size:.9rem;">The Bridal Photography Team</p>
             <p style="font-size:.82rem;color:var(--text-muted);margin:0;line-height:1.6;">
-              Award-winning photography studio in Pune & Mumbai with 10+ years of experience
+              Photography studio in Pune & Mumbai since 2014
               and 1,179+ happy couples. 4.9★ Google rated.
             </p>
           </div>
@@ -225,7 +225,7 @@ $content .= $ctaAppend;
 
     <div class="blog-grid">
       <?php foreach ($related as $r): ?>
-      <a href="<?= base_url('/blog/' . esc($r['slug']) . '/') ?>" class="blog-card" style="text-decoration:none;">
+      <article class="blog-card">
         <div class="blog-card-img">
           <?php if ($r['featured_image']): ?>
           <?php $rImg = str_starts_with($r['featured_image'], 'http') ? $r['featured_image'] : base_url($r['featured_image']); ?>
@@ -234,11 +234,10 @@ $content .= $ctaAppend;
           <?php endif; ?>
         </div>
         <div class="blog-card-body">
-          <p class="blog-card-cat"><?= esc(ucfirst(str_replace('-', ' ', $r['category'] ?? 'Blog'))) ?></p>
-          <h3 class="blog-card-title"><?= esc($r['title']) ?></h3>
+          <span class="blog-card-cat"><?= esc(ucfirst(str_replace('-', ' ', $r['category'] ?? 'Blog'))) ?></span> <h3 class="blog-card-title"><a href="<?= base_url('/blog/' . esc($r['slug']) . '/') ?>"><?= esc($r['title']) ?></a></h3>
           <span class="blog-card-link">Read Article</span>
         </div>
-      </a>
+      </article>
       <?php endforeach; ?>
     </div>
   </div>

@@ -1,6 +1,6 @@
 <section class="page-hero">
   <div class="page-hero-bg"></div>
-  <div class="page-hero-img"><img src="<?= base_url('assets/images/wedding-photography-pune.webp') ?>" alt="Wedding Photographers<br><em>in Mumbai</em> photography" width="1920" height="700" loading="eager"></div>
+  <div class="page-hero-img"><img src="<?= base_url('assets/images/wedding-photography-pune.webp') ?>" width="683" height="1024" alt="Wedding Photographers<br><em>in Mumbai</em> photography" width="1920" height="700" loading="eager"></div>
   <div class="page-hero-content"><div style="max-width:820px;">
     <p class="eyebrow" style="margin-bottom:.8rem;">Wedding Photography · Mumbai</p>
     <div style="width:52px;height:1px;background:linear-gradient(90deg,var(--gold),transparent);margin-bottom:1.4rem;"></div>

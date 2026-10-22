@@ -7,6 +7,14 @@
           $canonical .= '/';
       }
   }
+
+  // Page schema and social image (Developer Points D-01 to D-04, D-09)
+  $pageSchema = \App\Libraries\PageSchema::page($canonical, $breadcrumb ?? null, $post ?? null);
+  $ogImage    = \App\Libraries\PageSchema::imageUrl($og_image ?? null)
+      ?? \App\Libraries\PageSchema::primaryImage($canonical, $post ?? null)
+      ?? \App\Libraries\PageSchema::imageUrl($preloadImage ?? null)
+      ?? \App\Libraries\PageSchema::imageUrl('hero-prewedding-couple-1.webp'); // pages without a photo (e.g. /faq/) share the homepage hero, never the logo
+  $ogSize     = \App\Libraries\PageSchema::imageSize($ogImage);
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -14,7 +22,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title><?= esc($title ?? 'The Bridal Photography | Pune & Mumbai') ?></title>
-  <meta name="description" content="<?= esc($description ?? 'Award-winning wedding & pre-wedding photography in Pune & Mumbai.') ?>">
+  <meta name="description" content="<?= esc($description ?? 'Wedding & pre-wedding photography in Pune & Mumbai since 2014.') ?>">
     <meta name="google-site-verification" content="0AijdY0IhZTBFYpeevIgDR_9a7RHWNvqH8rJES1VUMs" />
   <link rel="canonical" href="https://thebridal.photography<?= esc($canonical ?? '/') ?>">
 
@@ -33,8 +41,13 @@
   <meta property="og:description" content="<?= esc($description ?? '') ?>">
   <meta property="og:url"         content="https://thebridal.photography<?= esc($canonical ?? '/') ?>">
   <meta property="og:type"        content="<?= isset($post) ? 'article' : 'website' ?>">
-  <meta property="og:image"       content="<?= esc($og_image ?? base_url('assets/images/logo.png')) ?>">
+  <meta property="og:image"       content="<?= esc($ogImage) ?>">
+  <?php if ($ogSize): ?>
+  <meta property="og:image:width"  content="<?= $ogSize[0] ?>">
+  <meta property="og:image:height" content="<?= $ogSize[1] ?>">
+  <?php endif; ?>
   <meta name="twitter:card"       content="summary_large_image">
+  <meta name="twitter:image"      content="<?= esc($ogImage) ?>">
   <meta name="robots"             content="index, follow">
 
   <!-- Fonts: auto-detect self-hosted; fall back to Google Fonts until woff2 files are uploaded -->
@@ -61,46 +74,16 @@
   <?php endif; ?>
 
   <!-- CSS (minified in place; cache-buster bumped) -->
-  <link rel="stylesheet" href="<?= base_url('assets/css/main.css?v=161026.1') ?>">
+  <link rel="stylesheet" href="<?= base_url('assets/css/main.css?v=221026.1') ?>">
 
   <!-- Visually-hidden utility (for accessible icon-only links) -->
   <style>.visually-hidden{position:absolute!important;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}</style>
 
   <?php if (isset($extraHead)) echo $extraHead; ?>
 
-  <!-- JSON-LD Base -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "LocalBusiness",
-    "@id": "https://thebridal.photography/#business",
-    "name": "The Bridal Photography",
-    "url": "https://thebridal.photography/",
-    "telephone": "+918390367637",
-    "email": "thebridal11@gmail.com",
-    "priceRange": "₹₹",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "Katraj",
-      "addressLocality": "Pune",
-      "addressRegion": "Maharashtra",
-      "postalCode": "411046",
-      "addressCountry": "IN"
-    },
-    "aggregateRating": {
-      "@type": "AggregateRating",
-      "ratingValue": "4.9",
-      "reviewCount": "1179",
-      "bestRating": "5"
-    },
-    "image": "<?= base_url('assets/images/logo.png') ?>",
-    "sameAs": [
-      "https://www.instagram.com/thebridal.photography/",
-      "https://www.facebook.com/thebridalphotography",
-      "https://www.youtube.com/channel/UCIR4wPINJDXZNhskW12faMA"
-    ]
-  }
-  </script>
+  <!-- JSON-LD: sitewide Organization + WebSite, then this page (WebPage, BreadcrumbList, Service / Article / offices) -->
+  <?= \App\Libraries\PageSchema::script(\App\Libraries\PageSchema::sitewide()) ?>
+  <?php if ($pageSchema) echo \App\Libraries\PageSchema::script($pageSchema); ?>
   <?php if (isset($schemaExtra)) echo $schemaExtra; ?>
 <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-46LBNQBYLV"></script>

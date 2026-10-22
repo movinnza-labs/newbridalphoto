@@ -8,8 +8,9 @@
     <div class="page-hero-content-inner">
       <p class="eyebrow page-hero-eyebrow">Baby &amp; Newborn Photography &middot; Ahilyanagar</p>
       <div class="page-hero-rule"></div>
-      <h1>Baby Photoshoot in Ahilyanagar &ndash;<br><em>The Bridal Photography</em></h1>
+      <h1>Baby Photoshoot<br><em>in Ahilyanagar</em></h1>
       <p class="page-hero-sub">Photographing a baby's first moments is a beautiful way to preserve memories that pass by too quickly.</p>
+      <p class="page-hero-sub" style="margin-top:.4rem;"><strong>Starting from ₹6,000</strong></p>
       <div class="page-hero-buttons">
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Now</a>
         <a href="tel:+918390367637" class="btn btn-white">+91 83903 67637</a>
@@ -29,9 +30,9 @@
       <p class="section-sub section-sub-gap">Whether it is a newborn photoshoot, milestone session, or first birthday photography, our experienced baby photographers in Ahilyanagar ensure every moment is beautifully captured so you can treasure these memories for years to come.</p>
     </div>
     <div class="grid-3 grid-gap article-img-center">
-      <img src="<?= base_url('assets/images/ahily-baby-1.webp') ?>" alt="Baby photoshoot Ahilyanagar" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/ahily-baby-2.webp') ?>" alt="Baby photoshoot Ahilyanagar" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/ahily-baby-3.webp') ?>" alt="Baby photoshoot Ahilyanagar" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/ahily-baby-1.webp') ?>" width="900" height="600" alt="Baby photoshoot Ahilyanagar" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/ahily-baby-2.webp') ?>" width="900" height="600" alt="Baby photoshoot Ahilyanagar" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/ahily-baby-3.webp') ?>" width="900" height="600" alt="Baby photoshoot Ahilyanagar" loading="lazy" class="feature-img-full">
     </div>
   </div>
 </section>
@@ -61,7 +62,7 @@
       <div class="card-white card-white-padded-sm"><p class="card-white-text">Professional editing and image retouching</p></div>
       <div class="card-white card-white-padded-sm"><p class="card-white-text">Fast delivery that is easy to share and print</p></div>
     </div>
-    <p class="article-text article-text-gap">There are also custom packages that are offered to suit your preferences of theme, location, and the duration of the session.</p>
+    <p class="article-text article-text-gap">Our baby photoshoot packages start from Rs 6,000. There are also custom packages that are offered to suit your preferences of theme, location, and the duration of the session.</p>
   </div>
 </section>
 
@@ -76,19 +77,19 @@
     </div>
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Baby-Safe Lighting &amp; Props</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Baby-Safe Lighting &amp; Props</strong></h3>
         <p class="card-white-text">We use soft lighting that is gentle on your baby's eyes and carefully selected props for safe, cozy photos.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Patience with Newborn Moods</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Patience with Newborn Moods</strong></h3>
         <p class="card-white-text">We understand babies need time, so we work patiently with breaks to keep the session calm.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Hygienic Setups at Home</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Hygienic Setups at Home</strong></h3>
         <p class="card-white-text">Cleanliness is our priority. Every prop, wrap, and setup is properly sanitized before each session.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Creative Themes &amp; Costumes</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Creative Themes &amp; Costumes</strong></h3>
         <p class="card-white-text">From cute themes to natural setups, we design unique concepts that match your baby's personality.</p>
       </div>
     </div>
@@ -102,15 +103,15 @@
       <div class="rule-center section-head-rule"></div>
       <h2 class="section-title">baby photoshoot in Ahilyanagar -<br><em>Portfolio</em></h2>
       <p class="section-sub">The Bridal Photography portfolio has a big variety of baby photoshoots &ndash; simple newborns and colored birthday photoshoots. The sample of our past jobs will assist parents to know our style, creativity and attention to details, then they can book in advance.</p>
-      <p class="section-sub section-sub-gap">Each out to us today to book your baby photoshoot in Ahilyanagar and capture your little one's precious moments forever.</p>
+      <p class="section-sub section-sub-gap">Reach out to us today to book your baby photoshoot in Ahilyanagar and capture your little one's precious moments forever.</p>
     </div>
     <div class="maternity-gallery maternity-gallery-3col">
-      <img src="<?= base_url('assets/images/ahily-baby-4.webp') ?>" alt="Baby Photoshoot Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-baby-5.webp') ?>" alt="Baby Photography" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-birthday.webp') ?>" alt="Baby Photography" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-newborn.webp') ?>" alt="Baby Photography" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-baby-6.webp') ?>" alt="Baby Photoshoot" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-baby-7.webp') ?>" alt="Baby Photoshoot" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-baby-4.webp') ?>" width="1300" height="620" alt="Baby Photoshoot Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-baby-5.webp') ?>" width="1600" height="1600" alt="Baby Photography" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-birthday.webp') ?>" width="1600" height="1600" alt="Baby Photography" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-newborn.webp') ?>" width="1024" height="1024" alt="Baby Photography" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-baby-6.webp') ?>" width="900" height="600" alt="Baby Photoshoot" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-baby-7.webp') ?>" width="900" height="600" alt="Baby Photoshoot" loading="lazy" class="maternity-gallery-img">
     </div>
   </div>
 </section>
@@ -124,19 +125,19 @@
     </div>
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Candid Baby Portraits</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Candid Baby Portraits</strong></h3>
         <p class="card-white-text">We capture your baby's natural expressions, smiles, and tiny details in a calm, cozy setting and Capture Expression With Happiness.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Family Baby Photos</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Family Baby Photos</strong></h3>
         <p class="card-white-text">Include your loved ones to capture emotional and joyful family moments together. And Clicking Happiness with Charm.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Baby Themes</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Baby Themes</strong></h3>
         <p class="card-white-text">From cute props to soft setups, we design creative themes that highlight your baby's charm.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Milestone &amp; Birthday</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Milestone &amp; Birthday</strong></h3>
         <p class="card-white-text">We capture milestone moments and first birthdays with beautiful, timeless memories to cherish.</p>
       </div>
     </div>
@@ -148,19 +149,19 @@
   <div class="container">
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Newborn (0-3 Months)</h4>
+        <h3 class="card-white-title lvl-h4">Newborn (0-3 Months)</h3>
         <p class="card-white-text">Soft poses and close-up shots capture your baby's early days with warmth and gentle care. And Emotions.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">6-Month Milestone</h4>
+        <h3 class="card-white-title lvl-h4">6-Month Milestone</h3>
         <p class="card-white-text">At this stage, babies begin to smile, sit, and express their growing personality For Photoshoots.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Cake Smash Shoots</h4>
+        <h3 class="card-white-title lvl-h4">Cake Smash Shoots</h3>
         <p class="card-white-text">Fun, colorful cake smash shoots capture joyful moments and celebrate your baby's first year.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Parent &amp; Baby Moments</h4>
+        <h3 class="card-white-title lvl-h4">Parent &amp; Baby Moments</h3>
         <p class="card-white-text">We capture loving interactions between parents and babies, filled with bonding and emotions.</p>
       </div>
     </div>
@@ -177,27 +178,27 @@
     </div>
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Beautiful Garden Locations</h4>
+        <h3 class="card-white-title lvl-h4">Beautiful Garden Locations</h3>
         <p class="card-white-text">Green gardens and parks provide natural light and a peaceful environment that is perfect for capturing joyful baby portraits.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Outdoor Nature Settings</h4>
+        <h3 class="card-white-title lvl-h4">Outdoor Nature Settings</h3>
         <p class="card-white-text">Open outdoor locations with trees, flowers, and natural backgrounds create soft and colorful baby photographs.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Home Comfort Photoshoots</h4>
+        <h3 class="card-white-title lvl-h4">Home Comfort Photoshoots</h3>
         <p class="card-white-text">Many families prefer baby photoshoots at home where the baby feels relaxed and comfortable in a familiar environment.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Indoor Studio Setups</h4>
+        <h3 class="card-white-title lvl-h4">Indoor Studio Setups</h3>
         <p class="card-white-text">Professional indoor setups with soft lighting, cute props, and safe arrangements create charming baby portraits.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Creative Theme Backgrounds</h4>
+        <h3 class="card-white-title lvl-h4">Creative Theme Backgrounds</h3>
         <p class="card-white-text">We design creative baby themes using blankets, toys, baskets, and soft backgrounds to make every photo unique.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Customized Family Moments</h4>
+        <h3 class="card-white-title lvl-h4">Customized Family Moments</h3>
         <p class="card-white-text">We also include parents and siblings in the shoot to capture emotional family moments with your baby With Happiness In your Face.</p>
       </div>
     </div>
@@ -213,7 +214,7 @@
     </div>
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Outfit Tips</h4>
+        <h3 class="card-white-title lvl-h4">Outfit Tips</h3>
         <p class="card-white-text">Choose soft and comfortable baby clothes so your child stays relaxed during the photoshoot.</p>
         <ul class="pkg-detail-list">
           <li>Use pastel colors or light tones that look beautiful in baby photography.</li>
@@ -222,7 +223,7 @@
         </ul>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Pose Tips</h4>
+        <h3 class="card-white-title lvl-h4">Pose Tips</h3>
         <p class="card-white-text">Let the baby stay natural and relaxed to capture genuine expressions.</p>
         <ul class="pkg-detail-list">
           <li>Use simple poses like lying on a blanket or sitting with support.</li>
@@ -244,19 +245,19 @@
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"In Ahilyanagar, we value the team's patience, professionalism and creativity. They did the best job."</p>
-        <h4 class="card-white-title article-heading-gap"><strong>Suman and Rahul</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>Suman and Rahul</strong></h3>
       </div>
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"Beautiful candid captures by an experienced baby photographer in Ahilyanagar. We recommend them."</p>
-        <h4 class="card-white-title article-heading-gap"><strong>Shiba and Saurabh</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>Shiba and Saurabh</strong></h3>
       </div>
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"We just loved the way they did on-time delivery of photos after editing. The team was cordial and amiable."</p>
-        <h4 class="card-white-title article-heading-gap"><strong>Nisha and Niyas</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>Nisha and Niyas</strong></h3>
       </div>
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"Our baby photoshoot with The Bridal Photography was an amazing experience. The team was very patient and made sure our baby felt comfortable throughout the session. The photos turned out absolutely adorable and captured such beautiful moments of our little one. We will cherish these memories forever."</p>
-        <h4 class="card-white-title article-heading-gap"><strong>Happy Parents</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>Happy Parents</strong></h3>
       </div>
     </div>
   </div>
@@ -309,7 +310,7 @@
       <div class="enquire-contact-card">
         <div class="enquire-contact-item"><div class="enquire-contact-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.01-.24 11.36 11.36 0 003.58.57 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.36 11.36 0 00.57 3.58 1 1 0 01-.25 1.01l-2.2 2.2z"/></svg></div><a href="tel:+918390367637" class="enquire-contact-link">+91 8390367637</a></div>
         <div class="enquire-contact-item"><div class="enquire-contact-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg></div><a href="mailto:thebridal11@gmail.com" class="enquire-contact-link">thebridal11@gmail.com</a></div>
-        <p class="enquire-contact-text">Inquiry today by visiting our official website to know more.</p>
+        <p class="enquire-contact-text">Contact us today to book.</p>
         <a href="tel:+918390367637" class="btn btn-gold pkg-card-btn">Book a Free Consultation Call</a>
       </div>
       <div class="enquire-form-card">
@@ -329,4 +330,4 @@
 </section>
 
 <section class="section-related-pages"><div class="container"><p class="eyebrow section-related-eyebrow">Related Pages</p><div class="tag-links"><a href="<?= base_url('/ahilyanagar/') ?>" class="tag-link">Ahilyanagar Hub</a><a href="<?= base_url('/ahilyanagar/maternity-photographer/') ?>" class="tag-link">Maternity Photographer in Ahilyanagar</a><a href="<?= base_url('/faq/') ?>" class="tag-link">FAQ</a></div></div></section>
-<section class="cta-section"><div class="container-xs cta-section-inner"><h2 class="cta-title">Need a Photographer?<br><em class="cta-title-em">Someone With Experience to Collaborate With?</em></h2><div class="cta-buttons"><a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Let's Work</a><a href="https://wa.me/918390367637" class="btn btn-outline-dark" target="_blank" rel="noopener">WhatsApp Us</a></div></div></section>
+<section class="cta-section"><div class="container-xs cta-section-inner"><h2 class="cta-title">Book Your Baby Photoshoot<br><em class="cta-title-em">in Ahilyanagar</em></h2><div class="cta-buttons"><a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Let's Work</a><a href="https://wa.me/918390367637" class="btn btn-outline-dark" target="_blank" rel="noopener">WhatsApp Us</a></div></div></section>

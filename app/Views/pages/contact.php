@@ -4,9 +4,9 @@
   <div class="container-sm">
     <p class="eyebrow page-hero-eyebrow">Get In Touch</p>
     <div class="rule-center section-head-rule"></div>
-    <h1 class="contact-h1">Get in Touch</h1>
-    <img src="<?= base_url('assets/images/contact-ornament.webp') ?>" alt="ornament" class="contact-ornament" loading="lazy">
-    <h6 class="contact-h6">Let us help you get the best solution for your requirements</h6>
+    <h1 class="contact-h1">Contact The Bridal Photography</h1>
+    <img src="<?= base_url('assets/images/contact-ornament.webp') ?>" width="245" height="37" alt="" class="contact-ornament" loading="lazy">
+    <p class="contact-h6">Let us help you get the best solution for your requirements</p>
   </div>
 </section>
 
@@ -58,7 +58,7 @@
               </svg>
             </div>
             <div>
-              <p class="contact-icon-label">Pune Office-1</p>
+              <p class="contact-icon-label">Pune Office (Katraj)</p>
               <p class="contact-icon-value-sm">Sai Temple, Sacchaimata, Sr.No.40/1B, Near Prathmesh Heights, Narhe Ambegaon Rd, KH, Katraj, Pune, Maharashtra 411046</p>
             </div>
           </div>
@@ -147,10 +147,10 @@
 
     <div class="contact-offices-grid">
       <?php foreach ([
-        ['Pune Office-1',  'The Bridal Photography', 'Sai Temple, Sacchaimata, Sr.No.40/1B, Near Prathmesh Heights, Narhe Ambegaon Rd, KH, Katraj, Pune, Maharashtra 411046', '+91 8390367637', '+918390367637'],
-        ['Pune Office-2',  'The Bridal Photography', 'Shriram soc, 858/61, Guruwar Peth, Pune, Maharashtra 411042', '+91 8390367637', '+918390367637'],
-        ['MUMBAI Office',  'The Bridal Photography', '1st Floor, Modi House, Off Link Rd, near Fun Republic Road, Khar, Andheri West, Mumbai, Maharashtra 400053', '+91 8806225566', '+918806225566'],
-        ['GOA Office',     'The Bridal Photography', 'second floor, Prema Building, Fontainhas (quarter), Patto Colony, Panaji, Goa 403001', '+91 77962 25566', '+917796225566'],
+        ['Pune Office (Katraj)',  'The Bridal Photography', 'Sai Temple, Sacchaimata, Sr.No.40/1B, Near Prathmesh Heights, Narhe Ambegaon Rd, KH, Katraj, Pune, Maharashtra 411046', '+91 8390367637', '+918390367637'],
+        ['Pune Office (Guruwar Peth)',  'The Bridal Photography', 'Shriram soc, 858/61, Guruwar Peth, Pune, Maharashtra 411042', '+91 8390367637', '+918390367637'],
+        ['Mumbai Office',  'The Bridal Photography', '1st Floor, Modi House, Off Link Rd, near Fun Republic Road, Andheri West, Mumbai, Maharashtra 400053', '+91 8806225566', '+918806225566'],
+        ['Goa Office',     'The Bridal Photography', 'Second floor, Prema Building, Fontainhas (quarter), Patto Colony, Panaji, Goa 403001', '+91 77962 25566', '+917796225566'],
       ] as [$label, $name, $address, $phone, $tel]): ?>
       <div class="contact-office-card">
         <h3 class="contact-office-label"><?= $label ?></h3>
@@ -170,6 +170,77 @@
       </div>
       <?php endforeach; ?>
     </div>
+  </div>
+</section>
+
+<!-- How Booking Works -->
+<section class="section section-off">
+  <div class="container-sm">
+    <div class="section-head">
+      <p class="eyebrow section-head-eyebrow">Booking</p>
+      <div class="rule-center section-head-rule"></div>
+      <h2 class="section-title">How to Book<br><em>Your Shoot</em></h2>
+    </div>
+
+    <h3 class="article-heading">1. Call, WhatsApp or send the form</h3>
+    <p class="article-text">You can reach us in the way that suits you. Call or WhatsApp us on <a href="tel:+918390367637" class="article-link">+91 83903 67637</a>, email <a href="mailto:thebridal11@gmail.com" class="article-link">thebridal11@gmail.com</a>, or fill in the appointment form on this page. Every message comes to the same team, so you do not need to contact us more than once. We have been photographing weddings and family events since 2014, and the first conversation is always free.</p>
+
+    <h3 class="article-heading">2. Tell us your date, city and service</h3>
+    <p class="article-text">To check if we are free, we need three things: the date (or a few possible dates), the city or venue, and the type of shoot you want. If you are still deciding, that is fine. Share what you know and we will help you plan the rest.</p>
+
+    <h3 class="article-heading">3. We reply within 24 hours</h3>
+    <p class="article-text">Our team will contact you within 24 hours. We confirm our availability, suggest the package that fits your plans and answer your questions. Once you are happy with the plan, we reserve your date.</p>
+
+    <h3 class="article-heading">What to include in your message</h3>
+    <p class="article-text">A little detail helps us give you a clear answer on the first reply. If you can, please include:</p>
+    <ul class="article-text">
+      <li>Your name and a phone number we can call or WhatsApp</li>
+      <li>The event date, or the dates you are considering</li>
+      <li>The city and venue, if you have booked one</li>
+      <li>The service you need, for example wedding, pre wedding, engagement or maternity</li>
+      <li>The number of events or days you want covered</li>
+      <li>Whether you want photos only, or photos and video</li>
+      <li>Any ideas, themes or locations you already have in mind</li>
+    </ul>
+
+    <h3 class="article-heading">Cities we cover</h3>
+    <p class="article-text">We have offices in Pune (Katraj and Guruwar Peth), Mumbai (Andheri West) and Goa (Panaji), so we can meet you in person in all three cities. We also travel for weddings and shoots across Maharashtra, including <a href="<?= base_url('/ahilyanagar/') ?>" class="article-link">Ahilyanagar</a>, <a href="<?= base_url('/nashik/') ?>" class="article-link">Nashik</a>, <a href="<?= base_url('/lonavala/') ?>" class="article-link">Lonavala</a>, <a href="<?= base_url('/mahabaleshwar/') ?>" class="article-link">Mahabaleshwar</a> and <a href="<?= base_url('/chhatrapati-sambhajinagar/') ?>" class="article-link">Chhatrapati Sambhajinagar</a>. If your event is somewhere else, just ask.</p>
+
+    <h3 class="article-heading">Which service do you need?</h3>
+    <p class="article-text">Not sure where to start? These pages explain each service and its packages:</p>
+    <ul class="article-text">
+      <li><a href="<?= base_url('/wedding-photography-packages/') ?>" class="article-link">Wedding photography packages</a> for the full wedding day and related events</li>
+      <li><a href="<?= base_url('/wedding-films/') ?>" class="article-link">Wedding films</a> for a cinematic film and teaser of your day</li>
+      <li><a href="<?= base_url('/pre-wedding-photography-packages/') ?>" class="article-link">Pre wedding shoot packages</a> for a couple shoot before the wedding</li>
+      <li><a href="<?= base_url('/engagement-photography-packages/') ?>" class="article-link">Engagement photography</a> for engagement and ring ceremonies</li>
+      <li><a href="<?= base_url('/maternity-photographer-pune/') ?>" class="article-link">Maternity photography</a> for studio and outdoor maternity shoots</li>
+      <li><a href="<?= base_url('/baby-photoshoot-pune/') ?>" class="article-link">Baby photoshoot</a> and <a href="<?= base_url('/birthday-photography-pune/') ?>" class="article-link">birthday photography</a> for family milestones</li>
+      <li><a href="<?= base_url('/fashion-and-product-photography/') ?>" class="article-link">Fashion and product photography</a> for brands and online sellers</li>
+    </ul>
+  </div>
+</section>
+
+<!-- Contact FAQ -->
+<section class="section section-white">
+  <div class="container-sm">
+    <div class="section-head">
+      <p class="eyebrow section-head-eyebrow">Common Questions</p>
+      <div class="rule-center section-head-rule"></div>
+      <h2 class="section-title">Before You<br><em>Contact Us</em></h2>
+    </div>
+    <?php foreach ([
+      ['How quickly will you reply to my enquiry?',
+       'Our team will contact you within 24 hours of receiving your form, call or WhatsApp message.'],
+      ['Which is the fastest way to reach you?',
+       'Call or WhatsApp us on +91 83903 67637. You can also email thebridal11@gmail.com or use the appointment form on this page.'],
+      ['Do you shoot outside Pune?',
+       'Yes. We have offices in Pune, Mumbai and Goa, and we also cover Ahilyanagar, Nashik, Lonavala, Mahabaleshwar, Chhatrapati Sambhajinagar and other cities in Maharashtra.'],
+    ] as [$q, $a]): ?>
+    <div class="faq-item">
+      <button class="faq-trigger"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
+      <div class="faq-body"><p><?= $a ?></p></div>
+    </div>
+    <?php endforeach; ?>
   </div>
 </section>
 

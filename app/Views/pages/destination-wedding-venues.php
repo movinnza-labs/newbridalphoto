@@ -111,7 +111,7 @@
     <div class="page-hero-content-inner">
       <p class="eyebrow page-hero-eyebrow">Destination Weddings &middot; Pune</p>
       <div class="page-hero-rule"></div>
-      <h1>Best Destination Wedding Venues<br><em>in Pune</em></h1>
+      <h1>17 Best Destination Wedding Venues<br><em>In and Near Pune</em></h1>
       <p class="page-hero-sub">Pune has become one of Maharashtra's best destinations for its near perfect combination of luxury, tranquillity, nature, heritage and modern conveniences.</p>
       <div class="page-hero-buttons">
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Now</a>
@@ -139,7 +139,7 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Best Destination Wedding Venues<br><em>in Pune</em></h2>
+      <h2 class="section-title">Planning a Destination Wedding<br><em>Near Pune</em></h2>
     </div>
     <p class="article-text">Pune has become one of Maharashtra's best destinations for its near perfect combination of luxury, tranquillity, nature, heritage and modern conveniences. Whether it be for a royal fort experience, heritage wadas, hill top resorts, riverside retreats, luxury hotels or lavish banquet lawns, there are many destination wedding venues in Pune.</p>
     <p class="article-text article-text-gap">We have been lucky enough to shoot at some of the most beautiful places in and around Pune. Each place of the city has its own unique character, will have its own light style, landscape around and different opportunities for photography.</p>
@@ -159,7 +159,7 @@
     </div>
     <p class="article-text">Year after year, the heritage venues offer ageless memories. And these venues are perfect for couples who want traditional architecture, meet royal vibes and culturally rich photography.</p>
 
-    <h4 class="article-heading article-heading-gap">Contact These Venues for:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Contact These Venues for:-</h3>
     <ul class="pkg-detail-list">
       <li>Engagement</li>
       <li>Mehendi</li>
@@ -170,9 +170,9 @@
     </ul>
 
     <div class="grid-3 grid-gap article-img-center">
-      <img src="<?= base_url('assets/images/dwv-heritage-gal-1.webp') ?>" alt="Destination wedding venue in Pune" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/dwv-heritage-gal-2.webp') ?>" alt="Heritage wedding venue Pune" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/dwv-heritage-gal-3.webp') ?>" alt="Traditional wedding venue Pune" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/dwv-heritage-gal-1.webp') ?>" width="1920" height="2880" alt="Destination wedding venue in Pune" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/dwv-heritage-gal-2.webp') ?>" width="1920" height="1280" alt="Heritage wedding venue Pune" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/dwv-heritage-gal-3.webp') ?>" width="1920" height="1280" alt="Traditional wedding venue Pune" loading="lazy" class="feature-img-full">
     </div>
   </div>
 </section>
@@ -187,7 +187,7 @@
 
     <div class="feature-row feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/dwv-fort-jadhavgadh.webp') ?>" alt="Fort JadhavGADH destination wedding venue Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/dwv-fort-jadhavgadh.webp') ?>" width="1080" height="1350" alt="Fort JadhavGADH destination wedding venue Pune" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text"><strong>Type of Venue:-</strong> Heritage Fort, and Resort</p>
@@ -197,7 +197,7 @@
       </div>
     </div>
 
-    <h4 class="article-heading article-heading-gap">Best Photography Spots at the Fort:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Best Photography Spots at the Fort:-</h3>
     <ul class="pkg-detail-list">
       <li>Bridal entry through wide open gates</li>
       <li>Heritage stone walls to capture royal portraits</li>
@@ -206,7 +206,7 @@
       <li>Traditional Maharashtrian haldi setup areas</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Key Points:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Key Points:-</h3>
     <ul class="pkg-detail-list">
       <li>Clear mountain view from the fort</li>
       <li>Royal architecture</li>
@@ -217,7 +217,7 @@
       <li>Ideal for cinematic drone shots</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Venue Facilities:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Venue Facilities:-</h3>
     <ul class="pkg-detail-list">
       <li>AC halls</li>
       <li>Bridal room &amp; groom room</li>
@@ -230,10 +230,10 @@
       <li>Swimming pool</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Distance From Pune</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Distance From Pune</h3>
     <p class="article-text">About 30 km away from the city, this is among the best destination wedding venues near Pune.</p>
 
-    <h4 class="article-heading article-heading-gap">Perfect Time</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Perfect Time</h3>
     <p class="article-text">November to February is the best time for them as it is not hot and the weather remains very pleasant.</p>
   </div>
 </section>
@@ -248,7 +248,7 @@
 
     <div class="feature-row reverse feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/dwv-marigold-banquets.webp') ?>" alt="Changvateshwer Temple wedding venue Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/dwv-marigold-banquets.webp') ?>" width="1080" height="1439" alt="Haldi setup with hanging white flower strings in an old stone temple courtyard near Pune" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text"><strong>Type of Venue:-</strong> Temple</p>
@@ -257,7 +257,7 @@
       </div>
     </div>
 
-    <h4 class="article-heading article-heading-gap">Best Photography Frames:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Best Photography Frames:-</h3>
     <ul class="pkg-detail-list">
       <li>Temple pillars and stone carvings</li>
       <li>Traditional rituals under natural light</li>
@@ -265,7 +265,7 @@
       <li>Casual family life at the temple courtyard</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Key Points:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Key Points:-</h3>
     <ul class="pkg-detail-list">
       <li>Peaceful spiritual wedding atmosphere</li>
       <li>Ancient temple architecture</li>
@@ -276,7 +276,7 @@
       <li>Calm and culturally rich ambiance</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Venue Facilities:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Venue Facilities:-</h3>
     <ul class="pkg-detail-list">
       <li>Open temple premises</li>
       <li>Parking available</li>
@@ -285,10 +285,10 @@
       <li>Photography-friendly architecture</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Distance From Pune:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Distance From Pune:-</h3>
     <p class="article-text">About 35 km away from Pune city.</p>
 
-    <h4 class="article-heading article-heading-gap">Perfect Time:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Perfect Time:-</h3>
     <p class="article-text">Daytime function should be in the months from October to February.</p>
   </div>
 </section>
@@ -303,7 +303,7 @@
 
     <div class="feature-row feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/dwv-dhepe-wada.webp') ?>" alt="Dhepe Wada heritage wedding venue Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/dwv-dhepe-wada.webp') ?>" width="1080" height="1350" alt="Dhepe Wada heritage wedding venue Pune" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text"><strong>Type of Venue:-</strong> Traditional Maharashtrian Heritage Wada</p>
@@ -313,7 +313,7 @@
       </div>
     </div>
 
-    <h4 class="article-heading article-heading-gap">Photography Highlights at the Wada:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Photography Highlights at the Wada:-</h3>
     <ul class="pkg-detail-list">
       <li>Traditional haldi setups</li>
       <li>Maharashtrian bridal portraits</li>
@@ -322,7 +322,7 @@
       <li>Night lighting with heritage décor</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Key Points:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Key Points:-</h3>
     <ul class="pkg-detail-list">
       <li>Authentic Maharashtrian wada architecture</li>
       <li>Rustic heritage charm</li>
@@ -333,7 +333,7 @@
       <li>Classic courtyard mandap setups</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Venue Facilities:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Venue Facilities:-</h3>
     <ul class="pkg-detail-list">
       <li>AC guest rooms</li>
       <li>Bridal room &amp; groom room</li>
@@ -346,10 +346,10 @@
       <li>Heritage wedding</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Distance From Pune:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Distance From Pune:-</h3>
     <p class="article-text">Around 45 KM</p>
 
-    <h4 class="article-heading article-heading-gap">Best Wedding Season:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Best Wedding Season:-</h3>
     <p class="article-text">November to January</p>
   </div>
 </section>
@@ -364,7 +364,7 @@
 
     <div class="feature-row reverse feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/dwv-changvateshwer.webp') ?>" alt="Marigold Banquets destination wedding venue Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/dwv-changvateshwer.webp') ?>" width="1920" height="2880" alt="Bride in a red embroidered lehenga and gold jewellery at a Pune wedding" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text"><strong>Type of Venue:-</strong> Banquet Hall &amp; Heritage-Style Event Venue</p>
@@ -372,7 +372,7 @@
       </div>
     </div>
 
-    <h4 class="article-heading article-heading-gap">Photography Advantage:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Photography Advantage:-</h3>
     <ul class="pkg-detail-list">
       <li>Elegant indoor lighting</li>
       <li>Decor-friendly reception halls</li>
@@ -380,7 +380,7 @@
       <li>Beautiful engagement setups</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Key Points:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Key Points:-</h3>
     <ul class="pkg-detail-list">
       <li>Heritage-inspired banquet ambiance</li>
       <li>Lavish interiors for reception photography</li>
@@ -391,7 +391,7 @@
       <li>Ideal for elegant engagement ceremonies</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Venue Facilities:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Venue Facilities:-</h3>
     <ul class="pkg-detail-list">
       <li>AC banquet halls</li>
       <li>Bridal room &amp; groom room</li>
@@ -403,10 +403,10 @@
       <li>Alcohol service policy available</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Distance From Pune:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Distance From Pune:-</h3>
     <p class="article-text">Approximately 15 km</p>
 
-    <h4 class="article-heading article-heading-gap">Best Wedding Months:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Best Wedding Months:-</h3>
     <p class="article-text">November, December, January, and February</p>
   </div>
 </section>
@@ -421,7 +421,7 @@
 
     <div class="feature-row feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/dwv-grand-heritage.webp') ?>" alt="The Grand Heritage Resorts wedding venue Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/dwv-grand-heritage.webp') ?>" width="1920" height="2880" alt="The Grand Heritage Resorts wedding venue Pune" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text"><strong>Type of Venue:-</strong> Luxury Heritage Resort</p>
@@ -431,7 +431,7 @@
       </div>
     </div>
 
-    <h4 class="article-heading article-heading-gap">Best Photography Backdrops:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Best Photography Backdrops:-</h3>
     <ul class="pkg-detail-list">
       <li>Heritage corridors</li>
       <li>Outdoor mandap lawns</li>
@@ -439,7 +439,7 @@
       <li>Poolside mehndi ceremonies</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Key Points:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Key Points:-</h3>
     <ul class="pkg-detail-list">
       <li>Heritage-inspired luxury architecture</li>
       <li>Large lawn areas for destination weddings</li>
@@ -450,7 +450,7 @@
       <li>Ideal for grand celebrations</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Venue Facilities:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Venue Facilities:-</h3>
     <ul class="pkg-detail-list">
       <li>Luxury AC rooms</li>
       <li>Bridal suite &amp; groom room</li>
@@ -463,10 +463,10 @@
       <li>Alcohol policy available</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Distance from Pune:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Distance from Pune:-</h3>
     <p class="article-text">Around 30 KM from Pune</p>
 
-    <h4 class="article-heading article-heading-gap">Best Time</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Best Time</h3>
     <p class="article-text">Winter weddings from November to February.</p>
   </div>
 </section>
@@ -495,9 +495,9 @@
     </ul>
 
     <div class="grid-3 grid-gap article-img-center">
-      <img src="<?= base_url('assets/images/dwv-resort-gal-1.webp') ?>" alt="Luxury resort wedding venue Pune" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/dwv-resort-gal-2.webp') ?>" alt="Premium destination wedding Pune" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/dwv-resort-gal-3.webp') ?>" alt="Resort wedding reception Pune" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/dwv-resort-gal-1.webp') ?>" width="1920" height="1281" alt="Luxury resort wedding venue Pune" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/dwv-resort-gal-2.webp') ?>" width="1920" height="2880" alt="Premium destination wedding Pune" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/dwv-resort-gal-3.webp') ?>" width="1920" height="2879" alt="Resort wedding reception Pune" loading="lazy" class="feature-img-full">
     </div>
   </div>
 </section>
@@ -512,7 +512,7 @@
 
     <div class="feature-row feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/dwv-corinthians.webp') ?>" alt="The Corinthians Resort Pune destination wedding venue" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/dwv-corinthians.webp') ?>" width="1282" height="1920" alt="The Corinthians Resort Pune destination wedding venue" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text"><strong>Type of Venue:-</strong> Luxury Resort</p>
@@ -522,7 +522,7 @@
       </div>
     </div>
 
-    <h4 class="article-heading article-heading-gap">Best Photography Spots:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Best Photography Spots:-</h3>
     <ul class="pkg-detail-list">
       <li>Poolside reception area</li>
       <li>Grand entrance architecture</li>
@@ -530,7 +530,7 @@
       <li>Candle-lit evening setups</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Key Points:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Key Points:-</h3>
     <ul class="pkg-detail-list">
       <li>Luxurious Mediterranean-style architecture</li>
       <li>Poolside setup</li>
@@ -541,7 +541,7 @@
       <li>Stylish interiors for couple portraits</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Venue Facilities:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Venue Facilities:-</h3>
     <ul class="pkg-detail-list">
       <li>AC halls and luxury rooms</li>
       <li>Bridal room &amp; groom room</li>
@@ -555,10 +555,10 @@
       <li>Swimming pool</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Distance from Pune:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Distance from Pune:-</h3>
     <p class="article-text">Around 15 KM from Pune</p>
 
-    <h4 class="article-heading article-heading-gap">Perfect Time</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Perfect Time</h3>
     <p class="article-text">October to February</p>
   </div>
 </section>
@@ -573,7 +573,7 @@
 
     <div class="feature-row reverse feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/dwv-oxford-golf.webp') ?>" alt="Oxford Golf Resort destination wedding venue Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/dwv-oxford-golf.webp') ?>" width="1920" height="2879" alt="Oxford Golf Resort destination wedding venue Pune" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text"><strong>Type of Venue:-</strong> Golf Resort &amp; Mountain Valley</p>
@@ -583,7 +583,7 @@
       </div>
     </div>
 
-    <h4 class="article-heading article-heading-gap">Photography Highlights:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Photography Highlights:-</h3>
     <ul class="pkg-detail-list">
       <li>Drone shots over golf landscapes</li>
       <li>Sunset hill backgrounds</li>
@@ -591,7 +591,7 @@
       <li>Foggy winter morning photography</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Key Points:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Key Points:-</h3>
     <ul class="pkg-detail-list">
       <li>Stunning mountain valley views</li>
       <li>Golf course backdrop</li>
@@ -602,7 +602,7 @@
       <li>Nature-inspired atmosphere</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Venue Facilities:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Venue Facilities:-</h3>
     <ul class="pkg-detail-list">
       <li>Luxury AC rooms</li>
       <li>Bridal room &amp; groom room</li>
@@ -615,10 +615,10 @@
       <li>Swimming pool</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Distance from Pune</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Distance from Pune</h3>
     <p class="article-text">Around 20 km from central Pune.</p>
 
-    <h4 class="article-heading article-heading-gap">Best Time for Booking</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Best Time for Booking</h3>
     <p class="article-text">November to February</p>
   </div>
 </section>
@@ -633,7 +633,7 @@
 
     <div class="feature-row feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/dwv-sentosa.webp') ?>" alt="Sentosa Resorts and Water Park wedding venue Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/dwv-sentosa.webp') ?>" width="1920" height="1278" alt="Sentosa Resorts and Water Park wedding venue Pune" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text"><strong>Type of Venue:-</strong> Resort Venue &amp; Poolside Place</p>
@@ -643,7 +643,7 @@
       </div>
     </div>
 
-    <h4 class="article-heading article-heading-gap">Best Photography Frames:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Best Photography Frames:-</h3>
     <ul class="pkg-detail-list">
       <li>Large open lawns</li>
       <li>Decor-heavy mandap areas</li>
@@ -651,7 +651,7 @@
       <li>Colorful mehendi event setups</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Key Points:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Key Points:-</h3>
     <ul class="pkg-detail-list">
       <li>Colorful resort ambiance</li>
       <li>Spacious lawns for events</li>
@@ -662,7 +662,7 @@
       <li>Great venue for multi-day events</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Venue Facilities:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Venue Facilities:-</h3>
     <ul class="pkg-detail-list">
       <li>AC banquet halls</li>
       <li>Bridal room &amp; groom room</li>
@@ -675,10 +675,10 @@
       <li>Family-friendly resort stay</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Distance from Pune:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Distance from Pune:-</h3>
     <p class="article-text">Around 25 KM from Pune</p>
 
-    <h4 class="article-heading article-heading-gap">Perfect Time:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Perfect Time:-</h3>
     <p class="article-text">Winter season and post-monsoon months.</p>
   </div>
 </section>
@@ -693,7 +693,7 @@
 
     <div class="feature-row reverse feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/dwv-sunnys-world.webp') ?>" alt="Sunny's World hilltop wedding venue Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/dwv-sunnys-world.webp') ?>" width="1920" height="1080" alt="Sunny's World hilltop wedding venue Pune" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text"><strong>Type of Venue:-</strong> Hilltop Resort &amp; Scenic Destination</p>
@@ -702,7 +702,7 @@
       </div>
     </div>
 
-    <h4 class="article-heading article-heading-gap">Best Photography Frames:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Best Photography Frames:-</h3>
     <ul class="pkg-detail-list">
       <li>Hilltop sunset frames</li>
       <li>Mountain-view mandap</li>
@@ -710,7 +710,7 @@
       <li>Open-air wedding setups</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Key Points:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Key Points:-</h3>
     <ul class="pkg-detail-list">
       <li>Scenic hilltop location</li>
       <li>Panoramic city views</li>
@@ -721,7 +721,7 @@
       <li>Cinematic couple portrait location</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Venue Facilities:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Venue Facilities:-</h3>
     <ul class="pkg-detail-list">
       <li>AC rooms and halls</li>
       <li>Bridal room &amp; groom room</li>
@@ -734,23 +734,23 @@
       <li>Swimming pool</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Distance from Pune:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Distance from Pune:-</h3>
     <p class="article-text">Around 17 KM</p>
 
-    <h4 class="article-heading article-heading-gap">Best Time:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Best Time:-</h3>
     <p class="article-text">November to February for clear skies and comfortable evenings.</p>
   </div>
 </section>
 
 <!-- =====================================================================
-     SECTION C - TOP FIVE DESTINATION VENUES (heading)
+     SECTION C - TOP EIGHT DESTINATION VENUES (heading)
      ===================================================================== -->
 <section class="section section-white">
   <div class="container">
     <div class="section-head">
       <p class="eyebrow section-head-eyebrow">Section C</p>
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Top Five Destination Wedding Venues<br><em>In Pune (less than 40 km)</em></h2>
+      <h2 class="section-title">Top Eight Destination Wedding Venues<br><em>In Pune (less than 40 km)</em></h2>
     </div>
     <p class="article-text">These venues are suitable for,</p>
 
@@ -764,9 +764,9 @@
     </ul>
 
     <div class="grid-3 grid-gap article-img-center">
-      <img src="<?= base_url('assets/images/dwv-hilltop-gal-1.webp') ?>" alt="Hilltop wedding venue near Pune" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/dwv-hilltop-gal-2.webp') ?>" alt="Forest and hillside destination wedding Pune" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/dwv-hilltop-gal-3.webp') ?>" alt="Riverside destination wedding venue Pune" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/dwv-hilltop-gal-1.webp') ?>" width="1920" height="2879" alt="Hilltop wedding venue near Pune" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/dwv-hilltop-gal-2.webp') ?>" width="1920" height="1280" alt="Forest and hillside destination wedding Pune" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/dwv-hilltop-gal-3.webp') ?>" width="1920" height="2880" alt="Riverside destination wedding venue Pune" loading="lazy" class="feature-img-full">
     </div>
   </div>
 </section>
@@ -781,14 +781,14 @@
 
     <div class="feature-row feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/dwv-wildernest.webp') ?>" alt="Wildernest HillTop Resort Khadakwasla wedding venue" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/dwv-wildernest.webp') ?>" width="1920" height="2880" alt="Wildernest HillTop Resort Khadakwasla wedding venue" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text">Wildernest HillTop resort offers the serenity of tranquil, nature-dense hilltops.</p>
       </div>
     </div>
 
-    <h4 class="article-heading article-heading-gap">Best Photography Frames:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Best Photography Frames:-</h3>
     <ul class="pkg-detail-list">
       <li>Foggy morning portraits</li>
       <li>Valley-view mandap shots</li>
@@ -796,18 +796,16 @@
       <li>Natural forest surroundings</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Key Points:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Key Points:-</h3>
     <ul class="pkg-detail-list">
-      <li>Scenic hilltop location</li>
-      <li>Panoramic valley views</li>
-      <li>Stunning sunset setup</li>
-      <li>Open-air mandap options</li>
-      <li>Perfect for night receptions under the sky</li>
-      <li>Excellent natural daylight for photography</li>
-      <li>Cinematic couple portrait location</li>
+      <li>Quiet hilltop setting near Khadakwasla</li>
+      <li>Dense natural greenery all around</li>
+      <li>Calm, peaceful feel away from the city</li>
+      <li>Valley views for mandap shots</li>
+      <li>Foggy mornings and forest backdrops for portraits</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Venue Facilities:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Venue Facilities:-</h3>
     <ul class="pkg-detail-list">
       <li>AC rooms and halls</li>
       <li>Bridal room &amp; groom room</li>
@@ -820,7 +818,7 @@
       <li>Swimming pool</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Distance from Pune</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Distance from Pune</h3>
     <p class="article-text">Around 25-30 km from Pune</p>
   </div>
 </section>
@@ -835,21 +833,21 @@
 
     <div class="feature-row reverse feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/dwv-sorina.webp') ?>" alt="Sorina Hillside Resort wedding venue Khadakwasla" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/dwv-sorina.webp') ?>" width="1920" height="2880" alt="Sorina Hillside Resort wedding venue Khadakwasla" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text">If you are looking for a hillside wedding venue surrounded by greenery, Sorina Hillside Resort is perfect.</p>
       </div>
     </div>
 
-    <h4 class="article-heading article-heading-gap">Best Photography Frames:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Best Photography Frames:-</h3>
     <ul class="pkg-detail-list">
       <li>Hillside sunset portraits</li>
       <li>Open-air Mehendi setups</li>
       <li>Scenic greenery backdrops</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Key Points:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Key Points:-</h3>
     <ul class="pkg-detail-list">
       <li>Beautiful hillside wedding venue</li>
       <li>Scenic greenery all around</li>
@@ -860,7 +858,7 @@
       <li>Perfect for romantic couple portraits</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Venue Facilities:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Venue Facilities:-</h3>
     <ul class="pkg-detail-list">
       <li>AC rooms and halls</li>
       <li>Bridal preparation room</li>
@@ -873,10 +871,10 @@
       <li>Swimming pool</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Perfect Wedding Season:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Perfect Wedding Season:-</h3>
     <p class="article-text">October to February</p>
 
-    <h4 class="article-heading article-heading-gap">Distance From Pune:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Distance From Pune:-</h3>
     <p class="article-text">Approximately 30 km from Pune.</p>
   </div>
 </section>
@@ -891,14 +889,14 @@
 
     <div class="feature-row feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/dwv-ripples.webp') ?>" alt="Ripples Resort forest side wedding venue Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/dwv-ripples.webp') ?>" width="1920" height="1281" alt="Ripples Resort forest side wedding venue Pune" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text">Ripples Resort is fashioned and engulfed with forest type of greenery gives you a picturesque landscape harmony.</p>
       </div>
     </div>
 
-    <h4 class="article-heading article-heading-gap">Photography Highlights:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Photography Highlights:-</h3>
     <ul class="pkg-detail-list">
       <li>Natural candid photography</li>
       <li>Forest walkway portraits</li>
@@ -907,7 +905,7 @@
       <li>Nature-themed wedding décor setups</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Key Points:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Key Points:-</h3>
     <ul class="pkg-detail-list">
       <li>Forest-side wedding venue</li>
       <li>Green natural surroundings</li>
@@ -918,7 +916,7 @@
       <li>Scenic outdoor wedding setups</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Venue Facilities:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Venue Facilities:-</h3>
     <ul class="pkg-detail-list">
       <li>AC accommodation</li>
       <li>Bridal &amp; groom rooms</li>
@@ -931,10 +929,10 @@
       <li>Swimming pool</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Distance From Pune:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Distance From Pune:-</h3>
     <p class="article-text">Around 28-35 km from Pune</p>
 
-    <h4 class="article-heading article-heading-gap">Perfect Time</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Perfect Time</h3>
     <p class="article-text">November to February and the post-monsoon season.</p>
   </div>
 </section>
@@ -949,14 +947,14 @@
 
     <div class="feature-row reverse feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/dwv-ambrosia.webp') ?>" alt="Ambrosia Resort destination wedding venue Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/dwv-ambrosia.webp') ?>" width="1920" height="1280" alt="Ambrosia Resort destination wedding venue Pune" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text">Ambrosia Resort and Spa is great for a destination wedding feel without losing the convenience of being close to all that the city has to offer.</p>
       </div>
     </div>
 
-    <h4 class="article-heading article-heading-gap">Photography Advantage:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Photography Advantage:-</h3>
     <ul class="pkg-detail-list">
       <li>Luxury poolside portraits</li>
       <li>Decor-friendly lawns</li>
@@ -965,7 +963,7 @@
       <li>Premium night lighting ambiance</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Key Points:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Key Points:-</h3>
     <ul class="pkg-detail-list">
       <li>Easily accessible from Pune city</li>
       <li>Luxury resort-style wedding venue</li>
@@ -976,7 +974,7 @@
       <li>Ideal for stylish wedding décor themes</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Venue Facilities:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Venue Facilities:-</h3>
     <ul class="pkg-detail-list">
       <li>Premium AC rooms</li>
       <li>Bridal suite &amp; groom room</li>
@@ -989,10 +987,10 @@
       <li>DJ/music arrangements</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Distance From Pune:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Distance From Pune:-</h3>
     <p class="article-text">Approximately 20-25 km.</p>
 
-    <h4 class="article-heading article-heading-gap">Perfect Time for Wedding:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Perfect Time for Wedding:-</h3>
     <p class="article-text">October to February.</p>
   </div>
 </section>
@@ -1007,14 +1005,14 @@
 
     <div class="feature-row feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/dwv-aquarius.webp') ?>" alt="Aquarius Resort dam-side wedding venue Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/dwv-aquarius.webp') ?>" width="1920" height="1281" alt="Aquarius Resort dam-side wedding venue Pune" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text">Aquarius Resort is the tranquil dam side wedding venue you have always dreamt of. Aquarius Resort is one of the best dam side wedding venues in Pune.</p>
       </div>
     </div>
 
-    <h4 class="article-heading article-heading-gap">Best Photography Frames:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Best Photography Frames:-</h3>
     <ul class="pkg-detail-list">
       <li>Water reflections during sunset</li>
       <li>Lakeside mandap</li>
@@ -1023,7 +1021,7 @@
       <li>Sunset silhouette couple photography</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Key Points:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Key Points:-</h3>
     <ul class="pkg-detail-list">
       <li>Stunning dam-side wedding venue</li>
       <li>Lakeside mandap options</li>
@@ -1034,7 +1032,7 @@
       <li>Romantic water-view backdrops</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Venue Facilities:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Venue Facilities:-</h3>
     <ul class="pkg-detail-list">
       <li>AC rooms</li>
       <li>Bridal &amp; groom rooms</li>
@@ -1047,10 +1045,10 @@
       <li>Generator backup</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Distance From Pune:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Distance From Pune:-</h3>
     <p class="article-text">Around 25-30 km from Pune</p>
 
-    <h4 class="article-heading article-heading-gap">Best Time:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Best Time:-</h3>
     <p class="article-text">November to February</p>
   </div>
 </section>
@@ -1065,14 +1063,14 @@
 
     <div class="feature-row reverse feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/dwv-malhar-machi.webp') ?>" alt="Malhar Machi Mountain Resort wedding venue Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/dwv-malhar-machi.webp') ?>" width="1920" height="1281" alt="Malhar Machi Mountain Resort wedding venue Pune" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text">Malhar Machi Mountain Resort has a stunning hilltop wedding mountain vibe.</p>
       </div>
     </div>
 
-    <h4 class="article-heading article-heading-gap">Photography Experience:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Photography Experience:-</h3>
     <ul class="pkg-detail-list">
       <li>Cloud-filled backgrounds during monsoon</li>
       <li>Golden-hour mountain portraits</li>
@@ -1081,7 +1079,7 @@
       <li>Scenic sunset landscapes</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Key Points:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Key Points:-</h3>
     <ul class="pkg-detail-list">
       <li>Scenic mountain-top venue</li>
       <li>Beautiful valley surroundings</li>
@@ -1092,7 +1090,7 @@
       <li>Peaceful destination wedding experience</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Suitable For:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Suitable For:-</h3>
     <ul class="pkg-detail-list">
       <li>Engagement</li>
       <li>Mehendi</li>
@@ -1102,7 +1100,7 @@
       <li>Mountain destination wedding</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Venue Facilities:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Venue Facilities:-</h3>
     <ul class="pkg-detail-list">
       <li>AC cottages and rooms</li>
       <li>Bridal &amp; groom preparation rooms</li>
@@ -1115,10 +1113,10 @@
       <li>Swimming pool</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Distance From Pune:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Distance From Pune:-</h3>
     <p class="article-text">Around 40 km from Pune city</p>
 
-    <h4 class="article-heading article-heading-gap">Perfect Time for Wedding:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Perfect Time for Wedding:-</h3>
     <p class="article-text">November to February and early monsoon.</p>
   </div>
 </section>
@@ -1133,14 +1131,14 @@
 
     <div class="feature-row feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/dwv-golden-fields.webp') ?>" alt="Golden Fields Resort riverside wedding venue Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/dwv-golden-fields.webp') ?>" width="1920" height="1280" alt="Golden Fields Resort riverside wedding venue Pune" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text">Golden Fields Resort is known for its riverside wedding theme and also a great venue to hold peaceful nature weddings.</p>
       </div>
     </div>
 
-    <h4 class="article-heading article-heading-gap">Best Photography Spots:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Best Photography Spots:-</h3>
     <ul class="pkg-detail-list">
       <li>Riverside mandap</li>
       <li>Reflection shots near water</li>
@@ -1149,7 +1147,7 @@
       <li>Open lawn reception setups</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Key Points:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Key Points:-</h3>
     <ul class="pkg-detail-list">
       <li>Riverside destination wedding venue</li>
       <li>Scenic natural surroundings</li>
@@ -1160,7 +1158,7 @@
       <li>Natural daylight photography venue</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Venue Facilities:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Venue Facilities:-</h3>
     <ul class="pkg-detail-list">
       <li>AC rooms</li>
       <li>Bridal room &amp; groom room</li>
@@ -1173,10 +1171,10 @@
       <li>Swimming pool</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Distance From Pune:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Distance From Pune:-</h3>
     <p class="article-text">Approximately 38 to 40 km from Pune</p>
 
-    <h4 class="article-heading article-heading-gap">Perfect Time for Wedding</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Perfect Time for Wedding</h3>
     <p class="article-text">November to February</p>
   </div>
 </section>
@@ -1191,14 +1189,14 @@
 
     <div class="feature-row reverse feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/dwv-palmwoods.webp') ?>" alt="Palmwoods Retreat nature wedding venue Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/dwv-palmwoods.webp') ?>" width="1920" height="2880" alt="Palmwoods Retreat nature wedding venue Pune" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text">Palmwoods Retreat is famous for nature-centric weddings and quiet, low-key private events.</p>
       </div>
     </div>
 
-    <h4 class="article-heading article-heading-gap">Best Photography Frames:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Best Photography Frames:-</h3>
     <ul class="pkg-detail-list">
       <li>Forest greenery</li>
       <li>Minimal aesthetic wedding setups</li>
@@ -1207,7 +1205,7 @@
       <li>Natural sunset backdrops</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Key Points:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Key Points:-</h3>
     <ul class="pkg-detail-list">
       <li>Nature-focused wedding venue</li>
       <li>Surrounded by greenery and hills</li>
@@ -1218,7 +1216,7 @@
       <li>Cozy evening reception ambiance</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Venue Facilities:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Venue Facilities:-</h3>
     <ul class="pkg-detail-list">
       <li>AC rooms and cottages</li>
       <li>Bridal &amp; groom rooms</li>
@@ -1231,10 +1229,10 @@
       <li>DJ/music arrangements</li>
     </ul>
 
-    <h4 class="article-heading article-heading-gap">Distance From Pune:-</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Distance From Pune:-</h3>
     <p class="article-text">Around 35 to 40 km from Pune city</p>
 
-    <h4 class="article-heading article-heading-gap">Perfect Time for Wedding</h4>
+    <h3 class="article-heading article-heading-gap lvl-h4">Perfect Time for Wedding</h3>
     <p class="article-text">October to February.</p>
   </div>
 </section>
@@ -1264,14 +1262,14 @@
       <h2 class="section-title">Conclusion</h2>
     </div>
     <p class="article-text">In Pune, there is an ideal sort of venue that caters all needs either you are wanting for a royal fort wedding, luxury celebration, serene riverside ceremony or scenic hilltop wedding.</p>
-    <p class="article-text article-text-gap">Fort JadhavGADH, Dhepe Wada offers a heritage feel while JW Marriott and The Ritz-Carlton are classic luxury hotels where each property is distinctive to plan your memorable day with stunning photography in all varieties of property.</p>
+    <p class="article-text article-text-gap">Fort JadhavGADH and Dhepe Wada offer a heritage feel, resorts like The Corinthians and Oxford Golf Resort offer luxury, and hilltop venues like Wildernest and Sunny's World offer open views. Each of these 17 venues is different, so you can choose the one that suits your day and still get beautiful photographs.</p>
     <p class="article-text article-text-gap">We have the best photographer in Pune who has shot weddings, and other functions in all of these venues and that the right location does more than just host your wedding, but is a part of your love story for eternity.</p>
 
     <div class="grid-2 grid-gap article-img-center">
-      <img src="<?= base_url('assets/images/dwv-closing-gal-1.webp') ?>" alt="Destination wedding photography Pune" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/dwv-closing-gal-2.webp') ?>" alt="Best destination wedding venue Pune" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/dwv-closing-gal-3.webp') ?>" alt="Pune destination wedding photographer" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/dwv-closing-gal-4.webp') ?>" alt="Wedding venue photography Pune" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/dwv-closing-gal-1.webp') ?>" width="1920" height="2880" alt="Destination wedding photography Pune" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/dwv-closing-gal-2.webp') ?>" width="1920" height="2880" alt="Best destination wedding venue Pune" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/dwv-closing-gal-3.webp') ?>" width="1280" height="670" alt="Pune destination wedding photographer" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/dwv-closing-gal-4.webp') ?>" width="1920" height="1280" alt="Wedding venue photography Pune" loading="lazy" class="feature-img-full">
     </div>
   </div>
 </section>

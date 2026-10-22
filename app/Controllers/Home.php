@@ -12,8 +12,8 @@ class Home extends BaseController
         $recentBlogs = $blogModel->getPublished(3);
 
         $data = [
-            'title'        => 'Wedding Photographer in Pune | The Bridal Photography',
-            'description'  => 'Wedding photographer in Pune since 2014. Wedding, pre wedding and maternity shoots in Pune, Mumbai and Goa. 4.9 stars from 1,179 reviews. From Rs 6,000.',
+            'title'        => 'Wedding Photographer in Pune | Since 2014, From ₹6,000',
+            'description'  => 'Candid wedding, pre wedding and maternity photography in Pune, Mumbai and Goa since 2014. Packages from ₹6,000. Check your date and book a free call.',
             'canonical'    => '/',
             'recentBlogs'  => $recentBlogs,
             // LCP optimisation — preload the hero image referenced in pages/home.php

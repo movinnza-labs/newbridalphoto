@@ -27,15 +27,15 @@
   <div class="container">
     <div class="grid-3 grid-gap">
       <a href="<?= base_url('/nashik/wedding-photographers/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/mumbai-wedding-card.webp') ?>" alt="Wedding Photography Nashik" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/mumbai-wedding-card.webp') ?>" width="1024" height="683" alt="Wedding Photography Nashik" loading="lazy" class="mumbai-service-img">
         <h2 class="mumbai-service-title">Wedding Photographers in Nashik</h2>
       </a>
       <a href="<?= base_url('/nashik/engagement-photographers/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/engage-card-gold.webp') ?>" alt="Engagement Photography Nashik" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/engage-card-gold.webp') ?>" width="1024" height="1024" alt="Engagement Photography Nashik" loading="lazy" class="mumbai-service-img">
         <h2 class="mumbai-service-title">Engagement Photographers in Nashik</h2>
       </a>
       <a href="<?= base_url('/nashik/pre-wedding-shoot/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/mumbai-prewedding-card.webp') ?>" alt="Pre-Wedding Shoot Nashik" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/mumbai-prewedding-card.webp') ?>" width="1024" height="683" alt="Pre-Wedding Shoot Nashik" loading="lazy" class="mumbai-service-img">
         <h2 class="mumbai-service-title">Pre Wedding Shoot in Nashik</h2>
       </a>
     </div>
@@ -89,7 +89,7 @@
     </div>
     <div class="card-white card-white-padded">
       <p class="article-text">A pre-wedding shoot is not just a photo shoot, but a celebration of your life before the wedding. Nashik has picturesque vineyards, hill tops, river banks and old architecture which has made it a perfect romantic place.</p>
-      <p class="article-text article-text-gap">Such destinations as Sula Vineyards, offer green backdrops and the European style of vineyard. The breathtaking panoramic views of the Anjneri hill will provide spectacular scenery to couples who are fond of nature and dramatic scenery, particularly during sunrise and sunset.</p>
+      <p class="article-text article-text-gap">Such destinations as Sula Vineyards, offer green backdrops and the European style of vineyard. The breathtaking panoramic views of the Anjaneri hill will provide spectacular scenery to couples who are fond of nature and dramatic scenery, particularly during sunrise and sunset.</p>
       <h3 class="card-white-heading-lg article-heading-gap"><strong>We help you with:</strong></h3>
       <ul class="pkg-detail-list mumbai-list-gap">
         <li>Concept planning</li>
@@ -190,7 +190,7 @@
       <h3 class="card-white-heading-lg"><strong>Nashik has some of the finest photoshoot sites which include:</strong></h3>
       <ul class="pkg-detail-list mumbai-list-gap">
         <li>Sula Vineyards - Romantic vineyard attraction.</li>
-        <li>Anjneri hill - Breathtaking sunrise</li>
+        <li>Anjaneri hill - Breathtaking sunrise</li>
         <li>Panchavati - Traditional and cultural background.</li>
         <li>Gangapur Dam - Picturesque water front.</li>
         <li>Dugarwadi Waterfall - Natural beauty, Lush.</li>
@@ -240,7 +240,7 @@
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
       <h2 class="section-title">Our <em>Photography Style</em></h2>
-      <p class="section-sub">We offer a Photographer in Nashik are a well-balanced mix of:</p>
+      <p class="section-sub">As photographers in Nashik, we offer a well-balanced mix of:</p>
     </div>
     <div class="card-white card-white-padded">
       <ul class="pkg-detail-list mumbai-list-gap">
@@ -283,7 +283,7 @@
       ['When is the most appropriate time to do a photoshoot in Nashik?',
        'The golden hour is the most appropriate time to have a photoshoot in Nashik, this is the time just after the sunrise or just before the sunset when light is soft and flattering. Early mornings also come in handy to avoid a crowd particularly in the well-known places such as vineyards and hills.'],
       ['What are the most effective photoshooting places in Nashik?',
-       'The most ideal photoshoot places are:</p><ul class="pkg-detail-list mumbai-list-gap"><li>Sula Vineyards</li><li>Anjneri Hill</li><li>Panchavati</li><li>Gangapur Dam</li><li>Dugarwadi Waterfall</li></ul><p>We also suggest that you can visit some of the lesser known scenic locations based on your shooting idea.'],
+       'The most ideal photoshoot places are:</p><ul class="pkg-detail-list mumbai-list-gap"><li>Sula Vineyards</li><li>Anjaneri Hill</li><li>Panchavati</li><li>Gangapur Dam</li><li>Dugarwadi Waterfall</li></ul><p>We also suggest that you can visit some of the lesser known scenic locations based on your shooting idea.'],
     ] as [$q,$a]): ?>
     <div class="faq-item">
       <button class="faq-trigger"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
@@ -299,7 +299,7 @@
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
       <h2 class="section-title">Book Now or <em>Enquire</em></h2>
-      <p class="section-sub">Ready to capture your love story? Contact us today to book your photoshoot in Nashik or for any inquires.</p>
+      <p class="section-sub">Ready to capture your love story? Contact us today to book your photoshoot in Nashik or for any enquiries.</p>
     </div>
     <div class="contact-layout">
       <div class="enquire-contact-card">
@@ -311,7 +311,7 @@
           <div class="enquire-contact-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg></div>
           <a href="mailto:thebridal11@gmail.com" class="enquire-contact-link">thebridal11@gmail.com</a>
         </div>
-        <p class="enquire-contact-text">Inquiry today by visiting our official website to know more.</p>
+        <p class="enquire-contact-text">Contact us today to book.</p>
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold pkg-card-btn">Book a Free Consultation Call</a>
       </div>
       <div class="enquire-form-card">

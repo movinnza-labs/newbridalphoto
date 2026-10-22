@@ -12,7 +12,7 @@ $catLabels = $categories ?? [];
       <div>
         <p class="eyebrow" style="margin-bottom:.75rem;">Photography Journal</p>
         <div style="width:52px;height:1px;background:linear-gradient(90deg,var(--gold),transparent);margin-bottom:1.4rem;"></div>
-        <h1>Guides, Stories &amp;<br><em>Inspiration</em></h1>
+        <h1>Guides, Stories and<br><em>Inspiration</em></h1>
         <p class="page-hero-sub">
           Pre-wedding location guides, photography tips and behind-the-scenes stories
           from our shoots across Maharashtra and beyond.
@@ -37,7 +37,7 @@ $catLabels = $categories ?? [];
         <?php $fImg = str_starts_with($f['featured_image'], 'http') ? $f['featured_image'] : base_url($f['featured_image']); ?>
         <img src="<?= esc($fImg) ?>"
              alt="<?= esc($f['featured_image_alt'] ?? $f['title']) ?>"
-             loading="eager" width="800" height="500">
+             loading="eager" fetchpriority="high" width="800" height="500">
         <?php endif; ?>
       </div>
       <div class="featured-post-body">
@@ -81,8 +81,7 @@ $catLabels = $categories ?? [];
     <?php if (!empty($posts)): ?>
     <div class="blog-grid" id="blog-grid">
       <?php foreach ($posts as $p): ?>
-      <a href="<?= base_url('/blog/' . esc($p['slug']) . '/') ?>"
-         class="blog-card" data-post-cat="<?= esc($p['category'] ?? 'general') ?>" style="text-decoration:none;">
+      <article class="blog-card" data-post-cat="<?= esc($p['category'] ?? 'general') ?>">
         <div class="blog-card-img">
           <?php if ($p['featured_image']): ?>
           <?php $pImg = str_starts_with($p['featured_image'], 'http') ? $p['featured_image'] : base_url($p['featured_image']); ?>
@@ -96,8 +95,7 @@ $catLabels = $categories ?? [];
           <?php endif; ?>
         </div>
         <div class="blog-card-body">
-          <p class="blog-card-cat"><?= esc($catLabels[$p['category']] ?? ucfirst($p['category'] ?? 'Blog')) ?></p>
-          <h2 class="blog-card-title"><?= esc($p['title']) ?></h2>
+          <span class="blog-card-cat"><?= esc($catLabels[$p['category']] ?? ucfirst($p['category'] ?? 'Blog')) ?></span> <h3 class="blog-card-title"><a href="<?= base_url('/blog/' . esc($p['slug']) . '/') ?>"><?= esc($p['title']) ?></a></h3>
           <p class="blog-card-excerpt">
             <?= esc(substr(strip_tags($p['excerpt'] ?? $p['content'] ?? ''), 0, 120)) ?>…
           </p>
@@ -107,7 +105,7 @@ $catLabels = $categories ?? [];
           </div>
           <span class="blog-card-link">Read Article</span>
         </div>
-      </a>
+      </article>
       <?php endforeach; ?>
     </div>
 

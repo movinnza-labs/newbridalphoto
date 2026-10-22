@@ -10,8 +10,9 @@
     <div class="page-hero-content-inner">
       <p class="eyebrow page-hero-eyebrow">Newborn Photography &middot; Pune</p>
       <div class="page-hero-rule"></div>
-      <h1>Newborn Photography Service<br><em>In Pune</em></h1>
+      <h1>Newborn Photography<br><em>in Pune</em></h1>
       <p class="page-hero-sub">The first days of a newborn's life are in a way timeless, yet they fly away so fast at the same time.</p>
+      <p class="page-hero-sub" style="margin-top:.4rem;"><strong>Starting from &#8377;6,000</strong></p>
       <div class="page-hero-buttons">
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Now</a>
         <a href="tel:+918390367637" class="btn btn-white">+91 83903 67637</a>
@@ -43,7 +44,7 @@
     </div>
 
     <div class="article-img-center">
-      <img src="<?= base_url('assets/images/baby-hero.webp') ?>" alt="Newborn Photography Pune" loading="lazy" class="article-img">
+      <img src="<?= base_url('assets/images/baby-hero.webp') ?>" width="1795" height="2560" alt="Baby boy in a cap and braces sitting on a mint crate at an outdoor baby shoot in Pune" loading="lazy" class="article-img">
     </div>
   </div>
 </section>
@@ -104,7 +105,7 @@
     <p class="article-text">Yes, newborn photography is safe with us. When it comes to your baby, safety always comes first. We ensure:</p>
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">We ensure:</h4>
+        <h3 class="card-white-title lvl-h4">We ensure:</h3>
         <ul class="pkg-detail-list">
           <li>Hygienic props and setups</li>
           <li>Baby-safe posing techniques</li>
@@ -114,7 +115,7 @@
         </ul>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">We provide:</h4>
+        <h3 class="card-white-title lvl-h4">We provide:</h3>
         <ul class="pkg-detail-list">
           <li>Wrapping clothes</li>
           <li>Newborn props</li>
@@ -240,6 +241,11 @@
       <h2 class="section-title">Best<br><em>Photographs</em></h2>
       <p class="section-sub">You can take a look at our portfolio to see the type of newborn photoshoots we offer. They can be happy and joyous or solemn and serious depending on your requirement.</p>
       <p class="section-sub section-sub-gap">For milestone, cake smash and birthday shoots, see our <a href="<?= base_url('/baby-photoshoot-pune/') ?>" class="article-link">Baby Photoshoot in Pune</a> page.</p>
+    </div>
+    <div class="maternity-gallery maternity-gallery-3col">
+      <img src="<?= base_url('assets/images/new-born-baby-shoot.webp') ?>" width="1600" height="2400" alt="Sleeping newborn wrapped in a soft wrap with a cap, round glasses and a bow tie" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/one-month-baby-shoot.webp') ?>" width="1600" height="2400" alt="Smiling newborn in a yellow bodysuit and flower crown lying in a basket" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/baby-shoot.webp') ?>" width="1600" height="2400" alt="Newborn with a flower crown resting in a basket against a dark backdrop" loading="lazy" class="maternity-gallery-img">
     </div>
   </div>
 </section>

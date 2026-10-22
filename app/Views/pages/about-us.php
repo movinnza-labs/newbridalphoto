@@ -3,7 +3,7 @@
   <div class="page-hero-bg"></div>
   <div class="page-hero-img">
     <img src="<?= base_url('assets/images/prewedding-couple-outdoor-pune.webp') ?>"
-         alt="About The Bridal Photography - Pune & Mumbai" width="1920" height="700" loading="eager">
+         alt="About The Bridal Photography - Pune & Mumbai" width="1920" height="700" loading="eager" fetchpriority="high">
   </div>
   <div class="page-hero-content">
     <div style="max-width:820px;">
@@ -22,13 +22,13 @@
 
     <div class="services-split">
       <div class="services-split-img">
-        <img src="<?= base_url('assets/images/about-who-we-are.webp') ?>"
+        <img src="<?= base_url('assets/images/about-who-we-are.webp') ?>" width="1024" height="564"
              alt="The Bridal Photography team" loading="lazy">
       </div>
       <div class="services-split-text">
         <p class="eyebrow" style="margin-bottom:.7rem;">Who We Are</p>
         <div class="rule-left" style="margin-bottom:1.2rem;"></div>
-        <p>We have a wedding photographer in Pune. We have been working as a professional for the past 10+ years and we love what I do. We are passionate about photography, its the only medium that lets you capture the true likeness of someone in a single frame. As a wedding photographer, our goal is to help you make your wedding day as memorable as possible. We offer pre-wedding photoshoot services, wedding photography & videography services, engagement photography, wedding cinematic films, newborn babyshoot, baby shoot, maternity photoshoot, birthday photography and product shoot services. All type of photography services in Pune are available with me. We are TheBridalPhotography team of passionate photographers who are dedicated to providing the best quality.</p>
+        <p>We are a wedding photography studio in Pune. We have been working as a professional for the past 10+ years and we love what we do. We are passionate about photography; it's the only medium that lets you capture the true likeness of someone in a single frame. As a wedding photographer, our goal is to help you make your wedding day as memorable as possible. We offer pre-wedding photoshoot services, wedding photography & videography services, engagement photography, wedding cinematic films, newborn babyshoot, baby shoot, maternity photoshoot, birthday photography and product shoot services. All types of photography services in Pune are available with us. We are TheBridalPhotography team of passionate photographers who are dedicated to providing the best quality.</p>
       </div>
     </div>
 
@@ -41,7 +41,7 @@
 
     <div class="services-split alt">
       <div class="services-split-img">
-        <img src="<?= base_url('assets/images/about-wedding-story.webp') ?>"
+        <img src="<?= base_url('assets/images/about-wedding-story.webp') ?>" width="900" height="600"
              alt="Creating timeless wedding stories" loading="lazy">
       </div>
       <div class="services-split-text">
@@ -60,7 +60,7 @@
 
     <div class="services-split">
       <div class="services-split-img">
-        <img src="<?= base_url('assets/images/about-candid-moments.webp') ?>"
+        <img src="<?= base_url('assets/images/about-candid-moments.webp') ?>" width="1024" height="576"
              alt="Candid wedding photography moments" loading="lazy">
       </div>
       <div class="services-split-text">
@@ -77,7 +77,7 @@
 
     <div class="services-split alt">
       <div class="services-split-img">
-        <img src="<?= base_url('assets/images/wedding-photography-pune.webp') ?>"
+        <img src="<?= base_url('assets/images/wedding-photography-pune.webp') ?>" width="683" height="1024"
              alt="Wedding photography story - candid moments" loading="lazy">
       </div>
       <div class="services-split-text">
@@ -95,7 +95,7 @@
   <div class="container">
     <div class="about-quote-gallery" style="display:grid;grid-template-columns:1fr 1fr;gap:2rem;align-items:center;">
       <div class="about-quote-gallery-img" style="height:480px;overflow:hidden;border-radius:6px;">
-        <img src="<?= base_url('assets/images/about-gallery-1.webp') ?>"
+        <img src="<?= base_url('assets/images/about-gallery-1.webp') ?>" width="479" height="1024"
              alt="Pre wedding gallery"
              loading="lazy"
              style="width:100%;height:100%;object-fit:cover;display:block;">
@@ -130,7 +130,7 @@
       <h2 class="section-title">Meet Our <em>Team</em></h2>
     </div>
     <div class="about-team-photo">
-      <img src="<?= base_url('assets/images/about-meet-our-team.webp') ?>"
+      <img src="<?= base_url('assets/images/about-meet-our-team.webp') ?>" width="1600" height="1067"
            alt="The Bridal Photography team - Pune, Mumbai, Goa, Ahilyanagar" loading="lazy">
     </div>
   </div>
@@ -147,9 +147,9 @@
 
     <div class="contact-offices-grid">
       <?php foreach ([
-        ['Pune Office-1', 'The Bridal Photography', 'Sai Temple, Sacchaimata, Sr.No.40/1B, Near Prathmesh Heights, Narhe Ambegaon Rd, KH, Katraj, Pune, Maharashtra 411046', '+91 8390367637', '+918390367637'],
-        ['Pune Office-2', 'The Bridal Photography', 'Shriram soc, 858/61, Guruwar Peth, Pune, Maharashtra 411042', '+91 8390367637', '+918390367637'],
-        ['Mumbai Office', 'The Bridal Photography', '1st Floor, Modi House, Off Link Rd, near Fun Republic Road, Khar, Andheri West, Mumbai, Maharashtra 400053', '+91 8806225566', '+918806225566'],
+        ['Pune Office (Katraj)', 'The Bridal Photography', 'Sai Temple, Sacchaimata, Sr.No.40/1B, Near Prathmesh Heights, Narhe Ambegaon Rd, KH, Katraj, Pune, Maharashtra 411046', '+91 8390367637', '+918390367637'],
+        ['Pune Office (Guruwar Peth)', 'The Bridal Photography', 'Shriram soc, 858/61, Guruwar Peth, Pune, Maharashtra 411042', '+91 8390367637', '+918390367637'],
+        ['Mumbai Office', 'The Bridal Photography', '1st Floor, Modi House, Off Link Rd, near Fun Republic Road, Andheri West, Mumbai, Maharashtra 400053', '+91 8806225566', '+918806225566'],
         ['Goa Office',   'The Bridal Photography', 'Second floor, Prema Building, Fontainhas (quarter), Patto Colony, Panaji, Goa 403001', '+91 7796225566', '+917796225566'],
       ] as [$label, $name, $address, $phone, $tel]): ?>
       <div class="contact-office-card">

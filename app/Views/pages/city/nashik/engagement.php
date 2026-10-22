@@ -43,23 +43,23 @@
     </div>
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Storytelling Style</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Storytelling Style</strong></h3>
         <p class="card-white-text">We do not take pictures, we tell your love story in meaningful frames.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Seasoned Staff</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Seasoned Staff</strong></h3>
         <p class="card-white-text">Our photographers have a sense of light, composition and natural expressions that are natural and spontaneous.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Premium Editing</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Premium Editing</strong></h3>
         <p class="card-white-text">Every picture is professionally edited to make it look better in terms of colors, clarity, and mood without losing its authenticity.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Comfort &amp; Advice</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Comfort &amp; Advice</strong></h3>
         <p class="card-white-text">We ensure that couples feel very comfortable and encourage them to pose in a natural way and have fun.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Timely Delivery</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Timely Delivery</strong></h3>
         <p class="card-white-text">We understand your schedules, particularly when you require photos to invite your guests to a wedding or even a social media post.</p>
       </div>
     </div>
@@ -79,19 +79,19 @@
     </div>
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Candid and Natural</h4>
+        <h3 class="card-white-title lvl-h4">Candid and Natural</h3>
         <p class="card-white-text">Natural laughter, hidden glances and spontaneous moments.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Romantic and Dreamy</h4>
+        <h3 class="card-white-title lvl-h4">Romantic and Dreamy</h3>
         <p class="card-white-text">Soft light, picturesque backgrounds and graceful arrangements.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Classic Portraits</h4>
+        <h3 class="card-white-title lvl-h4">Classic Portraits</h3>
         <p class="card-white-text">Classic is a timeless never-out-of-fashion pose.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Contemporary and Fashionable</h4>
+        <h3 class="card-white-title lvl-h4">Contemporary and Fashionable</h3>
         <p class="card-white-text">Instagram-ready glasses and film reels.</p>
       </div>
     </div>
@@ -112,19 +112,19 @@
     </div>
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Sula Vineyards</h4>
+        <h3 class="card-white-title lvl-h4">Sula Vineyards</h3>
         <p class="card-white-text">Romantic vineyard sceneries and sunset settings.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Pandavleni Caves</h4>
+        <h3 class="card-white-title lvl-h4">Pandavleni Caves</h3>
         <p class="card-white-text">Historical beauty and breathtaking scenery.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Gangapur Dam</h4>
+        <h3 class="card-white-title lvl-h4">Gangapur Dam</h3>
         <p class="card-white-text">Magic of golden hour and serene waterside.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Anjneri Hills</h4>
+        <h3 class="card-white-title lvl-h4">Anjaneri Hills</h3>
         <p class="card-white-text">Ideal with adventurous and nature loving couples.</p>
       </div>
     </div>
@@ -149,7 +149,6 @@
       <div class="card-white card-white-padded-sm"><p class="card-white-text">Instagram video snippets or reels</p></div>
       <div class="card-white card-white-padded-sm"><p class="card-white-text">Easy sharing gallery online</p></div>
       <div class="card-white card-white-padded-sm"><p class="card-white-text">Album design (optional)</p></div>
-      <div class="card-white card-white-padded-sm"><p class="card-white-text">High quality edited pictures</p></div>
     </div>
   </div>
 </section>
@@ -164,23 +163,23 @@
     </div>
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Consultation</h4>
+        <h3 class="card-white-title lvl-h4">Consultation</h3>
         <p class="card-white-text">Learning about your story, preferences and theme.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Discussion of location and styling</h4>
+        <h3 class="card-white-title lvl-h4">Discussion of location and styling</h3>
         <p class="card-white-text">Proposing outfits, props and settings.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Shoot Execution</h4>
+        <h3 class="card-white-title lvl-h4">Shoot Execution</h3>
         <p class="card-white-text">Providing a free and fun atmosphere.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Post-Production</h4>
+        <h3 class="card-white-title lvl-h4">Post-Production</h3>
         <p class="card-white-text">Professional editing, color correction and retouching.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Delivery</h4>
+        <h3 class="card-white-title lvl-h4">Delivery</h3>
         <p class="card-white-text">On time delivery of edited images and videos.</p>
       </div>
     </div>
@@ -197,7 +196,7 @@
       <p class="eyebrow section-head-eyebrow">Packages</p>
       <div class="rule-center section-head-rule"></div>
       <h2 class="section-title">Packages<br><em>and Pricing</em></h2>
-      <p class="section-sub">The price of engagement photography in Nashik is determined by:</p>
+      <p class="section-sub">Packages start from Rs 7,000. The final price of engagement photography in Nashik depends on:</p>
     </div>
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm"><p class="card-white-text">Shoot duration</p></div>
@@ -207,7 +206,7 @@
       <div class="card-white card-white-padded-sm"><p class="card-white-text">Album and other deliverables.</p></div>
     </div>
     <div class="section-head section-head-gap">
-      <p class="section-sub">We will provide flexible packages to meet various budgets without affecting the quality. Couples can also be offered custom packages in case they would like to have a personalized experience. To get a proper quote, we suggest that you contact your desired date and needs.</p>
+      <p class="section-sub">We will provide flexible packages to meet various budgets without affecting the quality. Couples can also be offered custom packages in case they would like to have a personalized experience. To get an exact quote, contact us with your date and needs.</p>
     </div>
   </div>
 </section>
@@ -223,14 +222,14 @@
     </div>
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Outfit Tips</h4>
+        <h3 class="card-white-title lvl-h4">Outfit Tips</h3>
         <p class="card-white-text">Think about color coordination instead of matching.</p>
         <p class="card-white-text">Select light colors during the day and darker colors during the sunset shoots.</p>
         <p class="card-white-text">Heavy prints should be avoided because they distract expressions.</p>
         <p class="card-white-text">Carry a traditional and a modern outfit to be varied.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Pose Tips</h4>
+        <h3 class="card-white-title lvl-h4">Pose Tips</h3>
         <p class="card-white-text">Pay attention to the natural interaction- walk hand-in-hand, laugh, talk.</p>
         <p class="card-white-text">Relaxed smiling in the mirror in front of the shoot.</p>
         <p class="card-white-text">You should trust the photographer to take flattering angles.</p>
@@ -265,15 +264,15 @@
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"The Bridal Photography helped to make our engagement shoot feel so relaxed and enjoyable. The images appear as though they were in a film!"</p>
-        <h4 class="card-white-title article-heading-gap"><strong>Rani &amp; Som</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>Rani &amp; Som</strong></h3>
       </div>
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"The Bridal Photography crew led us with poses and costumes and the end photos were even better than we had imagined."</p>
-        <h4 class="card-white-title article-heading-gap"><strong>Adi &amp; Ekta</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>Adi &amp; Ekta</strong></h3>
       </div>
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"We got our teaser in a few days, and it was ideal in our Instagram announcement. We value their professionalism, creativity and the effort to capture the real emotions."</p>
-        <h4 class="card-white-title article-heading-gap"><strong>Dilip &amp; Jaya</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>Dilip &amp; Jaya</strong></h3>
       </div>
     </div>
   </div>
@@ -327,7 +326,7 @@
       <div class="enquire-contact-card">
         <div class="enquire-contact-item"><div class="enquire-contact-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.01-.24 11.36 11.36 0 003.58.57 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.36 11.36 0 00.57 3.58 1 1 0 01-.25 1.01l-2.2 2.2z"/></svg></div><a href="tel:+918390367637" class="enquire-contact-link">+91 8390367637</a></div>
         <div class="enquire-contact-item"><div class="enquire-contact-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg></div><a href="mailto:thebridal11@gmail.com" class="enquire-contact-link">thebridal11@gmail.com</a></div>
-        <p class="enquire-contact-text">Inquiry today by visiting our official website to know more.</p>
+        <p class="enquire-contact-text">Contact us today to book.</p>
         <a href="tel:+918390367637" class="btn btn-gold pkg-card-btn">Book a Free Consultation Call</a>
       </div>
       <div class="enquire-form-card">

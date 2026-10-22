@@ -33,8 +33,8 @@ class Blog extends BaseController
         $totalPages = (int) ceil($total / $perPage);
 
         $data = [
-            'title'       => 'Photography Blog | Pre-Wedding Tips & Location Guides | The Bridal Photography',
-            'description' => 'Photography inspiration, pre-wedding location guides, tips and stories from The Bridal Photography — Pune & Mumbai\'s most trusted studio.',
+            'title'       => 'Pre Wedding Ideas, Location Guides & Tips | Photo Blog',
+            'description' => 'Free pre wedding location guides, shoot ideas and photo tips from Pune photographers with 10+ years of shoots. Plan a better shoot today.',
             'canonical'   => '/blog/',
             'view'        => 'blog/index',
             'posts'       => $posts,

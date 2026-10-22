@@ -8,7 +8,7 @@
     <div class="page-hero-content-inner">
       <p class="eyebrow page-hero-eyebrow">Corporate Photography &middot; Ahilyanagar</p>
       <div class="page-hero-rule"></div>
-      <h1>Corporate Event &amp; Industrial Shoot<br><em>In Ahilyanagar</em></h1>
+      <h1>Corporate Event Photography<br><em>in Ahilyanagar</em></h1>
       <p class="page-hero-sub">Corporate events and industrial operations aren't just day-to-day activities of business, they also convey important milestones, accomplishments, teamwork, innovation and brand message.</p>
       <div class="page-hero-buttons">
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Now</a>
@@ -30,7 +30,7 @@
     </div>
 
     <div class="article-img-center">
-      <img src="<?= base_url('assets/images/ahily-corp-1.webp') ?>" alt="Corporate Event Ahilyanagar" loading="lazy" class="article-img">
+      <img src="<?= base_url('assets/images/ahily-corp-1.webp') ?>" width="1024" height="683" alt="Corporate Event Ahilyanagar" loading="lazy" class="article-img">
     </div>
   </div>
 </section>
@@ -80,19 +80,19 @@
     </div>
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Discreet and Professional Presence</strong></h4>
-        <p class="card-white-text">For corporate events need photographer(s) who can be discreet and professional. The group is dedicated to making it happen with the least amount of interference possible while still getting real candid moments and great footage.</p>
+        <h3 class="card-white-title lvl-h4"><strong>Discreet and Professional Presence</strong></h3>
+        <p class="card-white-text">Corporate events need photographers who are discreet and professional. Our team covers your event with as little interference as possible while still getting real candid moments and great footage.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Quick Turnaround for PR and Social Media</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Quick Turnaround for PR and Social Media</strong></h3>
         <p class="card-white-text">Today content delivery timing is more important than ever in the digital age. Rapid turnaround enables companies to share highlights from events, press announcement, and updates like social media without delay.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Experienced in Indoor &amp; Stage Lighting</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Experienced in Indoor &amp; Stage Lighting</strong></h3>
         <p class="card-white-text">Lighting conditions can range from poorly lit conference rooms to well lit industrial sites. Corporate event &amp; industrial shoot in Ahilyanagar professionals use quality lighting systems for super images.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Multi-Angle Coverage for Large Events</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Multi-Angle Coverage for Large Events</strong></h3>
         <p class="card-white-text">Let's admit it, a company event may be more than just one activity at the same time. Multiple angles provide more extensive coverage so you're never left in the dark.</p>
       </div>
     </div>
@@ -110,7 +110,7 @@
     <div class="feature-row feature-row-spaced">
       <div>
         <p class="article-text">Our <strong>corporate event &amp; industrial shoot in Ahilyanagar</strong> portfolio shows our experiences. This can encompass conferences, factory tours, company parties, product launches to business banquets.</p>
-        <p class="article-text article-text-gap">Clients can know about our services by exploring the portfolio. Anyone can know:</p>
+        <p class="article-text article-text-gap">You can learn about our work by looking through our portfolio. It shows you our:</p>
         <ul class="pkg-detail-list">
           <li>Photography quality and style</li>
           <li>Event coverage versatility</li>
@@ -120,7 +120,7 @@
         <p class="article-text article-text-gap">A strong portfolio can make businesses more confident when choosing the right photography partner.</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/ahily-corp-2.webp') ?>" alt="Corporate Photography Ahilyanagar" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/ahily-corp-2.webp') ?>" width="1024" height="683" alt="Corporate Photography Ahilyanagar" loading="lazy" class="feature-img-full">
       </div>
     </div>
 
@@ -144,19 +144,19 @@
     </div>
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Corporate Event Coverage</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Corporate Event Coverage</strong></h3>
         <p class="card-white-text">We capture conferences, seminars, meetings, and corporate events with a professional approach, ensuring every important moment and interaction is documented with clarity and style.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Industrial &amp; Factory Photography</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Industrial &amp; Factory Photography</strong></h3>
         <p class="card-white-text">Showcase your manufacturing processes, machinery, and infrastructure with high-quality industrial photography that highlights precision, scale, and professionalism.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Corporate Branding &amp; Headshots</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Corporate Branding &amp; Headshots</strong></h3>
         <p class="card-white-text">Enhance your brand identity with professional team photos, executive headshots, and office environment shots that reflect your company's culture and credibility.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Promotional Videos &amp; Reels</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Promotional Videos &amp; Reels</strong></h3>
         <p class="card-white-text">We create engaging corporate videos and short reels designed for marketing, presentations, and social media to help you communicate your brand message effectively.</p>
       </div>
     </div>
@@ -173,27 +173,27 @@
     </div>
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Conferences and Seminars</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Conferences and Seminars</strong></h3>
         <p class="card-white-text">High-quality video coverage of speakers, interaction with the audience, panel discussions and other networking opportunities.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Board Meetings and Leadership Meets</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Board Meetings and Leadership Meets</strong></h3>
         <p class="card-white-text">Recording of strategic conversations, leadership meetings and business dealings with professionalism.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Product Launches and Press Events</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Product Launches and Press Events</strong></h3>
         <p class="card-white-text">Showcasing product stands, press coverage, presentations and audience reactions.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Award Ceremonies and Annual Functions</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Award Ceremonies and Annual Functions</strong></h3>
         <p class="card-white-text">Showcase success, reward employees and celebrate company milestones with sophisticated office photography.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Office Events and Team Celebrations</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Office Events and Team Celebrations</strong></h3>
         <p class="card-white-text">Capturing informal, team bonding or festive gatherings in the office.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Training Sessions &amp; Workshops</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Training Sessions &amp; Workshops</strong></h3>
         <p class="card-white-text">Capturing interactive training programs, workshops, and employee development sessions with a focus on engagement, learning, and professional growth.</p>
       </div>
     </div>
@@ -233,9 +233,9 @@
     </div>
 
     <div class="grid-3 grid-gap article-img-center">
-      <img src="<?= base_url('assets/images/ahily-corp-3.webp') ?>" alt="Corporate Photography" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/ahily-corp-4.webp') ?>" alt="Corporate Photography" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/ahily-corp-5.webp') ?>" alt="Corporate Photography" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/ahily-corp-3.webp') ?>" width="612" height="344" alt="Corporate Photography" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/ahily-corp-4.webp') ?>" width="612" height="344" alt="Corporate Photography" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/ahily-corp-5.webp') ?>" width="612" height="344" alt="Corporate Photography" loading="lazy" class="feature-img-full">
     </div>
   </div>
 </section>

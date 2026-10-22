@@ -11,7 +11,8 @@
       <p class="eyebrow page-hero-eyebrow">Pre-Wedding Photography &middot; Ahilyanagar</p>
       <div class="page-hero-rule"></div>
       <h1>Pre Wedding Shoot<br><em>in Ahilyanagar</em></h1>
-      <p class="page-hero-sub">Capture your love story by with a pre wedding shoot in Ahilyanagar. The Bridal Photography team covers beautiful places with cinematic and photojournalistic photography.</p>
+      <p class="page-hero-sub">Capture your love story with a pre wedding shoot in Ahilyanagar. The Bridal Photography team covers beautiful places with cinematic and photojournalistic photography.</p>
+      <p class="page-hero-sub" style="margin-top:.4rem;"><strong>Starting from ₹14,999</strong></p>
       <div class="page-hero-buttons">
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Now</a>
         <a href="tel:+918390367637" class="btn btn-white">+91 83903 67637</a>
@@ -28,7 +29,7 @@
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
       <h2 class="section-title">Book Your Dream Pre-Wedding Shoot<br><em>in Ahilyanagar</em></h2>
-      <p class="section-sub">Capture your love story by with a pre wedding shoot in Ahilyanagar. The Bridal Photography team covers beautiful places with cinematic and photojournalistic photography.</p>
+      <p class="section-sub">Capture your love story with a pre wedding shoot in Ahilyanagar. The Bridal Photography team covers beautiful places with cinematic and photojournalistic photography.</p>
     </div>
 
     <!-- About Our Pre-Wedding Shoot -->
@@ -38,31 +39,31 @@
 
     <div class="feature-row feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/ahily-pw-2.webp') ?>" alt="Pre-wedding shoot Ahilyanagar" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/ahily-pw-2.webp') ?>" width="1600" height="2400" alt="Pre-wedding shoot Ahilyanagar" loading="lazy" class="feature-img-full">
       </div>
       <div>
-        <img src="<?= base_url('assets/images/ahily-pw-3.webp') ?>" alt="Pre-wedding shoot Ahilyanagar" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/ahily-pw-3.webp') ?>" width="1600" height="2400" alt="Pre-wedding shoot Ahilyanagar" loading="lazy" class="feature-img-full">
       </div>
     </div>
 
     <!-- Photo Gallery -->
     <div class="maternity-gallery maternity-gallery-3col">
-      <img src="<?= base_url('assets/images/ahily-pw-4.webp') ?>" alt="Pre-wedding Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-pw-5.webp') ?>" alt="Pre-wedding Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-pw-6.webp') ?>" alt="Pre-wedding Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-pw-7.webp') ?>" alt="Pre-wedding Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-pw-8.webp') ?>" alt="Pre-wedding Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-pw-9.webp') ?>" alt="Pre-wedding Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-pw-10.webp') ?>" alt="Pre-wedding Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-pw-11.webp') ?>" alt="Pre-wedding Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-pw-12.webp') ?>" alt="Pre-wedding Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-pw-13.webp') ?>" alt="Pre-wedding Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-pw-14.webp') ?>" alt="Pre-wedding Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-pw-15.webp') ?>" alt="Pre-wedding Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-pw-16.webp') ?>" alt="Pre-wedding Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-pw-17.webp') ?>" alt="Pre-wedding Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-pw-18.webp') ?>" alt="Pre-wedding Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-pw-19.webp') ?>" alt="Pre-wedding Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-pw-4.webp') ?>" width="1600" height="1067" alt="Pre-wedding Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-pw-5.webp') ?>" width="1600" height="1068" alt="Pre-wedding Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-pw-6.webp') ?>" width="1600" height="1067" alt="Pre-wedding Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-pw-7.webp') ?>" width="1600" height="2400" alt="Pre-wedding Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-pw-8.webp') ?>" width="1600" height="2400" alt="Pre-wedding Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-pw-9.webp') ?>" width="1600" height="2400" alt="Pre-wedding Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-pw-10.webp') ?>" width="1600" height="2400" alt="Pre-wedding Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-pw-11.webp') ?>" width="1600" height="2400" alt="Pre-wedding Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-pw-12.webp') ?>" width="1600" height="2400" alt="Pre-wedding Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-pw-13.webp') ?>" width="1600" height="1036" alt="Pre-wedding Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-pw-14.webp') ?>" width="1600" height="1067" alt="Pre-wedding Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-pw-15.webp') ?>" width="1600" height="1067" alt="Pre-wedding Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-pw-16.webp') ?>" width="1600" height="911" alt="Pre-wedding Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-pw-17.webp') ?>" width="1600" height="1138" alt="Pre-wedding Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-pw-18.webp') ?>" width="1600" height="1106" alt="Pre-wedding Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-pw-19.webp') ?>" width="1024" height="576" alt="Pre-wedding Ahilyanagar" loading="lazy" class="maternity-gallery-img">
     </div>
   </div>
 </section>
@@ -78,19 +79,19 @@
 
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Local Location Expertise</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Local Location Expertise</strong></h3>
         <p class="card-white-text">Hidden gems and scenic Ahilyanagar locations that make your photos stand out.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Pose &amp; Outfit Guidance</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Pose &amp; Outfit Guidance</strong></h3>
         <p class="card-white-text">Natural positioning and wardrobe coordination for the best results.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Cinematic Storytelling Style</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Cinematic Storytelling Style</strong></h3>
         <p class="card-white-text">Emotion, light, and composition merged to tell your unique love story.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Creative Props &amp; Concepts</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Creative Props &amp; Concepts</strong></h3>
         <p class="card-white-text">Unique designs from romantic to creative themes that reflect your personality.</p>
       </div>
     </div>
@@ -108,23 +109,23 @@
 
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Sina River Bank</h4>
+        <h3 class="card-white-title lvl-h4">Sina River Bank</h3>
         <p class="card-white-text">Sunset, romantic, serene backdrop perfect for golden hour photography.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Anand Dham Garden</h4>
+        <h3 class="card-white-title lvl-h4">Anand Dham Garden</h3>
         <p class="card-white-text">Lush greenery, dreamy colorful feel ideal for nature-themed shoots.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Cavalry Tank Garden</h4>
+        <h3 class="card-white-title lvl-h4">Cavalry Tank Garden</h3>
         <p class="card-white-text">Tranquil water, beautiful greenery for serene and romantic frames.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Heritage Lanes &amp; Old Architecture</h4>
+        <h3 class="card-white-title lvl-h4">Heritage Lanes &amp; Old Architecture</h3>
         <p class="card-white-text">Timeless, classic touch with vintage charm and cultural richness.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Scenic Countryside Roads and Fields</h4>
+        <h3 class="card-white-title lvl-h4">Scenic Countryside Roads and Fields</h3>
         <p class="card-white-text">Natural, rustic scenes with open fields and dramatic landscapes.</p>
       </div>
     </div>
@@ -142,23 +143,23 @@
 
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Plan Your Shoot Early</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Plan Your Shoot Early</strong></h3>
         <p class="card-white-text">Secure dates, locations, and lighting conditions well in advance.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Be Natural &amp; Relax</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Be Natural &amp; Relax</strong></h3>
         <p class="card-white-text">Genuine emotions create beautiful photos that stand the test of time.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Rest &amp; Stay Hydrated</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Rest &amp; Stay Hydrated</strong></h3>
         <p class="card-white-text">Fresh, energetic appearance makes a world of difference in photos.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Share Your Ideas</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Share Your Ideas</strong></h3>
         <p class="card-white-text">Discuss concepts with your photographer for personalized results.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title"><strong>Choose the Perfect Location</strong></h4>
+        <h3 class="card-white-title lvl-h4"><strong>Choose the Perfect Location</strong></h3>
         <p class="card-white-text">Enhance photos with beautiful backdrops that suit your theme.</p>
       </div>
     </div>
@@ -175,23 +176,23 @@
 
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Color Selection</h4>
+        <h3 class="card-white-title lvl-h4">Color Selection</h3>
         <p class="card-white-text">Soft pastels, neutral tones, earthy shades work in natural light.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Dress Code</h4>
+        <h3 class="card-white-title lvl-h4">Dress Code</h3>
         <p class="card-white-text">Comfortable clothing reflecting personality and confidence.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Accessories</h4>
+        <h3 class="card-white-title lvl-h4">Accessories</h3>
         <p class="card-white-text">Minimal jewelry and subtle details that complement the look.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Hair &amp; Makeup</h4>
+        <h3 class="card-white-title lvl-h4">Hair &amp; Makeup</h3>
         <p class="card-white-text">Soft, natural look maintaining freshness throughout the shoot.</p>
       </div>
       <div class="card-white card-white-padded-sm">
-        <h4 class="card-white-title">Props</h4>
+        <h3 class="card-white-title lvl-h4">Props</h3>
         <p class="card-white-text">Flowers, bicycles, books, or meaningful items for creativity.</p>
       </div>
     </div>
@@ -209,19 +210,19 @@
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"Amazing experience! The team was great and we had comfortable beautiful photos."</p>
-        <h4 class="card-white-title article-heading-gap"><strong>Riya &amp; Kunal</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>Riya &amp; Kunal</strong></h3>
       </div>
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"Highly professional photographers with innovative ideas. Our pre wedding album turned out beyond our expectations."</p>
-        <h4 class="card-white-title article-heading-gap"><strong>Sneha &amp; Akash</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>Sneha &amp; Akash</strong></h3>
       </div>
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"Absolutely loved the cinematic style and all of the candid moments that were taken so perfectly."</p>
-        <h4 class="card-white-title article-heading-gap"><strong>Pooja &amp; Rahul</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>Pooja &amp; Rahul</strong></h3>
       </div>
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"The team was friendly, patient, and creative. They captured our natural chemistry beautifully."</p>
-        <h4 class="card-white-title article-heading-gap"><strong>Rohan &amp; Sneha</strong></h4>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>Rohan &amp; Sneha</strong></h3>
       </div>
     </div>
   </div>
@@ -263,7 +264,7 @@
       </div>
     </div>
 
-    <p class="article-text article-text-gap">The number of shoots ranges from 2 hours to a full day, depending on your package and number of locations.</p>
+    <p class="article-text article-text-gap">Our pre wedding packages start from Rs 14,999. The number of shoots ranges from 2 hours to a full day, depending on your package and number of locations.</p>
   </div>
 </section>
 
@@ -279,7 +280,7 @@
       ['What\'s the best place for a pre-wedding shoot in Ahilyanagar?',
        'Famous options are Sina River Bank, Anand Dham Garden, heritage streets and picturesque rural locations. We assist you to identify the best venue for your theme.'],
       ['What is the cost of pre wedding shoot in Ahilyanagar?',
-       'Prices are dependent on the length of shoot, where we\'ll be shooting and what style &amp; packages you\'re after. We offer flexible pricing options.'],
+       'Our pre wedding packages start from Rs 14,999. The final price depends on the length of the shoot, where we\'ll be shooting and what style &amp; packages you\'re after. We offer flexible pricing options.'],
       ['Do you assist with poses and wardrobe?',
        'Yes, we offer full posing guidance, help with outfit choices and styling to ensure that everything looks its best.'],
       ['How many images do we get?',
@@ -320,7 +321,7 @@
           </div>
           <a href="https://thebridal.photography/" class="enquire-contact-link" target="_blank" rel="noopener">https://thebridal.photography/</a>
         </div>
-        <p class="enquire-contact-text">Inquiry today by visiting our official website to know more.</p>
+        <p class="enquire-contact-text">Contact us today to book.</p>
         <a href="tel:+918390367637" class="btn btn-gold pkg-card-btn">Book a Free Consultation Call</a>
       </div>
 

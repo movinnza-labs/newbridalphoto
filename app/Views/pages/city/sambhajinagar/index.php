@@ -27,15 +27,15 @@
   <div class="container">
     <div class="grid-3 grid-gap">
       <a href="<?= base_url('/chhatrapati-sambhajinagar/wedding-photographers/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/mumbai-wedding-card.webp') ?>" alt="Wedding Photography Sambhajinagar" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/mumbai-wedding-card.webp') ?>" width="1024" height="683" alt="Wedding Photography Sambhajinagar" loading="lazy" class="mumbai-service-img">
         <h2 class="mumbai-service-title">Wedding Photographers in Chhatrapati Sambhajinagar</h2>
       </a>
       <a href="<?= base_url('/chhatrapati-sambhajinagar/engagement-photographers/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/engage-card-gold.webp') ?>" alt="Engagement Photography Sambhajinagar" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/engage-card-gold.webp') ?>" width="1024" height="1024" alt="Engagement Photography Sambhajinagar" loading="lazy" class="mumbai-service-img">
         <h2 class="mumbai-service-title">Engagement Photographers in Chhatrapati Sambhajinagar</h2>
       </a>
       <a href="<?= base_url('/chhatrapati-sambhajinagar/pre-wedding-shoot/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/mumbai-prewedding-card.webp') ?>" alt="Pre-Wedding Shoot Sambhajinagar" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/mumbai-prewedding-card.webp') ?>" width="1024" height="683" alt="Pre-Wedding Shoot Sambhajinagar" loading="lazy" class="mumbai-service-img">
         <h2 class="mumbai-service-title">Pre-Wedding Shoot at Chhatrapati Sambhajinagar</h2>
       </a>
     </div>
@@ -50,7 +50,7 @@
       <h2 class="section-title">Photographers in <em>Sambhajinagar</em></h2>
       <p class="section-sub">A photoshoot is not only about taking pictures, but it is also about keeping memories, moments and milestones that will last a lifetime. The Bridal Photography takes professionalism, creativity, and local insights to all the photoshoots in Chhatrapati Sambhajinagar.</p>
       <p class="section-sub section-sub-gap">Whether it is a large wedding or a small affair, a company event, our crew can give you the best visuals of your story that can be remembered and are elegant at the same time.</p>
-      <p class="section-sub section-sub-gap">The city has amazing backgrounds to any form of photography with the rich heritage of Sambhajinagar, architectural beauty, and changing urban scenery. Our photographers in Sambhajinagar are aware of how to incorporate these elements in your frames in a seamless manner.</p>
+      <p class="section-sub section-sub-gap">Chhatrapati Sambhajinagar, also known as Sambhaji Nagar and Aurangabad, has amazing backgrounds for any form of photography, with its rich heritage, architectural beauty and changing urban scenery. Our photographers in Sambhajinagar are aware of how to incorporate these elements in your frames in a seamless manner.</p>
     </div>
   </div>
 </section>
@@ -128,7 +128,7 @@
 
     <div class="card-white card-white-padded mumbai-office-card">
       <h3 class="card-white-heading-lg"><strong>Engagement Photographers in Chhatrapati Sambhajinagar</strong></h3>
-      <p class="article-text">Relationships are the start of a new life. The photoshoot in Sambhajinagar in Chhatrapati Sambhajinagar specialize in the happiness, excitement, and romance between couples.</p>
+      <p class="article-text">Relationships are the start of a new life. Our engagement photoshoots in Chhatrapati Sambhajinagar focus on the happiness, excitement, and romance between couples.</p>
       <h4 class="card-white-title article-heading-gap"><strong>Our coverage includes:</strong></h4>
       <ul class="pkg-detail-list mumbai-list-gap">
         <li>Ring ceremony highlights</li>
@@ -239,7 +239,7 @@
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
       <h2 class="section-title">Book Now or <em>Enquire</em></h2>
-      <p class="section-sub">Ready to capture your love story? Contact us today to book your photoshoot in Chhatrapati Sambhajinagar or for any inquires.</p>
+      <p class="section-sub">Ready to capture your love story? Contact us today to book your photoshoot in Chhatrapati Sambhajinagar or for any enquiries.</p>
     </div>
     <div class="contact-layout">
       <div class="enquire-contact-card">
@@ -251,7 +251,7 @@
           <div class="enquire-contact-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg></div>
           <a href="mailto:thebridal11@gmail.com" class="enquire-contact-link">thebridal11@gmail.com</a>
         </div>
-        <p class="enquire-contact-text">Inquiry today by visiting our official website to know more.</p>
+        <p class="enquire-contact-text">Contact us today to book.</p>
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold pkg-card-btn">Book a Free Consultation Call</a>
       </div>
       <div class="enquire-form-card">

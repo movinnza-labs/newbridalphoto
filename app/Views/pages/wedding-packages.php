@@ -55,7 +55,7 @@
 
     <!-- Gold Package -->
     <div class="card-white" style="padding:2.5rem;margin-bottom:2.5rem;">
-      <h4 style="font-family:var(--font-serif);font-size:1.6rem;color:var(--text-primary);margin-bottom:.5rem;">Traditional Wedding Photography Package</h4>
+      <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.6rem;color:var(--text-primary);margin-bottom:.5rem;">Traditional Wedding Photography Package</h3>
       <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;margin-bottom:1.5rem;">This package is perfect for couples who want traditional type of coverage. This package covers all moments through a professional camera and video cam so that nothing is left out.</p>
       <ul class="pkg-detail-list">
         <li>Traditional Photography</li>
@@ -69,7 +69,7 @@
 
     <!-- Platinum Package -->
     <div class="card-white" style="padding:2.5rem;margin-bottom:2.5rem;">
-      <h4 style="font-family:var(--font-serif);font-size:1.6rem;color:var(--text-primary);margin-bottom:.5rem;">Candid Wedding Photography Package</h4>
+      <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.6rem;color:var(--text-primary);margin-bottom:.5rem;">Candid Wedding Photography Package</h3>
       <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;margin-bottom:1.5rem;">This is the most preferred one. This package comes with extensive coverage with add-ons. This package is ideal for couples who wish to have detailed and candid photoshoots for their wedding process.</p>
       <ul class="pkg-detail-list">
         <li>Candid Photography</li>
@@ -84,7 +84,7 @@
 
     <!-- Diamond Package -->
     <div class="card-white" style="padding:2.5rem;margin-bottom:2.5rem;">
-      <h4 style="font-family:var(--font-serif);font-size:1.6rem;color:var(--text-primary);margin-bottom:.5rem;">Cinematic &amp; Candid Wedding Photography Package</h4>
+      <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.6rem;color:var(--text-primary);margin-bottom:.5rem;">Cinematic &amp; Candid Wedding Photography Package</h3>
       <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;margin-bottom:1.5rem;">The ultimate experience for couples desiring an all-inclusive, luxurious photography service. This package offers exceptional coverage and exclusive features.</p>
       <ul class="pkg-detail-list">
         <li>Cinematic Wedding Films</li>
@@ -109,7 +109,7 @@
     </div>
     <div class="pkg-grid">
       <div class="pkg-card">
-        <img src="<?= base_url('assets/images/wedding-card-gold.webp') ?>" alt="Wedding Photography Packages" loading="lazy" style="width:100%;margin-bottom:1.2rem;">
+        <img src="<?= base_url('assets/images/wedding-card-gold.webp') ?>" width="1024" height="1024" alt="Wedding Photography Packages" loading="lazy" style="width:100%;margin-bottom:1.2rem;">
         <p class="pkg-tier">Traditional</p>
         <h3 class="pkg-name">Gold</h3>
         <div class="pkg-price">Rs. 35,000/-</div>
@@ -124,7 +124,7 @@
       </div>
       <div class="pkg-card featured">
         <div class="pkg-badge">Most Popular</div>
-        <img src="<?= base_url('assets/images/wedding-card-platinum.webp') ?>" alt="Wedding Photography Packages" loading="lazy" style="width:100%;margin-bottom:1.2rem;">
+        <img src="<?= base_url('assets/images/wedding-card-platinum.webp') ?>" width="1024" height="1024" alt="Wedding Photography Packages" loading="lazy" style="width:100%;margin-bottom:1.2rem;">
         <p class="pkg-tier">Candid + Traditional</p>
         <h3 class="pkg-name">Platinum</h3>
         <div class="pkg-price">Rs. 55,000/-</div>
@@ -139,7 +139,7 @@
         <a href="https://wa.me/918390367637" class="btn btn-gold" style="display:block;text-align:center;" target="_blank" rel="noopener">Choose Plan</a>
       </div>
       <div class="pkg-card">
-        <img src="<?= base_url('assets/images/wedding-card-diamond.webp') ?>" alt="Wedding Photography Packages" loading="lazy" style="width:100%;margin-bottom:1.2rem;">
+        <img src="<?= base_url('assets/images/wedding-card-diamond.webp') ?>" width="1024" height="1024" alt="Wedding Photography Packages" loading="lazy" style="width:100%;margin-bottom:1.2rem;">
         <p class="pkg-tier">Cinematic + Candid</p>
         <h3 class="pkg-name">Diamond</h3>
         <div class="pkg-price">Rs. 75,000/-</div>
@@ -164,24 +164,24 @@
     <div class="section-head">
       <p class="eyebrow" style="margin-bottom:.7rem;">Customize Your Package</p>
       <div class="rule-center" style="margin-bottom:1.4rem;"></div>
-      <h3 class="section-title">Additional Services<br><em>and Options</em></h3>
+      <h2 class="section-title lvl-h3">Additional Services<br><em>and Options</em></h2>
     </div>
 
     <div class="grid-2" style="gap:1.5rem;">
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Per Day Shoot</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Per Day Shoot</h3>
         <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">The day shoot begins at the groom's or bride's house and concludes at the wedding venue. This package doesn't include home entry shoots. You can add that service for an additional fee of Rs 5,000.</p>
       </div>
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Couple Portrait Sessions</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Couple Portrait Sessions</h3>
         <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">Couple portrait sessions are an essential part of capturing your wedding. We recommend allowing at least 20 minutes for these sessions after each outfit change to achieve the best results.</p>
       </div>
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Wedding Albums</h4>
-        <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">We offer beautifully crafted wedding albums at Rs 400 per page. One album of 30 pages (containing approximately 250 photos) costs around Rs 13,200.</p>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Wedding Albums</h3>
+        <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">We offer beautifully crafted wedding albums at Rs 400 per page. One album of 30 pages (containing approximately 250 photos) costs Rs 12,000 (30 pages x Rs 400).</p>
       </div>
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Additional Services</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Additional Services</h3>
         <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">Additional costs apply for services such as an extra photographer (₹7,000), videographer (₹7,000), drone coverage (₹6,000), and same-day editing (₹7,000).</p>
       </div>
     </div>
@@ -198,24 +198,24 @@
     <div class="section-head">
       <p class="eyebrow" style="margin-bottom:.7rem;">Why Choose Us</p>
       <div class="rule-center" style="margin-bottom:1.4rem;"></div>
-      <h3 class="section-title">Why Choose<br><em>"The Bridal Photography"</em></h3>
+      <h2 class="section-title lvl-h3">Why Choose<br><em>"The Bridal Photography"</em></h2>
     </div>
 
     <div class="feature-row" style="margin-bottom:2rem;">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/wedding-story.webp') ?>" alt="prajwal-and-chanchal-for-wedding-story" loading="lazy" style="width:100%;height:auto;">
+        <img src="<?= base_url('assets/images/wedding-story.webp') ?>" width="900" height="600" alt="prajwal-and-chanchal-for-wedding-story" loading="lazy" style="width:100%;height:auto;">
       </div>
       <div>
         <div style="margin-bottom:1.2rem;">
-          <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.4rem;">Experienced Professionals</h4>
+          <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.4rem;">Experienced Professionals</h3>
           <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">Our team comprises dedicated and qualified photographers who have more than 10-years experience. Weddings come in different sizes and styles and we have the capability to capture all of them.</p>
         </div>
         <div style="margin-bottom:1.2rem;">
-          <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.4rem;">Customized Approach</h4>
+          <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.4rem;">Customized Approach</h3>
           <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">We focus on creating services that will address your needs as they correspond to your ideas and expectations. We try our best so that you get the best wedding photos which define your personality and your story.</p>
         </div>
         <div style="margin-bottom:1.2rem;">
-          <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.4rem;">Exceptional Quality</h4>
+          <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.4rem;">Exceptional Quality</h3>
           <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">With modern techniques and state of the art equipment, our pictures are clear, and prints as sharp as your fond memories would like it.</p>
         </div>
       </div>
@@ -223,15 +223,15 @@
 
     <div class="grid-3" style="gap:1.5rem;">
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Top-Rated in Pune</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Top-Rated in Pune</h3>
         <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">We are the leading Wedding photographers in Pune having 5-star ratings in Google.</p>
       </div>
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">On-Time Delivery</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">On-Time Delivery</h3>
         <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">We have our own experienced staff to make sure the task you assign to us is completed as scheduled.</p>
       </div>
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Affordable Packages</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Affordable Packages</h3>
         <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">Wedding photography services at our company are very affordable and we do not charge any other extra fees.</p>
       </div>
     </div>
@@ -252,7 +252,7 @@
       <div class="card-white" style="padding:2rem;">
         <h3 style="font-family:var(--font-serif);font-size:1.4rem;color:var(--text-primary);margin-bottom:.5rem;">Photos</h3>
         <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--gold);margin-bottom:1rem;">250 Images</h4>
-        <img src="<?= base_url('assets/images/wedding-shoot.webp') ?>" alt="Bride and groom close together during wedding rituals in Pune" loading="lazy" style="width:100%;margin-bottom:1rem;">
+        <img src="<?= base_url('assets/images/wedding-shoot.webp') ?>" width="1024" height="683" alt="Bride and groom close together during wedding rituals in Pune" loading="lazy" style="width:100%;margin-bottom:1rem;">
         <ul class="pkg-detail-list">
           <li>All Photos high resolution edited images 250 Photos Number of edited images depends on event.</li>
           <li>Images will be delivered through a cloud based password-protected online gallery which will be active for <strong>07 Days.</strong></li>
@@ -269,7 +269,7 @@
           <li>3 to 4 minute cinematic film</li>
           <li>Traditional film depend on event and rituals</li>
           <li><strong>DELIVERY TIMELINE: Edited videos 25 days</strong></li>
-          <li><strong>REVISIONS NA Wedding Teaser &amp; Films within month &ndash; REVISIONS &ndash; 1 Round within 7 Days of Delivery</strong></li>
+          <li><strong>Revisions: 1 round within 7 days of delivery</strong></li>
         </ul>
       </div>
 
@@ -296,32 +296,32 @@
     <div class="section-head">
       <p class="eyebrow" style="margin-bottom:.7rem;">Planning Guide</p>
       <div class="rule-center" style="margin-bottom:1.4rem;"></div>
-      <h3 class="section-title">Key Considerations for<br><em>Your Wedding Photography</em></h3>
+      <h2 class="section-title lvl-h3">Key Considerations for<br><em>Your Wedding Photography</em></h2>
     </div>
 
     <div class="grid-3" style="gap:1.5rem;">
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Couple Interest &amp; Time</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Couple Interest &amp; Time</h3>
         <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">There is a need for the couple to devote their time and to have a positive attitude to their photoshoots to get as good results as possible.</p>
       </div>
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Venue &amp; Ambiance</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Venue &amp; Ambiance</h3>
         <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">Choosing the right location for your wedding is not only vital because it determines the overall mood of your wedding but is also very important for creating great looking pictures.</p>
       </div>
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Wedding Decor &amp; Lighting</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Wedding Decor &amp; Lighting</h3>
         <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">Proper wedding decor and proper lighting that has to be set during the wedding sessions is very important for proper photographs shooting.</p>
       </div>
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Attire and Styling</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Attire and Styling</h3>
         <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">Your choice and appearance of your wedding clothes matter in making good photographs for the occasion.</p>
       </div>
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Makeup &amp; Hairstyling</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Makeup &amp; Hairstyling</h3>
         <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">To achieve the best photo output contact professional make up artists and hair stylists.</p>
       </div>
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Family &amp; Guest Involvement</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Family &amp; Guest Involvement</h3>
         <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">It's everyone's duty to capture memorable moments within the family or for their guests. In a way, we aim at covering the couple's close relatives and as many guests as can be managed.</p>
       </div>
     </div>
@@ -332,14 +332,14 @@
 <section class="section section-white">
   <div class="container">
     <div class="maternity-gallery maternity-gallery-3col">
-      <img src="<?= base_url('assets/images/ahily-wed-1.webp') ?>" alt="Wedding photography by The Bridal Photography, photo 1 of 8" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-wed-2.webp') ?>" alt="Wedding photography by The Bridal Photography, photo 2 of 8" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-wed-3.webp') ?>" alt="Wedding photography by The Bridal Photography, photo 3 of 8" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-wed-4.webp') ?>" alt="Wedding photography by The Bridal Photography, photo 4 of 8" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-wed-5.webp') ?>" alt="Wedding photography by The Bridal Photography, photo 5 of 8" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-wed-6.webp') ?>" alt="Wedding photography by The Bridal Photography, photo 6 of 8" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-wed-7.webp') ?>" alt="Wedding photography by The Bridal Photography, photo 7 of 8" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-wed-8.webp') ?>" alt="Wedding photography by The Bridal Photography, photo 8 of 8" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-1.webp') ?>" width="1600" height="2400" alt="Wedding photography by The Bridal Photography, photo 1 of 8" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-2.webp') ?>" width="1600" height="2400" alt="Wedding photography by The Bridal Photography, photo 2 of 8" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-3.webp') ?>" width="683" height="1024" alt="Wedding photography by The Bridal Photography, photo 3 of 8" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-4.webp') ?>" width="1600" height="2400" alt="Wedding photography by The Bridal Photography, photo 4 of 8" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-5.webp') ?>" width="683" height="1024" alt="Wedding photography by The Bridal Photography, photo 5 of 8" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-6.webp') ?>" width="1600" height="2400" alt="Wedding photography by The Bridal Photography, photo 6 of 8" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-7.webp') ?>" width="1600" height="2400" alt="Wedding photography by The Bridal Photography, photo 7 of 8" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-8.webp') ?>" width="1600" height="2400" alt="Wedding photography by The Bridal Photography, photo 8 of 8" loading="lazy" class="maternity-gallery-img">
     </div>
   </div>
 </section>
@@ -353,15 +353,15 @@
     </div>
     <div class="grid-3" style="gap:1.5rem;">
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Lighting</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Lighting</h3>
         <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">Depending on the venue's lighting and ambiance, we use flashlights, camera lights (AD-200, AD-400), and video lights for optimal results.</p>
       </div>
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Cameras</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Cameras</h3>
         <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">We use the latest full-frame cameras, including Sony A7M3, A7M4, A7S3, and Canon models.</p>
       </div>
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Lenses</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.5rem;">Lenses</h3>
         <p style="font-size:.9rem;color:var(--text-muted);line-height:1.7;">Our extensive lens collection includes the G-Master series (85mm, 50mm, 35mm, 24mm, and 24-70mm).</p>
       </div>
     </div>
@@ -377,7 +377,7 @@
     </div>
     <div class="grid-2" style="gap:1.5rem;">
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.8rem;">Dates</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.8rem;">Dates</h3>
         <ul class="pkg-detail-list">
           <li>This proposal is valid for 30 days</li>
           <li>The dates are not confirmed and subject to our availability which may change without prior notice.</li>
@@ -385,23 +385,23 @@
         </ul>
       </div>
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.8rem;">Travel, Food &amp; Accommodation</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.8rem;">Travel, Food &amp; Accommodation</h3>
         <ul class="pkg-detail-list">
           <li>For events outside Pune, air travel, local transport.</li>
           <li>Accommodation will be arranged by client or charged as per actuals. For outstation as well as Mumbai events, the crew eats with guests or a per diem, per meal will be charged for each crew member</li>
         </ul>
       </div>
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.8rem;">Copyrights</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.8rem;">Copyrights</h3>
         <ul class="pkg-detail-list">
           <li>The Bridal Photography reserves the right to all photographs and film content.</li>
           <li>We may use a part of the content on our social media/website to promote our work A non-disclosure agreement can be signed to restrict the usage of photos or videos by paying an additional 20% fee.</li>
         </ul>
       </div>
       <div class="card-white" style="padding:1.6rem;">
-        <h4 style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.8rem;">Drones</h4>
+        <h3 class="lvl-h4" style="font-family:var(--font-serif);font-size:1.1rem;color:var(--text-primary);margin-bottom:.8rem;">Drones</h3>
         <ul class="pkg-detail-list">
-          <li>Drones are subject to DCGA &amp; government regulations.</li>
+          <li>Drones are subject to DGCA &amp; government regulations.</li>
           <li>The client has the responsibility of obtaining permissions to fly drone from the event venue and local authorities</li>
         </ul>
       </div>

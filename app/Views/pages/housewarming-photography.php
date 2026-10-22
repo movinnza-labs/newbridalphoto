@@ -10,7 +10,7 @@
     <div class="page-hero-content-inner">
       <p class="eyebrow page-hero-eyebrow">Housewarming Photography &middot; Pune</p>
       <div class="page-hero-rule"></div>
-      <h1>Housewarming Ceremony Photography Services<br><em>in Pune</em></h1>
+      <h1>Housewarming Photography<br><em>in Pune</em></h1>
       <p class="page-hero-sub">A new beginning of life in a new house is always a happy occasion or cherishing moments in anyone's life and hence taking photos is very crucial.</p>
       <div class="page-hero-buttons">
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Now</a>
@@ -27,12 +27,12 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Housewarming Ceremony Photography Services<br><em>in Pune</em></h2>
-      <p class="section-sub">A new beginning of life in a new house is always a happy occasion or cherishing moments in anyone's life and hence taking photos is very crucial. At Bridal Photography, we focus on housewarming ceremony photography which gives me a chance to capture every moment. It does not matter if you are performing a housewarming puja or if you are having a housewarming get together party, our house warming photography solutions are flexible to your occasion.</p>
+      <h2 class="section-title">Capturing Your<br><em>New Beginning</em></h2>
+      <p class="section-sub">A new beginning of life in a new house is always a happy occasion or cherishing moments in anyone's life and hence taking photos is very crucial. At Bridal Photography, we focus on housewarming ceremony photography which gives us a chance to capture every moment. It does not matter if you are performing a housewarming puja or if you are having a housewarming get together party, our house warming photography solutions are flexible to your occasion.</p>
     </div>
 
     <div class="article-img-center">
-      <img src="<?= base_url('assets/images/housewarming-hero.webp') ?>" alt="Home with a view over the lake and hills" loading="lazy" class="article-img">
+      <img src="<?= base_url('assets/images/housewarming-hero.webp') ?>" width="303" height="166" alt="Home with a view over the lake and hills" loading="lazy" class="article-img">
     </div>
   </div>
 </section>
@@ -63,7 +63,7 @@
       </div>
       <div class="card-white card-white-padded-sm">
         <h3 class="card-white-title">Portfolio</h3>
-        <p class="card-white-text">It is very important to review the work that a photographer has done before. In our portfolio section you will find housewarming ceremonies that we have coordinated varying in size, from a close-knit family and a larger traditional party therefore will be able to tell the extent of my specialization and your preference.</p>
+        <p class="card-white-text">It is very important to review the work that a photographer has done before. In our portfolio section you will find housewarming ceremonies that we have coordinated varying in size, from a close-knit family and a larger traditional party so you can see the kind of work we do and decide what you prefer.</p>
       </div>
       <div class="card-white card-white-padded-sm">
         <h3 class="card-white-title">Personalization</h3>
@@ -116,7 +116,7 @@
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
       <h2 class="section-title">Brief go through about our<br><em>pricing plans</em></h2>
-      <p class="section-sub">For best engagement photographer packages we charge different amounts and we will discuss more on it.</p>
+      <p class="section-sub">The price of housewarming photography depends on the hours of coverage, the number of edited photos and any extras you choose. Call us on +91 83903 67637 and we will share a clear quote for your event.</p>
     </div>
   </div>
 </section>
