@@ -309,7 +309,7 @@
           <a href="https://thebridal.photography/" class="enquire-contact-link" target="_blank" rel="noopener">https://thebridal.photography/</a>
         </div>
 
-        <p class="enquire-contact-text">Inquiry today by visiting our official website to know more.</p>
+        <p class="enquire-contact-text">Contact us today to book.</p>
 
         <a href="tel:+918390367637" class="btn btn-gold pkg-card-btn">Book a Free Consultation Call</a>
       </div>

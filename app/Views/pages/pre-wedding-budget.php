@@ -3,7 +3,7 @@
   <div class="page-hero-bg"></div>
   <div class="page-hero-img">
     <img src="<?= base_url('assets/images/prewedding-couple-outdoor-pune.webp') ?>"
-         alt="Pre Wedding Shoot Under Rs.10000/- in Pune - Thebridal Photography"
+         alt="Pre Wedding Shoot Under Rs.10000/- in Pune - The Bridal Photography"
          width="1920" height="700" loading="eager" fetchpriority="high">
   </div>
   <div class="page-hero-content">
@@ -41,8 +41,8 @@
       <p class="section-sub">A <strong><a href="<?= base_url('/pre-wedding-photography-packages/') ?>" style="color:var(--gold);">Pre-wedding photoshoot in Pune</a></strong> stands as one of the most gorgeous times to capture romantic photographs before marriage ceremonies begin. Noticeably absent are experienced professionals in this affordable service market, especially across Pune’s landscape. Our organization has designed this customized package for Pune’s most budget-friendly premium pre-wedding photographers to run from ₹9,999 so couples avoid spending additional money on memorable keepsakes.</p>
     </div>
     <div class="grid-2" style="gap:1.5rem;margin-top:2rem;">
-      <img src="<?= base_url('assets/images/budget-hero-1.webp') ?>" width="683" height="1024" alt="Pre Wedding Shoot Under Rs.10000/- in Pune - Thebridal Photography" loading="lazy" style="width:100%;height:auto;">
-      <img src="<?= base_url('assets/images/budget-hero-2.webp') ?>" width="683" height="1024" alt="Pre Wedding Shoot Under Rs.10000/- in Pune - Thebridal Photography" loading="lazy" style="width:100%;height:auto;">
+      <img src="<?= base_url('assets/images/budget-hero-1.webp') ?>" width="683" height="1024" alt="Pre Wedding Shoot Under Rs.10000/- in Pune - The Bridal Photography" loading="lazy" style="width:100%;height:auto;">
+      <img src="<?= base_url('assets/images/budget-hero-2.webp') ?>" width="683" height="1024" alt="Pre Wedding Shoot Under Rs.10000/- in Pune - The Bridal Photography" loading="lazy" style="width:100%;height:auto;">
     </div>
   </div>
 </section>
@@ -77,7 +77,7 @@
     <div class="feature-row reverse" style="margin-bottom:3rem;">
       <div class="feature-img-wrap">
         <div style="display:grid;grid-template-columns:1fr 1fr;gap:.5rem;">
-          <img src="<?= base_url('assets/images/budget-edited-1.webp') ?>" width="683" height="1024" alt="Pre Wedding Shoot Under Rs.10000/- in Pune - Thebridal Photography" loading="lazy" style="width:100%;height:auto;">
+          <img src="<?= base_url('assets/images/budget-edited-1.webp') ?>" width="683" height="1024" alt="Pre Wedding Shoot Under Rs.10000/- in Pune - The Bridal Photography" loading="lazy" style="width:100%;height:auto;">
           <img src="<?= base_url('assets/images/budget-edited-2.webp') ?>" width="683" height="1024" alt="Pre Wedding Shoot Under Rs.10000/- in Pune - The Bridal Photography" loading="lazy" style="width:100%;height:auto;">
         </div>
       </div>
@@ -127,7 +127,7 @@
 
     <div class="feature-row" style="margin-bottom:3rem;">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/budget-why-pune.webp') ?>" width="683" height="1024" alt="Pre Wedding Shoot Under Rs.10000/- in Pune - Thebridal Photography" loading="lazy" style="width:100%;height:auto;">
+        <img src="<?= base_url('assets/images/budget-why-pune.webp') ?>" width="683" height="1024" alt="Pre Wedding Shoot Under Rs.10000/- in Pune - The Bridal Photography" loading="lazy" style="width:100%;height:auto;">
       </div>
       <div>
         <p style="font-size:.93rem;color:var(--text-muted);line-height:1.78;margin-bottom:1rem;">Pune's city perfectly blends contemporary development with traditional elements. Pre-wedding images benefit from Pune's mix of heritage sites and natural settings, which allows photographers to create beautiful backgrounds.</p>
@@ -206,7 +206,7 @@
 
     <div class="feature-row" style="margin-bottom:2rem;">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/budget-tips.webp') ?>" width="683" height="1024" alt="Best out of Pre-Wedding Photography Under Rs.10000/- in Pune - Thebridal Photography" loading="lazy" style="width:100%;height:auto;">
+        <img src="<?= base_url('assets/images/budget-tips.webp') ?>" width="683" height="1024" alt="Best out of Pre-Wedding Photography Under Rs.10000/- in Pune - The Bridal Photography" loading="lazy" style="width:100%;height:auto;">
       </div>
       <div>
         <div style="margin-bottom:1.2rem;">
