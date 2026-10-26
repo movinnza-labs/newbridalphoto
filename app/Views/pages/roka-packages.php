@@ -1,9 +1,9 @@
 
-<section class="page-hero">
+<section class="page-hero page-hero-split">
   <div class="page-hero-bg"></div>
   <div class="page-hero-img">
     <img src="<?= base_url('assets/images/roka-001.webp') ?>"
-         alt="Roka Ceremony shoot | Ring ceremony shoot in Pune"
+         alt="Aman and Ria beside their Baat Pakki welcome sign at their Roka ceremony"
          width="1920" height="700" loading="eager" fetchpriority="high">
   </div>
   <div class="page-hero-content">
@@ -11,7 +11,7 @@
       <p class="eyebrow page-hero-eyebrow">Roka &amp; Ring Ceremony Photography &middot; Pune</p>
       <div class="page-hero-rule"></div>
       <h1>Roka and Ring Ceremony Photography<br><em>in Pune</em></h1>
-      <p class="page-hero-sub">Professional Roka Ceremony photoshoot to capture your special moments. Pune's top Roka ceremony Photography Team. Reserve today.</p>
+      <p class="page-hero-sub">Professional Roka Ceremony photoshoot to capture your special moments. Pune's top Roka ceremony photography team. Reserve today.</p>
       <div class="page-hero-buttons">
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Now</a>
         <a href="tel:+918390367637" class="btn btn-white">+91 83903 67637</a>
@@ -27,12 +27,101 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">What Happens at a<br><em>Roka Ceremony?</em></h2>
-      <p class="section-sub">The Roka ceremony, also known as the 'ring ceremony' or 'engagement ceremony,' is a traditional Indian prewedding ritual that marks the official beginning of a couple's journey towards marriage. It is a sacred and auspicious occasion that symbolizes the formal acceptance of the relationship by both families.</p>
+      <h2 class="section-title">What Is a<br><em>Roka Ceremony?</em></h2>
+      <p class="section-sub">The Roka ceremony, also known as the 'ring ceremony' or 'engagement ceremony,' is a traditional Indian pre-wedding ritual that marks the official beginning of a couple's journey towards marriage. It is a sacred and auspicious occasion that symbolizes the formal acceptance of the relationship by both families. In Maharashtrian families the same occasion is celebrated as the Sakharpuda, and we photograph Roka, Sakharpuda and ring ceremonies across Pune.</p>
       <p class="section-sub section-sub-gap">At its core, the Roka ceremony is a symbolic exchange of rings or other tokens between the bride and groom, signifying their commitment to one another. This exchange is typically accompanied by the recitation of sacred mantras and the performance of rituals that seek blessings from the divine for a prosperous and fulfilling married life.</p>
       <p class="section-sub section-sub-gap">On the day, the two families meet, often at one family's home or at a small venue. Elders bless the couple, gifts and sweets are exchanged between the families, and in many families the couple also exchange rings. It usually ends with a meal that both families share.</p>
       <p class="section-sub section-sub-gap">We photograph the whole event: the families arriving and greeting each other, the decor, the rituals and blessings, the ring exchange, candid moments with guests, and posed portraits of the couple and both families.</p>
-      <p class="section-sub section-sub-gap">While the specific rituals and customs associated with the Roka ceremony may vary across different regions and communities, some common elements include:</p>
+    </div>
+  </div>
+</section>
+
+<!-- Roka Packages and Prices -->
+<section class="section section-off" id="packages">
+  <div class="container">
+    <div class="section-head">
+      <p class="eyebrow section-head-eyebrow">Packages</p>
+      <div class="rule-center section-head-rule"></div>
+      <h2 class="section-title">Roka Photography<br><em>Packages and Prices</em></h2>
+      <p class="section-sub">Our <a href="<?= base_url('/engagement-photography-packages/') ?>" class="article-link">engagement photography packages</a> cover Roka, Sakharpuda and ring ceremonies in Pune. Pick the coverage that suits your event.</p>
+    </div>
+    <div class="pkg-grid">
+      <div class="pkg-card">
+        <p class="pkg-tier">Classic</p>
+        <h3 class="pkg-name">Gold</h3>
+        <div class="pkg-price">₹7,000</div>
+        <p class="pkg-period">Per event</p>
+        <ul class="pkg-features">
+          <li>Traditional Photography</li>
+          <li>3-hour session</li>
+          <li>All Photos Edited</li>
+          <li>7 Days Drive Link</li>
+        </ul>
+        <a href="https://wa.me/918390367637" class="btn btn-outline-dark pkg-card-btn" target="_blank" rel="noopener">Choose Plan</a>
+      </div>
+      <div class="pkg-card featured">
+        <div class="pkg-badge">Most Popular</div>
+        <p class="pkg-tier">Candid + Traditional</p>
+        <h3 class="pkg-name">Platinum</h3>
+        <div class="pkg-price">₹22,000</div>
+        <p class="pkg-period">Per event</p>
+        <ul class="pkg-features">
+          <li>4-hour session</li>
+          <li>Candid Photography</li>
+          <li>Traditional Photography</li>
+          <li>Traditional Videography</li>
+          <li>All Photos &amp; Videos Edited</li>
+          <li>7 Days Drive Link</li>
+        </ul>
+        <a href="https://wa.me/918390367637" class="btn btn-gold pkg-card-btn" target="_blank" rel="noopener">Choose Plan</a>
+      </div>
+      <div class="pkg-card">
+        <p class="pkg-tier">Cinematic + Candid</p>
+        <h3 class="pkg-name">Diamond</h3>
+        <div class="pkg-price">₹35,000</div>
+        <p class="pkg-period">Per event</p>
+        <ul class="pkg-features">
+          <li>4-hour session</li>
+          <li>Cinematic 3-min Song</li>
+          <li>Candid Photography</li>
+          <li>Traditional Photography</li>
+          <li>Traditional Videography</li>
+          <li>45 Professionally Edited Photos</li>
+          <li>All Photos &amp; Videos Edited</li>
+          <li>7 Days Drive Link</li>
+        </ul>
+        <a href="https://wa.me/918390367637" class="btn btn-outline-dark pkg-card-btn" target="_blank" rel="noopener">Choose Plan</a>
+      </div>
+    </div>
+    <p class="packages-terms-note">Booking amount 20% and final payment - balance 80% on or before event. Extra hours are available at an hourly rate. See full details on our <a href="<?= base_url('/engagement-photography-packages/') ?>" class="article-link">engagement photography packages</a> page.</p>
+  </div>
+</section>
+
+<!-- Why Choose Us -->
+<section class="section section-white">
+  <div class="container">
+    <div class="section-head">
+      <p class="eyebrow section-head-eyebrow">Why Choose Us</p>
+      <div class="rule-center section-head-rule"></div>
+      <h2 class="section-title">Why Choose Us for Your<br><em>Roka or Sakharpuda</em></h2>
+    </div>
+    <div class="grid-2 grid-gap">
+      <div class="card-white card-white-padded-sm">
+        <h3 class="card-white-title lvl-h4">Candid and Traditional Together</h3>
+        <p class="card-white-text">Our Platinum and Diamond packages combine candid and traditional photography, so you get real emotions as well as family group portraits.</p>
+      </div>
+      <div class="card-white card-white-padded-sm">
+        <h3 class="card-white-title lvl-h4">Clear Prices</h3>
+        <p class="card-white-text">Packages start at ₹7,000, with every photo edited and a 7-day drive link to download your full gallery.</p>
+      </div>
+      <div class="card-white card-white-padded-sm">
+        <h3 class="card-white-title lvl-h4">Professional Equipment</h3>
+        <p class="card-white-text">We shoot on full-frame Sony A7M3, A7M4 and A7S3 cameras with G-Master lenses, and bring our own flash and video lights for indoor venues.</p>
+      </div>
+      <div class="card-white card-white-padded-sm">
+        <h3 class="card-white-title lvl-h4">On-Time Delivery</h3>
+        <p class="card-white-text">Edited photos are delivered within 15 days and edited videos within 25 days.</p>
+      </div>
     </div>
   </div>
 </section>
@@ -42,13 +131,18 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Auspicious Date and<br><em>Time Selection:</em></h2>
-      <p class="section-sub">The date and time for the ceremony are carefully chosen based on astrological calculations to ensure an auspicious start to the couple's journey.</p>
+      <h2 class="section-title">What Happens at a<br><em>Roka Ceremony?</em></h2>
+      <p class="section-sub">While the specific rituals and customs associated with the Roka ceremony may vary across different regions and communities, some common elements include the following.</p>
+    </div>
+
+    <div class="article-content-block">
+      <h3 class="article-heading">Auspicious Date and Time Selection</h3>
+      <p class="article-text">The date and time for the ceremony are carefully chosen based on astrological calculations to ensure an auspicious start to the couple's journey.</p>
     </div>
 
     <div class="feature-row feature-row-natural">
       <div>
-        <h2 class="article-heading">Inviting Guests:</h2>
+        <h3 class="article-heading">Inviting Guests</h3>
         <p class="article-text">Close family members and friends are invited to witness and participate in the ceremony, creating a sense of community and shared joy.</p>
       </div>
       <div class="feature-img-wrap">
@@ -58,9 +152,9 @@
 
     <div class="feature-row reverse feature-row-natural">
       <div>
-        <h3 class="article-heading">Decorations and Preparations:</h3>
+        <h3 class="article-heading">Decorations and Preparations</h3>
         <p class="article-text">The venue is adorned with beautiful decorations, and traditional items like coconuts, flowers, and sacred threads are prepared for the rituals.</p>
-        <h3 class="article-heading article-heading-gap">Ritual Offerings:</h3>
+        <h3 class="article-heading article-heading-gap">Ritual Offerings</h3>
         <p class="article-text">Offerings are made to deities, seeking their blessings and protection for the couple's future.</p>
       </div>
       <div class="feature-img-wrap">
@@ -70,9 +164,9 @@
 
     <div class="feature-row feature-row-natural">
       <div>
-        <h3 class="article-heading">Exchange of Rings or Tokens:</h3>
+        <h3 class="article-heading">Exchange of Rings or Tokens</h3>
         <p class="article-text">The highlight of the ceremony is the exchange of rings or other symbolic tokens between the bride and groom, representing their commitment and love.</p>
-        <h4 class="article-heading article-heading-gap">Mantras and Blessings:</h4>
+        <h3 class="article-heading article-heading-gap">Mantras and Blessings</h3>
         <p class="article-text">Sacred mantras are chanted, and elders from both families bestow their blessings upon the couple, wishing them a lifetime of happiness and prosperity.</p>
       </div>
       <div class="feature-img-wrap">
@@ -82,7 +176,7 @@
 
     <div class="feature-row reverse feature-row-natural">
       <div>
-        <h4 class="article-heading">Feasting and Celebrations:</h4>
+        <h3 class="article-heading">Feasting and Celebrations</h3>
         <p class="article-text">After the ceremony, families and guests come together to celebrate the joyous occasion with delicious feasts, music, and dance.</p>
         <p class="article-text article-text-gap">The Roka ceremony is not just a mere tradition; it is a cherished and deeply meaningful event that sets the stage for the couple's journey towards marriage. It is a time for families to come together, share in the joy, and celebrate the union of two souls embarking on a new chapter of life together.</p>
       </div>
@@ -103,12 +197,12 @@
 
     <p class="article-text">The Roka ceremony marks the official beginning of a couple's journey towards marriage in Indian culture. This auspicious occasion is a cherished moment that deserves to be captured and preserved through the art of photography. Roka ceremony photography holds immense significance as it allows couples and their families to relive the joy, emotions, and traditions that unfold during this pre-wedding event.</p>
 
-    <h3 class="article-heading-sm lvl-h5">Preserving Precious Moments:</h3>
+    <h3 class="article-heading-sm lvl-h5">Preserving Precious Moments</h3>
     <p class="article-text">The Roka ceremony is a whirlwind of emotions, from the excitement of the couple to the pride and happiness of their families. Professional photography ensures that these fleeting moments are frozen in time, allowing you to savor the memories for years to come. Each candid smile, embrace, and ritual is captured, creating a visual narrative that encapsulates the essence of this special day.</p>
 
     <div class="feature-row feature-row-natural">
       <div>
-        <h3 class="article-heading-sm lvl-h5">Capturing Emotions:</h3>
+        <h3 class="article-heading-sm lvl-h5">Capturing Emotions</h3>
         <p class="article-text">The Roka ceremony is a deeply emotional occasion, with a blend of joy, nervousness, and anticipation. A skilled photographer has the ability to capture the raw emotions and genuine expressions of the couple and their loved ones. These candid shots are priceless, as they authentically portray the feelings that words often fail to express.</p>
       </div>
       <div class="feature-img-wrap">
@@ -116,10 +210,10 @@
       </div>
     </div>
 
-    <h3 class="article-heading-sm article-heading-gap lvl-h5">Creating Lasting Memories:</h3>
+    <h3 class="article-heading-sm article-heading-gap lvl-h5">Creating Lasting Memories</h3>
     <p class="article-text">As the years pass, memories can fade, but photographs remain as tangible reminders of the cherished moments. Roka ceremony photography creates a visual legacy that can be passed down through generations, allowing future family members to witness and appreciate the rich cultural traditions and the love that brought the couple together.</p>
 
-    <h4 class="article-heading-sm lvl-h6">Significance in Indian Culture:</h4>
+    <h3 class="article-heading-sm lvl-h5">Significance in Indian Culture</h3>
     <p class="article-text">The Roka ceremony holds profound cultural and traditional significance in Indian society. It is a symbolic representation of the union between two families and the beginning of a new chapter in the couple's life. Professional photography not only captures the rituals and customs but also preserves the essence of this deeply rooted tradition for future generations.</p>
     <p class="article-text section-sub-gap">By investing in professional Roka ceremony photography, couples and their families can immortalize the magic of this momentous occasion, ensuring that the memories remain vivid and cherished for a lifetime.</p>
 
@@ -168,7 +262,7 @@
     </div>
 
     <div class="article-content-block">
-      <p class="article-text"><strong>Outfits and Accessories:</strong> Traditional attire plays a significant role in Roka ceremony photography. Coordinate outfits that complement each other and reflect your cultural heritage. Don't forget to accessorize with jewelry, dupatta, or other traditional elements that add depth and authenticity to the images.</p>
+      <p class="article-text"><strong>Outfits and Accessories:</strong> Traditional attire plays a significant role in Roka ceremony photography. Coordinate outfits that complement each other and reflect your cultural heritage. Don't forget to accessorize with jewelry, a dupatta, or other traditional elements that add depth and authenticity to the images.</p>
     </div>
     <div class="article-content-block">
       <p class="article-text"><strong>Makeup and Grooming:</strong> Professional makeup and grooming services can enhance your natural features and ensure you look your best in the photographs. Opt for makeup styles that complement your outfits and the overall theme of the ceremony.</p>
@@ -202,11 +296,11 @@
       <img src="<?= base_url('assets/images/roka-09.webp') ?>" width="1024" height="683" alt="Candid moment of the groom resting his head close to the bride at their Roka" loading="lazy" class="feature-img-full">
     </div>
 
-    <h3 class="article-heading article-heading-gap lvl-h4">Candid Shots:</h3>
+    <h3 class="article-heading article-heading-gap lvl-h4">Candid Shots</h3>
     <p class="article-text">Candid photography allows the photographer to capture genuine, unscripted moments as they unfold naturally. These shots often convey raw emotions, spontaneity, and authenticity, freezing in time the laughter, tears, and heartfelt interactions between the couple and their loved ones. Candid shots are particularly effective in capturing the atmosphere, ambiance, and energy of the event, providing a sense of being there in the moment.</p>
     <p class="article-text article-text-gap">However, candid photography can be challenging, as it requires the photographer to be constantly alert, anticipating and reacting quickly to fleeting moments. Additionally, some candid shots may not be as visually polished or composed as posed shots, potentially sacrificing technical perfection for authenticity.</p>
 
-    <h3 class="article-heading article-heading-gap lvl-h4">Posed Shots:</h3>
+    <h3 class="article-heading article-heading-gap lvl-h4">Posed Shots</h3>
     <p class="article-text">Posed shots, on the other hand, offer a more controlled and curated approach to photography. These shots are carefully composed and staged, allowing the photographer to capture the couple and their families in a flattering light, with perfect framing, lighting, and expressions. Posed shots are often used for traditional portraits, group shots, and specific cultural rituals or ceremonies.</p>
     <p class="article-text article-text-gap">The advantage of posed shots is their ability to create visually stunning and timeless images that can be treasured for generations. However, they may lack the spontaneity and candid emotions captured in unscripted moments, potentially feeling too staged or contrived.</p>
 
@@ -217,7 +311,7 @@
 
     <div class="feature-row feature-row-natural">
       <div>
-        <h4 class="article-heading lvl-h5">Combining the Best of Both Worlds:</h4>
+        <h3 class="article-heading lvl-h5">Combining the Best of Both Worlds</h3>
         <p class="article-text">The true magic lies in skillfully blending candid and posed shots to create a comprehensive visual narrative of the Roka ceremony. A skilled photographer will seamlessly transition between capturing candid moments and guiding the couple and their families into posed shots, ensuring a diverse collection of images that tell the complete story.</p>
         <p class="article-text article-text-gap">Candid shots will capture the raw emotions, laughter, and intimate moments, while posed shots will provide timeless portraits and traditional shots that can be cherished for years to come. By combining these styles, the photographer can create a well-rounded collection that not only preserves the memories but also showcases the beauty, traditions, and emotions of this significant occasion.</p>
       </div>
@@ -260,8 +354,8 @@
       <p class="section-sub">Hiring a professional photographer for your Roka ceremony can be a significant investment, but it's one that pays off in capturing timeless memories. The cost of Roka ceremony photography services in Pune can vary depending on several factors, but understanding the average costs and what influences pricing can help you plan your budget effectively.</p>
     </div>
 
-    <h3 class="article-heading">Average Costs</h3>
-    <p class="article-text">In Pune, the average cost for Roka ceremony photography services can range from Rs 10,000 to Rs 30,000 or more. This wide range is due to the experience and reputation of the photographer, the number of hours of coverage, the inclusion of additional services like albums or videography, and the overall package offerings.</p>
+    <h3 class="article-heading">What Our Roka Photography Costs</h3>
+    <p class="article-text">Our Roka ceremony photography packages in Pune cost ₹7,000 (Gold), ₹22,000 (Platinum) or ₹35,000 (Diamond). The price depends on the number of hours of coverage, whether you want candid photography and videography, and extras such as albums or a drone. See the <a href="#packages" class="article-link">packages and prices</a> above.</p>
 
     <h3 class="article-heading article-heading-gap">Factors Affecting Pricing</h3>
     <div class="article-content-block">
@@ -319,10 +413,24 @@
       <div class="rule-center section-head-rule"></div>
       <h2 class="section-title">Frequently Asked <em>Questions</em></h2>
     </div>
-    <div class="faq-item"><button class="faq-trigger"><span class="faq-q">How much does Roka ceremony photography cost in Pune?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Roka ceremony photography in Pune usually costs from Rs 10,000 to Rs 30,000 or more. The price depends on the hours of coverage and on extras such as videography or an album. Call us for a quote for your event.</p></div></div>
-    <div class="faq-item"><button class="faq-trigger"><span class="faq-q">What do you photograph at a Roka ceremony?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>We cover the decor, the rituals, the blessings from elders, the exchange of rings or gifts, candid moments with guests, and posed portraits of the couple and both families.</p></div></div>
-    <div class="faq-item"><button class="faq-trigger"><span class="faq-q">Do you take candid or posed photos?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Both. Candid photos capture the real emotions of the day, and posed photos give you traditional portraits and family group shots. We mix the two so you get the complete story.</p></div></div>
-    <div class="faq-item"><button class="faq-trigger"><span class="faq-q">How do I book a Roka ceremony shoot?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Call us on <a href="tel:+918390367637" class="article-link">+91 83903 67637</a>, message us on WhatsApp or use our <a href="<?= base_url('/contact/') ?>" class="article-link">contact form</a>. Share your date, venue and the coverage you need, and we will confirm availability.</p></div></div>
+    <?php $faqs = [
+      ['How much does Roka ceremony photography cost in Pune?',
+       'Our Roka ceremony photography packages in Pune cost ₹7,000 (Gold), ₹22,000 (Platinum) or ₹35,000 (Diamond). The price depends on the hours of coverage and on extras such as videography or an album.'],
+      ['What do you photograph at a Roka ceremony?',
+       'We cover the decor, the rituals, the blessings from elders, the exchange of rings or gifts, candid moments with guests, and posed portraits of the couple and both families.'],
+      ['Do you take candid or posed photos?',
+       'Both. Candid photos capture the real emotions of the day, and posed photos give you traditional portraits and family group shots. We mix the two so you get the complete story.'],
+      ['Do you photograph Sakharpuda ceremonies?',
+       'Yes. We photograph Sakharpuda, Roka and ring ceremonies across Pune with the same packages, from ₹7,000.'],
+      ['How long does it take to get the photos and videos?',
+       'Edited photos are delivered within 15 days and edited videos within 25 days, through a drive link that stays active for 7 days.'],
+      ['How do I book a Roka ceremony shoot?',
+       'Call us on <a href="tel:+918390367637" class="article-link">+91 83903 67637</a>, message us on WhatsApp or use our <a href="' . base_url('/contact/') . '" class="article-link">contact form</a>. Share your date, venue and the coverage you need, and we will confirm availability.'],
+    ]; ?>
+    <?php foreach ($faqs as [$q, $a]): ?>
+    <div class="faq-item"><button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button><div class="faq-body"><p><?= $a ?></p></div></div>
+    <?php endforeach; ?>
+    <?= \App\Libraries\PageSchema::faqScript($faqs) ?>
   </div>
 </section>
 
@@ -344,9 +452,9 @@
 <!-- Final CTA -->
 <section class="cta-section">
   <div class="container-xs cta-section-inner">
-    <h2 class="cta-title">Need a Photographer?<br><em class="cta-title-em">Someone With Experience to Collaborate With?</em></h2>
+    <h2 class="cta-title">Book Your Roka or Sakharpuda<br><em class="cta-title-em">Photographer in Pune</em></h2>
     <div class="cta-buttons">
-      <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Let's Work</a>
+      <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Contact Us</a>
       <a href="https://wa.me/918390367637" class="btn btn-outline-dark" target="_blank" rel="noopener">WhatsApp Us</a>
     </div>
   </div>

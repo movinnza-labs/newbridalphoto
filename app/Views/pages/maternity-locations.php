@@ -1,9 +1,9 @@
 
-<section class="page-hero">
+<section class="page-hero page-hero-split page-hero-card">
   <div class="page-hero-bg"></div>
   <div class="page-hero-img">
     <img src="<?= base_url('assets/images/matloc-banner.webp') ?>"
-         alt="Best Locations For a Maternity Photoshoot in Pune"
+         alt="Maternity Shoot Location, Pune City: collage of expecting couples, one holding an Its Boy board"
          width="1920" height="700" loading="eager" fetchpriority="high">
   </div>
   <div class="page-hero-content">
@@ -42,7 +42,7 @@
         <p class="article-text">Before organizing any photo shoot, you prominently look for the prerequisites and want to make sure all is right before it begins. Every aspect matters, whether it is about the brand and quality of the photographic lens to be used, the photographer's experience and skill, or the properties required according to the event. This list specifically mentions the importance of selecting the best and most suitable location for a convenient and successful maternity photo shoot in Pune.</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/materloc-hero.webp') ?>" width="1500" height="1000" alt="Maternity Photoshoot Locations Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/materloc-hero.webp') ?>" width="1500" height="1000" alt="Pregnant woman in an orange dress and sun hat with her partner by a yellow arched wall" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>
@@ -65,18 +65,18 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Osho<br><em>Garden</em></h2>
+      <h2 class="section-title">Osho <em>Garden</em></h2>
     </div>
     <p class="article-text">Located in the central part of Pune, Osho Teerth or Osho Garden, is another place known for its serene surroundings and sensational escape. The aura of this place any day presents unlimited prospects for you to photograph. When you have the best maternity photographer in Pune for the assignment, this location can take photos to the next level.</p>
     <p class="article-text article-text-gap">From the mother's perspective, the spirituality in the air here is extremely healthy - not just physically but also mentally. The rejuvenation on the mother's face can make photos captivating.</p>
 
     <div class="maternity-gallery maternity-gallery-3col matloc-gallery">
-      <img src="<?= base_url('assets/images/osho-1.webp') ?>" width="1707" height="2560" alt="Maternity photoshoot of a family at Osho Garden, Pune" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/osho-2.webp') ?>" width="1707" height="2560" alt="Maternity photoshoot at Osho Garden, Pune" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/osho-3.webp') ?>" width="1707" height="2560" alt="Maternity photoshoot at Osho Garden, Pune" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/osho-4.webp') ?>" width="1707" height="2560" alt="Maternity photoshoot at Osho Garden, Pune" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/osho-5.webp') ?>" width="1707" height="2560" alt="Maternity photoshoot at Osho Garden, Pune" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/osho-6.webp') ?>" width="1707" height="2560" alt="Maternity photoshoot at Osho Garden, Pune" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/osho-1.webp') ?>" width="1707" height="2560" alt="Family in black outfits as a young son kisses his mother's baby bump at Osho Garden" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/osho-2.webp') ?>" width="1707" height="2560" alt="Expecting couple in sunglasses on a picnic blanket making a heart over the bump" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/osho-3.webp') ?>" width="1707" height="2560" alt="Mother-to-be in an orange maxi dress holding her son's hand on a garden path" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/osho-4.webp') ?>" width="1707" height="2560" alt="Mother-to-be in a flowing orange dress cradling her bump on a leafy brick path" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/osho-5.webp') ?>" width="1707" height="2560" alt="Couple making a heart over the bump in front of a yellow arch on a stone wall" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/osho-6.webp') ?>" width="1707" height="2560" alt="Expecting couple carrying picnic baskets along a tree-lined path" loading="lazy" class="maternity-gallery-img">
     </div>
   </div>
 </section>
@@ -86,7 +86,7 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Khadakwasla<br><em>Dam</em></h2>
+      <h2 class="section-title">Khadakwasla <em>Dam</em></h2>
     </div>
     <p class="article-text">The beauty of Khadakwasla Lake makes this dam special in terms of photo shoots. This water reservoir around the Mutha River is one of the favorite destinations for people to holiday and spend some quality time. The natural beauty that generates romantic senses is the perfect characteristic of Khadakwasla Dam, but it is more about the opportunity to take breath-taking snaps, which makes it apt for a maternity photo shoot in Pune.</p>
     <p class="article-text article-text-gap">From the mother's perspective, this place can multiply the inherent qualities of love and care and the lady may love to flash cuddle the baby bump in the company of water and greenery around.</p>
@@ -98,7 +98,7 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Vetal<br><em>Tekdi</em></h2>
+      <h2 class="section-title">Vetal <em>Tekdi</em></h2>
     </div>
     <div class="feature-row reverse feature-row-balanced">
       <div>
@@ -106,7 +106,7 @@
         <p class="article-text article-text-gap">From the mother's perspective, it offers an elevation in mood and a change in attitude, particularly if the lady has not walked out of home for some months and wants to break some barriers.</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/matloc-vetal.webp') ?>" width="1067" height="1600" alt="Maternity photoshoot at Vetal Tekdi, Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/matloc-vetal.webp') ?>" width="1067" height="1600" alt="Couple in summer outfits embracing in a yellow arched alcove under a tree branch" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>
@@ -117,7 +117,7 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Pashan<br><em>Lake</em></h2>
+      <h2 class="section-title">Pashan <em>Lake</em></h2>
     </div>
     <div class="feature-row feature-row-balanced">
       <div>
@@ -125,7 +125,7 @@
         <p class="article-text article-text-gap">From the mother's perspective, Pashan Lake is a comfortable place to be, as it relieves the lady from pregnancy stress and makes her dream of a beautiful baby - a baby as attractive as the greenery of trees and the vastness of the lake around her. Stunning photographs are guaranteed.</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/matloc-pashan.webp') ?>" width="1024" height="683" alt="Maternity photoshoot at Pashan Lake, Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/matloc-pashan.webp') ?>" width="1024" height="683" alt="Husband leaps beside his pregnant wife holding an Its Boy board at a green plant wall" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>
@@ -136,7 +136,7 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Bund<br><em>Garden</em></h2>
+      <h2 class="section-title">Bund <em>Garden</em></h2>
     </div>
     <p class="article-text">The Bund Garden is famous for multiple attractions, which include ornamental fountains, landscaped pathways, well-manicured green surroundings, and much more. Why can't a maternity photo shoot be conducted here? It definitely can, and with the best results.</p>
     <p class="article-text article-text-gap">From the mother's perspective, this place is special because she is likely to feel more connected to nature and experience cheerfulness with the chirps of birds on trees.</p>
@@ -148,16 +148,16 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Empress<br><em>Garden</em></h2>
+      <h2 class="section-title">Empress <em>Garden</em></h2>
     </div>
     <p class="article-text">Whenever you think about a place that has been aesthetically landscaped and thoughtfully raised, Empress Garden will be on your mind. The garden has everything, right from serene spots to winding paths and from invigorating greenery to still ponds. Your maternity photographer in Pune will thank you for choosing this place for the photo shoot.</p>
     <p class="article-text article-text-gap">From the mother's perspective, the Empress Garden has a rare calming effect that every lady deserves during her pregnancy period.</p>
 
     <div class="maternity-gallery maternity-gallery-3col matloc-gallery">
       <img src="<?= base_url('assets/images/matloc-empress-1.webp') ?>" width="1707" height="2560" alt="Couple maternity photoshoot with Mommy to be and Daddy to be props at Empress Garden, Pune" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/matloc-empress-2.webp') ?>" width="1707" height="2560" alt="Maternity photoshoot at Empress Garden, Pune" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/matloc-empress-3.webp') ?>" width="1707" height="2560" alt="Maternity photoshoot at Empress Garden, Pune" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/matloc-empress-4.webp') ?>" width="1707" height="2560" alt="Maternity photoshoot at Empress Garden, Pune" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/matloc-empress-2.webp') ?>" width="1707" height="2560" alt="Mother-to-be in a peach tulle gown cradling her bump among garden greenery" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/matloc-empress-3.webp') ?>" width="1707" height="2560" alt="Smiling mother-to-be in a plum dress and flower crown holding baby booties" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/matloc-empress-4.webp') ?>" width="1707" height="2560" alt="Mother-to-be in peach with eyes closed, hands resting on her bump" loading="lazy" class="maternity-gallery-img">
     </div>
   </div>
 </section>
@@ -173,15 +173,15 @@
     <p class="article-text article-text-gap">From the mother's perspective, this place taps the vibes of academic excellence and they may transfer to the baby as well.</p>
 
     <div class="maternity-gallery maternity-gallery-3col matloc-gallery">
-      <img src="<?= base_url('assets/images/matloc-uni-1.webp') ?>" width="1975" height="2560" alt="Couple maternity photoshoot at University of Pune campus" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/matloc-uni-2.webp') ?>" width="1707" height="2560" alt="Couple maternity photoshoot at University of Pune campus" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/matloc-uni-3.webp') ?>" width="1703" height="2560" alt="Couple maternity photoshoot at University of Pune campus" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/matloc-uni-4.webp') ?>" width="1834" height="2560" alt="Couple maternity photoshoot at University of Pune campus" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/matloc-uni-5.webp') ?>" width="1883" height="2560" alt="Couple maternity photoshoot at University of Pune campus" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/matloc-uni-6.webp') ?>" width="1707" height="2560" alt="Couple maternity photoshoot at University of Pune campus" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/matloc-uni-7.webp') ?>" width="2016" height="2560" alt="Couple maternity photoshoot at University of Pune campus" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/matloc-uni-8.webp') ?>" width="1703" height="2560" alt="Couple maternity photoshoot at University of Pune campus" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/matloc-uni-9.webp') ?>" width="1703" height="2560" alt="Couple maternity photoshoot at University of Pune campus" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/matloc-uni-1.webp') ?>" width="1975" height="2560" alt="Expecting couple twirling in front of a red-roofed building on the University of Pune campus" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/matloc-uni-2.webp') ?>" width="1707" height="2560" alt="Mother-to-be in a green saree and husband in a pink kurta sharing a smile" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/matloc-uni-3.webp') ?>" width="1703" height="2560" alt="Husband kisses his wife's forehead as she cradles her bump in a red gown" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/matloc-uni-4.webp') ?>" width="1834" height="2560" alt="Mother-to-be in a pink ruffled gown leaning on her husband in a pink blazer" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/matloc-uni-5.webp') ?>" width="1883" height="2560" alt="Couple walking hand in hand down a tree-lined lane, she in a tiered pink gown" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/matloc-uni-6.webp') ?>" width="1707" height="2560" alt="Mother-to-be in a tiered pink tulle gown and sunglasses posing on a shaded lane" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/matloc-uni-7.webp') ?>" width="2016" height="2560" alt="Mother-to-be in a yellow dress among hanging red and yellow marigold garlands" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/matloc-uni-8.webp') ?>" width="1703" height="2560" alt="Smiling mother-to-be in a red gown and floral crown holding blue baby shoes" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/matloc-uni-9.webp') ?>" width="1703" height="2560" alt="Couple looking up together while holding out tiny baby shoes" loading="lazy" class="maternity-gallery-img">
       <!--<img src="<?= base_url('assets/images/matloc-uni-10.webp') ?>" width="2560" height="2071" alt="Maternity Photoshoot Pune" loading="lazy" class="maternity-gallery-img">-->
     </div>
   </div>
@@ -201,7 +201,7 @@
         <p class="article-text article-text-gap">With love and shutter clicks,<br>The Bridal Photography.</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/matloc-closing.webp') ?>" width="1707" height="2560" alt="Maternity photoshoot outdoors in Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/matloc-closing.webp') ?>" width="1707" height="2560" alt="Couple back to back holding Daddy to be and Mommy to be signs in a garden" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>
@@ -227,7 +227,7 @@
   <div class="container-xs cta-section-inner">
     <h2 class="cta-title">Need a Photographer?<br><em class="cta-title-em">Someone With Experience to Collaborate With?</em></h2>
     <div class="cta-buttons">
-      <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Let's Work</a>
+      <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Contact Us</a>
       <a href="https://wa.me/918390367637" class="btn btn-outline-dark" target="_blank" rel="noopener">WhatsApp Us</a>
     </div>
   </div>

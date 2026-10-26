@@ -1,9 +1,9 @@
 
-<section class="page-hero">
+<section class="page-hero page-hero-split page-hero-portrait">
   <div class="page-hero-bg"></div>
   <div class="page-hero-img">
     <img src="<?= base_url('assets/images/mumbai-prewedding-01.webp') ?>"
-         alt="Photoshoot in Nashik - The Bridal Photography"
+         alt="Couple posing by library bookshelves, woman in a floral blue dress holding a book"
          width="1920" height="700" loading="eager" fetchpriority="high">
   </div>
   <div class="page-hero-content">
@@ -27,15 +27,15 @@
   <div class="container">
     <div class="grid-3 grid-gap">
       <a href="<?= base_url('/nashik/wedding-photographers/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/mumbai-wedding-card.webp') ?>" width="1024" height="683" alt="Wedding Photography Nashik" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/mumbai-wedding-card.webp') ?>" width="1024" height="683" alt="Bride in a red embroidered lehenga lifting her sheer red veil" loading="lazy" class="mumbai-service-img">
         <h2 class="mumbai-service-title">Wedding Photographers in Nashik</h2>
       </a>
       <a href="<?= base_url('/nashik/engagement-photographers/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/engage-card-gold.webp') ?>" width="1024" height="1024" alt="Engagement Photography Nashik" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/engage-card-gold.webp') ?>" width="1024" height="1024" alt="Engaged couple showing their rings in front of a floral backdrop" loading="lazy" class="mumbai-service-img">
         <h2 class="mumbai-service-title">Engagement Photographers in Nashik</h2>
       </a>
       <a href="<?= base_url('/nashik/pre-wedding-shoot/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/mumbai-prewedding-card.webp') ?>" width="1024" height="683" alt="Pre-Wedding Shoot Nashik" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/mumbai-prewedding-card.webp') ?>" width="1024" height="683" alt="Couple seen from behind raising wine glasses at a lakeside picnic" loading="lazy" class="mumbai-service-img">
         <h2 class="mumbai-service-title">Pre Wedding Shoot in Nashik</h2>
       </a>
     </div>
@@ -286,7 +286,7 @@
        'The most ideal photoshoot places are:</p><ul class="pkg-detail-list mumbai-list-gap"><li>Sula Vineyards</li><li>Anjaneri Hill</li><li>Panchavati</li><li>Gangapur Dam</li><li>Dugarwadi Waterfall</li></ul><p>We also suggest that you can visit some of the lesser known scenic locations based on your shooting idea.'],
     ] as [$q,$a]): ?>
     <div class="faq-item">
-      <button class="faq-trigger"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
+      <button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
       <div class="faq-body"><p><?= $a ?></p></div>
     </div>
     <?php endforeach; ?>
@@ -316,13 +316,13 @@
       </div>
       <div class="enquire-form-card">
         <?= view('partials/form-flash') ?>
-        <form method="post" action="<?= base_url('/contact/send/') ?>" novalidate>
+        <form method="post" action="<?= base_url('/contact/send/') ?>">
           <?= csrf_field() ?>
           <input type="hidden" name="service" value="Photoshoot in Nashik">
-          <div class="enquire-form-field"><label class="enquire-form-label">Name</label><input type="text" name="name" placeholder="Name" class="enquire-form-input"></div>
-          <div class="enquire-form-field"><label class="enquire-form-label">Contact no</label><input type="tel" name="phone" placeholder="Mobile Number" class="enquire-form-input" required></div>
-          <div class="enquire-form-field"><label class="enquire-form-label">Email</label><input type="email" name="email" placeholder="Email" class="enquire-form-input"></div>
-          <div class="enquire-form-field"><label class="enquire-form-label">Address</label><textarea name="address" placeholder="Address" class="enquire-form-textarea"></textarea></div>
+          <div class="enquire-form-field"><label class="enquire-form-label" for="enq-name">Name</label><input type="text" name="name" id="enq-name" placeholder="Name" class="enquire-form-input" required autocomplete="name" value="<?= old('name') ?>"></div>
+          <div class="enquire-form-field"><label class="enquire-form-label" for="enq-phone">Contact no</label><input type="tel" name="phone" id="enq-phone" placeholder="Mobile Number" class="enquire-form-input" required autocomplete="tel" value="<?= old('phone') ?>"></div>
+          <div class="enquire-form-field"><label class="enquire-form-label" for="enq-email">Email</label><input type="email" name="email" id="enq-email" placeholder="Email" class="enquire-form-input" required autocomplete="email" value="<?= old('email') ?>"></div>
+          <div class="enquire-form-field"><label class="enquire-form-label" for="enq-address">Address</label><textarea name="address" id="enq-address" placeholder="Address" class="enquire-form-textarea" autocomplete="street-address"><?= old('address') ?></textarea></div>
           <button type="submit" class="enquire-form-submit">Send</button>
         </form>
       </div>
@@ -348,7 +348,7 @@
   <div class="container-xs cta-section-inner">
     <h2 class="cta-title">Need a Photographer?<br><em class="cta-title-em">Someone With Experience to Collaborate With?</em></h2>
     <div class="cta-buttons">
-      <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Let's Work</a>
+      <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Contact Us</a>
       <a href="https://wa.me/918390367637" class="btn btn-outline-dark" target="_blank" rel="noopener">WhatsApp Us</a>
     </div>
   </div>

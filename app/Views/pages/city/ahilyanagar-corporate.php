@@ -2,7 +2,7 @@
 <section class="page-hero">
   <div class="page-hero-bg"></div>
   <div class="page-hero-img">
-    <img src="<?= base_url('assets/images/ahily-corp-hero.webp') ?>" alt="Corporate Event &amp; Industrial Shoot In Ahilyanagar" width="1920" height="700" loading="eager" fetchpriority="high">
+    <img src="<?= base_url('assets/images/ahily-corp-hero.webp') ?>" alt="Presenter pointing to charts on a projected screen during a boardroom meeting" width="1920" height="700" loading="eager" fetchpriority="high">
   </div>
   <div class="page-hero-content">
     <div class="page-hero-content-inner">
@@ -30,7 +30,7 @@
     </div>
 
     <div class="article-img-center">
-      <img src="<?= base_url('assets/images/ahily-corp-1.webp') ?>" width="1024" height="683" alt="Corporate Event Ahilyanagar" loading="lazy" class="article-img">
+      <img src="<?= base_url('assets/images/ahily-corp-1.webp') ?>" width="1024" height="683" alt="Speaker with a clicker presenting on a conference stage lit with blue curtains" loading="lazy" class="article-img">
     </div>
   </div>
 </section>
@@ -120,7 +120,7 @@
         <p class="article-text article-text-gap">A strong portfolio can make businesses more confident when choosing the right photography partner.</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/ahily-corp-2.webp') ?>" width="1024" height="683" alt="Corporate Photography Ahilyanagar" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/ahily-corp-2.webp') ?>" width="1024" height="683" alt="Workers in orange hard hats and gloves operating factory machinery" loading="lazy" class="feature-img-full">
       </div>
     </div>
 
@@ -233,9 +233,9 @@
     </div>
 
     <div class="grid-3 grid-gap article-img-center">
-      <img src="<?= base_url('assets/images/ahily-corp-3.webp') ?>" width="612" height="344" alt="Corporate Photography" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/ahily-corp-4.webp') ?>" width="612" height="344" alt="Corporate Photography" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/ahily-corp-5.webp') ?>" width="612" height="344" alt="Corporate Photography" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/ahily-corp-3.webp') ?>" width="612" height="344" alt="Industrial refinery with towers and storage tanks lit up at dusk" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/ahily-corp-4.webp') ?>" width="612" height="344" alt="Engineers in white hard hats reviewing a laptop on a factory floor" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/ahily-corp-5.webp') ?>" width="612" height="344" alt="Two professionals discussing work on a laptop in a modern manufacturing facility" loading="lazy" class="feature-img-full">
     </div>
   </div>
 </section>
@@ -313,7 +313,7 @@
        'Yes, the team is available for travel to nearby cities and industrial locations based on client needs.'],
     ] as [$q,$a]): ?>
     <div class="faq-item">
-      <button class="faq-trigger"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
+      <button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
       <div class="faq-body"><p><?= $a ?></p></div>
     </div>
     <?php endforeach; ?>
@@ -336,13 +336,13 @@
       </div>
       <div class="enquire-form-card">
         <?= view("partials/form-flash") ?>
-        <form method="post" action="<?= base_url('/contact/send/') ?>" novalidate>
+        <form method="post" action="<?= base_url('/contact/send/') ?>">
           <?= csrf_field() ?>
           <input type="hidden" name="service" value="Corporate Event Ahilyanagar">
-          <div class="enquire-form-field"><label class="enquire-form-label">Name</label><input type="text" name="name" placeholder="Name" class="enquire-form-input"></div>
-          <div class="enquire-form-field"><label class="enquire-form-label">Contact no</label><input type="tel" name="phone" placeholder="Mobile Number" class="enquire-form-input" required></div>
-          <div class="enquire-form-field"><label class="enquire-form-label">Email</label><input type="email" name="email" placeholder="Email" class="enquire-form-input"></div>
-          <div class="enquire-form-field"><label class="enquire-form-label">Address</label><textarea name="address" placeholder="Address" class="enquire-form-textarea"></textarea></div>
+          <div class="enquire-form-field"><label class="enquire-form-label" for="enq-name">Name</label><input type="text" name="name" id="enq-name" placeholder="Name" class="enquire-form-input" required autocomplete="name" value="<?= old('name') ?>"></div>
+          <div class="enquire-form-field"><label class="enquire-form-label" for="enq-phone">Contact no</label><input type="tel" name="phone" id="enq-phone" placeholder="Mobile Number" class="enquire-form-input" required autocomplete="tel" value="<?= old('phone') ?>"></div>
+          <div class="enquire-form-field"><label class="enquire-form-label" for="enq-email">Email</label><input type="email" name="email" id="enq-email" placeholder="Email" class="enquire-form-input" required autocomplete="email" value="<?= old('email') ?>"></div>
+          <div class="enquire-form-field"><label class="enquire-form-label" for="enq-address">Address</label><textarea name="address" id="enq-address" placeholder="Address" class="enquire-form-textarea" autocomplete="street-address"><?= old('address') ?></textarea></div>
           <button type="submit" class="enquire-form-submit">Send</button>
         </form>
       </div>
@@ -351,4 +351,4 @@
 </section>
 
 <section class="section-related-pages"><div class="container"><p class="eyebrow section-related-eyebrow">Related Pages</p><div class="tag-links"><a href="<?= base_url('/ahilyanagar/') ?>" class="tag-link">Ahilyanagar Hub</a><a href="<?= base_url('/ahilyanagar/wedding-photographers/') ?>" class="tag-link">Wedding</a><a href="<?= base_url('/services/') ?>" class="tag-link">All Services</a><a href="<?= base_url('/faq/') ?>" class="tag-link">FAQ</a></div></div></section>
-<section class="cta-section"><div class="container-xs cta-section-inner"><h2 class="cta-title">Need a Photographer?<br><em class="cta-title-em">Someone With Experience to Collaborate With?</em></h2><div class="cta-buttons"><a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Let's Work</a><a href="https://wa.me/918390367637" class="btn btn-outline-dark" target="_blank" rel="noopener">WhatsApp Us</a></div></div></section>
+<section class="cta-section"><div class="container-xs cta-section-inner"><h2 class="cta-title">Need a Photographer?<br><em class="cta-title-em">Someone With Experience to Collaborate With?</em></h2><div class="cta-buttons"><a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Contact Us</a><a href="https://wa.me/918390367637" class="btn btn-outline-dark" target="_blank" rel="noopener">WhatsApp Us</a></div></div></section>

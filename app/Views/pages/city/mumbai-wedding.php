@@ -1,4 +1,4 @@
-<section class="page-hero">
+<section class="page-hero page-hero-split page-hero-portrait">
   <div class="page-hero-bg"></div>
   <div class="page-hero-img"><img src="<?= base_url('assets/images/wedding-photography-pune.webp') ?>" width="683" height="1024" alt="Wedding Photographers<br><em>in Mumbai</em> photography" width="1920" height="700" loading="eager"></div>
   <div class="page-hero-content"><div style="max-width:820px;">
@@ -23,7 +23,7 @@
 <section class="section section-white">
   <div class="container-sm">
     <div class="section-head"><p class="eyebrow" style="margin-bottom:.7rem;">Common Questions</p><div class="rule-center" style="margin-bottom:1.4rem;"></div><h2 class="section-title">Frequently Asked <em>Questions</em></h2></div>
-    <div class="faq-item"><button class="faq-trigger"><span class="faq-q">Are wedding packages the same price in Mumbai?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Yes - same packages as Pune. Travel and accommodation charges for Mumbai events are agreed before confirming the booking.</p></div></div>
+    <div class="faq-item"><button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q">Are wedding packages the same price in Mumbai?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Yes - same packages as Pune. Travel and accommodation charges for Mumbai events are agreed before confirming the booking.</p></div></div>
   </div>
 </section>
 <section style="padding:2.5rem 2.5rem;background:var(--bg-warm);border-top:1px solid var(--border-light);">

@@ -36,7 +36,7 @@ $catLabels = $categories ?? [];
         <?php if ($f['featured_image']): ?>
         <?php $fImg = str_starts_with($f['featured_image'], 'http') ? $f['featured_image'] : base_url($f['featured_image']); ?>
         <img src="<?= esc($fImg) ?>"
-             alt="<?= esc($f['featured_image_alt'] ?? $f['title']) ?>"
+             alt="<?= esc(($f['featured_image_alt'] ?? '') ?: $f['title']) ?>"
              loading="eager" fetchpriority="high" width="800" height="500">
         <?php endif; ?>
       </div>
@@ -48,7 +48,7 @@ $catLabels = $categories ?? [];
         </p>
         <h2 class="featured-post-title"><?= esc($f['title']) ?></h2>
         <p class="featured-post-excerpt">
-          <?= esc(substr(strip_tags($f['excerpt'] ?? $f['content'] ?? ''), 0, 200)) ?>…
+          <?= esc(mb_substr(trim(strip_tags(($f['excerpt'] ?? '') ?: ($f['content'] ?? ''))), 0, 200)) ?>…
         </p>
         <span class="featured-post-link">Read Full Article →</span>
       </div>
@@ -66,15 +66,13 @@ $catLabels = $categories ?? [];
       <p style="font-size:.65rem;letter-spacing:.2em;text-transform:uppercase;color:var(--text-muted);margin:0;">
         <?= $total ?? 0 ?> Articles
       </p>
-      <div style="display:flex;gap:.5rem;flex-wrap:wrap;">
-        <button class="tag-link" data-filter="all" style="cursor:pointer;background:var(--gold);color:#fff;border-color:var(--gold);" onclick="this.closest('section').querySelectorAll('[data-filter]').forEach(b=>b.style='');this.style='background:var(--gold);color:#fff;border-color:var(--gold)';">All</button>
+      <nav aria-label="Blog categories" style="display:flex;gap:.5rem;flex-wrap:wrap;">
+        <?php $activeTab = 'background:var(--gold);color:#fff;border-color:var(--gold);'; ?>
+        <a href="<?= base_url('/blog/') ?>" class="tag-link"<?= ($currentCat ?? '') === '' ? ' style="' . $activeTab . '" aria-current="page"' : '' ?>>All</a>
         <?php foreach ($catLabels as $key => $label): ?>
-        <button class="tag-link" data-filter="<?= esc($key) ?>" style="cursor:pointer;"
-                onclick="filterBlog('<?= esc($key) ?>', this)">
-          <?= esc($label) ?>
-        </button>
+        <a href="<?= base_url('/blog/?cat=' . rawurlencode($key)) ?>" class="tag-link"<?= ($currentCat ?? '') === $key ? ' style="' . $activeTab . '" aria-current="page"' : '' ?>><?= esc($label) ?></a>
         <?php endforeach; ?>
-      </div>
+      </nav>
     </div>
 
     <!-- Blog grid -->
@@ -86,7 +84,7 @@ $catLabels = $categories ?? [];
           <?php if ($p['featured_image']): ?>
           <?php $pImg = str_starts_with($p['featured_image'], 'http') ? $p['featured_image'] : base_url($p['featured_image']); ?>
           <img src="<?= esc($pImg) ?>"
-               alt="<?= esc($p['featured_image_alt'] ?? $p['title']) ?>"
+               alt="<?= esc(($p['featured_image_alt'] ?? '') ?: $p['title']) ?>"
                loading="lazy" width="600" height="375">
           <?php else: ?>
           <div style="width:100%;height:200px;background:var(--bg-cream);display:flex;align-items:center;justify-content:center;">
@@ -97,7 +95,7 @@ $catLabels = $categories ?? [];
         <div class="blog-card-body">
           <span class="blog-card-cat"><?= esc($catLabels[$p['category']] ?? ucfirst($p['category'] ?? 'Blog')) ?></span> <h3 class="blog-card-title"><a href="<?= base_url('/blog/' . esc($p['slug']) . '/') ?>"><?= esc($p['title']) ?></a></h3>
           <p class="blog-card-excerpt">
-            <?= esc(substr(strip_tags($p['excerpt'] ?? $p['content'] ?? ''), 0, 120)) ?>…
+            <?= esc(mb_substr(trim(strip_tags(($p['excerpt'] ?? '') ?: ($p['content'] ?? ''))), 0, 120)) ?>…
           </p>
           <div class="blog-card-meta">
             <?= $p['published_at'] ? date('d M Y', strtotime($p['published_at'])) : '' ?>
@@ -113,7 +111,7 @@ $catLabels = $categories ?? [];
     <?php if (($totalPages ?? 1) > 1): ?>
     <div style="display:flex;justify-content:center;gap:.5rem;margin-top:3rem;flex-wrap:wrap;">
       <?php for ($i = 1; $i <= $totalPages; $i++): ?>
-      <a href="<?= base_url('/blog/?page=' . $i) ?>"
+      <a href="<?= base_url(rtrim('/blog/?' . http_build_query(array_filter(['cat' => $currentCat ?? '', 'page' => $i > 1 ? $i : null])), '?')) ?>"<?= $i === ($currentPage ?? 1) ? ' aria-current="page"' : '' ?>
          style="width:40px;height:40px;display:flex;align-items:center;justify-content:center;border:1px solid <?= $i === ($currentPage ?? 1) ? 'var(--gold)' : 'var(--border-light)' ?>;font-size:.82rem;color:<?= $i === ($currentPage ?? 1) ? 'var(--gold)' : 'var(--text-muted)' ?>;background:<?= $i === ($currentPage ?? 1) ? 'var(--gold-pale)' : 'transparent' ?>;transition:all .2s;text-decoration:none;">
         <?= $i ?>
       </a>
@@ -153,14 +151,4 @@ $catLabels = $categories ?? [];
   </div>
 </section>
 
-<script>
-function filterBlog(cat, btn) {
-  document.querySelectorAll('[data-filter]').forEach(b => {
-    b.style.background = ''; b.style.color = ''; b.style.borderColor = '';
-  });
-  btn.style.background = 'var(--gold)'; btn.style.color = '#fff'; btn.style.borderColor = 'var(--gold)';
-  document.querySelectorAll('[data-post-cat]').forEach(card => {
-    card.style.display = (cat === 'all' || card.dataset.postCat === cat) ? '' : 'none';
-  });
-}
-</script>
+<section class="cta-section"><div class="container-xs cta-section-inner"><h2 class="cta-title">Planning Your Shoot?<br><em class="cta-title-em">Let's Talk About Your Story</em></h2><div class="cta-buttons"><a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Contact Us</a><a href="<?= base_url('/services/') ?>" class="btn btn-outline-dark">View Our Services</a></div></div></section>

@@ -3,7 +3,7 @@
   <div class="page-hero-bg"></div>
   <div class="page-hero-img">
     <img src="<?= base_url('assets/images/mahab-weather.webp') ?>"
-         alt="Pre-Wedding Destinations in Mahabaleshwar"
+         alt="Waterfall plunging from a green cliff under monsoon clouds, Mahabaleshwar"
          width="1920" height="700" loading="eager" fetchpriority="high">
   </div>
   <div class="page-hero-content">
@@ -56,7 +56,7 @@
     <!-- Lush Greenery -->
     <div class="feature-row feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/mahab-venna.webp') ?>" width="1000" height="563" alt="Pre-Wedding Destinations in Mahabaleshwar" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/mahab-venna.webp') ?>" width="1000" height="563" alt="Green hills and a winding lake under cloudy skies in the Mahabaleshwar region" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <h3 class="article-heading">Lush Greenery and Scenic Landscapes</h3>
@@ -67,7 +67,7 @@
     <!-- Alluring Weather -->
     <div class="feature-row reverse feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/mahab-weather.webp') ?>" width="1000" height="667" alt="Misty weather in Mahabaleshwar for a pre wedding shoot" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/mahab-weather.webp') ?>" width="1000" height="667" alt="Green valley and cliffside waterfall beneath heavy clouds in Mahabaleshwar" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <h3 class="article-heading">Alluring Weather</h3>
@@ -82,12 +82,12 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Historical<br><em>Charm</em></h2>
+      <h2 class="section-title">Historical <em>Charm</em></h2>
     </div>
 
     <div class="feature-row feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/mahab-fort.webp') ?>" width="279" height="181" alt="Pre-Wedding Destinations in Mahabaleshwar" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/mahab-fort.webp') ?>" width="279" height="181" alt="Hilltop fort bastion with a saffron flag above misty valleys near Mahabaleshwar" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text">Beyond its natural beauty, Mahabaleshwar boasts a rich history and charming colonial architecture. The Pratapgad Fort and Mahabaleshwar Temple offer a historical touch to your pre-wedding album, creating a beautiful blend of tradition and modern romance.</p>
@@ -107,7 +107,7 @@
     <!-- Strawberry Fields -->
     <div class="feature-row reverse feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/mahab-strawberry.webp') ?>" width="700" height="298" alt="Pre-Wedding Destinations in Mahabaleshwar" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/mahab-strawberry.webp') ?>" width="700" height="298" alt="Rows of strawberry plants with ripe red berries in a Mahabaleshwar farm" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <h3 class="article-heading">Strawberry Fields Forever</h3>
@@ -120,9 +120,9 @@
     <p class="article-text">Venna Lake provides a dreamy lakeside setting for couples to capture serene moments. Boat rides, lakeside strolls, and candid shots against the backdrop of the calm waters create a timeless and romantic feel.</p>
 
     <div class="grid-3 grid-gap article-img-center">
-      <img src="<?= base_url('assets/images/mahab-lake-1.webp') ?>" width="259" height="194" alt="Pre-Wedding Destinations in Mahabaleshwar" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/mahab-lake-2.webp') ?>" width="299" height="168" alt="Pre-Wedding Destinations in Mahabaleshwar" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/mahab-lake-3.webp') ?>" width="275" height="183" alt="Pre-Wedding Destinations in Mahabaleshwar" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mahab-lake-1.webp') ?>" width="259" height="194" alt="Calm blue lake with distant hills on a clear day in Mahabaleshwar" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mahab-lake-2.webp') ?>" width="299" height="168" alt="Mist rolling over green hills with thin waterfalls above a meadow" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mahab-lake-3.webp') ?>" width="275" height="183" alt="Silhouetted couple holding hands by the water at a fiery orange sunset" loading="lazy" class="feature-img-full">
     </div>
 
     <!-- Misty Magic -->
@@ -145,15 +145,15 @@
     <p class="article-text">Plan your shoot during the early morning or late afternoon to capture the soft, golden light that enhances the natural beauty of Mahabaleshwar.</p>
 
     <div class="grid-3 grid-gap article-img-center">
-      <img src="<?= base_url('assets/images/mahab-shoot-1.webp') ?>" width="683" height="1024" alt="Golden hour pre wedding shoot in Mahabaleshwar" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/mahab-shoot-2.webp') ?>" width="683" height="1024" alt="Morning light pre wedding shoot in Mahabaleshwar" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/mahab-shoot-3.webp') ?>" width="448" height="1024" alt="Couple pre wedding photoshoot in Mahabaleshwar" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mahab-shoot-1.webp') ?>" width="683" height="1024" alt="Bride and groom in ivory outfits and a feathered turban touching noses outdoors" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mahab-shoot-2.webp') ?>" width="683" height="1024" alt="Bride in an ivory lehenga and kaleere smiling as she embraces the groom" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mahab-shoot-3.webp') ?>" width="448" height="1024" alt="Couple in traditional Maharashtrian wedding attire, the groom wearing a red pheta" loading="lazy" class="feature-img-full">
     </div>
 
     <!-- Blend of Attire -->
     <div class="feature-row feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/mahab-attire.webp') ?>" width="259" height="194" alt="Pre-Wedding Destinations in Mahabaleshwar" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/mahab-attire.webp') ?>" width="259" height="194" alt="Glasses of strawberries and cream arranged on a tray" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <h3 class="article-heading lvl-h4">Blend of Traditional and Modern Attire</h3>
@@ -197,11 +197,11 @@
       <div class="rule-center section-head-rule"></div>
       <h2 class="section-title">Frequently Asked <em>Questions</em></h2>
     </div>
-    <div class="faq-item"><button class="faq-trigger"><span class="faq-q">Where is the best place for a pre wedding shoot in Mahabaleshwar?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Arthur Seat Point and Wilson Point are the most famous. They give wide valley views and lovely light at sunrise and sunset. Mapro Garden, Venna Lake and Lingmala Waterfall add variety to the same shoot.</p></div></div>
-    <div class="faq-item"><button class="faq-trigger"><span class="faq-q">When is the best time for a shoot in Mahabaleshwar?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>October to May has the most pleasant weather. Sunrise shoots give soft light and fewer crowds. The monsoon gives misty, dreamy photos, but you need to be flexible with dates.</p></div></div>
-    <div class="faq-item"><button class="faq-trigger"><span class="faq-q">Do you help with poses and outfits?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Yes. We guide you on poses, expressions and styling. Long flowing gowns look great at valley points like Arthur Seat and Wilson Point. Casual outfits suit forest roads. Lehengas, sarees or Indo-western looks stand out at Mapro Garden. On foggy days, bright colours like red, royal blue, mustard or emerald green look best.</p></div></div>
-    <div class="faq-item"><button class="faq-trigger"><span class="faq-q">What is included in a Mahabaleshwar pre wedding package?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Packages start from Rs 14,999. They include a half-day or full-day shoot, more than one location, a professional photographer and team, high-resolution edited photos, colour grading and an online gallery. A cinematic highlight video and drone shots (where allowed) can be added. The final price depends on the number of locations, the shoot length and video.</p></div></div>
-    <div class="faq-item"><button class="faq-trigger"><span class="faq-q">How many photos will we receive?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>You will usually receive 40 to 80 professionally edited high-resolution photos, based on the package you choose.</p></div></div>
+    <div class="faq-item"><button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q">Where is the best place for a pre wedding shoot in Mahabaleshwar?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Arthur Seat Point and Wilson Point are the most famous. They give wide valley views and lovely light at sunrise and sunset. Mapro Garden, Venna Lake and Lingmala Waterfall add variety to the same shoot.</p></div></div>
+    <div class="faq-item"><button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q">When is the best time for a shoot in Mahabaleshwar?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>October to May has the most pleasant weather. Sunrise shoots give soft light and fewer crowds. The monsoon gives misty, dreamy photos, but you need to be flexible with dates.</p></div></div>
+    <div class="faq-item"><button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q">Do you help with poses and outfits?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Yes. We guide you on poses, expressions and styling. Long flowing gowns look great at valley points like Arthur Seat and Wilson Point. Casual outfits suit forest roads. Lehengas, sarees or Indo-western looks stand out at Mapro Garden. On foggy days, bright colours like red, royal blue, mustard or emerald green look best.</p></div></div>
+    <div class="faq-item"><button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q">What is included in a Mahabaleshwar pre wedding package?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Packages start from Rs 14,999. They include a half-day or full-day shoot, more than one location, a professional photographer and team, high-resolution edited photos, colour grading and an online gallery. A cinematic highlight video and drone shots (where allowed) can be added. The final price depends on the number of locations, the shoot length and video.</p></div></div>
+    <div class="faq-item"><button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q">How many photos will we receive?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>You will usually receive 40 to 80 professionally edited high-resolution photos, based on the package you choose.</p></div></div>
   </div>
 </section>
 
@@ -226,7 +226,7 @@
   <div class="container-xs cta-section-inner">
     <h2 class="cta-title">Need a Photographer?<br><em class="cta-title-em">Someone With Experience to Collaborate With?</em></h2>
     <div class="cta-buttons">
-      <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Let's Work</a>
+      <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Contact Us</a>
       <a href="https://wa.me/918390367637" class="btn btn-outline-dark" target="_blank" rel="noopener">WhatsApp Us</a>
     </div>
   </div>

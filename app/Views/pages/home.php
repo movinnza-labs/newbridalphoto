@@ -3,7 +3,7 @@
 <section class="hero">
   <div class="hero-bg">
     <?= responsive_img('hero-prewedding-couple-1.webp',
-         'Best wedding photographers in Pune - The Bridal Photography',
+         'Groom in a sequinned tuxedo watching his bride twirl in a silver gown on a lit stage',
          ['width' => 1920, 'height' => 1080, 'loading' => 'eager', 'fetchpriority' => 'high', 'sizes' => '100vw']) ?>
     <div class="hero-overlay"></div>
   </div>
@@ -20,7 +20,7 @@
       </h1>
 
       <p class="hero-sub">
-        Candid <a href="<?= base_url('/pre-wedding-shoot-locations-in-pune/') ?>"
+        Candid <a href="<?= base_url('/pre-wedding-photography-packages/') ?>"
           style="color:rgba(255,255,255,.75);text-decoration:underline;text-decoration-color:rgba(201,169,110,.5);">pre-wedding photography</a>,
         <a href="<?= base_url('/wedding-photography-packages/') ?>"
           style="color:rgba(255,255,255,.75);text-decoration:underline;text-decoration-color:rgba(201,169,110,.5);">wedding coverage</a>
@@ -69,13 +69,13 @@
         <p style="font-size:1.05rem;color:var(--text-primary);line-height:1.7;max-width:720px;margin:0;">
           We are passionate storytellers capturing love, joy &amp; milestones across Maharashtra.
           From intimate <a href="<?= base_url('/roka-ring-ceremony-photography-pune/') ?>" style="color:var(--gold);">Roka ceremonies</a>
-          to grand <a href="<?= base_url('/wedding-photography-packages/') ?>" style="color:var(--gold);">cinematic weddings</a>
+          to grand <a href="<?= base_url('/wedding-photography-packages/') ?>" style="color:var(--gold);">cinematic weddings</a>,
           every moment deserves to be beautifully preserved.
         </p>
         <!-- Services, cities and prices (approved Sept 2026) -->
         <p style="font-size:1.05rem;color:var(--text-primary);line-height:1.7;max-width:720px;margin:.9rem 0 0;">
           The Bridal Photography is a wedding photographer in Pune. Since 2014 we have covered weddings, pre wedding shoots,
-          engagements, maternity and baby shoots for 1,179+ happy couples and families, with a 4.9 star Google rating.
+          engagements, maternity and baby shoots for 1,179+ happy couples and families, with a 4.9-star Google rating.
         </p>
         <p style="font-size:1.05rem;color:var(--text-primary);line-height:1.7;max-width:720px;margin:.9rem 0 0;">
           Our work starts in Pune and goes across Maharashtra and beyond. We shoot in
@@ -87,14 +87,16 @@
           <a href="<?= base_url('/nashik/') ?>" style="color:var(--gold);">Nashik</a>,
           <a href="<?= base_url('/ahilyanagar/') ?>" style="color:var(--gold);">Ahilyanagar</a> and
           <a href="<?= base_url('/chhatrapati-sambhajinagar/') ?>" style="color:var(--gold);">Chhatrapati Sambhajinagar</a>.
-          For a <a href="<?= base_url('/pre-wedding-photography-packages/') ?>" style="color:var(--gold);">pre wedding shoot in Pune</a>,
-          we help you pick the right spot, from hill forts and lakes to film sets, and plan the best time of day for light.
+          For your pre wedding shoot, we help you pick the right spot from our
+          <a href="<?= base_url('/pre-wedding-shoot-locations-in-pune/') ?>" style="color:var(--gold);">pre wedding shoot locations in Pune</a>,
+          from hill forts and lakes to film sets, and plan the best time of day for light.
         </p>
         <p style="font-size:1.05rem;color:var(--text-primary);line-height:1.7;max-width:720px;margin:.9rem 0 0;">
-          Our prices are simple. A pre wedding shoot starts from Rs 14,999.
+          Our prices are simple. A pre wedding shoot starts from ₹14,999 (see our
+          <a href="<?= base_url('/pre-wedding-photography-packages/') ?>" style="color:var(--gold);">pre wedding shoot packages in Pune</a>).
           <a href="<?= base_url('/wedding-photography-packages/') ?>" style="color:var(--gold);">Wedding photography packages</a>
-          start from Rs 35,000 per day and include a videographer. Engagement and Roka shoots start from Rs 7,000.
-          Maternity, baby shower and baby shoots start from Rs 6,000.
+          start from ₹35,000 per day and include a videographer. Engagement and Roka shoots start from ₹7,000.
+          Maternity, baby shower and baby shoots start from ₹6,000.
         </p>
         <p style="font-size:1.05rem;color:var(--text-primary);line-height:1.7;max-width:720px;margin:.9rem 0 0;">
           You pay 20% to book your date, with a full refund if you cancel 8 or more days before.
@@ -102,7 +104,7 @@
         </p>
       </div>
       <div class="intro-strip-badge">
-        <div class="intro-strip-badge-num">₹6K</div>
+        <div class="intro-strip-badge-num">₹6,000</div>
         <div class="intro-strip-badge-label">Packages from</div>
       </div>
     </div>
@@ -126,19 +128,18 @@
                ['width' => 683, 'height' => 1024, 'sizes' => '(min-width: 900px) 25vw, 50vw']) ?>
           <div class="home-about-counter">
             <div class="home-about-counter-num">1,179<span>+</span></div>
-            <div class="home-about-counter-label">Happy Client</div>
+            <div class="home-about-counter-label">Happy Clients</div>
           </div>
         </div>
       </div>
       <!-- Text -->
       <div class="home-about-text">
-        <p class="eyebrow" style="margin-bottom:.5rem;">We are here to help you to remember the best days.</p>
+        <p class="eyebrow" style="margin-bottom:.5rem;">We are here to help you remember the best days.</p>
         <div class="rule-left" style="margin-bottom:1.2rem;"></div>
-        <h2 class="section-title" style="margin-bottom:.5rem;">About</h2>
-        <h2 class="section-title"><em>The Bridal Photography</em></h2>
-        <p style="margin-top:1.2rem;">As a photography company, we have worked with clients like Sanjay Ag. (Century Plywood); Dr.DY Patil Group; Hon.Ajit Pawar; Sanjay Ghodawat group; Muthoot Group; Actor Arjun Rampal; Cricketer Bhuvneshwar Kr; Being Human Group (Mandana Ind.); Somany Tiles family; Punj-Lloyd family; Dollar Club Garments; Jindal Steels; Adani Family; Ambuja-Neotias &amp; Fashion Designer Rahul Mishra; Sabyasachi among others, our work has helped us achieve an international level exposure &amp; standards.</p>
+        <h2 class="section-title">About <em>The Bridal Photography</em></h2>
+        <p style="margin-top:1.2rem;">As a photography company, we have worked with clients like Sanjay Ag. (Century Plywood); Dr. D.Y. Patil Group; Hon. Ajit Pawar; Sanjay Ghodawat Group; Muthoot Group; Actor Arjun Rampal; Cricketer Bhuvneshwar Kr; Being Human Group (Mandana Ind.); Somany Tiles family; Punj-Lloyd family; Dollar Club Garments; Jindal Steels; Adani Family; Ambuja-Neotias &amp; Fashion Designer Rahul Mishra; Sabyasachi, among others. Our work has helped us achieve international-level exposure &amp; standards.</p>
         <div class="home-about-services">
-          <a href="<?= base_url('/pre-wedding-shoot-locations-in-pune/') ?>" class="home-about-service-card">
+          <a href="<?= base_url('/pre-wedding-photography-packages/') ?>" class="home-about-service-card">
             <span>Pre-wedding Shoot</span>
           </a>
           <a href="<?= base_url('/engagement-photography-packages/') ?>" class="home-about-service-card">
@@ -162,12 +163,12 @@
       <h2 class="section-title">
         Photography for Every<br><em>Life Moment</em>
       </h2>
-      <p class="section-sub">From your engagement ceremony to your baby's first smile - we document every milestone.</p>
+      <p class="section-sub">From your engagement ceremony to your baby's first smile – we document every milestone.</p>
     </div>
 
     <div class="service-grid">
-      <a href="<?= base_url('/pre-wedding-shoot-locations-in-pune/') ?>" class="service-card">
-        <?= responsive_img('prewedding-couple-outdoor.webp', 'Pre-wedding shoot in Pune',
+      <a href="<?= base_url('/pre-wedding-photography-packages/') ?>" class="service-card">
+        <?= responsive_img('prewedding-couple-outdoor.webp', 'Couple holding yellow flowers at a busy flower market',
              ['width' => 500, 'height' => 625, 'sizes' => '(min-width: 900px) 33vw, (min-width: 600px) 50vw, 100vw']) ?>
         <div class="service-card-overlay"></div>
         <div class="service-card-body">
@@ -178,18 +179,18 @@
       </a>
 
       <a href="<?= base_url('/wedding-photography-packages/') ?>" class="service-card">
-        <?= responsive_img('wedding-photography-pune.webp', 'Wedding photography in Pune',
+        <?= responsive_img('wedding-photography-pune.webp', 'Maharashtrian couple in traditional wedding attire posing against a stone wall',
              ['width' => 500, 'height' => 625, 'sizes' => '(min-width: 900px) 33vw, (min-width: 600px) 50vw, 100vw']) ?>
         <div class="service-card-overlay"></div>
         <div class="service-card-body">
-          <p class="service-card-price">From ₹35,000/day</p>
+          <p class="service-card-price">From ₹35,000 per day</p>
           <h3 class="service-card-title">Wedding Photography</h3>
           <div class="service-card-bar"></div>
         </div>
       </a>
 
       <a href="<?= base_url('/engagement-photography-packages/') ?>" class="service-card">
-        <?= responsive_img('engagement-photography-pune.webp', 'Engagement photography in Pune',
+        <?= responsive_img('engagement-photography-pune.webp', 'Engaged couple in a black bandhgala and lilac gown showing their rings',
              ['width' => 500, 'height' => 625, 'sizes' => '(min-width: 900px) 33vw, (min-width: 600px) 50vw, 100vw']) ?>
         <div class="service-card-overlay"></div>
         <div class="service-card-body">
@@ -200,7 +201,7 @@
       </a>
 
       <a href="<?= base_url('/maternity-photographer-pune/') ?>" class="service-card">
-        <?= responsive_img('maternity-photographer-pune.webp', 'Maternity photographer in Pune',
+        <?= responsive_img('maternity-photographer-pune.webp', 'Expectant couple standing back to back among trees, holding hands',
              ['width' => 500, 'height' => 500, 'sizes' => '(min-width: 900px) 33vw, (min-width: 600px) 50vw, 100vw']) ?>
         <div class="service-card-overlay"></div>
         <div class="service-card-body">
@@ -211,7 +212,7 @@
       </a>
 
       <a href="<?= base_url('/baby-shower-photography-packages/') ?>" class="service-card">
-        <?= responsive_img('baby-shower-birthday-photography.webp', 'Baby shower photography Pune',
+        <?= responsive_img('baby-shower-birthday-photography.webp', 'Mother-to-be in a silk saree seated on a marigold-decorated swing',
              ['width' => 500, 'height' => 500, 'sizes' => '(min-width: 900px) 33vw, (min-width: 600px) 50vw, 100vw']) ?>
         <div class="service-card-overlay"></div>
         <div class="service-card-body">
@@ -223,7 +224,7 @@
 
       <a href="<?= base_url('/wedding-films/') ?>" class="service-card">
         <img src="<?= base_url('assets/images/mumbai-photography.webp') ?>"
-             alt="Wedding films and videography Pune" loading="lazy" width="500" height="281">
+             alt="Pilot in uniform hugging his partner holding red roses beside a small aircraft" loading="lazy" width="500" height="281">
         <div class="service-card-overlay"></div>
         <div class="service-card-body">
           <p class="service-card-price">Included in packages</p>
@@ -305,14 +306,14 @@
 <section class="section section-off">
   <div class="container">
     <div class="section-head">
-      <p class="eyebrow" style="margin-bottom:.7rem;">Check Our Videos</p>
+      <p class="eyebrow" style="margin-bottom:.7rem;">Check Out Our Videos</p>
       <div class="rule-center" style="margin-bottom:1.4rem;"></div>
     </div>
     <div class="home-video-grid">
       <?php foreach ([
         ['XT6qckzi-EE', 'Samiksha and Prakash pre wedding teaser in Pune'],
         ['RYW3sls4u-k', 'Samiksha and Prakash wedding film in Pune'],
-        ['JkHQAjEo9_0', 'Vijay and Shradda helicopter pre wedding proposal shoot'],
+        ['JkHQAjEo9_0', 'Vijay and Shraddha helicopter pre wedding proposal shoot'],
       ] as [$vid, $vtitle]): ?>
       <div class="home-video-item">
         <a class="yt-facade" href="https://www.youtube.com/watch?v=<?= $vid ?>"
@@ -355,13 +356,13 @@
         [
           'title'   => 'Pre-Wedding',
           'range'   => '₹14,999 – ₹55,555',
-          'desc'    => 'Silver, Gold & Diamond tiers. 50–300+ photos. Pune, Mumbai, Goa & outstation.',
+          'desc'    => 'Gold (₹14,999), Platinum (₹29,999) & Diamond (₹55,555). 60 to 70 edited photos. Pune, Mumbai, Goa & outstation.',
           'url'     => '/pre-wedding-photography-packages/',
           'link'    => 'View Pre-Wedding Packages',
         ],
         [
           'title'   => 'Wedding Photography',
-          'range'   => '₹35,000 – ₹75,000/day',
+          'range'   => '₹35,000 – ₹75,000 per day',
           'desc'    => 'Gold, Platinum & Diamond. Videographer included. Cinematic film in Diamond.',
           'url'     => '/wedding-photography-packages/',
           'link'    => 'View Wedding Packages',
@@ -372,6 +373,7 @@
           'range'   => '₹6,000 – ₹18,000',
           'desc'    => 'Designer gowns provided. Studio + outdoor. 30–100+ photos in 7–15 days.',
           'url'     => '/maternity-photographer-pune/',
+          'hash'    => '#packages',
           'link'    => 'View Maternity Packages',
         ],
       ] as $pkg): ?>
@@ -379,7 +381,7 @@
         <h3 style="font-family:var(--font-serif);font-size:1.35rem;color:var(--text-primary);margin:0 0 .5rem;"><?= $pkg['title'] ?></h3>
         <div style="font-family:var(--font-serif);font-size:1.6rem;color:var(--gold);margin-bottom:.75rem;"><?= $pkg['range'] ?></div>
         <p style="font-size:.84rem;color:var(--text-muted);line-height:1.78;margin-bottom:1.4rem;"><?= $pkg['desc'] ?></p>
-        <a href="<?= base_url($pkg['url']) ?>" style="font-size:.7rem;letter-spacing:.16em;text-transform:uppercase;color:var(--gold);display:inline-flex;align-items:center;gap:.4rem;transition:gap .2s;" onmouseover="this.style.gap='.7rem'" onmouseout="this.style.gap='.4rem'">
+        <a href="<?= base_url($pkg['url']) . ($pkg['hash'] ?? '') ?>" style="font-size:.7rem;letter-spacing:.16em;text-transform:uppercase;color:var(--gold);display:inline-flex;align-items:center;gap:.4rem;transition:gap .2s;" onmouseover="this.style.gap='.7rem'" onmouseout="this.style.gap='.4rem'">
           <?= $pkg['link'] ?> →
         </a>
       </div>
@@ -433,14 +435,14 @@
 
     <div class="home-offer-grid">
       <?php foreach ([
-        ['Pre-Wedding Shoot',                   'home-offer-prewedding.webp',  '/pre-wedding-shoot-locations-in-pune/'],
-        ['Couple Engagement',                    'home-offer-engagement.webp',  '/engagement-photography-packages/'],
-        ['Wedding Shoot',                        'home-offer-wedding.webp',     '/wedding-photography-packages/', 'Maharashtrian bride in pink Paithani saree and groom in pheta, wedding photography in Pune'],
-        ['Maternity Shoot',                      'home-offer-maternity.webp',   '/maternity-photographer-pune/'],
-        ['Baby Shower Shoot',                    'home-offer-babyshower.webp',  '/baby-shower-photography-packages/'],
-        ['Baby Shoot',                           'home-offer-baby.webp',        '/baby-photoshoot-pune/'],
-        ['Private Jet/Helicopter Shoot Proposal','home-offer-privatejet.webp',  '/services/'],
-        ['Fashion &amp; Retail Product Shoot',   'home-offer-fashion.webp',      '/fashion-and-product-photography/'],
+        ['Pre-Wedding Shoot',                   'home-offer-prewedding.webp',  '/pre-wedding-photography-packages/', 'Man in a naval uniform kneeling to kiss the hand of a woman in a red gown on a beach'],
+        ['Couple Engagement',                    'home-offer-engagement.webp',  '/engagement-photography-packages/', 'Close-up of a ring being slipped onto a hennaed finger at an engagement'],
+        ['Wedding Shoot',                        'home-offer-wedding.webp',     '/wedding-photography-packages/', 'Maharashtrian bride in a pink Paithani saree with the groom in a red pheta'],
+        ['Maternity Shoot',                      'home-offer-maternity.webp',   '/maternity-photographer-pune/', 'Mother-to-be sharing a high five with a friend on a flower-decked swing'],
+        ['Baby Shower Shoot',                    'home-offer-babyshower.webp',  '/baby-shower-photography-packages/', 'Expectant mother holding an Its Boy sign as her partner leaps beside a green wall'],
+        ['Baby Shoot',                           'home-offer-baby.webp',        '/baby-photoshoot-pune/', 'Smiling toddler in a hat and camouflage vest sitting among soft toys'],
+        ['Private Jet/Helicopter Proposal Shoot','home-offer-privatejet.webp',  '/services/', 'Couple walking hand in hand beside a helicopter on a helipad'],
+        ['Fashion &amp; Retail Product Shoot',   'home-offer-fashion.webp',      '/fashion-and-product-photography/', 'Performers in bunny masks and colourful fringed costumes posing at a party'],
       ] as $offer): [$title, $img, $url] = $offer; $offerAlt = isset($offer[3]) ? esc($offer[3]) : strip_tags($title); ?>
       <a href="<?= base_url($url) ?>" class="home-offer-card">
         <?php $offerDim = @getimagesize(FCPATH . 'assets/images/' . $img); ?>
@@ -496,7 +498,7 @@
 <section class="section section-white">
   <div class="container">
     <div class="section-head">
-      <p class="eyebrow" style="margin-bottom:.7rem;">Still, have a question?</p>
+      <p class="eyebrow" style="margin-bottom:.7rem;">Still have a question?</p>
       <div class="rule-center" style="margin-bottom:1.4rem;"></div>
       <h2 class="section-title">Get In Touch<br><em>With Us</em></h2>
     </div>
@@ -510,7 +512,7 @@
             <input type="text" name="name" placeholder="Name" required>
           </div>
           <div class="home-contact-field">
-            <input type="tel" name="phone" placeholder="Contact no" required>
+            <input type="tel" name="phone" placeholder="Contact No." required>
           </div>
           <div class="home-contact-field">
             <input type="email" name="email" placeholder="Email" required>
@@ -571,13 +573,15 @@
       <div class="rule-center" style="margin-bottom:1.4rem;"></div>
       <h2 class="section-title">Frequently Asked<br><em>Questions</em></h2>
     </div>
-    <?php foreach([
-      ["What's the secret to capturing that magic moment?", "I think the secret sauce that is required for your videographer to capture your wedding is for them to be Empathetic, sensitive, have strong visual and creative language, have good understanding of cluture, most important to treat your wedding with respect. We have 10 years of photography experience. we cover Destination wedding shoots in Pune, Mumbai & Goa, so experience also helps to capture magical moments in wedding & pre-wedding shoots. "],
-      ['How do you truly bring out the emotions of a wedding?', 'A wedding is a special moment for every family and friend. It’s not just about two people getting married it’s a celebration where emotions, love, and memories come together. Everyone feels connected to the couple, sharing their happiness, laughter, and tears. From heartfelt blessings to joyful celebrations, a wedding creates unforgettable bonds that last a lifetime. Emotions come from observing. and being sensitive to how other people feel. Knowing when to back off. knowing when to come closer. knowing what to capture and Knowing what the bride & Groom want to remember. '],
-      ['what is the process of creating a uniaue pre-wedding stories ?', 'Creating a unique pre-wedding story isn’t about fancy locations or expensive prewedding sets it’s about telling your story in a way that feels real and memorable. Understand the Couple’s Story, Define a Concept, Choose the Right Location & result will be memorable.'],
-    ] as [$q,$a]): ?>
-    <div class="faq-item"><button class="faq-trigger"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button><div class="faq-body"><p><?= $a ?></p></div></div>
+    <?php $faqs = [
+      ["What's the secret to capturing that magic moment?", "I think the secret sauce your videographer needs to capture your wedding is to be empathetic and sensitive, to have a strong visual and creative language, to have a good understanding of culture and, most important, to treat your wedding with respect. We have 10 years of photography experience. We cover destination wedding shoots in Pune, Mumbai &amp; Goa, and that experience helps us capture magical moments in wedding &amp; pre-wedding shoots."],
+      ['How do you truly bring out the emotions of a wedding?', 'A wedding is a special moment for every family and friend. It’s not just about two people getting married, it’s a celebration where emotions, love and memories come together. Everyone feels connected to the couple, sharing their happiness, laughter and tears. From heartfelt blessings to joyful celebrations, a wedding creates unforgettable bonds that last a lifetime. Emotions come from observing and being sensitive to how other people feel: knowing when to back off, knowing when to come closer, knowing what to capture and knowing what the bride &amp; groom want to remember.'],
+      ['What is the process of creating a unique pre-wedding story?', 'Creating a unique pre-wedding story isn’t about fancy locations or expensive pre-wedding sets, it’s about telling your story in a way that feels real and memorable. Understand the couple’s story, define a concept, choose the right location, and the result will be memorable.'],
+    ]; ?>
+    <?php foreach ($faqs as [$q, $a]): ?>
+    <div class="faq-item"><button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button><div class="faq-body"><p><?= $a ?></p></div></div>
     <?php endforeach; ?>
+    <?= \App\Libraries\PageSchema::faqScript($faqs) ?>
   </div>
 </section>
 

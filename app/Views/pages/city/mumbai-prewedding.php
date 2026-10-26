@@ -1,4 +1,4 @@
-<section class="page-hero">
+<section class="page-hero page-hero-split page-hero-card">
   <div class="page-hero-bg"></div>
   <div class="page-hero-img"><img src="<?= base_url('assets/images/prewedding-mumbai-locations.webp') ?>" width="1600" height="900" alt="Pre-Wedding Shoot<br><em>in Mumbai</em> photography" width="1920" height="700" loading="eager"></div>
   <div class="page-hero-content"><div style="max-width:820px;">
@@ -23,7 +23,7 @@
 <section class="section section-white">
   <div class="container-sm">
     <div class="section-head"><p class="eyebrow" style="margin-bottom:.7rem;">Common Questions</p><div class="rule-center" style="margin-bottom:1.4rem;"></div><h2 class="section-title">Frequently Asked <em>Questions</em></h2></div>
-    <div class="faq-item"><button class="faq-trigger"><span class="faq-q">How far is Mumbai from Pune for a shoot?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>3 hours via Mumbai–Pune Expressway. For Marine Drive sunrise shoots, we leave Pune at 4:30 AM. Full day-trip logistics handled by our team.</p></div></div><div class="faq-item"><button class="faq-trigger"><span class="faq-q">What are the best pre-wedding locations in Mumbai?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Marine Drive (sunrise), Carter Road Bandra, Film City Goregaon, Bandra-Worli Sea Link, Gateway of India, Versova Beach.</p></div></div>
+    <div class="faq-item"><button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q">How far is Mumbai from Pune for a shoot?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>3 hours via Mumbai–Pune Expressway. For Marine Drive sunrise shoots, we leave Pune at 4:30 AM. Full day-trip logistics handled by our team.</p></div></div><div class="faq-item"><button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q">What are the best pre-wedding locations in Mumbai?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Marine Drive (sunrise), Carter Road Bandra, Film City Goregaon, Bandra-Worli Sea Link, Gateway of India, Versova Beach.</p></div></div>
   </div>
 </section>
 <section style="padding:2.5rem 2.5rem;background:var(--bg-warm);border-top:1px solid var(--border-light);">

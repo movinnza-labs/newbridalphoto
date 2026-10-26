@@ -105,27 +105,27 @@
           </div>
         <?php endif; ?>
 
-        <form method="post" action="<?= base_url('/contact/send/') ?>" novalidate>
+        <form id="enquiry-form" style="scroll-margin-top:110px;" method="post" action="<?= base_url('/contact/send/') ?>">
           <?= csrf_field() ?>
           <input type="hidden" name="service" value="Contact Page">
           <div class="enquire-form-field">
-            <label class="enquire-form-label">Name *</label>
-            <input type="text" name="name" value="<?= esc(old('name')) ?>" required placeholder="Name" class="enquire-form-input">
+            <label class="enquire-form-label" for="enq-name">Name *</label>
+            <input type="text" name="name" id="enq-name" autocomplete="name" value="<?= old('name') ?>" required placeholder="Name" class="enquire-form-input">
           </div>
 
           <div class="enquire-form-field">
-            <label class="enquire-form-label">Contact no *</label>
-            <input type="tel" name="phone" value="<?= esc(old('phone')) ?>" required placeholder="Mobile Number" class="enquire-form-input">
+            <label class="enquire-form-label" for="enq-phone">Contact no *</label>
+            <input type="tel" name="phone" id="enq-phone" autocomplete="tel" value="<?= old('phone') ?>" required placeholder="Mobile Number" class="enquire-form-input">
           </div>
 
           <div class="enquire-form-field">
-            <label class="enquire-form-label">Email *</label>
-            <input type="email" name="email" value="<?= esc(old('email')) ?>" required placeholder="Email" class="enquire-form-input">
+            <label class="enquire-form-label" for="enq-email">Email *</label>
+            <input type="email" name="email" id="enq-email" autocomplete="email" value="<?= old('email') ?>" required placeholder="Email" class="enquire-form-input">
           </div>
 
           <div class="enquire-form-field">
-            <label class="enquire-form-label">Address *</label>
-            <textarea name="address" required placeholder="Address" class="enquire-form-textarea"><?= esc(old('address')) ?></textarea>
+            <label class="enquire-form-label" for="enq-address">Address *</label>
+            <textarea name="address" id="enq-address" autocomplete="street-address" required placeholder="Address" class="enquire-form-textarea"><?= old('address') ?></textarea>
           </div>
 
           <button type="submit" class="enquire-form-submit">Send</button>
@@ -237,7 +237,7 @@
        'Yes. We have offices in Pune, Mumbai and Goa, and we also cover Ahilyanagar, Nashik, Lonavala, Mahabaleshwar, Chhatrapati Sambhajinagar and other cities in Maharashtra.'],
     ] as [$q, $a]): ?>
     <div class="faq-item">
-      <button class="faq-trigger"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
+      <button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
       <div class="faq-body"><p><?= $a ?></p></div>
     </div>
     <?php endforeach; ?>
@@ -248,7 +248,7 @@
 <div class="contact-map">
   <iframe
     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3784.637!2d73.8478!3d18.4529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTjCsDI3JzEwLjQiTiA3M8KwNTAnNTIuMSJF!5e0!3m2!1sen!2sin!4v1"
-    width="100%" height="380" allowfullscreen="" loading="lazy"
+    width="1200" height="380" style="width:100%" allowfullscreen="" loading="lazy"
     referrerpolicy="no-referrer-when-downgrade" title="The Bridal Photography location map">
   </iframe>
 </div>
@@ -258,7 +258,7 @@
   <div class="container-xs cta-section-inner">
     <h2 class="cta-title">Need a Photographer?<br><em class="cta-title-em">Someone With Experience to Collaborate With?</em></h2>
     <div class="cta-buttons">
-      <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Let's Work</a>
+      <a href="#enquiry-form" class="btn btn-gold">Send an Enquiry</a>
       <a href="https://wa.me/918390367637" class="btn btn-outline-dark" target="_blank" rel="noopener">WhatsApp Us</a>
     </div>
   </div>

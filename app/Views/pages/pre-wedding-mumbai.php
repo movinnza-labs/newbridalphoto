@@ -1,19 +1,19 @@
 
-<section class="page-hero">
+<section class="page-hero page-hero-split page-hero-card">
   <div class="page-hero-bg"></div>
   <div class="page-hero-img">
     <img src="<?= base_url('assets/images/prewedding-mumbai-locations.webp') ?>"
-         alt="Pre-Wedding Shoot Locations in Mumbai - The Bridal Photography"
+         alt="Prewedding shoot in Mumbai collage with couples at the Gateway of India, a heritage building, a beach and a helicopter"
          width="1920" height="700" loading="eager" fetchpriority="high">
   </div>
   <div class="page-hero-content">
-    <div style="max-width:860px;">
+    <div class="page-hero-content-inner">
       <p class="eyebrow" style="margin-bottom:.8rem;">Pre-Wedding Photography &middot; Mumbai</p>
       <div style="width:52px;height:1px;background:linear-gradient(90deg,var(--gold),transparent);margin-bottom:1.4rem;"></div>
       <h1>Pre Wedding Shoot Locations<br><em>in Mumbai</em></h1>
       <p class="page-hero-sub">Mumbai presents itself not only as a city in flux. Its coastline, heritage buildings, forts, gardens, and hidden alleyways offer perfect settings for couples wishing to engrave memories in photographs.</p>
       <div style="display:flex;gap:1rem;flex-wrap:wrap;margin-top:1.8rem;">
-        <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Session Now!</a>
+        <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Now</a>
         <a href="tel:+918390367637" class="btn btn-white">+91 83903 67637</a>
       </div>
     </div>
@@ -76,8 +76,8 @@
 
     <!-- Images after Bandra Fort -->
     <div class="grid-2" style="gap:1rem;margin:2rem 0;">
-      <img src="<?= base_url('assets/images/mumbai-prewedding-01.webp') ?>" width="683" height="1024" alt="Pre-Wedding Shoot" loading="lazy" style="width:100%;height:auto;">
-      <img src="<?= base_url('assets/images/mumbai-prewedding-02.webp') ?>" width="683" height="1024" alt="Pre-Wedding Shoot" loading="lazy" style="width:100%;height:auto;">
+      <img src="<?= base_url('assets/images/mumbai-prewedding-01.webp') ?>" width="683" height="1024" alt="Couple posing between library bookshelves, she holding a green book" loading="lazy" style="width:100%;height:auto;">
+      <img src="<?= base_url('assets/images/mumbai-prewedding-02.webp') ?>" width="683" height="1024" alt="Couple in casual jackets leaning against an old carved wooden door" loading="lazy" style="width:100%;height:auto;">
     </div>
 
     <div class="grid-2" style="gap:2rem;">
@@ -103,7 +103,7 @@
 
     <!-- Image after Gateway -->
     <div style="margin:2rem 0;text-align:center;">
-      <img src="<?= base_url('assets/images/mumbai-prewedding-03.webp') ?>" width="1024" height="683" alt="Pre-Wedding Shoot Mumbai" loading="lazy" style="width:100%;max-width:800px;height:auto;">
+      <img src="<?= base_url('assets/images/mumbai-prewedding-03.webp') ?>" width="1024" height="683" alt="Couple embracing at sunrise in front of the Gateway of India, Mumbai" loading="lazy" style="width:100%;max-width:800px;height:auto;">
     </div>
 
     <div class="grid-2" style="gap:2rem;">
@@ -215,7 +215,7 @@
     </div>
 
     <div style="margin-bottom:2rem;text-align:center;">
-      <img src="<?= base_url('assets/images/mumbai-prewedding-04.webp') ?>" width="683" height="1024" alt="Pre-Wedding Shoot" loading="lazy" style="width:100%;max-width:500px;height:auto;">
+      <img src="<?= base_url('assets/images/mumbai-prewedding-04.webp') ?>" width="683" height="1024" alt="Couple in white ethnic wear laughing together on dark stone temple steps" loading="lazy" style="width:100%;max-width:500px;height:auto;">
     </div>
 
     <div class="grid-3" style="gap:1.5rem;">
@@ -293,8 +293,8 @@
     <div class="feature-row" style="margin-bottom:2rem;">
       <div class="feature-img-wrap">
         <div style="display:grid;grid-template-columns:1fr 1fr;gap:.5rem;">
-          <img src="<?= base_url('assets/images/mumbai-prewedding-05.webp') ?>" width="683" height="1024" alt="Pre Wedding Shoot" loading="lazy" style="width:100%;height:auto;">
-          <img src="<?= base_url('assets/images/mumbai-prewedding-06.webp') ?>" width="1024" height="683" alt="Pre Wedding Shoot" loading="lazy" style="width:100%;height:auto;">
+          <img src="<?= base_url('assets/images/mumbai-prewedding-05.webp') ?>" width="683" height="1024" alt="Couple in a hat and floral skirt kissing beside sandstone pillars on a Mumbai street" loading="lazy" style="width:100%;height:auto;">
+          <img src="<?= base_url('assets/images/mumbai-prewedding-06.webp') ?>" width="1024" height="683" alt="Couple in cream outfits painting a sunset canvas on an easel at the beach" loading="lazy" style="width:100%;height:auto;">
         </div>
       </div>
       <div>
@@ -350,7 +350,7 @@
       <p class="section-sub" style="margin-top:1rem;">Choose the combination of Pre-Wedding Photoshoot Mumbai locations that best suits your vision, your mood, and your operations. And most importantly, let your relationship, candid moments, and fun with your partner shine through in the frames - because that's really what makes a Pre-Wedding shoot.</p>
     </div>
     <div style="text-align:center;margin-top:1.5rem;">
-      <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Session Now!</a>
+      <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Now</a>
     </div>
   </div>
 </section>
@@ -363,10 +363,10 @@
       <div class="rule-center" style="margin-bottom:1.4rem;"></div>
       <h2 class="section-title">Frequently Asked <em>Questions</em></h2>
     </div>
-    <div class="faq-item"><button class="faq-trigger"><span class="faq-q">What is the best time of day for a pre wedding shoot in Mumbai?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Golden hour works best. That is the first few hours after sunrise and the last few hours before sunset, when the light is soft. Marine Drive also looks lovely after dark, when its street lights come on.</p></div></div>
-    <div class="faq-item"><button class="faq-trigger"><span class="faq-q">Which are the best pre wedding shoot locations in Mumbai?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Popular spots include Marine Drive, Bandra Fort and Bandstand, the Gateway of India, the Asiatic Library steps, Worli Sea Face, Kala Ghoda and Sanjay Gandhi National Park. For indoor themes, studios like Cine City have many ready sets.</p></div></div>
-    <div class="faq-item"><button class="faq-trigger"><span class="faq-q">Do we need permission to shoot at these locations?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Some beaches and studio sets need permission in advance. Plan ahead so there are no last minute problems on the day of the shoot.</p></div></div>
-    <div class="faq-item"><button class="faq-trigger"><span class="faq-q">Is the monsoon a good time for a pre wedding shoot in Mumbai?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Mumbai is green and fresh from June to September, but heavy rain can upset plans. If you choose the monsoon, keep a backup date and check the forecast. You can see our <a href="<?= base_url('/pre-wedding-photography-packages/') ?>" style="color:var(--gold);">pre wedding packages</a> to plan your shoot.</p></div></div>
+    <div class="faq-item"><button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q">What is the best time of day for a pre wedding shoot in Mumbai?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Golden hour works best. That is the first few hours after sunrise and the last few hours before sunset, when the light is soft. Marine Drive also looks lovely after dark, when its street lights come on.</p></div></div>
+    <div class="faq-item"><button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q">Which are the best pre wedding shoot locations in Mumbai?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Popular spots include Marine Drive, Bandra Fort and Bandstand, the Gateway of India, the Asiatic Library steps, Worli Sea Face, Kala Ghoda and Sanjay Gandhi National Park. For indoor themes, studios like Cine City have many ready sets.</p></div></div>
+    <div class="faq-item"><button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q">Do we need permission to shoot at these locations?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Some beaches and studio sets need permission in advance. Plan ahead so there are no last minute problems on the day of the shoot.</p></div></div>
+    <div class="faq-item"><button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q">Is the monsoon a good time for a pre wedding shoot in Mumbai?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Mumbai is green and fresh from June to September, but heavy rain can upset plans. If you choose the monsoon, keep a backup date and check the forecast. You can see our <a href="<?= base_url('/pre-wedding-photography-packages/') ?>" style="color:var(--gold);">pre wedding packages</a> to plan your shoot.</p></div></div>
   </div>
 </section>
 

@@ -9,7 +9,7 @@
 </section>
 <section class="section section-white">
   <div class="container">
-    <div style="display:grid;grid-template-columns:1fr 1fr;gap:3rem;">
+    <div class="faq-columns">
       <div>
         <h2 style="font-family:var(--font-serif);font-size:1.5rem;color:var(--gold);margin:0 0 1.5rem;font-weight:400;">Pricing &amp; Packages</h2>
         <?php foreach([
@@ -19,7 +19,7 @@
           ['How much does engagement photography cost?','₹7,000 (Gold), ₹22,000 (Platinum), ₹35,000 (Diamond). Also covers Roka and ring ceremonies.'],
           ['Is there a budget option under ₹10,000?','Yes - our <a href="'.base_url('/pre-wedding-shoot-pune-under-10000/').'" style="color:var(--gold);">₹9,999 package</a> includes 1 candid photographer, a 3-hour session, 35 edited photos and all raw photos the next day through a drive link.'],
         ] as [$q,$a]): ?>
-        <div class="faq-item"><button class="faq-trigger"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button><div class="faq-body"><p><?= $a ?></p></div></div>
+        <div class="faq-item"><button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button><div class="faq-body"><p><?= $a ?></p></div></div>
         <?php endforeach; ?>
       </div>
       <div>
@@ -31,7 +31,7 @@
           ['How are photos delivered?','Via a private password-protected online gallery. Download all photos in full resolution. Albums (₹400/page) and raw data (₹6,500) are available add-ons.'],
           ['When should I do my maternity shoot?','28–32 weeks is ideal. We can shoot up to 36 weeks. Book at 20 weeks to secure your preferred date and outdoor location.'],
         ] as [$q,$a]): ?>
-        <div class="faq-item"><button class="faq-trigger"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button><div class="faq-body"><p><?= $a ?></p></div></div>
+        <div class="faq-item"><button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button><div class="faq-body"><p><?= $a ?></p></div></div>
         <?php endforeach; ?>
       </div>
     </div>

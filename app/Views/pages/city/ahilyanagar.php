@@ -3,7 +3,7 @@
   <div class="page-hero-bg"></div>
   <div class="page-hero-img">
     <img src="<?= base_url('assets/images/prewedding-couple-outdoor-pune.webp') ?>"
-         alt="Professional Photoshoot in Ahilyanagar - The Bridal Photography"
+         alt="Couple in navy evening wear walking in to cold-pyro sparklers at a reception in Ahilyanagar"
          width="1920" height="700" loading="eager" fetchpriority="high">
   </div>
   <div class="page-hero-content">
@@ -45,49 +45,49 @@
     <div class="grid-3 grid-gap">
       <!-- Pre-Wedding -->
       <a href="<?= base_url('/ahilyanagar/pre-wedding-shoot/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/pune-street-3.webp') ?>" width="683" height="1024" alt="Pre-Wedding Shoot in Ahilyanagar" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/pune-street-3.webp') ?>" width="683" height="1024" alt="Couple in pink saree and Nehru jacket among flower market stalls, holding yellow gerberas" loading="lazy" class="mumbai-service-img">
         <h3 class="mumbai-service-title">Pre-Wedding Shoot in Ahilyanagar</h3>
       </a>
 
       <!-- Engagement -->
       <a href="<?= base_url('/ahilyanagar/engagement-photographers/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/engage-card-gold.webp') ?>" width="1024" height="1024" alt="Engagement Photography Packages" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/engage-card-gold.webp') ?>" width="1024" height="1024" alt="Engaged couple showing their rings, bride in lilac gown, groom in black bandhgala" loading="lazy" class="mumbai-service-img">
         <h3 class="mumbai-service-title">Engagement Photography in Ahilyanagar</h3>
       </a>
 
       <!-- Wedding -->
       <a href="<?= base_url('/ahilyanagar/wedding-photographers/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/ahily-wedding.webp') ?>" width="683" height="1024" alt="Wedding Photography in Ahilyanagar" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/ahily-wedding.webp') ?>" width="683" height="1024" alt="Couple in traditional Maharashtrian attire, red pheta and silk saree, by a stone wall" loading="lazy" class="mumbai-service-img">
         <h3 class="mumbai-service-title">Wedding Photography in Ahilyanagar</h3>
       </a>
 
       <!-- Birthday -->
       <a href="<?= base_url('/ahilyanagar/baby-photoshoot/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/ahily-birthday.webp') ?>" width="1600" height="1600" alt="Baby Photography Packages" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/ahily-birthday.webp') ?>" width="1600" height="1600" alt="Smiling baby girl in floral dress and sparkly bow headband on a garden-themed set" loading="lazy" class="mumbai-service-img">
         <h3 class="mumbai-service-title">Birthday Photoshoot in Ahilyanagar</h3>
       </a>
 
       <!-- Maternity -->
       <a href="<?= base_url('/ahilyanagar/maternity-photographer/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/ahily-maternity.webp') ?>" width="1024" height="1014" alt="Maternity Photography Packages" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/ahily-maternity.webp') ?>" width="1024" height="1014" alt="Expecting couple standing back to back holding hands, mother-to-be in a coral dress" loading="lazy" class="mumbai-service-img">
         <h3 class="mumbai-service-title">Maternity Photoshoot in Ahilyanagar</h3>
       </a>
 
       <!-- Baby -->
       <a href="<?= base_url('/ahilyanagar/baby-photoshoot/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/ahily-baby.webp') ?>" width="1024" height="1024" alt="Baby Photography Packages" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/ahily-baby.webp') ?>" width="1024" height="1024" alt="Little girl in pink and turquoise ethnic outfit holding a phone to her face" loading="lazy" class="mumbai-service-img">
         <h3 class="mumbai-service-title">Baby Photoshoot in Ahilyanagar</h3>
       </a>
 
       <!-- Newborn -->
       <a href="<?= base_url('/ahilyanagar/baby-photoshoot/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/ahily-newborn.webp') ?>" width="1024" height="1024" alt="Newborn photoshoot in Ahilyanagar" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/ahily-newborn.webp') ?>" width="1024" height="1024" alt="Laughing toddler boy in a hat sitting on a wooden stool beside a plush elephant" loading="lazy" class="mumbai-service-img">
         <h3 class="mumbai-service-title">Newborn and Baby Photoshoot in Ahilyanagar</h3>
       </a>
 
       <!-- Event -->
       <a href="<?= base_url('/ahilyanagar/corporate-event-meeting-shoot/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/ahily-event.webp') ?>" width="1024" height="683" alt="Event Photography in Ahilyanagar" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/ahily-event.webp') ?>" width="1024" height="683" alt="Guests in sunglasses playing beer pong with red cups at an outdoor party" loading="lazy" class="mumbai-service-img">
         <h3 class="mumbai-service-title">Event Photography in Ahilyanagar</h3>
       </a>
     </div>
@@ -164,7 +164,7 @@
        'You can also reach us on the phone or through our site or fill in the inquiry form and we will discuss your needs and arrange for your booking.'],
     ] as [$q,$a]): ?>
     <div class="faq-item">
-      <button class="faq-trigger"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
+      <button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
       <div class="faq-body"><p><?= $a ?></p></div>
     </div>
     <?php endforeach; ?>
@@ -192,7 +192,7 @@
   <div class="container-xs cta-section-inner">
     <h2 class="cta-title">Need a Photographer?<br><em class="cta-title-em">Someone With Experience to Collaborate With?</em></h2>
     <div class="cta-buttons">
-      <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Let's Work</a>
+      <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Contact Us</a>
       <a href="https://wa.me/918390367637" class="btn btn-outline-dark" target="_blank" rel="noopener">WhatsApp Us</a>
     </div>
   </div>

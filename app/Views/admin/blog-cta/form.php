@@ -5,7 +5,8 @@ $action = $isEdit
     ? base_url('/admin/blogs/' . $post['id'] . '/ctas/update/' . $c['id'] . '/')
     : base_url('/admin/blogs/' . $post['id'] . '/ctas/store/');
 $old = function (string $field, $default = '') use ($c) {
-    return old($field, $c[$field] ?? $default);
+    // Raw value (no escaping here); every output below escapes exactly once
+    return old($field, $c[$field] ?? $default, false);
 };
 
 // Extract H2 headings from the blog content to help the user pick an anchor

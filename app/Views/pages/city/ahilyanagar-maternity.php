@@ -1,8 +1,8 @@
 
-<section class="page-hero">
+<section class="page-hero page-hero-split page-hero-portrait">
   <div class="page-hero-bg"></div>
   <div class="page-hero-img">
-    <img src="<?= base_url('assets/images/ahily-mat-1.webp') ?>" alt="Maternity photographer in Ahilyanagar" width="1920" height="700" loading="eager" fetchpriority="high">
+    <img src="<?= base_url('assets/images/ahily-mat-1.webp') ?>" alt="Expecting mother in green saree smiling up at husband in pink kurta, Ahilyanagar maternity shoot" width="1920" height="700" loading="eager" fetchpriority="high">
   </div>
   <div class="page-hero-content">
     <div class="page-hero-content-inner">
@@ -28,9 +28,9 @@
       <p class="section-sub">Pregnancy is the most beautiful and emotional experience in life. It is the time of waiting, excitement and closeness when you are ready to bring a new life into your life. By documenting these wonderful times using professional maternity photography you will have the opportunity to keep the memories that you will have all your life. In need of a reliable maternity photographer in Ahilyanagar? The Bridal Photography will provide you with a high-quality, relaxing, and artistic maternity photoshoot experience that will be custom-made to fit the needs of a pregnant mother. In a combination of artistic imagination, precaution measures, and individualistic experience, our maternity photoshoot in Ahilyanagar sessions are devoted to the natural, relaxed, and fashionable celebration of motherhood.</p>
     </div>
     <div class="grid-3 grid-gap article-img-center">
-      <img src="<?= base_url('assets/images/ahily-mat-1.webp') ?>" width="1707" height="2560" alt="Maternity Ahilyanagar" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/ahily-mat-2.webp') ?>" width="1707" height="2560" alt="Maternity Ahilyanagar" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/ahily-mat-3.webp') ?>" width="1707" height="2560" alt="Maternity Ahilyanagar" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/ahily-mat-1.webp') ?>" width="1707" height="2560" alt="Mother-to-be in dark green saree cradling her bump beside husband in pink kurta" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/ahily-mat-2.webp') ?>" width="1707" height="2560" alt="Husband in pink kurta embracing his pregnant wife from behind, hands on her bump" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/ahily-mat-3.webp') ?>" width="1707" height="2560" alt="Pregnant woman in green saree and gold jhumkas laughing up at her husband" loading="lazy" class="feature-img-full">
     </div>
   </div>
 </section>
@@ -107,9 +107,9 @@
       <p class="section-sub section-sub-gap">Reach out to us for the availability of our best Maternity photographer in Ahilyanagar.</p>
     </div>
     <div class="maternity-gallery maternity-gallery-3col">
-      <img src="<?= base_url('assets/images/ahily-mat-4.webp') ?>" width="1703" height="2560" alt="Maternity Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-mat-5.webp') ?>" width="1703" height="2560" alt="Maternity Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-mat-6.webp') ?>" width="1703" height="2560" alt="Maternity Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-mat-4.webp') ?>" width="1703" height="2560" alt="Expecting mother in tiered pink gown and flower crown laughing with husband outdoors" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-mat-5.webp') ?>" width="1703" height="2560" alt="Parents-to-be holding tiny red baby shoes and smiling skyward under trees" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-mat-6.webp') ?>" width="1703" height="2560" alt="Couple holding hands on a tree-lined path, she in a ruffled pink maternity gown" loading="lazy" class="maternity-gallery-img">
     </div>
   </div>
 </section>
@@ -208,8 +208,8 @@
       </div>
     </div>
     <div class="grid-2 grid-gap article-img-center">
-      <img src="<?= base_url('assets/images/ahily-mat-7.webp') ?>" width="1600" height="2400" alt="Maternity Ahilyanagar" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/osho-6.webp') ?>" width="1707" height="2560" alt="Maternity Ahilyanagar" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/ahily-mat-7.webp') ?>" width="1600" height="2400" alt="Couple back to back holding Daddy To Be and Mommy To Be signs" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/osho-6.webp') ?>" width="1707" height="2560" alt="Pregnant woman in white dress and husband in green sweater carrying picnic baskets" loading="lazy" class="feature-img-full">
     </div>
   </div>
 </section>
@@ -309,7 +309,7 @@
        'The total number of final edited photographs varies depending on the package that you choose, yet all the photos are professionally edited and sent in high quality.'],
     ] as [$q,$a]): ?>
     <div class="faq-item">
-      <button class="faq-trigger"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
+      <button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
       <div class="faq-body"><p><?= $a ?></p></div>
     </div>
     <?php endforeach; ?>
@@ -329,13 +329,13 @@
       </div>
       <div class="enquire-form-card">
         <?= view("partials/form-flash") ?>
-        <form method="post" action="<?= base_url('/contact/send/') ?>" novalidate>
+        <form method="post" action="<?= base_url('/contact/send/') ?>">
           <?= csrf_field() ?>
           <input type="hidden" name="service" value="Maternity Photography Ahilyanagar">
-          <div class="enquire-form-field"><label class="enquire-form-label">Name</label><input type="text" name="name" placeholder="Name" class="enquire-form-input"></div>
-          <div class="enquire-form-field"><label class="enquire-form-label">Contact no</label><input type="tel" name="phone" placeholder="Mobile Number" class="enquire-form-input" required></div>
-          <div class="enquire-form-field"><label class="enquire-form-label">Email</label><input type="email" name="email" placeholder="Email" class="enquire-form-input"></div>
-          <div class="enquire-form-field"><label class="enquire-form-label">Address</label><textarea name="address" placeholder="Address" class="enquire-form-textarea"></textarea></div>
+          <div class="enquire-form-field"><label class="enquire-form-label" for="enq-name">Name</label><input type="text" name="name" id="enq-name" placeholder="Name" class="enquire-form-input" required autocomplete="name" value="<?= old('name') ?>"></div>
+          <div class="enquire-form-field"><label class="enquire-form-label" for="enq-phone">Contact no</label><input type="tel" name="phone" id="enq-phone" placeholder="Mobile Number" class="enquire-form-input" required autocomplete="tel" value="<?= old('phone') ?>"></div>
+          <div class="enquire-form-field"><label class="enquire-form-label" for="enq-email">Email</label><input type="email" name="email" id="enq-email" placeholder="Email" class="enquire-form-input" required autocomplete="email" value="<?= old('email') ?>"></div>
+          <div class="enquire-form-field"><label class="enquire-form-label" for="enq-address">Address</label><textarea name="address" id="enq-address" placeholder="Address" class="enquire-form-textarea" autocomplete="street-address"><?= old('address') ?></textarea></div>
           <button type="submit" class="enquire-form-submit">Send</button>
         </form>
       </div>
@@ -344,4 +344,4 @@
 </section>
 
 <section class="section-related-pages"><div class="container"><p class="eyebrow section-related-eyebrow">Related Pages</p><div class="tag-links"><a href="<?= base_url('/ahilyanagar/') ?>" class="tag-link">Ahilyanagar Hub</a><a href="<?= base_url('/ahilyanagar/pre-wedding-shoot/') ?>" class="tag-link">Pre-Wedding Shoot in Ahilyanagar</a><a href="<?= base_url('/ahilyanagar/baby-photoshoot/') ?>" class="tag-link">Baby Photoshoot</a><a href="<?= base_url('/faq/') ?>" class="tag-link">FAQ</a></div></div></section>
-<section class="cta-section"><div class="container-xs cta-section-inner"><h2 class="cta-title">Need a Photographer?<br><em class="cta-title-em">Someone With Experience to Collaborate With?</em></h2><div class="cta-buttons"><a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Let's Work</a><a href="https://wa.me/918390367637" class="btn btn-outline-dark" target="_blank" rel="noopener">WhatsApp Us</a></div></div></section>
+<section class="cta-section"><div class="container-xs cta-section-inner"><h2 class="cta-title">Need a Photographer?<br><em class="cta-title-em">Someone With Experience to Collaborate With?</em></h2><div class="cta-buttons"><a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Contact Us</a><a href="https://wa.me/918390367637" class="btn btn-outline-dark" target="_blank" rel="noopener">WhatsApp Us</a></div></div></section>

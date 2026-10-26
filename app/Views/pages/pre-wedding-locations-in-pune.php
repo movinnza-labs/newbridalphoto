@@ -1,5 +1,5 @@
 
-<section class="page-hero">
+<section class="page-hero page-hero-split page-hero-portrait">
   <div class="page-hero-bg"></div>
   <div class="page-hero-img">
     <img src="<?= base_url('assets/images/prewedding-locations-pune-2.webp') ?>"
@@ -196,7 +196,7 @@
        '2 to 3 months in advance for off-peak sessions. 4 to 6 months in advance for October to February peak season and weekend slots at Snap City. If you want to shoot at Kaas Plateau during the September to October wildflower window, book 4 months ahead as it fills completely. Call us at +91 83903 67637 to check current availability.'],
     ] as [$q,$a]): ?>
     <div class="faq-item">
-      <button class="faq-trigger"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
+      <button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
       <div class="faq-body"><p><?= $a ?></p></div>
     </div>
     <?php endforeach; ?>

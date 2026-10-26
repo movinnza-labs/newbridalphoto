@@ -3,7 +3,7 @@
   <div class="page-hero-bg"></div>
   <div class="page-hero-img">
     <img src="<?= base_url('assets/images/housewarming-hero.webp') ?>"
-         alt="Housewarming Ceremony Photography Services in Pune"
+         alt="Hillside view over a lake from a poolside terrace"
          width="1920" height="700" loading="eager" fetchpriority="high">
   </div>
   <div class="page-hero-content">
@@ -32,7 +32,7 @@
     </div>
 
     <div class="article-img-center">
-      <img src="<?= base_url('assets/images/housewarming-hero.webp') ?>" width="303" height="166" alt="Home with a view over the lake and hills" loading="lazy" class="article-img">
+      <img src="<?= base_url('assets/images/housewarming-hero.webp') ?>" width="303" height="166" alt="Infinity pool reflecting clouds, with a lake and hills beyond" loading="lazy" class="article-img">
     </div>
   </div>
 </section>
@@ -138,7 +138,7 @@
        'Yes, we can do that for you provided we are not fully booked. We prefer that you book our house warming ceremony photography in advance.'],
     ] as [$q,$a]): ?>
     <div class="faq-item">
-      <button class="faq-trigger"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
+      <button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
       <div class="faq-body"><p><?= $a ?></p></div>
     </div>
     <?php endforeach; ?>
@@ -179,24 +179,24 @@
 
       <div class="enquire-form-card">
         <?= view("partials/form-flash") ?>
-        <form method="post" action="<?= base_url('/contact/send/') ?>" novalidate>
+        <form method="post" action="<?= base_url('/contact/send/') ?>">
           <?= csrf_field() ?>
           <input type="hidden" name="service" value="Housewarming Photography">
           <div class="enquire-form-field">
-            <label class="enquire-form-label">Name</label>
-            <input type="text" name="name" placeholder="Name" class="enquire-form-input">
+            <label class="enquire-form-label" for="enq-name">Name</label>
+            <input type="text" name="name" id="enq-name" placeholder="Name" class="enquire-form-input" required autocomplete="name" value="<?= old('name') ?>">
           </div>
           <div class="enquire-form-field">
-            <label class="enquire-form-label">Contact no</label>
-            <input type="tel" name="phone" placeholder="Mobile Number" class="enquire-form-input" required>
+            <label class="enquire-form-label" for="enq-phone">Contact no</label>
+            <input type="tel" name="phone" id="enq-phone" placeholder="Mobile Number" class="enquire-form-input" required autocomplete="tel" value="<?= old('phone') ?>">
           </div>
           <div class="enquire-form-field">
-            <label class="enquire-form-label">Email</label>
-            <input type="email" name="email" placeholder="Email" class="enquire-form-input">
+            <label class="enquire-form-label" for="enq-email">Email</label>
+            <input type="email" name="email" id="enq-email" placeholder="Email" class="enquire-form-input" required autocomplete="email" value="<?= old('email') ?>">
           </div>
           <div class="enquire-form-field">
-            <label class="enquire-form-label">Address</label>
-            <textarea name="address" placeholder="Address" class="enquire-form-textarea"></textarea>
+            <label class="enquire-form-label" for="enq-address">Address</label>
+            <textarea name="address" id="enq-address" placeholder="Address" class="enquire-form-textarea" autocomplete="street-address"><?= old('address') ?></textarea>
           </div>
           <button type="submit" class="enquire-form-submit">Send</button>
         </form>
@@ -224,7 +224,7 @@
   <div class="container-xs cta-section-inner">
     <h2 class="cta-title">Need a Photographer?<br><em class="cta-title-em">Someone With Experience to Collaborate With?</em></h2>
     <div class="cta-buttons">
-      <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Let's Work</a>
+      <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Contact Us</a>
       <a href="https://wa.me/918390367637" class="btn btn-outline-dark" target="_blank" rel="noopener">WhatsApp Us</a>
     </div>
   </div>

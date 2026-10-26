@@ -1,9 +1,9 @@
 
-<section class="page-hero">
+<section class="page-hero page-hero-split">
   <div class="page-hero-bg"></div>
   <div class="page-hero-img">
     <img src="<?= base_url('assets/images/baby-shower-birthday-photography.webp') ?>"
-         alt="Baby Shower Photography Packages - The Bridal Photography"
+         alt="Mom-to-be in a pink silk saree sitting on a marigold-decorated swing at her baby shower"
          width="1920" height="700" loading="eager" fetchpriority="high">
   </div>
   <div class="page-hero-content">
@@ -11,7 +11,7 @@
       <p class="eyebrow page-hero-eyebrow">Baby Shower Photography &middot; Pune</p>
       <div class="page-hero-rule"></div>
       <h1>Baby Shower Photography<br><em>Packages in Pune</em></h1>
-      <p class="page-hero-sub">We capture your baby shower in a gentle and natural way. The rituals, the blessings and the smiles of your family are picked with care and made into photos and films that you can keep forever.</p>
+      <p class="page-hero-sub">We capture your baby shower in a gentle and natural way. The rituals, the blessings and the smiles of your family are captured with care and made into photos and films that you can keep forever.</p>
       <p class="page-hero-sub" style="margin-top:.4rem;"><strong>Starting from &#8377;6,000</strong></p>
       <div class="page-hero-buttons">
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Now</a>
@@ -25,9 +25,9 @@
 
 <div class="container quick-facts-wrap">
   <div class="quick-facts">
-    <div class="quick-fact"><p class="quick-fact-label">Gold</p><p class="quick-fact-value gold">Rs 6,000/day</p></div>
-    <div class="quick-fact"><p class="quick-fact-label">Platinum</p><p class="quick-fact-value gold">Rs 18,000/day</p></div>
-    <div class="quick-fact"><p class="quick-fact-label">Diamond</p><p class="quick-fact-value gold">Rs 28,000/day</p></div>
+    <div class="quick-fact"><p class="quick-fact-label">Gold</p><p class="quick-fact-value gold">₹6,000 per day</p></div>
+    <div class="quick-fact"><p class="quick-fact-label">Platinum</p><p class="quick-fact-value gold">₹18,000 per day</p></div>
+    <div class="quick-fact"><p class="quick-fact-label">Diamond</p><p class="quick-fact-value gold">₹28,000 per day</p></div>
     <div class="quick-fact"><p class="quick-fact-label">Coverage</p><p class="quick-fact-value">Full event</p></div>
     <div class="quick-fact"><p class="quick-fact-label">Delivery</p><p class="quick-fact-value">7 Days Drive Link</p></div>
     <div class="quick-fact"><p class="quick-fact-label">Book</p><p class="quick-fact-value gold">+91 83903 67637</p></div>
@@ -42,7 +42,7 @@
         <p class="article-text article-text-dropcap">When expecting a new addition to the family, a baby shower is a cherished celebration that brings loved ones together to express their joy and best wishes for the parents-to-be. This momentous occasion deserves to be captured beautifully, and this is where professional baby shower photographers in Pune come into play. In this article, we will explore the world of professional baby shower photoshoots and help you find the perfect photographer to capture those precious moments.</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/babyshower-intro.webp') ?>" width="1024" height="683" alt="Baby Shower Photography" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/babyshower-intro.webp') ?>" width="1024" height="683" alt="Mom-to-be holding hands with a friend in a lime green saree beside the flower swing" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>
@@ -65,17 +65,17 @@
     <div class="section-head">
       <p class="eyebrow section-head-eyebrow">Our Packages</p>
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Baby Shower Shoot Packages &amp;<br><em>Pricing</em></h2>
+      <h2 class="section-title">Packages and<br><em>Prices</em></h2>
     </div>
     <div class="pkg-grid">
       <div class="pkg-card">
-        <img src="<?= base_url('assets/images/babyshower-card-gold.webp') ?>" width="1024" height="1024" alt="Baby Shower Photography Packages" loading="lazy" class="pkg-card-img">
+        <img src="<?= base_url('assets/images/babyshower-card-gold.webp') ?>" width="1024" height="1024" alt="Husband kissing the forehead of the mom-to-be, who wears fresh flower jewellery" loading="lazy" class="pkg-card-img">
         <p class="pkg-tier">Photography</p>
         <h3 class="pkg-name">Gold</h3>
-        <div class="pkg-price">Rs. 6,000/-</div>
+        <div class="pkg-price">₹6,000</div>
         <p class="pkg-period">Per day</p>
         <ul class="pkg-features">
-          <li>Tra. Photography</li>
+          <li>Traditional Photography</li>
           <li>Professional Edited Photos (soft copy)</li>
           <li>7 Days Drive Link</li>
         </ul>
@@ -83,16 +83,16 @@
       </div>
       <div class="pkg-card featured">
         <div class="pkg-badge">Most Popular</div>
-        <img src="<?= base_url('assets/images/babyshower-card-platinum.webp') ?>" width="1024" height="1024" alt="Baby Shower Photography Packages" loading="lazy" class="pkg-card-img">
+        <img src="<?= base_url('assets/images/babyshower-card-platinum.webp') ?>" width="1024" height="1024" alt="Mom-to-be in a green saree and floral jewellery smiling with a friend in a pink saree" loading="lazy" class="pkg-card-img">
         <p class="pkg-tier">Photography &amp; Videography</p>
         <h3 class="pkg-name">Platinum</h3>
-        <div class="pkg-price">Rs. 18,000/-</div>
+        <div class="pkg-price">₹18,000</div>
         <p class="pkg-period">Per day</p>
         <ul class="pkg-features">
           <li>Candid Photography</li>
-          <li>Tra. Photography</li>
-          <li>Tra. Videography</li>
-          <li>45 Professional Edited Photos (soft copy)</li>
+          <li>Traditional Photography</li>
+          <li>Traditional Videography</li>
+          <li>45 Professionally Edited Photos (soft copy)</li>
           <li>All Photos Edited</li>
           <li>Videos Edited</li>
           <li>7 Days Drive Link</li>
@@ -100,16 +100,16 @@
         <a href="https://wa.me/918390367637" class="btn btn-gold pkg-card-btn" target="_blank" rel="noopener">Choose Plan</a>
       </div>
       <div class="pkg-card">
-        <img src="<?= base_url('assets/images/babyshower-card-diamond.webp') ?>" width="1024" height="1024" alt="Baby Shower Photography Packages" loading="lazy" class="pkg-card-img">
+        <img src="<?= base_url('assets/images/babyshower-card-diamond.webp') ?>" width="1024" height="1024" alt="Mom-to-be in a pink saree and green blouse seated on a decorated swing" loading="lazy" class="pkg-card-img">
         <p class="pkg-tier">Cinematic + Photography</p>
         <h3 class="pkg-name">Diamond</h3>
-        <div class="pkg-price">Rs. 28,000/-</div>
+        <div class="pkg-price">₹28,000</div>
         <p class="pkg-period">Per day</p>
         <ul class="pkg-features">
-          <li>Cinematic 3 min Song</li>
-          <li>Tra. Photography</li>
-          <li>Tra. Videography</li>
-          <li>45 Professional Edited Photos (soft copy)</li>
+          <li>3 to 4 minute cinematic film</li>
+          <li>Traditional Photography</li>
+          <li>Traditional Videography</li>
+          <li>45 Professionally Edited Photos (soft copy)</li>
           <li>All Photos Edited</li>
           <li>Videos Edited</li>
           <li>7 Days Drive Link</li>
@@ -134,10 +134,10 @@
       <!-- Photos -->
       <div class="card-white card-white-padded">
         <h3 class="card-white-heading-lg">Photos</h3>
-        <h4 class="card-white-subheading-gold">250 Images</h4>
+        <h4 class="card-white-subheading-gold">Edited Photos by Package</h4>
         <ul class="pkg-detail-list">
-          <li>All Photos high resolution edited images 250 Photos Number of edited images depends on event.</li>
-          <li>Images will be delivered through a cloud based password-protected online gallery which will be active for <strong>07 Days.</strong></li>
+          <li>Gold: professionally edited photos (soft copy). Platinum and Diamond: 45 professionally edited photos, plus all other photos edited, in high resolution.</li>
+          <li>Images will be delivered through a cloud-based password-protected online gallery which will be active for <strong>07 Days.</strong></li>
           <li><strong>DELIVERY TIMELINE: Edited photos 15 days</strong></li>
         </ul>
       </div>
@@ -145,26 +145,27 @@
       <!-- Videos -->
       <div class="card-white card-white-padded">
         <h3 class="card-white-heading-lg">Videos</h3>
-        <h4 class="card-white-subheading-gold">3 to 4 minute Cinematic Film</h4>
+        <h4 class="card-white-subheading-gold">3 to 4 minute cinematic film</h4>
         <ul class="pkg-detail-list">
-          <li>1 minute cinematic teaser</li>
-          <li>3 to 4 minute cinematic film</li>
-          <li>Traditional film depend on event and rituals</li>
+          <li>Edited videos with the Platinum and Diamond packages</li>
+          <li>1-minute cinematic teaser</li>
+          <li>3 to 4 minute cinematic film (Diamond)</li>
+          <li>Traditional film depends on the event and rituals</li>
           <li><strong>DELIVERY TIMELINE: Edited videos 25 days</strong></li>
-          <li><strong>Revisions: 1 round within 7 days of delivery</strong></li>
+          <li><strong>Revisions: 1 round of video changes within 7 days of delivery</strong></li>
         </ul>
       </div>
 
       <!-- Addons Table -->
       <div class="card-white card-white-padded">
-        <h3 class="card-white-heading-lg">Addons</h3>
+        <h3 class="card-white-heading-lg">Add-ons</h3>
         <table class="addons-table">
           <tbody>
-            <tr><td>Photograph</td><td>Additional Photographer</td><td>Rs. 7000/- Per Day</td></tr>
-            <tr><td>Video</td><td>Additional Videographer</td><td>Rs. 7000/- Per Day</td></tr>
-            <tr><td>Drone</td><td>Drone Pilot</td><td>Rs. 6000/- Per Day</td></tr>
-            <tr><td>Album</td><td>Album</td><td>Rs. 400/- Per page</td></tr>
-            <tr><td>Hard Drive</td><td>Raw Data with Hard Drive</td><td>Rs. 6500</td></tr>
+            <tr><td>Photo</td><td>Additional Photographer</td><td>₹7,000 per day</td></tr>
+            <tr><td>Video</td><td>Additional Videographer</td><td>₹7,000 per day</td></tr>
+            <tr><td>Drone</td><td>Drone Pilot</td><td>₹6,000 per day</td></tr>
+            <tr><td>Album</td><td>Album</td><td>₹400 per page</td></tr>
+            <tr><td>Hard Drive</td><td>Raw Data with Hard Drive</td><td>₹6,500</td></tr>
           </tbody>
         </table>
       </div>
@@ -235,7 +236,7 @@
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
         <h3 class="card-white-title lvl-h4"><strong>Memorable Moments</strong></h3>
-        <p class="card-white-text">A professional photographer ensures that every significant moment, from the joy of opening gifts to the emotions of parents, is captured beautifully.</p>
+        <p class="card-white-text">A professional photographer ensures that every significant moment, from the joy of opening gifts to the emotions of the parents, is captured beautifully.</p>
       </div>
       <div class="card-white card-white-padded-sm">
         <h3 class="card-white-title lvl-h4"><strong>High-Quality Images</strong></h3>
@@ -270,7 +271,7 @@
       </div>
       <div class="card-white card-white-padded-sm">
         <h3 class="card-white-title lvl-h4">Choosing a Theme and Location</h3>
-        <p class="card-white-text">Select a theme that reflects your style and preferences. Discuss with the photographer about the best location to bring your vision to life.</p>
+        <p class="card-white-text">Select a theme that reflects your style and preferences. Discuss the best location with the photographer to bring your vision to life.</p>
       </div>
     </div>
   </div>
@@ -285,8 +286,8 @@
     </div>
     <div class="feature-row feature-row-balanced">
       <div class="bshower-img-stack">
-        <img src="<?= base_url('assets/images/babyshower-benefit-1.webp') ?>" width="1200" height="1800" alt="Baby Shower Photography moment" loading="lazy" class="bshower-stack-img">
-        <img src="<?= base_url('assets/images/babyshower-benefit-2.webp') ?>" width="1200" height="1800" alt="Baby Shower Photography moment" loading="lazy" class="bshower-stack-img">
+        <img src="<?= base_url('assets/images/babyshower-benefit-1.webp') ?>" width="1200" height="1800" alt="Mom-to-be in a green silk saree and gold jewellery cradling her bump" loading="lazy" class="bshower-stack-img">
+        <img src="<?= base_url('assets/images/babyshower-benefit-2.webp') ?>" width="1200" height="1800" alt="Smiling mom-to-be in a green saree holding peacock feathers, eyes lowered" loading="lazy" class="bshower-stack-img">
       </div>
       <div class="grid-2 grid-gap">
         <div class="card-white card-white-padded-sm">
@@ -295,11 +296,11 @@
         </div>
         <div class="card-white card-white-padded-sm">
           <h3 class="card-white-title lvl-h4"><strong>Family Keepsakes</strong></h3>
-          <p class="card-white-text">Beautiful photos give people a chance to recall the event, this is in preparation for the camera so all friends and family can enjoy the event.</p>
+          <p class="card-white-text">Beautiful photos let you relive the day, and you can share them with friends and family who could not attend.</p>
         </div>
         <div class="card-white card-white-padded-sm">
           <h3 class="card-white-title lvl-h4"><strong>Professional Quality</strong></h3>
-          <p class="card-white-text">Precise photos of key events by professional photographers help to capture joyous emotions and positive feelings.</p>
+          <p class="card-white-text">Professional photographers capture the key moments precisely, preserving the joyous emotions and positive feelings.</p>
         </div>
         <div class="card-white card-white-padded-sm">
           <h3 class="card-white-title lvl-h4"><strong>Creative Storytelling</strong></h3>
@@ -320,8 +321,8 @@
     </div>
     <div class="feature-row reverse feature-row-balanced">
       <div class="bshower-img-stack">
-        <img src="<?= base_url('assets/images/babyshower-facility-1.webp') ?>" width="1200" height="1800" alt="Baby Shower Photography setup" loading="lazy" class="bshower-stack-img">
-        <img src="<?= base_url('assets/images/babyshower-facility-2.webp') ?>" width="1200" height="1800" alt="Baby Shower Photography setup" loading="lazy" class="bshower-stack-img">
+        <img src="<?= base_url('assets/images/babyshower-facility-1.webp') ?>" width="1200" height="1800" alt="Mom-to-be in a green saree and nose ring posing with peacock feathers" loading="lazy" class="bshower-stack-img">
+        <img src="<?= base_url('assets/images/babyshower-facility-2.webp') ?>" width="1200" height="1800" alt="Mom-to-be in a green saree seated between brass bowls of marigolds against a curtain backdrop" loading="lazy" class="bshower-stack-img">
       </div>
       <div class="bshower-card-stack">
         <div class="card-white card-white-padded-sm">
@@ -347,20 +348,20 @@
     <div class="section-head">
       <p class="eyebrow section-head-eyebrow">Our Work</p>
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Pre Baby Shower<br><em>Photography</em></h2>
+      <h2 class="section-title">Our Baby Shower<br><em>Photo Gallery</em></h2>
       <p class="section-sub">Explore our portfolio to see examples of our work and how we capture the joy and beauty of baby showers. Our photos showcase the heartfelt moments, decorations, and special interactions that make each event unique.</p>
     </div>
     <div class="maternity-gallery maternity-gallery-3col bshower-gallery">
-      <img src="<?= base_url('assets/images/bshower-gal-1.webp') ?>" width="1600" height="2400" alt="Baby Shower Photography" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/bshower-gal-2.webp') ?>" width="1600" height="2400" alt="Baby Shower Photography" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/bshower-gal-3.webp') ?>" width="1600" height="2400" alt="Baby Shower Photography" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/bshower-gal-4.webp') ?>" width="1518" height="2280" alt="Baby Shower Photography" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/bshower-gal-5.webp') ?>" width="1600" height="1067" alt="Baby Shower Photography" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/bshower-gal-6.webp') ?>" width="1600" height="1067" alt="Baby Shower Photography" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/bshower-gal-7.webp') ?>" width="1600" height="1067" alt="Baby Shower Photography" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/bshower-gal-8.webp') ?>" width="1600" height="2400" alt="Baby Shower Photography" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/bshower-gal-9.webp') ?>" width="1600" height="2400" alt="Baby Shower Photography" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/bshower-gal-10.webp') ?>" width="1600" height="2400" alt="Baby Shower Photography" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/bshower-gal-1.webp') ?>" width="1600" height="2400" alt="Husband kissing his wife's forehead as they cradle her baby bump under an arched doorway" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/bshower-gal-2.webp') ?>" width="1600" height="2400" alt="Expecting couple in teal and mint outfits smiling, she in fresh flower jewellery" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/bshower-gal-3.webp') ?>" width="1600" height="2400" alt="Mom-to-be in a pink and gold saree with a green blouse smiling over her shoulder" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/bshower-gal-4.webp') ?>" width="1518" height="2280" alt="Mom-to-be in a teal saree and flower jewellery holding her bump, eyes closed" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/bshower-gal-5.webp') ?>" width="1600" height="1067" alt="Smiling mom-to-be on a marigold-draped swing, holding a flower garland" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/bshower-gal-6.webp') ?>" width="1600" height="1067" alt="Mom-to-be and a friend in a mint saree sharing a laugh on the decorated swing" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/bshower-gal-7.webp') ?>" width="1600" height="1067" alt="Mom-to-be in a green saree and floral jewellery with a friend in pink in a garden" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/bshower-gal-8.webp') ?>" width="1600" height="2400" alt="Side profile of a mom-to-be in a green saree cradling her bare bump against a dark background" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/bshower-gal-9.webp') ?>" width="1600" height="2400" alt="Mom-to-be in a green saree sitting by brass bowls of yellow marigolds" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/bshower-gal-10.webp') ?>" width="1600" height="2400" alt="Mom-to-be in a pink saree wearing a Mom to Be badge, standing by potted palms" loading="lazy" class="maternity-gallery-img">
     </div>
   </div>
 </section>
@@ -373,21 +374,23 @@
       <div class="rule-center section-head-rule"></div>
       <h2 class="section-title">Trending Frequently Asked<br><em>Questions</em></h2>
     </div>
-    <?php foreach([
+    <?php $faqs = [
       ['What are the best locations in Pune for a baby shower photoshoot?',
        'Popular locations include private homes, elegant banquet halls, and beautiful outdoor spaces such as gardens and parks. Select a venue that will suit your theme and environment so that the guests feel relaxed.'],
       ['What is the cost of baby shower photography in Pune?',
-       'Our baby shower packages are Rs 6,000 (Gold), Rs 18,000 (Platinum) and Rs 28,000 (Diamond) per day. The price depends on the package you choose, the coverage you need and any add-ons such as an extra photographer or an album.'],
+       'Baby shower photography in Pune with us costs ₹6,000 to ₹28,000 per day: ₹6,000 (Gold), ₹18,000 (Platinum) and ₹28,000 (Diamond). The price depends on the package you choose, the coverage you need and any add-ons such as an extra photographer or an album.'],
       ['How much do you charge for a baby shower photograph?',
-       'Our baby shower photography starts from Rs 6,000 per day for the Gold package. The Platinum package (Rs 18,000) adds candid photography and videography, and the Diamond package (Rs 28,000) includes a cinematic 3 minute song along with traditional photography and videography.'],
+       'Our baby shower photography starts from ₹6,000 per day for the Gold package. The Platinum package (₹18,000 per day) adds candid photography and videography, and the Diamond package (₹28,000 per day) includes a 3 to 4 minute cinematic film along with traditional photography and videography.'],
       ['What is the best time of day for a baby shower photoshoot in Pune?',
        'It should, however, be noted that a photo shoot is preferably done when it is light in the day. Natural light in the form of morning or early afternoon is best to use as it gives good coloring to the pictures.'],
-    ] as [$q,$a]): ?>
+    ]; ?>
+    <?php foreach ($faqs as [$q, $a]): ?>
     <div class="faq-item">
-      <button class="faq-trigger"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
+      <button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
       <div class="faq-body"><p><?= $a ?></p></div>
     </div>
     <?php endforeach; ?>
+    <?= \App\Libraries\PageSchema::faqScript($faqs) ?>
   </div>
 </section>
 
@@ -404,13 +407,13 @@
       </div>
       <div class="enquire-form-card">
        <?= view("partials/form-flash") ?>
-        <form method="post" action="<?= base_url('/contact/send/') ?>" novalidate>
+        <form method="post" action="<?= base_url('/contact/send/') ?>">
           <?= csrf_field() ?>
           <input type="hidden" name="service" value="Baby Shower Photography">
-          <div class="enquire-form-field"><label class="enquire-form-label">Name</label><input type="text" name="name" placeholder="Name" class="enquire-form-input"></div>
-          <div class="enquire-form-field"><label class="enquire-form-label">Contact no</label><input type="tel" name="phone" placeholder="Mobile Number" class="enquire-form-input" required></div>
-          <div class="enquire-form-field"><label class="enquire-form-label">Email</label><input type="email" name="email" placeholder="Email" class="enquire-form-input"></div>
-          <div class="enquire-form-field"><label class="enquire-form-label">Address</label><textarea name="address" placeholder="Address" class="enquire-form-textarea"></textarea></div>
+          <div class="enquire-form-field"><label class="enquire-form-label" for="enq-name">Name</label><input type="text" name="name" id="enq-name" placeholder="Name" class="enquire-form-input" required autocomplete="name" value="<?= old('name') ?>"></div>
+          <div class="enquire-form-field"><label class="enquire-form-label" for="enq-phone">Contact no</label><input type="tel" name="phone" id="enq-phone" placeholder="Mobile Number" class="enquire-form-input" required autocomplete="tel" value="<?= old('phone') ?>"></div>
+          <div class="enquire-form-field"><label class="enquire-form-label" for="enq-email">Email</label><input type="email" name="email" id="enq-email" placeholder="Email" class="enquire-form-input" required autocomplete="email" value="<?= old('email') ?>"></div>
+          <div class="enquire-form-field"><label class="enquire-form-label" for="enq-address">Address</label><textarea name="address" id="enq-address" placeholder="Address" class="enquire-form-textarea" autocomplete="street-address"><?= old('address') ?></textarea></div>
           <button type="submit" class="enquire-form-submit">Send</button>
         </form>
       </div>
@@ -435,9 +438,9 @@
 <!-- Final CTA -->
 <section class="cta-section">
   <div class="container-xs cta-section-inner">
-    <h2 class="cta-title">Need a Photographer?<br><em class="cta-title-em">Someone With Experience to Collaborate With?</em></h2>
+    <h2 class="cta-title">Book Your Baby Shower Photographer<br><em class="cta-title-em">in Pune from ₹6,000</em></h2>
     <div class="cta-buttons">
-      <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Let's Work</a>
+      <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Contact Us</a>
       <a href="https://wa.me/918390367637" class="btn btn-outline-dark" target="_blank" rel="noopener">WhatsApp Us</a>
     </div>
   </div>

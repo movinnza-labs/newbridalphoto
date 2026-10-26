@@ -1,9 +1,9 @@
 
-<section class="page-hero">
+<section class="page-hero page-hero-split page-hero-portrait">
   <div class="page-hero-bg"></div>
   <div class="page-hero-img">
     <img src="<?= base_url('assets/images/mum-engage-1.webp') ?>"
-         alt="Engagement Photographers in Mumbai - The Bridal Photography"
+         alt="Engaged couple in a black bandhgala and lavender gown before floral decor"
          width="1920" height="700" loading="eager" fetchpriority="high">
   </div>
   <div class="page-hero-content">
@@ -33,9 +33,9 @@
     </div>
 
     <div class="grid-3 grid-gap">
-      <img src="<?= base_url('assets/images/mum-engage-1.webp') ?>" width="683" height="1024" alt="Engagement Photography Mumbai" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/mum-engage-2.webp') ?>" width="725" height="1024" alt="Engagement Photography Mumbai" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/mum-engage-3.webp') ?>" width="1600" height="2379" alt="Engagement Photography Mumbai" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mum-engage-1.webp') ?>" width="683" height="1024" alt="Smiling couple cheek to cheek as the groom holds the bride's hand" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mum-engage-2.webp') ?>" width="725" height="1024" alt="Groom kissing the bride's mehendi-covered hand as she smiles" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mum-engage-3.webp') ?>" width="1600" height="2379" alt="Bride in a lavender gown touching the groom's cheek, foreheads together" loading="lazy" class="feature-img-full">
     </div>
   </div>
 </section>
@@ -45,7 +45,7 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Expert<br><em>Photographers</em></h2>
+      <h2 class="section-title">Expert <em>Photographers</em></h2>
       <p class="section-sub">We have expert photographers with us who are experts in engagement photography. They are technically sound, creative, and committed to each session so that each click is perfect. Whether it is a traditional, candid, or cinematic photo shoot, our photographers can fulfill your needs.</p>
     </div>
   </div>
@@ -61,7 +61,7 @@
 
     <div class="feature-row feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/mum-engage-prewedding.webp') ?>" width="2560" height="2560" alt="Pre Wedding photoshoot" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/mum-engage-prewedding.webp') ?>" width="2560" height="2560" alt="Woman in a long flowing red trail gown holding hands with her partner by a lake" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text">Our pre-wedding photography service is based on the idea of the beautiful relationship and happiness between you and your fianc&eacute;. All couples are unique and thus, we spice up the sessions to be a reflection of the two of you. With a romantic shoot on the beautiful location in mind, or if you prefer to have a fun-themed session, our strategy is developed accordingly. Here at our team, we always ensure that the equipment and methods used produce the best results of your photographs.</p>
@@ -76,7 +76,7 @@
     <div class="section-head">
       <p class="eyebrow section-head-eyebrow">What We Offer</p>
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Our<br><em>Services</em></h2>
+      <h2 class="section-title">Our <em>Services</em></h2>
     </div>
 
     <div class="grid-3 grid-gap">
@@ -101,20 +101,20 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Our<br><em>Photographers</em></h2>
+      <h2 class="section-title">Our <em>Photographers</em></h2>
       <p class="section-sub">We have a professional and artistic team of Engagement Photographers in Mumbai who specialize in understanding lighting, angles, and emotions. With years of experience under their belts, they are experts at making couples feel comfortable, and thereby, natural and real moments are captured with ease.</p>
     </div>
 
     <div class="grid-3 grid-gap">
-      <img src="<?= base_url('assets/images/mum-engage-4.webp') ?>" width="683" height="1024" alt="Engagement Photography Mumbai" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/mum-engage-5.webp') ?>" width="1600" height="2400" alt="Engagement Photography Mumbai" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/mum-engage-6.webp') ?>" width="683" height="1024" alt="Engagement Photography Mumbai" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mum-engage-4.webp') ?>" width="683" height="1024" alt="Bride in a pink silk saree striking a playful pose with the groom outdoors" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mum-engage-5.webp') ?>" width="1600" height="2400" alt="Couple standing together outdoors, bride in a pink and gold silk saree" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mum-engage-6.webp') ?>" width="683" height="1024" alt="Couple nose to nose holding hands, bride wearing a jasmine gajra" loading="lazy" class="feature-img-full">
     </div>
 
     <div class="grid-3 grid-gap article-img-center">
-      <img src="<?= base_url('assets/images/mum-engage-7.webp') ?>" width="1600" height="2400" alt="Engagement Photography Mumbai" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/mum-engage-8.webp') ?>" width="1600" height="2262" alt="Engagement Photography Mumbai" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/mum-engage-9.webp') ?>" width="1600" height="2400" alt="Engagement Photography Mumbai" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mum-engage-7.webp') ?>" width="1600" height="2400" alt="Engaged couple showing their rings in front of a floral backdrop" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mum-engage-8.webp') ?>" width="1600" height="2262" alt="Bride laughing as she holds the groom's hands at the engagement" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mum-engage-9.webp') ?>" width="1600" height="2400" alt="Close-up of the couple holding up two gold engagement rings" loading="lazy" class="feature-img-full">
     </div>
   </div>
 </section>
@@ -198,7 +198,7 @@
 
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded">
-        <img src="<?= base_url('assets/images/mum-engage-1.webp') ?>" width="683" height="1024" alt="Engagement Photography Mumbai" loading="lazy" class="card-white-full-img">
+        <img src="<?= base_url('assets/images/mum-engage-1.webp') ?>" width="683" height="1024" alt="Couple in black and lavender outfits posing close together" loading="lazy" class="card-white-full-img">
         <h3 class="card-white-title">Basic Package</h3>
         <ul class="pkg-detail-list">
           <li>20 Edited Photos</li>
@@ -206,7 +206,7 @@
         </ul>
       </div>
       <div class="card-white card-white-padded">
-        <img src="<?= base_url('assets/images/mum-engage-6.webp') ?>" width="683" height="1024" alt="Engagement Photography Mumbai" loading="lazy" class="card-white-full-img">
+        <img src="<?= base_url('assets/images/mum-engage-6.webp') ?>" width="683" height="1024" alt="Bride in a pink saree and groom in a printed kurta gazing at each other" loading="lazy" class="card-white-full-img">
         <h3 class="card-white-title">Standard Package</h3>
         <ul class="pkg-detail-list">
           <li>40 Edited Photos</li>
@@ -214,7 +214,7 @@
         </ul>
       </div>
       <div class="card-white card-white-padded">
-        <img src="<?= base_url('assets/images/mum-engage-4.webp') ?>" width="683" height="1024" alt="Engagement Photography Mumbai" loading="lazy" class="card-white-full-img">
+        <img src="<?= base_url('assets/images/mum-engage-4.webp') ?>" width="683" height="1024" alt="Smiling couple in traditional outfits in a playful garden pose" loading="lazy" class="card-white-full-img">
         <h3 class="card-white-title">Premium Package</h3>
         <ul class="pkg-detail-list">
           <li>70 Edited Photos</li>
@@ -222,7 +222,7 @@
         </ul>
       </div>
       <div class="card-white card-white-padded">
-        <img src="<?= base_url('assets/images/mum-engage-2.webp') ?>" width="725" height="1024" alt="Engagement Photography Mumbai" loading="lazy" class="card-white-full-img">
+        <img src="<?= base_url('assets/images/mum-engage-2.webp') ?>" width="725" height="1024" alt="Groom in a black jacket kissing the bride's hand" loading="lazy" class="card-white-full-img">
         <h3 class="card-white-title">Luxury Package</h3>
         <ul class="pkg-detail-list">
           <li>Customized shootings with videography</li>
@@ -301,7 +301,7 @@
        'You can choose, subject to our advice, or give us a location where you prefer us to shoot.'],
     ] as [$q,$a]): ?>
     <div class="faq-item">
-      <button class="faq-trigger"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
+      <button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
       <div class="faq-body"><p><?= $a ?></p></div>
     </div>
     <?php endforeach; ?>
@@ -340,24 +340,24 @@
 
       <div class="enquire-form-card">
         <?= view("partials/form-flash") ?>
-        <form method="post" action="<?= base_url('/contact/send/') ?>" novalidate>
+        <form method="post" action="<?= base_url('/contact/send/') ?>">
           <?= csrf_field() ?>
           <input type="hidden" name="service" value="Engagement Photography Mumbai">
           <div class="enquire-form-field">
-            <label class="enquire-form-label">Name</label>
-            <input type="text" name="name" placeholder="Name" class="enquire-form-input">
+            <label class="enquire-form-label" for="enq-name">Name</label>
+            <input type="text" name="name" id="enq-name" placeholder="Name" class="enquire-form-input" required autocomplete="name" value="<?= old('name') ?>">
           </div>
           <div class="enquire-form-field">
-            <label class="enquire-form-label">Contact no</label>
-            <input type="tel" name="phone" placeholder="Mobile Number" class="enquire-form-input" required>
+            <label class="enquire-form-label" for="enq-phone">Contact no</label>
+            <input type="tel" name="phone" id="enq-phone" placeholder="Mobile Number" class="enquire-form-input" required autocomplete="tel" value="<?= old('phone') ?>">
           </div>
           <div class="enquire-form-field">
-            <label class="enquire-form-label">Email</label>
-            <input type="email" name="email" placeholder="Email" class="enquire-form-input">
+            <label class="enquire-form-label" for="enq-email">Email</label>
+            <input type="email" name="email" id="enq-email" placeholder="Email" class="enquire-form-input" required autocomplete="email" value="<?= old('email') ?>">
           </div>
           <div class="enquire-form-field">
-            <label class="enquire-form-label">Address</label>
-            <textarea name="address" placeholder="Address" class="enquire-form-textarea"></textarea>
+            <label class="enquire-form-label" for="enq-address">Address</label>
+            <textarea name="address" id="enq-address" placeholder="Address" class="enquire-form-textarea" autocomplete="street-address"><?= old('address') ?></textarea>
           </div>
           <button type="submit" class="enquire-form-submit">Send</button>
         </form>
@@ -382,7 +382,7 @@
   <div class="container-xs cta-section-inner">
     <h2 class="cta-title">Need a Photographer?<br><em class="cta-title-em">Someone With Experience to Collaborate With?</em></h2>
     <div class="cta-buttons">
-      <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Let's Work</a>
+      <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Contact Us</a>
       <a href="https://wa.me/918390367637" class="btn btn-outline-dark" target="_blank" rel="noopener">WhatsApp Us</a>
     </div>
   </div>

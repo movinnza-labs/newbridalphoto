@@ -3,13 +3,17 @@
   <div class="page-hero-bg"></div>
   <div class="page-hero-img">
     <img src="<?= base_url('assets/images/prewedding-couple-outdoor-pune.webp') ?>"
-         alt="About The Bridal Photography - Pune & Mumbai" width="1920" height="700" loading="eager" fetchpriority="high">
+         alt="Couple in evening wear making their entry amid cold-pyro sparklers at a reception" width="1920" height="700" loading="eager" fetchpriority="high">
   </div>
   <div class="page-hero-content">
     <div style="max-width:820px;">
       <p class="eyebrow" style="margin-bottom:.8rem;">The Bridal Photography</p>
       <div style="width:52px;height:1px;background:linear-gradient(90deg,var(--gold),transparent);margin-bottom:1.4rem;"></div>
       <h1>About Us</h1>
+      <div class="page-hero-buttons">
+        <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Contact Us</a>
+        <a href="<?= base_url('/services/') ?>" class="btn btn-white">View Our Services</a>
+      </div>
     </div>
   </div>
 </section>
@@ -23,7 +27,7 @@
     <div class="services-split">
       <div class="services-split-img">
         <img src="<?= base_url('assets/images/about-who-we-are.webp') ?>" width="1024" height="564"
-             alt="The Bridal Photography team" loading="lazy">
+             alt="Man in a naval uniform kneeling to kiss the hand of a woman in a flowing red gown on a beach" loading="lazy">
       </div>
       <div class="services-split-text">
         <p class="eyebrow" style="margin-bottom:.7rem;">Who We Are</p>
@@ -42,7 +46,7 @@
     <div class="services-split alt">
       <div class="services-split-img">
         <img src="<?= base_url('assets/images/about-wedding-story.webp') ?>" width="900" height="600"
-             alt="Creating timeless wedding stories" loading="lazy">
+             alt="Smiling bride and groom touching foreheads in front of a marigold backdrop" loading="lazy">
       </div>
       <div class="services-split-text">
         <p class="eyebrow" style="margin-bottom:.7rem;">Creating Stories</p>
@@ -61,7 +65,7 @@
     <div class="services-split">
       <div class="services-split-img">
         <img src="<?= base_url('assets/images/about-candid-moments.webp') ?>" width="1024" height="576"
-             alt="Candid wedding photography moments" loading="lazy">
+             alt="Pilot in uniform hugging his partner holding red roses beside a small aircraft" loading="lazy">
       </div>
       <div class="services-split-text">
         <p>Our team of experienced and passionate photographers specializes in capturing the candid moments, the stolen glances, and the genuine emotions that make your wedding day truly unforgettable. We believe that the real beauty lies in the unscripted moments – the laughter, the tears, and the heartfelt embraces shared between you and your loved ones.</p>
@@ -78,7 +82,7 @@
     <div class="services-split alt">
       <div class="services-split-img">
         <img src="<?= base_url('assets/images/wedding-photography-pune.webp') ?>" width="683" height="1024"
-             alt="Wedding photography story - candid moments" loading="lazy">
+             alt="Maharashtrian couple in traditional wedding attire leaning against a stone wall" loading="lazy">
       </div>
       <div class="services-split-text">
         <p class="eyebrow" style="margin-bottom:.7rem;">The Story Begins</p>
@@ -93,10 +97,10 @@
 <!-- ══ QUOTE GALLERY ═════════════════════════════════════════════ -->
 <section class="section section-off">
   <div class="container">
-    <div class="about-quote-gallery" style="display:grid;grid-template-columns:1fr 1fr;gap:2rem;align-items:center;">
+    <div class="about-quote-gallery about-quote-gallery-two">
       <div class="about-quote-gallery-img" style="height:480px;overflow:hidden;border-radius:6px;">
         <img src="<?= base_url('assets/images/about-gallery-1.webp') ?>" width="479" height="1024"
-             alt="Pre wedding gallery"
+             alt="Couple embracing in the surf on a beach under a cloudy sky"
              loading="lazy"
              style="width:100%;height:100%;object-fit:cover;display:block;">
       </div>
@@ -131,7 +135,7 @@
     </div>
     <div class="about-team-photo">
       <img src="<?= base_url('assets/images/about-meet-our-team.webp') ?>" width="1600" height="1067"
-           alt="The Bridal Photography team - Pune, Mumbai, Goa, Ahilyanagar" loading="lazy">
+           alt="The Bridal Photography team with a couple in front of a helicopter on a helipad" loading="lazy">
     </div>
   </div>
 </section>

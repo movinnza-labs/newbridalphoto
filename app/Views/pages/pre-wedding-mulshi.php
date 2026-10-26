@@ -1,9 +1,9 @@
 
-<section class="page-hero">
+<section class="page-hero page-hero-split page-hero-card">
   <div class="page-hero-bg"></div>
   <div class="page-hero-img">
     <img src="<?= base_url('assets/images/mulshi-hero.webp') ?>"
-         alt="Capturing Love in the Serenity of Mulshi"
+         alt="Mulshi: A Pre-Wedding Paradise banner with a couple in white posing among the Mulshi hills"
          width="1920" height="700" loading="eager" fetchpriority="high">
   </div>
   <div class="page-hero-content">
@@ -56,7 +56,7 @@
     <!-- The Romantic Backdrop -->
     <div class="feature-row feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/mulshi-backdrop.webp') ?>" width="1024" height="683" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/mulshi-backdrop.webp') ?>" width="1024" height="683" alt="Couple in white framed by out-of-focus leaves on a hilltop in Mulshi" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <h3 class="article-heading">The Romantic Backdrop</h3>
@@ -77,8 +77,8 @@
     <p class="article-text">Mulshi is a treasure trove of picturesque spots that serve as the perfect canvas for your pre-wedding photoshoot. From the quaint villages and charming cottages to the lush meadows and ancient forts, Mulshi offers a diverse range of settings to suit every couple's unique style. The rustic charm of the local architecture, coupled with the untouched natural beauty, provides a stunning backdrop for capturing the essence of your love story.</p>
 
     <div class="grid-2 grid-gap article-img-center">
-      <img src="<?= base_url('assets/images/mulshi-locations-1.webp') ?>" width="1600" height="1067" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/mulshi-locations-2.webp') ?>" width="1600" height="1067" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mulshi-locations-1.webp') ?>" width="1600" height="1067" alt="Couple sharing a pink umbrella on a picnic mat with Mulshi hills behind" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mulshi-locations-2.webp') ?>" width="1600" height="1067" alt="Couple sitting back to back on a picnic blanket below green hills" loading="lazy" class="feature-img-full">
     </div>
   </div>
 </section>
@@ -94,9 +94,9 @@
     <p class="article-text">As the sun sets over Mulshi, the sky transforms into a canvas of warm hues, casting a golden glow over the landscape. Seize the opportunity to capture the intimate moments between you and your partner during this magical hour. The soft, warm light creates a romantic ambiance, turning every photograph into a work of art that narrates your love story with every glance and touch.</p>
 
     <div class="grid-3 grid-gap article-img-center">
-      <img src="<?= base_url('assets/images/mulshi-sunset-1.webp') ?>" width="1600" height="2400" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/mulshi-sunset-2.webp') ?>" width="1600" height="1067" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/mulshi-sunset-3.webp') ?>" width="1600" height="1067" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mulshi-sunset-1.webp') ?>" width="1600" height="2400" alt="Woman in white resting her head on her partner's chest, eyes closed" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mulshi-sunset-2.webp') ?>" width="1600" height="1067" alt="Couple having a playful pillow fight on a hilltop picnic in Mulshi" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mulshi-sunset-3.webp') ?>" width="1600" height="1067" alt="Couple posing with a red and white sports motorbike against misty hills" loading="lazy" class="feature-img-full">
     </div>
   </div>
 </section>
@@ -116,9 +116,9 @@
     </div>
 
     <div class="grid-3 grid-gap article-img-center">
-      <img src="<?= base_url('assets/images/mulshi-guide-1.webp') ?>" width="1600" height="1067" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/mulshi-guide-2.webp') ?>" width="1600" height="2400" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/mulshi-guide-3.webp') ?>" width="1600" height="1067" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mulshi-guide-1.webp') ?>" width="1600" height="1067" alt="Couple holding hands and dancing at a fenced hilltop viewpoint" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mulshi-guide-2.webp') ?>" width="1600" height="2400" alt="Couple twirling hand in hand below a rocky peak, framed by bare branches" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mulshi-guide-3.webp') ?>" width="1600" height="1067" alt="Smiling woman with her arms wrapped around her partner's neck" loading="lazy" class="feature-img-full">
     </div>
   </div>
 </section>
@@ -134,7 +134,7 @@
     <p class="article-text">Mulshi offers a refreshing break from the conventional pre-wedding photoshoot locations. The rustic charm of the local villages, coupled with the untouched natural beauty, provides a unique and intimate setting that stands out from the typical urban or beachside shoots. Couples can embrace the extraordinary and create a pre-wedding album that reflects their distinct love story.</p>
 
     <div class="article-img-center">
-      <img src="<?= base_url('assets/images/mulshi-escape.webp') ?>" width="1024" height="683" alt="Capturing Love in the Serenity of Mulshi" loading="lazy" class="article-img">
+      <img src="<?= base_url('assets/images/mulshi-escape.webp') ?>" width="1024" height="683" alt="Couple sitting on a rock ledge overlooking a deep valley in Mulshi" loading="lazy" class="article-img">
     </div>
   </div>
 </section>
@@ -171,7 +171,7 @@
   <div class="container-xs cta-section-inner">
     <h2 class="cta-title">Need a Photographer?<br><em class="cta-title-em">Someone With Experience to Collaborate With?</em></h2>
     <div class="cta-buttons">
-      <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Let's Work</a>
+      <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Contact Us</a>
       <a href="https://wa.me/918390367637" class="btn btn-outline-dark" target="_blank" rel="noopener">WhatsApp Us</a>
     </div>
   </div>

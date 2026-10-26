@@ -3,7 +3,7 @@
   <div class="page-hero-bg"></div>
   <div class="page-hero-img">
     <img src="<?= base_url('assets/images/svc-wedding.webp') ?>"
-         alt="Bridal Photoshoot Services in Pune - The Bridal Photography"
+         alt="Smiling bride and groom in floral garlands under a marigold wedding mandap"
          width="1920" height="700" loading="eager" fetchpriority="high">
   </div>
   <div class="page-hero-content">
@@ -28,7 +28,7 @@
   <div class="container">
     <div class="feature-row feature-row-spaced feature-row-svc">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/svc-wedding.webp') ?>" width="900" height="600" alt="Wedding Photography" loading="lazy" class="svc-round-img">
+        <img src="<?= base_url('assets/images/svc-wedding.webp') ?>" width="900" height="600" alt="Bride in a red saree and groom in a white turban laughing during their wedding rituals" loading="lazy" class="svc-round-img">
       </div>
       <div>
         <h2 class="article-heading">Wedding Photography</h2>
@@ -44,7 +44,7 @@
   <div class="container">
     <div class="feature-row reverse feature-row-spaced feature-row-svc">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/svc-prewedding.webp') ?>" width="1024" height="683" alt="Pre-Wedding Shoot" loading="lazy" class="svc-round-img">
+        <img src="<?= base_url('assets/images/svc-prewedding.webp') ?>" width="1024" height="683" alt="Baby girl in a pink headband kissing a pink teddy bear on the grass" loading="lazy" class="svc-round-img">
       </div>
       <div>
         <h2 class="article-heading">Pre-Wedding Shoot</h2>
@@ -76,7 +76,7 @@
   <div class="container">
     <div class="feature-row reverse feature-row-spaced feature-row-svc">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/svc-destination.webp') ?>" width="2560" height="2560" alt="Destination Wedding Shoot" loading="lazy" class="svc-round-img">
+        <img src="<?= base_url('assets/images/svc-destination.webp') ?>" width="2560" height="2560" alt="Laughing couple riding an orange Vespa scooter in front of a teal wall" loading="lazy" class="svc-round-img">
       </div>
       <div>
         <h2 class="article-heading">Destination Wedding Shoot</h2>
@@ -92,7 +92,7 @@
   <div class="container">
     <div class="feature-row feature-row-spaced feature-row-svc">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/svc-fashion.webp') ?>" width="1000" height="667" alt="Fashion Portfolio Shoot" loading="lazy" class="svc-round-img">
+        <img src="<?= base_url('assets/images/svc-fashion.webp') ?>" width="1000" height="667" alt="Model in a houndstooth suit and wide-brimmed hat posing in dramatic studio light" loading="lazy" class="svc-round-img">
       </div>
       <div>
         <h2 class="article-heading">Fashion Portfolio Shoot</h2>
@@ -108,7 +108,7 @@
   <div class="container">
     <div class="feature-row reverse feature-row-spaced feature-row-svc">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/svc-corporate.webp') ?>" width="2560" height="1707" alt="Corporate Events Shoot" loading="lazy" class="svc-round-img">
+        <img src="<?= base_url('assets/images/svc-corporate.webp') ?>" width="2560" height="1707" alt="Singer performing with a microphone amid pink and orange light trails" loading="lazy" class="svc-round-img">
       </div>
       <div>
         <h2 class="article-heading">Corporate Events Shoot</h2>
@@ -124,7 +124,7 @@
   <div class="container">
     <div class="feature-row feature-row-spaced feature-row-svc">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/svc-maternity.webp') ?>" width="900" height="600" alt="Maternity Shoot" loading="lazy" class="svc-round-img">
+        <img src="<?= base_url('assets/images/svc-maternity.webp') ?>" width="900" height="600" alt="Expectant mother lying on the grass with baby shoes resting on her bump" loading="lazy" class="svc-round-img">
       </div>
       <div>
         <h2 class="article-heading">Maternity Shoot</h2>
@@ -140,7 +140,7 @@
   <div class="container">
     <div class="feature-row reverse feature-row-spaced feature-row-svc">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/svc-baby.webp') ?>" width="1600" height="1600" alt="Baby Photoshoot" loading="lazy" class="svc-round-img">
+        <img src="<?= base_url('assets/images/svc-baby.webp') ?>" width="1600" height="1600" alt="Bride in a pink saree resting her head on the groom's shoulder in a red pheta" loading="lazy" class="svc-round-img">
       </div>
       <div>
         <h2 class="article-heading">Baby Photoshoot</h2>
@@ -156,7 +156,7 @@
   <div class="container">
     <div class="feature-row feature-row-spaced feature-row-svc">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/svc-babyshower.webp') ?>" width="1600" height="1600" alt="Baby Shower Photoshoot" loading="lazy" class="svc-round-img">
+        <img src="<?= base_url('assets/images/svc-babyshower.webp') ?>" width="1600" height="1600" alt="Mother-to-be in a pink silk saree seated on a marigold-decorated swing at her baby shower" loading="lazy" class="svc-round-img">
       </div>
       <div>
         <h2 class="article-heading">Baby Shower Photoshoot</h2>
@@ -172,7 +172,7 @@
   <div class="container">
     <div class="feature-row reverse feature-row-spaced feature-row-svc">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/svc-event.webp') ?>" width="2560" height="1706" alt="Event Shoot" loading="lazy" class="svc-round-img">
+        <img src="<?= base_url('assets/images/svc-event.webp') ?>" width="2560" height="1706" alt="Guests playing table football under a decorated pergola at an outdoor party" loading="lazy" class="svc-round-img">
       </div>
       <div>
         <h2 class="article-heading">Event Shoot</h2>
@@ -288,9 +288,9 @@
     </div>
 
     <div class="grid-3 grid-gap">
-      <img src="<?= base_url('assets/images/svc-gallery-1.webp') ?>" width="1024" height="473" alt="Pre-Wedding Shoot" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/svc-gallery-2.webp') ?>" width="1024" height="473" alt="Couple Engagement" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/svc-gallery-3.webp') ?>" width="1024" height="473" alt="Maharashtrian bride in pink Paithani saree and groom in pheta" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/svc-gallery-1.webp') ?>" width="1024" height="473" alt="Man in a naval uniform kneeling to kiss the hand of a woman in a flowing red gown on a beach" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/svc-gallery-2.webp') ?>" width="1024" height="473" alt="Close-up of a ring being placed on the bride's hennaed finger at an engagement" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/svc-gallery-3.webp') ?>" width="1024" height="473" alt="Smiling Maharashtrian bride in a pink saree with the groom holding a sword behind her" loading="lazy" class="feature-img-full">
     </div>
   </div>
 </section>
@@ -304,15 +304,15 @@
     </div>
 
     <div class="maternity-gallery maternity-gallery-3col">
-      <img src="<?= base_url('assets/images/svc-gallery-4.webp') ?>" width="600" height="300" alt="Wedding Story" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/svc-gallery-5.webp') ?>" width="600" height="300" alt="Maternity Shoot" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/svc-gallery-6.webp') ?>" width="1024" height="473" alt="Baby Shower" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/svc-gallery-7.webp') ?>" width="1024" height="488" alt="Baby Shoot" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/svc-gallery-4.webp') ?>" width="600" height="300" alt="Groom lifted on friends' shoulders under blue stage lights at a wedding party" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/svc-gallery-5.webp') ?>" width="600" height="300" alt="Expectant mother holding an 'Its Boy' sign as her partner leaps beside a green wall" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/svc-gallery-6.webp') ?>" width="1024" height="473" alt="Mother-to-be sharing a high five with a friend on a flower-decked baby shower swing" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/svc-gallery-7.webp') ?>" width="1024" height="488" alt="Smiling toddler in a hat and camouflage vest sitting among soft toys outdoors" loading="lazy" class="maternity-gallery-img">
       <img src="<?= base_url('assets/images/svc-gallery-8.webp') ?>" width="600" height="300" alt="Group photo of guests on stage at a felicitation event" loading="lazy" class="maternity-gallery-img">
       <img src="<?= base_url('assets/images/svc-gallery-9.webp') ?>" width="600" height="300" alt="Couple walking hand in hand beside a helicopter on a helipad" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/svc-gallery-10.webp') ?>" width="600" height="300" alt="Fashion Retail" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/svc-gallery-11.webp') ?>" width="600" height="250" alt="Event Decor" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/svc-gallery-12.webp') ?>" width="600" height="300" alt="Corporate Profiling" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/svc-gallery-10.webp') ?>" width="600" height="300" alt="Performers in bunny masks and colourful fringed costumes posing at a party" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/svc-gallery-11.webp') ?>" width="600" height="250" alt="Couple on a glowing stage with dramatic purple lighting and candle decor" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/svc-gallery-12.webp') ?>" width="600" height="300" alt="Friends playing beer pong at an outdoor party on a sunny day" loading="lazy" class="maternity-gallery-img">
     </div>
   </div>
 </section>
@@ -349,24 +349,24 @@
 
       <div class="enquire-form-card">
         <?= view("partials/form-flash") ?>
-        <form method="post" action="<?= base_url('/contact/send/') ?>" novalidate>
+        <form method="post" action="<?= base_url('/contact/send/') ?>">
           <?= csrf_field() ?>
           <input type="hidden" name="service" value="Photography Services">
           <div class="enquire-form-field">
-            <label class="enquire-form-label">Name</label>
-            <input type="text" name="name" placeholder="Name" class="enquire-form-input">
+            <label class="enquire-form-label" for="enq-name">Name</label>
+            <input type="text" name="name" id="enq-name" placeholder="Name" class="enquire-form-input" required autocomplete="name" value="<?= old('name') ?>">
           </div>
           <div class="enquire-form-field">
-            <label class="enquire-form-label">Contact no</label>
-            <input type="tel" name="phone" placeholder="Mobile Number" class="enquire-form-input" required>
+            <label class="enquire-form-label" for="enq-phone">Contact no</label>
+            <input type="tel" name="phone" id="enq-phone" placeholder="Mobile Number" class="enquire-form-input" required autocomplete="tel" value="<?= old('phone') ?>">
           </div>
           <div class="enquire-form-field">
-            <label class="enquire-form-label">Email</label>
-            <input type="email" name="email" placeholder="Email" class="enquire-form-input">
+            <label class="enquire-form-label" for="enq-email">Email</label>
+            <input type="email" name="email" id="enq-email" placeholder="Email" class="enquire-form-input" required autocomplete="email" value="<?= old('email') ?>">
           </div>
           <div class="enquire-form-field">
-            <label class="enquire-form-label">Address</label>
-            <textarea name="address" placeholder="Address" class="enquire-form-textarea"></textarea>
+            <label class="enquire-form-label" for="enq-address">Address</label>
+            <textarea name="address" id="enq-address" placeholder="Address" class="enquire-form-textarea" autocomplete="street-address"><?= old('address') ?></textarea>
           </div>
           <button type="submit" class="enquire-form-submit">Send</button>
         </form>
@@ -395,7 +395,7 @@
   <div class="container-xs cta-section-inner">
     <h2 class="cta-title">Need a Photographer?<br><em class="cta-title-em">Someone With Experience to Collaborate With?</em></h2>
     <div class="cta-buttons">
-      <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Let's Work</a>
+      <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Contact Us</a>
       <a href="https://wa.me/918390367637" class="btn btn-outline-dark" target="_blank" rel="noopener">WhatsApp Us</a>
     </div>
   </div>

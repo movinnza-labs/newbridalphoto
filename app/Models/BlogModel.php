@@ -54,12 +54,17 @@ class BlogModel extends Model
                     ->findAll($limit);
     }
 
-    public function getByCategory(string $cat, int $limit = 9): array
+    public function getByCategory(string $cat, int $limit = 9, int $offset = 0): array
     {
         return $this->where('status', 'published')
                     ->where('category', $cat)
                     ->orderBy('published_at', 'DESC')
-                    ->findAll($limit);
+                    ->findAll($limit, $offset);
+    }
+
+    public function getCategoryCount(string $cat): int
+    {
+        return $this->where('status', 'published')->where('category', $cat)->countAllResults();
     }
 
     public function getBySlug(string $slug): ?array

@@ -389,6 +389,9 @@ foreach ([
     $routes->get($from, static fn () => redirect()->to($to, 301));
 }
 
+// SEO audit 23 Oct 2026: old WordPress category archives (/category/photography/) still show in Google
+$routes->get('/category/(:any)', static fn () => redirect()->to('/blog/', 301));
+
 // ── ADMIN ──────────────────────────────────────────────────────────────────
 // Login / logout are public; everything else under /admin/ needs a logged-in admin
 $routes->get('admin/login/',  'Admin\Auth::login');

@@ -3,7 +3,7 @@
   <div class="page-hero-bg"></div>
   <div class="page-hero-img">
     <img src="<?= base_url('assets/images/baby-photoshoot-in-pune.webp') ?>"
-         alt="Baby Photoshoot in Pune - The Bridal Photography"
+         alt="Smiling baby boy in a brown hat on a wooden stool beside stuffed toys at an outdoor shoot in Pune"
          width="1920" height="700" loading="eager" fetchpriority="high">
   </div>
   <div class="page-hero-content">
@@ -44,7 +44,7 @@
         <p class="article-text article-text-gap">Photography sessions are carefully arranged in order to keep the baby comfortable and parents at ease. Our baby photographers Pune specialize in natural expressions, creative props, artistic themes and emotion centred family sessions that documents memories that will last a lifetime. We provide baby photoshoots across Baner, Wakad, Kharadi, Hinjewadi, talegaon, wagholi, bhor, vellha, hadapsar, magarpatta city kothrud and all Pune locations.</p>
       </div>
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/baby-shoot-pune.webp') ?>" width="1600" height="1318" alt="Baby Photoshoot Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/baby-shoot-pune.webp') ?>" width="1600" height="1318" alt="Laughing baby girl in a tutu sitting in a wicker basket before a teepee and ONE sign" loading="lazy" class="feature-img-full">
       </div>
     </div>
   </div>
@@ -59,7 +59,7 @@
     </div>
     <div class="feature-row feature-row-balanced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/baby-photoshoot-with-parents.webp') ?>" width="1600" height="1035" alt="Indoor Baby Shoot with Parents" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/baby-photoshoot-with-parents.webp') ?>" width="1600" height="1035" alt="Parents with their son at an outdoor cake smash beside a toy car and ONE sign" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text">Yes, parents can join indoor baby shoots in our Katraj studio for family portraits. The beauty of a baby photoshoot is that if parents are part of those memories, it makes all the more sense. We recommend mom &amp; dad to be a part of the session for emotional family portraits that beautifully highlights your bond with the child.</p>
@@ -86,7 +86,7 @@
     </div>
     <div class="feature-row reverse feature-row-balanced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/baby-shoot-themes.webp') ?>" width="1600" height="1199" alt="Indoor Baby Shoot Studio Themes" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/baby-shoot-themes.webp') ?>" width="1600" height="1199" alt="Baby girl in a floral dress on a garden-themed studio set with mint crates and ONE letters" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text">We have a theme based indoor baby photography studio in Katraj specially created for creative baby photoshoots. Shooting indoors in a studio has become very popular.</p>
@@ -124,7 +124,7 @@
     </div>
     <div class="feature-row feature-row-balanced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/best-baby-photoshoot.webp') ?>" width="1600" height="1082" alt="Outdoor Baby Photoshoot" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/best-baby-photoshoot.webp') ?>" width="1600" height="1082" alt="Baby girl in a teal dress and bow headband sitting on a fur seat among wrapped gifts" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text">Outdoor baby shoots are done at garden locations across Pune &amp; PCMC, and we carry props and setups with no travel charges. Outdoors gets natural light, greenery, non posed photo opportunities and beautiful family interactions. Outdoor shoots are ideal for:</p>
@@ -207,7 +207,7 @@
     </div>
 
     <div class="section-head section-head-gap">
-      <h2 class="section-title">We<br><em>carry:</em></h2>
+      <h2 class="section-title">We <em>carry:</em></h2>
     </div>
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
@@ -246,8 +246,8 @@
     </div>
     <div class="feature-row feature-row-balanced">
       <div class="bshower-img-stack">
-        <img src="<?= base_url('assets/images/new-born-baby-shoot.webp') ?>" width="1600" height="2400" alt="Newborn Baby Photography" loading="lazy" class="bshower-stack-img">
-        <img src="<?= base_url('assets/images/one-month-baby-shoot.webp') ?>" width="1600" height="2400" alt="One Month Baby Shoot" loading="lazy" class="bshower-stack-img">
+        <img src="<?= base_url('assets/images/new-born-baby-shoot.webp') ?>" width="1600" height="2400" alt="Sleeping newborn wrapped in a soft wrap with a cap, round glasses and a bow tie" loading="lazy" class="bshower-stack-img">
+        <img src="<?= base_url('assets/images/one-month-baby-shoot.webp') ?>" width="1600" height="2400" alt="Smiling sleeping baby in a yellow bodysuit lying in a wicker basket with flowers" loading="lazy" class="bshower-stack-img">
       </div>
       <div>
         <p class="article-text">The best time for a newborn photoshoot is when the baby is 5 to 14 days old, as babies sleep deeply and can be gently posed in wrapped poses. This is different from the best age for other baby shoots: milestone shoots work best at 6 to 12 months, and pre-birthday or cake smash shoots at around 11 months.</p>
@@ -267,7 +267,7 @@
     </div>
     <div class="feature-row reverse feature-row-balanced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/baby-shoot.webp') ?>" width="1600" height="2400" alt="6 Month Baby Photoshoot" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/baby-shoot.webp') ?>" width="1600" height="2400" alt="Sleeping baby with a purple flower crown in a white heart-shaped bowl" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text">A 6 months baby is the cutest age for pictures. This is the stage when babies will sit with support and smile, and look playful. The highlights of our 6 month baby photoshoot sessions are:</p>
@@ -293,7 +293,7 @@
     </div>
     <div class="feature-row feature-row-balanced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/cake-smash-photography.webp') ?>" width="1600" height="1027" alt="Cake Smash Photography" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/cake-smash-photography.webp') ?>" width="1600" height="1027" alt="Curly-haired baby with cake on his face at an outdoor cake smash with a rainbow umbrella" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text">A cake smash shoot is best done at around 11 months, before the first birthday party. Cake smash birthday photography is one of the most joyful ways to have fun on a baby's first birthday. There are giggles, silly faces and cute messiness in these sessions.</p>
@@ -377,7 +377,7 @@
     </div>
     <div class="feature-row feature-row-balanced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/kids-photography.webp') ?>" width="1600" height="2397" alt="Toddler and Kids Photography in Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/kids-photography.webp') ?>" width="1600" height="2397" alt="Young girl in a pink and white gown standing by a wall of green vines" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text">Toddler shoots work best outdoors, where toddlers can move and play naturally. Even toddlers are those energetic little beings, playful and expressive. Our toddler photography service in Pune is personalised, natural, and a creative way to capture their true nature.</p>
@@ -438,7 +438,7 @@
     </div>
     <div class="feature-row reverse feature-row-balanced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/pre-birthday-shoot-pune.webp') ?>" width="1600" height="1295" alt="Pre Birthday Photoshoot in Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/pre-birthday-shoot-pune.webp') ?>" width="1600" height="1295" alt="Baby boy in a brown hat at an outdoor pre-birthday shoot with juice, oranges and pineapples" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text"><a href="<?= base_url('/birthday-photography-pune/') ?>" class="article-link">Pre-birthday shoot</a> is normally done anytime between the 11 month mark leading up to your child becoming a year old. This is the golden age because your baby can now sit up, pull himself or herself up to a standing position with assistance from mum and dad, smile more (and naturally!), play with props etc.</p>
@@ -474,7 +474,7 @@
     </div>
     <div class="feature-row feature-row-balanced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/birthday-photo-shoot-pune.webp') ?>" width="1600" height="1067" alt="First Birthday Photoshoot in Pune" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/birthday-photo-shoot-pune.webp') ?>" width="1600" height="1067" alt="Parents hugging their daughter next to her birthday cake at a party in Pune" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text">We cover first birthday parties at home, hotels, banquets and outdoor venues across Pune. Celebrating your baby turning one is a special occasion that only happens once in the life of your child. Baby photographer Pune is available for,</p>
@@ -499,9 +499,9 @@
     </div>
     <p class="article-text article-text-gap">We record every moment and every type of celebration so you can replay these memories until the end of time.</p>
     <div class="maternity-gallery maternity-gallery-3col matloc-gallery">
-      <img src="<?= base_url('assets/images/birthday-photography.webp') ?>" width="1600" height="2240" alt="Birthday Photography" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/birthday-photoshoot-pune.webp') ?>" width="1600" height="2240" alt="Birthday Photoshoot Pune" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/birthday-shoot.webp') ?>" width="1600" height="1067" alt="Birthday Shoot" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/birthday-photography.webp') ?>" width="1600" height="2240" alt="Birthday girl in a pink gown, tiara and sash against a dark backdrop" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/birthday-photoshoot-pune.webp') ?>" width="1600" height="2240" alt="Girl in a pink party dress and tiara at her birthday photoshoot in Pune" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/birthday-shoot.webp') ?>" width="1600" height="1067" alt="Parents holding their son behind the birthday cake with a black and gold balloon arch" loading="lazy" class="maternity-gallery-img">
     </div>
   </div>
 </section>
@@ -542,7 +542,7 @@
     </div>
     <div class="feature-row feature-row-balanced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/baby-shoot-props.webp') ?>" width="1600" height="1090" alt="Baby Photoshoot Packages and Props" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/baby-shoot-props.webp') ?>" width="1600" height="1090" alt="Toddler in a red bow tie and suspenders driving a red toy car in a garden" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <p class="article-text"><strong>Starting Prices:</strong></p>
@@ -660,7 +660,7 @@
     </div>
     <?php foreach($faqs as [$q,$a]): ?>
     <div class="faq-item">
-      <button class="faq-trigger"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
+      <button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
       <div class="faq-body"><p><?= $a ?></p></div>
     </div>
     <?php endforeach; ?>
@@ -699,24 +699,24 @@
 
       <div class="enquire-form-card">
                   <?= view("partials/form-flash") ?>
-        <form method="post" action="<?= base_url('/contact/send/') ?>" novalidate>
+        <form method="post" action="<?= base_url('/contact/send/') ?>">
           <?= csrf_field() ?>
           <input type="hidden" name="service" value="Baby Photoshoot">
           <div class="enquire-form-field">
-            <label class="enquire-form-label">Name</label>
-            <input type="text" name="name" placeholder="Name" class="enquire-form-input">
+            <label class="enquire-form-label" for="enq-name">Name</label>
+            <input type="text" name="name" id="enq-name" placeholder="Name" class="enquire-form-input" required autocomplete="name" value="<?= old('name') ?>">
           </div>
           <div class="enquire-form-field">
-            <label class="enquire-form-label">Contact no</label>
-            <input type="tel" name="phone" placeholder="Mobile Number" class="enquire-form-input" required>
+            <label class="enquire-form-label" for="enq-phone">Contact no</label>
+            <input type="tel" name="phone" id="enq-phone" placeholder="Mobile Number" class="enquire-form-input" required autocomplete="tel" value="<?= old('phone') ?>">
           </div>
           <div class="enquire-form-field">
-            <label class="enquire-form-label">Email</label>
-            <input type="email" name="email" placeholder="Email" class="enquire-form-input">
+            <label class="enquire-form-label" for="enq-email">Email</label>
+            <input type="email" name="email" id="enq-email" placeholder="Email" class="enquire-form-input" required autocomplete="email" value="<?= old('email') ?>">
           </div>
           <div class="enquire-form-field">
-            <label class="enquire-form-label">Address</label>
-            <textarea name="address" placeholder="Address" class="enquire-form-textarea"></textarea>
+            <label class="enquire-form-label" for="enq-address">Address</label>
+            <textarea name="address" id="enq-address" placeholder="Address" class="enquire-form-textarea" autocomplete="street-address"><?= old('address') ?></textarea>
           </div>
           <button type="submit" class="enquire-form-submit">Send</button>
         </form>
@@ -743,7 +743,7 @@
   <div class="container-xs cta-section-inner">
     <h2 class="cta-title">Need a Photographer?<br><em class="cta-title-em">Someone With Experience to Collaborate With?</em></h2>
     <div class="cta-buttons">
-      <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Let's Work</a>
+      <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Contact Us</a>
       <a href="https://wa.me/918390367637" class="btn btn-outline-dark" target="_blank" rel="noopener">WhatsApp Us</a>
     </div>
   </div>

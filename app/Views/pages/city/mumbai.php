@@ -1,9 +1,9 @@
 
-<section class="page-hero">
+<section class="page-hero page-hero-split">
   <div class="page-hero-bg"></div>
   <div class="page-hero-img">
     <img src="<?= base_url('assets/images/mumbai-wedding-card.webp') ?>"
-         alt="Photoshoot in Mumbai - The Bridal Photography"
+         alt="Bride in a red embroidered lehenga lifting her sheer red veil"
          width="1920" height="700" loading="eager" fetchpriority="high">
   </div>
   <div class="page-hero-content">
@@ -27,15 +27,15 @@
   <div class="container">
     <div class="grid-3 grid-gap">
       <div class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/mumbai-wedding-card.webp') ?>" width="1024" height="683" alt="Wedding Photography Mumbai" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/mumbai-wedding-card.webp') ?>" width="1024" height="683" alt="Bride with eyes closed beneath a red veil, wearing gold bridal jewellery" loading="lazy" class="mumbai-service-img">
         <h2 class="mumbai-service-title">The Best Wedding Photographers in Mumbai</h2>
       </div>
       <a href="<?= base_url('/mumbai/engagement-photography-packages/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/engage-card-gold.webp') ?>" width="1024" height="1024" alt="Engagement Photography Packages" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/engage-card-gold.webp') ?>" width="1024" height="1024" alt="Engaged couple showing their rings in front of a floral backdrop" loading="lazy" class="mumbai-service-img">
         <h2 class="mumbai-service-title">Engagement Photographers in Mumbai</h2>
       </a>
      <a href="<?= base_url('/pre-wedding-shoot-locations-mumbai/') ?>" class="card-warm mumbai-service-card">
-        <img src="<?= base_url('assets/images/mumbai-prewedding-card.webp') ?>" width="1024" height="683" alt="Pre-wedding Shoot Mumbai" loading="lazy" class="mumbai-service-img">
+        <img src="<?= base_url('assets/images/mumbai-prewedding-card.webp') ?>" width="1024" height="683" alt="Couple seen from behind raising wine glasses at a lakeside picnic" loading="lazy" class="mumbai-service-img">
         <h2 class="mumbai-service-title">The Best Pre-wedding Shoot In Mumbai</h2>
       </a>
     </div>
@@ -70,7 +70,7 @@
     <div class="section-head">
       <p class="eyebrow section-head-eyebrow">Our Services</p>
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Our<br><em>Services</em></h2>
+      <h2 class="section-title">Our <em>Services</em></h2>
       <p class="section-sub">The main service provided by Wedding photographer Mumbai are:</p>
     </div>
     <div class="grid-3 grid-gap">
@@ -100,7 +100,7 @@
       <img src="<?= base_url('assets/images/mumbai-wp-1.webp') ?>" width="1600" height="2400" alt="Wide shot of the decorated wedding aisle with the couple" loading="lazy" class="maternity-gallery-img">
       <img src="<?= base_url('assets/images/mumbai-wp-8.webp') ?>" width="1600" height="2400" alt="Bride in a pink silk saree standing beside the groom" loading="lazy" class="maternity-gallery-img">
       <img src="<?= base_url('assets/images/mumbai-wp-3.webp') ?>" width="1600" height="2400" alt="Couple sharing a quiet moment in front of a carved door" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/mumbai-wp-9.webp') ?>" width="1600" height="2400" alt="Bride in a white lehenga twirling beside the groom" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/mumbai-wp-9.webp') ?>" width="1600" height="2400" alt="Bride in a white lehenga holding the groom's hand under a tree" loading="lazy" class="maternity-gallery-img">
       <img src="<?= base_url('assets/images/mumbai-wp-2.webp') ?>" width="1600" height="2400" alt="Groom and bride forehead to forehead in white outfits" loading="lazy" class="maternity-gallery-img">
       <img src="<?= base_url('assets/images/mumbai-wp-10.webp') ?>" width="1600" height="2400" alt="Couple posing on a stage with orange and yellow decor" loading="lazy" class="maternity-gallery-img">
     </div>
@@ -268,7 +268,7 @@
        'Our typical timeline for getting edited wedding photos is 4-6 weeks. For cinematic wedding movies, it may be 6-8 weeks. We also have a rush delivery option if needed.</p><p>Choosing the ideal wedding photographer is one of the most important decisions you&rsquo;ll ever make on your wedding day. With our passion, experience, and expertise, we document your wedding moments in the best possible way.'],
     ] as [$q,$a]): ?>
     <div class="faq-item">
-      <button class="faq-trigger"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
+      <button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
       <div class="faq-body"><p><?= $a ?></p></div>
     </div>
     <?php endforeach; ?>
@@ -330,13 +330,13 @@
       </div>
       <div class="enquire-form-card">
         <?= view('partials/form-flash') ?>
-        <form method="post" action="<?= base_url('/contact/send/') ?>" novalidate>
+        <form method="post" action="<?= base_url('/contact/send/') ?>">
           <?= csrf_field() ?>
           <input type="hidden" name="service" value="Wedding Photography Mumbai">
-          <div class="enquire-form-field"><label class="enquire-form-label">Name</label><input type="text" name="name" placeholder="Name" class="enquire-form-input"></div>
-          <div class="enquire-form-field"><label class="enquire-form-label">Contact no</label><input type="tel" name="phone" placeholder="Mobile Number" class="enquire-form-input" required></div>
-          <div class="enquire-form-field"><label class="enquire-form-label">Email</label><input type="email" name="email" placeholder="Email" class="enquire-form-input"></div>
-          <div class="enquire-form-field"><label class="enquire-form-label">Address</label><textarea name="address" placeholder="Address" class="enquire-form-textarea"></textarea></div>
+          <div class="enquire-form-field"><label class="enquire-form-label" for="enq-name">Name</label><input type="text" name="name" id="enq-name" placeholder="Name" class="enquire-form-input" required autocomplete="name" value="<?= old('name') ?>"></div>
+          <div class="enquire-form-field"><label class="enquire-form-label" for="enq-phone">Contact no</label><input type="tel" name="phone" id="enq-phone" placeholder="Mobile Number" class="enquire-form-input" required autocomplete="tel" value="<?= old('phone') ?>"></div>
+          <div class="enquire-form-field"><label class="enquire-form-label" for="enq-email">Email</label><input type="email" name="email" id="enq-email" placeholder="Email" class="enquire-form-input" required autocomplete="email" value="<?= old('email') ?>"></div>
+          <div class="enquire-form-field"><label class="enquire-form-label" for="enq-address">Address</label><textarea name="address" id="enq-address" placeholder="Address" class="enquire-form-textarea" autocomplete="street-address"><?= old('address') ?></textarea></div>
           <button type="submit" class="enquire-form-submit">Send</button>
         </form>
       </div>
@@ -361,7 +361,7 @@
   <div class="container-xs cta-section-inner">
     <h2 class="cta-title">Need a Photographer?<br><em class="cta-title-em">Someone With Experience to Collaborate With?</em></h2>
     <div class="cta-buttons">
-      <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Let's Work</a>
+      <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Contact Us</a>
       <a href="https://wa.me/918390367637" class="btn btn-outline-dark" target="_blank" rel="noopener">WhatsApp Us</a>
     </div>
   </div>

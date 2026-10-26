@@ -48,15 +48,26 @@ $isHome = rtrim($currentUrl, '/') === rtrim(base_url(), '/');
 
         <li class="nav-dropdown">
           <a href="<?= base_url('/wedding-photography-packages/') ?>"
-             class="<?= str_contains($currentUrl, 'wedding') ? 'active' : '' ?>">
+             class="<?= str_contains($currentUrl, 'wedding') && ! str_contains($currentUrl, 'pre-wedding') ? 'active' : '' ?>">
             Wedding ▾
           </a>
           <ul class="nav-dropdown-menu">
             <li><a href="<?= base_url('/wedding-photography-packages/') ?>">Wedding Packages</a></li>
             <li><a href="<?= base_url('/wedding-films/') ?>">Wedding Films</a></li>
-            <li><a href="<?= base_url('/best-destination-wedding-venues-pune/') ?>">Wedding Venue in Pune</a></li>
-            <li><a href="<?= base_url('/engagement-photography-packages/') ?>">Engagement</a></li>
+            <li><a href="<?= base_url('/best-destination-wedding-venues-pune/') ?>">Wedding Venues in Pune</a></li>
+          </ul>
+        </li>
+
+        <?php // SEO audit 23 Oct 2026: Engagement gets its own menu group, separate from Wedding ?>
+        <li class="nav-dropdown">
+          <a href="<?= base_url('/engagement-photography-packages/') ?>"
+             class="<?= str_contains($currentUrl, 'engagement') || str_contains($currentUrl, 'roka') ? 'active' : '' ?>">
+            Engagement ▾
+          </a>
+          <ul class="nav-dropdown-menu">
+            <li><a href="<?= base_url('/engagement-photography-packages/') ?>">Engagement Packages</a></li>
             <li><a href="<?= base_url('/roka-ring-ceremony-photography-pune/') ?>">Roka / Ring Ceremony</a></li>
+            <li><a href="<?= base_url('/mumbai/engagement-photography-packages/') ?>">Engagement in Mumbai</a></li>
           </ul>
         </li>
 
@@ -155,9 +166,18 @@ $isHome = rtrim($currentUrl, '/') === rtrim(base_url(), '/');
         <div class="mob-group-links">
           <a href="<?= base_url('/wedding-photography-packages/') ?>">Wedding Packages</a>
           <a href="<?= base_url('/wedding-films/') ?>">Wedding Films</a>
-          <a href="<?= base_url('/best-destination-wedding-venues-pune/') ?>">Wedding Venue in Pune</a>
-          <a href="<?= base_url('/engagement-photography-packages/') ?>">Engagement</a>
+          <a href="<?= base_url('/best-destination-wedding-venues-pune/') ?>">Wedding Venues in Pune</a>
+        </div>
+      </div>
+
+      <div class="mob-group">
+        <button class="mob-group-toggle" aria-expanded="false">
+          Engagement <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+        </button>
+        <div class="mob-group-links">
+          <a href="<?= base_url('/engagement-photography-packages/') ?>">Engagement Packages</a>
           <a href="<?= base_url('/roka-ring-ceremony-photography-pune/') ?>">Roka / Ring Ceremony</a>
+          <a href="<?= base_url('/mumbai/engagement-photography-packages/') ?>">Engagement in Mumbai</a>
         </div>
       </div>
 

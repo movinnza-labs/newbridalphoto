@@ -11,14 +11,14 @@
       <img src="<?= base_url('assets/images/mumbai-wp-4.webp') ?>" width="2560" height="2560" alt="Couple portrait with a flowing red gown by a lakeside promenade" loading="lazy" class="feature-img-full">
     </div>
     <div class="grid-3 grid-gap article-img-center">
-      <img src="<?= base_url('assets/images/mumbai-wp-5.webp') ?>" width="1600" height="2400" alt="Bride and groom holding hands in a garden" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/mumbai-wp-6.webp') ?>" width="1600" height="2400" alt="Close-up of the bride and groom at the haldi ceremony" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mumbai-wp-5.webp') ?>" width="1600" height="2400" alt="Couple holding hands by a garden path, bride glancing back in a multicoloured lehenga" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mumbai-wp-6.webp') ?>" width="1600" height="2400" alt="Close-up of the couple touching foreheads, bride in a yellow embroidered lehenga" loading="lazy" class="feature-img-full">
       <img src="<?= base_url('assets/images/mumbai-wp-7.webp') ?>" width="1600" height="2400" alt="Bride portrait under a red wedding veil" loading="lazy" class="feature-img-full">
     </div>
     <div class="grid-3 grid-gap article-img-center">
       <img src="<?= base_url('assets/images/mumbai-wp-8.webp') ?>" width="1600" height="2400" alt="Traditional bride and groom portrait by a carved wooden door" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/mumbai-wp-9.webp') ?>" width="1600" height="2400" alt="Bride and groom in white outdoor wedding portrait" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/mumbai-wp-10.webp') ?>" width="1600" height="2400" alt="Bride and groom at a marigold-themed haldi setup" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mumbai-wp-9.webp') ?>" width="1600" height="2400" alt="Groom in a white safa holding the hand of his smiling bride in a white lehenga" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/mumbai-wp-10.webp') ?>" width="1600" height="2400" alt="Couple posing back to back in front of yellow drapes and floral decor" loading="lazy" class="feature-img-full">
     </div>
   </div>
 </section>

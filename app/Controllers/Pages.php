@@ -48,7 +48,7 @@ class Pages extends BaseController
     public function weddingFilms(): string
     {
         return $this->render('pages/wedding-films', [
-            'title'       => 'Wedding Films in Pune | Cinematic Videography ₹35,000/Day',
+            'title'       => 'Cinematic Wedding Films in Pune & Mumbai | From ₹35,000',
             'description' => 'Cinematic wedding films in Pune and Mumbai: 3 to 4 minute film plus 1 minute teaser, shot on Sony A7S3. From ₹35,000 per day. Watch our films.',
             'canonical'   => '/wedding-films/',
             'breadcrumb'  => [['Home', '/'], ['Wedding Films', '/wedding-films/']],
@@ -110,8 +110,8 @@ class Pages extends BaseController
     public function whenPreWedding(): string
     {
         return $this->render('pages/when-pre-wedding', [
-            'title'       => 'When to Do a Pre Wedding Shoot? Best Months & Timing',
-            'description' => 'When should you do your pre wedding shoot? Best months, best time of day and how many weeks before the wedding to book, from 10+ years of shoots.',
+            'title'       => 'Best Time for Pre-Wedding Shoot in Pune: Months & Timing',
+            'description' => 'Best time for a pre-wedding shoot in Pune: 3 to 6 months before the wedding, October to February or monsoon July to September, at golden hour.',
             'canonical'   => '/when-to-take-pre-wedding-shoot/',
             'breadcrumb'  => [['Home', '/'], ['When to Shoot', '/when-to-take-pre-wedding-shoot/']],
         ]);
@@ -121,7 +121,7 @@ class Pages extends BaseController
     {
         return $this->render('pages/pre-wedding-goa', [
             'title'       => 'Pre Wedding Shoot in Goa (2026) | Best Locations & Price',
-            'description' => 'Best pre wedding shoot locations in Goa: beaches, forts and heritage streets. Best months October to February. Packages from ₹14,999. Book your dates.',
+            'description' => 'Pre wedding shoot locations in Goa: Calangute Beach, Chorla Ghats, Panjim, Bat Island and Mandovi River. Best months November to February. Get a Goa quote.',
             'canonical'   => '/pre-wedding-shoot-locations-in-goa/',
             'breadcrumb'  => [['Home', '/'], ['Pre-Wedding Shoot in Goa', '/pre-wedding-shoot-locations-in-goa/']],
         ]);
@@ -174,8 +174,8 @@ class Pages extends BaseController
     public function rokaPackages(): string
     {
         return $this->render('pages/roka-packages', [
-            'title'       => 'Roka & Ring Ceremony Photography in Pune | Candid Shoots',
-            'description' => 'Roka and ring ceremony photography in Pune: rituals, ring exchange and family portraits, candid and traditional. Call +91 83903 67637 to book your date.',
+            'title'       => 'Roka & Ring Ceremony Photography in Pune | From ₹7,000',
+            'description' => 'Roka, Sakharpuda and ring ceremony photography in Pune from ₹7,000. Candid and traditional coverage, edited photos and video. Call +91 83903 67637.',
             'canonical'   => '/roka-ring-ceremony-photography-pune/',
             'breadcrumb'  => [['Home', '/'], ['Engagement', '/engagement-photography-packages/'], ['Roka Ceremony', '/roka-ring-ceremony-photography-pune/']],
         ]);
@@ -412,8 +412,8 @@ class Pages extends BaseController
         $rules = [
             'name' => [
                 'label'  => 'Full Name',
-                'rules'  => 'required|min_length[2]|max_length[255]|regex_match[/^[a-zA-Z\s\.\-]+$/]',
-                'errors' => ['regex_match' => 'The {field} may only contain letters, spaces, dots and hyphens.'],
+                'rules'  => 'required|min_length[2]|max_length[255]|regex_match[/^[\p{L}\p{M}\s.\'-]+$/u]',
+                'errors' => ['regex_match' => 'The {field} may only contain letters, spaces, dots, apostrophes and hyphens.'],
             ],
             'phone' => [
                 'label'  => 'Contact Number',

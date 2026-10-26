@@ -1,9 +1,9 @@
 
-<section class="page-hero">
+<section class="page-hero page-hero-split page-hero-card">
   <div class="page-hero-bg"></div>
   <div class="page-hero-img">
     <img src="<?= base_url('assets/images/lavasa-hero.webp') ?>"
-         alt="Lavasa City: A Prewedding Paradise for Couples"
+         alt="Lavasa City: A Prewedding Ultimate City Near Pune, collage of couple shoots among colourful buildings"
          width="1920" height="700" loading="eager" fetchpriority="high">
   </div>
   <div class="page-hero-content">
@@ -33,8 +33,8 @@
     </div>
 
     <div class="grid-2 grid-gap article-img-center">
-      <img src="<?= base_url('assets/images/lavasa-couple-1.webp') ?>" width="1024" height="796" alt="Photographer capturing a couple's romantic moment in Lavasa" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/lavasa-couple-2.webp') ?>" width="1600" height="1068" alt="couple's romantic moment in Lavasa" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/lavasa-couple-1.webp') ?>" width="1024" height="796" alt="Man lifting a woman in a red gown with a long trailing train before Lavasa's colourful buildings" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/lavasa-couple-2.webp') ?>" width="1600" height="1068" alt="Couple riding a tandem bicycle past pastel buildings in Lavasa" loading="lazy" class="feature-img-full">
     </div>
   </div>
 </section>
@@ -76,8 +76,8 @@
     </div>
 
     <div class="grid-2 grid-gap article-img-center">
-      <img src="<?= base_url('assets/images/lavasa-couple-3.webp') ?>" width="1600" height="1795" alt="Lavasa pre-wedding shoot" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/lavasa-couple-4.webp') ?>" width="1600" height="1068" alt="Lavasa pre-wedding shoot" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/lavasa-couple-3.webp') ?>" width="1600" height="1795" alt="Couple at the top of a stone staircase with her red gown trailing down the steps, Lavasa" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/lavasa-couple-4.webp') ?>" width="1600" height="1068" alt="Couple holding hands on the lakeside promenade in Lavasa, her red train blowing in the wind" loading="lazy" class="feature-img-full">
     </div>
   </div>
 </section>
@@ -93,7 +93,7 @@
     <!-- Lavish Landscapes -->
     <div class="feature-row feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/lavasa-couple-3.webp') ?>" width="1600" height="1795" alt="Lavasa pre-wedding shoot" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/lavasa-couple-3.webp') ?>" width="1600" height="1795" alt="Long red gown train cascading down sunlit steps below a couple in Lavasa" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <h3 class="article-heading lvl-h4">Lavish Landscapes and Lakeside Romance</h3>
@@ -104,7 +104,7 @@
     <!-- Charming Architecture -->
     <div class="feature-row reverse feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/lavasa-couple-7.webp') ?>" width="1600" height="2397" alt="Lavasa pre-wedding shoot" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/lavasa-couple-7.webp') ?>" width="1600" height="2397" alt="Couple in casual clothes posing arm in arm against green hills and blue sky" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <h3 class="article-heading lvl-h4">Charming Architecture for a Touch of Europe</h3>
@@ -115,7 +115,7 @@
     <!-- Golden Hour Magic -->
     <div class="feature-row feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/lavasa-couple-4.webp') ?>" width="1600" height="1068" alt="Photographer capture a couple's romantic moment in Lavasa" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/lavasa-couple-4.webp') ?>" width="1600" height="1068" alt="Couple in a red gown and blue blazer on the waterfront wall beside Lavasa lake" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <h3 class="article-heading lvl-h4">Golden Hour Magic</h3>
@@ -126,7 +126,7 @@
     <!-- Adventure and Romance -->
     <div class="feature-row reverse feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/lavasa-couple-10.webp') ?>" width="1600" height="2401" alt="Lavasa pre-wedding shoot" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/lavasa-couple-10.webp') ?>" width="1600" height="2401" alt="Backlit couple touching foreheads against a dark night background" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <h3 class="article-heading lvl-h4">Adventure and Romance Combined</h3>
@@ -135,8 +135,8 @@
     </div>
 
     <div class="grid-2 grid-gap article-img-center">
-      <img src="<?= base_url('assets/images/lavasa-couple-11.webp') ?>" width="1600" height="1153" alt="Lavasa pre-wedding shoot" loading="lazy" class="feature-img-full">
-      <img src="<?= base_url('assets/images/lavasa-couple-12.webp') ?>" width="1600" height="1006" alt="Lavasa pre-wedding shoot" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/lavasa-couple-11.webp') ?>" width="1600" height="1153" alt="Couple sharing a glowing white umbrella amid backlit falling rain at night" loading="lazy" class="feature-img-full">
+      <img src="<?= base_url('assets/images/lavasa-couple-12.webp') ?>" width="1600" height="1006" alt="Smiling woman with long curly hair looking up at her partner" loading="lazy" class="feature-img-full">
     </div>
 
     <!-- Luxury Stay -->
@@ -144,7 +144,7 @@
     <p class="article-text">Lavasa City boasts luxury resorts and boutique hotels, providing the perfect setting for an indulgent pre-wedding photoshoot experience. From stylish interiors to breathtaking views from the balcony, the accommodation options in Lavasa serve as an ideal backdrop for capturing the intimacy and luxury of your love story.</p>
 
     <div class="article-img-center">
-      <img src="<?= base_url('assets/images/lavasa-gallery.webp') ?>" width="1024" height="473" alt="pre-wedding photoshoot" loading="lazy" class="article-img">
+      <img src="<?= base_url('assets/images/lavasa-gallery.webp') ?>" width="1024" height="473" alt="Wide view of a couple holding hands by Lavasa lake, her red train sweeping the promenade" loading="lazy" class="article-img">
     </div>
   </div>
 </section>
@@ -167,9 +167,9 @@
       <div class="rule-center section-head-rule"></div>
       <h2 class="section-title">Frequently Asked <em>Questions</em></h2>
     </div>
-    <div class="faq-item"><button class="faq-trigger"><span class="faq-q">When is the best time for a pre wedding shoot in Lavasa?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>October to February is the easiest time, with pleasant weather and clear light. The monsoon, from about June to September, turns the hills very green and brings mist, but heavy rain can disturb plans, so keep a backup date. At any time of year, early morning and the hour before sunset give the softest light.</p></div></div>
-    <div class="faq-item"><button class="faq-trigger"><span class="faq-q">Do we need permission to shoot in Lavasa?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Before shooting at hotels, resorts, cafes or any private or restricted spot, check with the venue or the local authority. Rules can change, so it is best to confirm a few days before your shoot.</p></div></div>
-    <div class="faq-item"><button class="faq-trigger"><span class="faq-q">How far is Lavasa from Pune?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Lavasa is about 60 km from Pune, which is roughly 1.5 to 2 hours by road. For a sunrise shoot, it is best to leave Pune very early. You can see our <a href="<?= base_url('/pre-wedding-photography-packages/') ?>" style="color:var(--gold);">pre wedding packages</a> to plan your day.</p></div></div>
+    <div class="faq-item"><button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q">When is the best time for a pre wedding shoot in Lavasa?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>October to February is the easiest time, with pleasant weather and clear light. The monsoon, from about June to September, turns the hills very green and brings mist, but heavy rain can disturb plans, so keep a backup date. At any time of year, early morning and the hour before sunset give the softest light.</p></div></div>
+    <div class="faq-item"><button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q">Do we need permission to shoot in Lavasa?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Before shooting at hotels, resorts, cafes or any private or restricted spot, check with the venue or the local authority. Rules can change, so it is best to confirm a few days before your shoot.</p></div></div>
+    <div class="faq-item"><button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q">How far is Lavasa from Pune?</span><span class="faq-icon">+</span></button><div class="faq-body"><p>Lavasa is about 60 km from Pune, which is roughly 1.5 to 2 hours by road. For a sunrise shoot, it is best to leave Pune very early. You can see our <a href="<?= base_url('/pre-wedding-photography-packages/') ?>" style="color:var(--gold);">pre wedding packages</a> to plan your day.</p></div></div>
   </div>
 </section>
 
@@ -193,7 +193,7 @@
   <div class="container-xs cta-section-inner">
     <h2 class="cta-title">Need a Photographer?<br><em class="cta-title-em">Someone With Experience to Collaborate With?</em></h2>
     <div class="cta-buttons">
-      <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Let's Work</a>
+      <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Contact Us</a>
       <a href="https://wa.me/918390367637" class="btn btn-outline-dark" target="_blank" rel="noopener">WhatsApp Us</a>
     </div>
   </div>

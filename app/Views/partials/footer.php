@@ -12,8 +12,8 @@
         </picture>
       </a>
       <p class="footer-brand-text">
-        Wedding, pre-wedding &amp; maternity photography studio since 2014.
-        Pune · Mumbai · Goa · Ahilyanagar · Maharashtra.
+        The Bridal Photography is a wedding photographer in Pune. Since 2014 we have covered weddings, pre wedding shoots, engagements, maternity and baby shoots for 1,179+ happy couples and families.
+        <br>Pune · Mumbai · Goa · Ahilyanagar · Maharashtra.
       </p>
       <div class="footer-socials">
         <a href="https://www.instagram.com/thebridal.photography/" target="_blank" rel="noopener noreferrer"
@@ -47,7 +47,8 @@
       <p class="footer-col-title">Services</p>
       <nav class="footer-links">
         <a href="<?= base_url('/about-us/') ?>">About Us</a>
-        <a href="<?= base_url('/pre-wedding-shoot-locations-in-pune/') ?>">Pre-Wedding Shoot</a>
+        <a href="<?= base_url('/pre-wedding-shoot-locations-in-pune/') ?>">Pre-Wedding Locations</a>
+        <a href="<?= base_url('/pre-wedding-photography-packages/') ?>">Pre-Wedding Packages</a>
         <a href="<?= base_url('/wedding-photography-packages/') ?>">Wedding Photography</a>
         <a href="<?= base_url('/engagement-photography-packages/') ?>">Engagement</a>
         <a href="<?= base_url('/roka-ring-ceremony-photography-pune/') ?>">Roka Ceremony</a>

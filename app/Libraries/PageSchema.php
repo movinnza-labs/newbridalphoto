@@ -54,15 +54,15 @@ class PageSchema
         // Service and package pages (baby and newborn keep their own Service + FAQPage blocks)
         '/baby-photoshoot-pune/'                => ['WebPage', 'Baby Photoshoot in Pune', 'baby-photoshoot-in-pune.webp', []],
         '/newborn-photography-pune/'            => ['WebPage', 'Newborn Photography in Pune', 'baby-hero.webp', []],
-        '/baby-shower-photography-packages/'    => ['WebPage', 'Baby Shower Photography in Pune', 'baby-shower-birthday-photography.webp', ['service' => ['Baby shower photography', 'Pune']]],
+        '/baby-shower-photography-packages/'    => ['WebPage', 'Baby Shower Photography in Pune', 'baby-shower-birthday-photography.webp', ['service' => ['Baby shower photography', 'Pune'], 'offers' => [['Gold Baby Shower Package', '6000'], ['Platinum Baby Shower Package', '18000'], ['Diamond Baby Shower Package', '28000']]]],
         '/birthday-photography-pune/'           => ['WebPage', 'Birthday Photography in Pune', 'baby-hero.webp', ['service' => ['Birthday photography', 'Pune']]],
         '/engagement-photography-packages/'     => ['WebPage', 'Engagement Photography in Pune', 'engagement-photography-pune.webp', ['service' => ['Engagement photography', 'Pune']]],
         '/fashion-and-product-photography/'     => ['WebPage', 'Fashion and Product Photography in Pune', 'fashion-hero-1.webp', ['service' => ['Product photography', 'Pune']]],
         '/housewarming-photography-pune/'       => ['WebPage', 'Housewarming Photography in Pune', 'housewarming-hero.webp', ['service' => ['Event photography', 'Pune']]],
-        '/maternity-photographer-pune/'         => ['WebPage', 'Maternity Photography in Pune', 'maternity-photoshoot-pune-banner.webp', ['service' => ['Maternity photography', 'Pune']]],
-        '/pre-wedding-photography-packages/'    => ['WebPage', 'Pre Wedding Shoot in Pune', 'prewedding-couple-outdoor-pune.webp', ['service' => ['Pre wedding photography', 'Pune']]],
-        '/pre-wedding-shoot-pune-under-10000/'  => ['WebPage', 'Budget Pre Wedding Shoot in Pune', 'prewedding-couple-outdoor-pune.webp', ['service' => ['Pre wedding photography', 'Pune']]],
-        '/roka-ring-ceremony-photography-pune/' => ['WebPage', 'Roka and Ring Ceremony Photography in Pune', 'roka-001.webp', ['service' => ['Engagement photography', 'Pune']]],
+        '/maternity-photographer-pune/'         => ['WebPage', 'Maternity Photography in Pune', 'maternity-photoshoot-pune-banner.webp', ['service' => ['Maternity photography', 'Pune'], 'offers' => [['Gold Maternity Package', '6000'], ['Platinum Maternity Package', '9000'], ['Diamond Maternity Package', '18000']]]],
+        '/pre-wedding-photography-packages/'    => ['WebPage', 'Pre Wedding Shoot Packages in Pune', 'prewedding-couple-outdoor-pune.webp', ['service' => ['Pre wedding photography', 'Pune'], 'offers' => [['Gold Pre Wedding Package', '14999'], ['Platinum Pre Wedding Package', '29999'], ['Diamond Pre Wedding Package', '55555']]]],
+        '/pre-wedding-shoot-pune-under-10000/'  => ['WebPage', 'Budget Pre Wedding Shoot in Pune', 'prewedding-couple-outdoor-pune.webp', ['service' => ['Pre wedding photography', 'Pune'], 'offers' => [['Budget Pre Wedding Package', '9999']]]],
+        '/roka-ring-ceremony-photography-pune/' => ['WebPage', 'Roka and Ring Ceremony Photography in Pune', 'roka-001.webp', ['service' => ['Engagement photography', 'Pune'], 'offers' => [['Gold Roka Package', '7000'], ['Platinum Roka Package', '22000'], ['Diamond Roka Package', '35000']]]],
         '/wedding-films/'                       => ['WebPage', 'Wedding Films in Pune', 'wedding-photography-pune.webp', ['service' => ['Wedding videography', 'Pune']]],
         '/wedding-photography-packages/'        => ['WebPage', 'Wedding Photography in Pune', 'wedding-photography-pune.webp', ['service' => ['Wedding photography', 'Pune']]],
 
@@ -97,7 +97,7 @@ class PageSchema
         '/pre-wedding-shoot-mahabaleshwar/'      => ['WebPage', 'Pre Wedding Shoot in Mahabaleshwar', 'mahab-weather.webp', ['article' => true]],
         '/pre-wedding-shoot-mulshi/'             => ['WebPage', 'Pre Wedding Shoot at Mulshi Lake', 'mulshi-hero.webp', ['article' => true]],
         '/pre-wedding-shoot-satara/'             => ['WebPage', '7 Best Pre Wedding Shoot Locations in Satara', 'satara-hero.webp', ['article' => true]],
-        '/when-to-take-pre-wedding-shoot/'       => ['WebPage', 'When Should I Take My Pre Wedding Shoot?', 'when-lavasa.webp', ['article' => true]],
+        '/when-to-take-pre-wedding-shoot/'       => ['WebPage', 'When Should You Do Your Pre-Wedding Shoot?', 'when-lavasa.webp', ['article' => true]],
     ];
 
     /** Offices (Appendix A2). Hours left out until the client confirms them. */
@@ -261,6 +261,16 @@ class PageSchema
             if ($imageUrl) {
                 $service['image'] = $imageUrl;
             }
+            // SEO audit 23 Oct 2026: package pages list their prices as Offers
+            if (! empty($extra['offers'])) {
+                $service['offers'] = array_map(static fn (array $o): array => [
+                    '@type'         => 'Offer',
+                    'name'          => $o[0],
+                    'price'         => $o[1],
+                    'priceCurrency' => 'INR',
+                    'url'           => $url,
+                ], $extra['offers']);
+            }
             $graph[] = $service;
         }
 
@@ -356,6 +366,31 @@ class PageSchema
         }
 
         return $block;
+    }
+
+    /** True for guide pages (Article) and blog posts, so og:type can be "article". */
+    public static function isArticle(string $canonical, ?array $post = null): bool
+    {
+        return $post !== null || ! empty(self::PAGES[$canonical][3]['article']);
+    }
+
+    /**
+     * FAQPage JSON-LD from the same [[question, answer], ...] array a view renders,
+     * so the schema always matches the visible FAQ. Call it right after the FAQ loop.
+     */
+    public static function faqScript(array $faqs): string
+    {
+        $plain = static fn (string $s): string => trim(html_entity_decode(strip_tags($s), ENT_QUOTES | ENT_HTML5, 'UTF-8'));
+
+        return self::script([
+            '@context'   => 'https://schema.org',
+            '@type'      => 'FAQPage',
+            'mainEntity' => array_map(static fn (array $f): array => [
+                '@type'          => 'Question',
+                'name'           => $plain($f[0]),
+                'acceptedAnswer' => ['@type' => 'Answer', 'text' => $plain($f[1])],
+            ], array_values($faqs)),
+        ]);
     }
 
     /** <script type="application/ld+json"> tag for a schema array. */

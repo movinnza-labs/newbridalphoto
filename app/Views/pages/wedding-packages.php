@@ -1,9 +1,9 @@
 
-<section class="page-hero">
+<section class="page-hero page-hero-split page-hero-portrait">
   <div class="page-hero-bg"></div>
   <div class="page-hero-img">
     <img src="<?= base_url('assets/images/wedding-photography-pune.webp') ?>"
-         alt="Wedding Photography Packages - The Bridal Photography"
+         alt="Maharashtrian couple in traditional wedding attire posing against a stone wall"
          width="1920" height="700" loading="eager" fetchpriority="high">
   </div>
   <div class="page-hero-content">
@@ -105,11 +105,11 @@
     <div class="section-head">
       <p class="eyebrow" style="margin-bottom:.7rem;">Compare Packages</p>
       <div class="rule-center" style="margin-bottom:1.4rem;"></div>
-      <h2 class="section-title">Package<br><em>Comparison</em></h2>
+      <h2 class="section-title">Package <em>Comparison</em></h2>
     </div>
     <div class="pkg-grid">
       <div class="pkg-card">
-        <img src="<?= base_url('assets/images/wedding-card-gold.webp') ?>" width="1024" height="1024" alt="Wedding Photography Packages" loading="lazy" style="width:100%;margin-bottom:1.2rem;">
+        <img src="<?= base_url('assets/images/wedding-card-gold.webp') ?>" width="1024" height="1024" alt="Smiling Maharashtrian bride and groom with folded hands and rose garlands" loading="lazy" style="width:100%;margin-bottom:1.2rem;">
         <p class="pkg-tier">Traditional</p>
         <h3 class="pkg-name">Gold</h3>
         <div class="pkg-price">Rs. 35,000/-</div>
@@ -124,7 +124,7 @@
       </div>
       <div class="pkg-card featured">
         <div class="pkg-badge">Most Popular</div>
-        <img src="<?= base_url('assets/images/wedding-card-platinum.webp') ?>" width="1024" height="1024" alt="Wedding Photography Packages" loading="lazy" style="width:100%;margin-bottom:1.2rem;">
+        <img src="<?= base_url('assets/images/wedding-card-platinum.webp') ?>" width="1024" height="1024" alt="Bride in a pink saree resting her head on the groom in a red pheta" loading="lazy" style="width:100%;margin-bottom:1.2rem;">
         <p class="pkg-tier">Candid + Traditional</p>
         <h3 class="pkg-name">Platinum</h3>
         <div class="pkg-price">Rs. 55,000/-</div>
@@ -139,7 +139,7 @@
         <a href="https://wa.me/918390367637" class="btn btn-gold" style="display:block;text-align:center;" target="_blank" rel="noopener">Choose Plan</a>
       </div>
       <div class="pkg-card">
-        <img src="<?= base_url('assets/images/wedding-card-diamond.webp') ?>" width="1024" height="1024" alt="Wedding Photography Packages" loading="lazy" style="width:100%;margin-bottom:1.2rem;">
+        <img src="<?= base_url('assets/images/wedding-card-diamond.webp') ?>" width="1024" height="1024" alt="Couple touching foreheads, bride in a yellow saree with white flower jewellery" loading="lazy" style="width:100%;margin-bottom:1.2rem;">
         <p class="pkg-tier">Cinematic + Candid</p>
         <h3 class="pkg-name">Diamond</h3>
         <div class="pkg-price">Rs. 75,000/-</div>
@@ -203,7 +203,7 @@
 
     <div class="feature-row" style="margin-bottom:2rem;">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/wedding-story.webp') ?>" width="900" height="600" alt="prajwal-and-chanchal-for-wedding-story" loading="lazy" style="width:100%;height:auto;">
+        <img src="<?= base_url('assets/images/wedding-story.webp') ?>" width="900" height="600" alt="Prajwal and Chanchal seated on a carved sofa against a marigold backdrop" loading="lazy" style="width:100%;height:auto;">
       </div>
       <div>
         <div style="margin-bottom:1.2rem;">
@@ -332,14 +332,14 @@
 <section class="section section-white">
   <div class="container">
     <div class="maternity-gallery maternity-gallery-3col">
-      <img src="<?= base_url('assets/images/ahily-wed-1.webp') ?>" width="1600" height="2400" alt="Wedding photography by The Bridal Photography, photo 1 of 8" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-wed-2.webp') ?>" width="1600" height="2400" alt="Wedding photography by The Bridal Photography, photo 2 of 8" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-wed-3.webp') ?>" width="683" height="1024" alt="Wedding photography by The Bridal Photography, photo 3 of 8" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-wed-4.webp') ?>" width="1600" height="2400" alt="Wedding photography by The Bridal Photography, photo 4 of 8" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-wed-5.webp') ?>" width="683" height="1024" alt="Wedding photography by The Bridal Photography, photo 5 of 8" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-wed-6.webp') ?>" width="1600" height="2400" alt="Wedding photography by The Bridal Photography, photo 6 of 8" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-wed-7.webp') ?>" width="1600" height="2400" alt="Wedding photography by The Bridal Photography, photo 7 of 8" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-wed-8.webp') ?>" width="1600" height="2400" alt="Wedding photography by The Bridal Photography, photo 8 of 8" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-1.webp') ?>" width="1600" height="2400" alt="Bride in a red Paithani saree glancing back at the groom by a poolside" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-2.webp') ?>" width="1600" height="2400" alt="Groom in a pink pheta holding the bride's hands as they smile at each other" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-3.webp') ?>" width="683" height="1024" alt="Couple in a teal saree and white sherwani leaning against a stone wall" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-4.webp') ?>" width="1600" height="2400" alt="Bride and groom in traditional Maharashtrian outfits standing together by a pool" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-5.webp') ?>" width="683" height="1024" alt="Solo bridal portrait in a red Paithani saree in a resort courtyard" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-6.webp') ?>" width="1600" height="2400" alt="Bride in a green saree walking arm in arm with the groom in a red pheta" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-7.webp') ?>" width="1600" height="2400" alt="Groom embracing the bride from behind near a stone staircase" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-wed-8.webp') ?>" width="1600" height="2400" alt="Couple walking together down a narrow stone-walled passage on their wedding day" loading="lazy" class="maternity-gallery-img">
     </div>
   </div>
 </section>
@@ -440,7 +440,7 @@
        'We use the latest professional-grade cameras, lenses, and lighting equipment, such as Sony A7M3, A7M4, A7S3, and Canon models. We also carry backup equipment to ensure there are no disruptions during your special day.'],
     ] as [$q,$a]): ?>
     <div class="faq-item">
-      <button class="faq-trigger"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
+      <button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
       <div class="faq-body"><p><?= $a ?></p></div>
     </div>
     <?php endforeach; ?>

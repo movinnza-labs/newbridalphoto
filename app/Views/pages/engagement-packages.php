@@ -1,9 +1,9 @@
 
-<section class="page-hero">
+<section class="page-hero page-hero-split">
   <div class="page-hero-bg"></div>
   <div class="page-hero-img">
     <img src="<?= base_url('assets/images/engagement-photography-pune.webp') ?>"
-         alt="Engagement Photography Packages - The Bridal Photography"
+         alt="Engaged couple showing their rings in front of a floral stage backdrop"
          width="1920" height="700" loading="eager" fetchpriority="high">
   </div>
   <div class="page-hero-content">
@@ -11,7 +11,7 @@
       <p class="eyebrow page-hero-eyebrow">Engagement Photography &middot; Pune</p>
       <div class="page-hero-rule"></div>
       <h1>Engagement Photography Packages<br><em>in Pune</em></h1>
-      <p class="page-hero-sub">Choose from our well designed engagement photography services that will help you immortalise the story of your love.</p>
+      <p class="page-hero-sub">Choose from our well-designed engagement photography services that will help you immortalise the story of your love.</p>
       <p class="page-hero-sub" style="margin-top:.4rem;"><strong>Starting from &#8377;7,000</strong></p>
       <div class="page-hero-buttons">
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Now</a>
@@ -25,9 +25,9 @@
 
 <div class="container quick-facts-wrap">
   <div class="quick-facts">
-    <div class="quick-fact"><p class="quick-fact-label">Gold</p><p class="quick-fact-value gold">Rs 7,000</p></div>
-    <div class="quick-fact"><p class="quick-fact-label">Platinum</p><p class="quick-fact-value gold">Rs 22,000</p></div>
-    <div class="quick-fact"><p class="quick-fact-label">Diamond</p><p class="quick-fact-value gold">Rs 35,000</p></div>
+    <div class="quick-fact"><p class="quick-fact-label">Gold</p><p class="quick-fact-value gold">₹7,000</p></div>
+    <div class="quick-fact"><p class="quick-fact-label">Platinum</p><p class="quick-fact-value gold">₹22,000</p></div>
+    <div class="quick-fact"><p class="quick-fact-label">Diamond</p><p class="quick-fact-value gold">₹35,000</p></div>
     <div class="quick-fact"><p class="quick-fact-label">Coverage</p><p class="quick-fact-value">Full ceremony + candid</p></div>
     <div class="quick-fact"><p class="quick-fact-label">Photos</p><p class="quick-fact-value">All photos edited</p></div>
     <div class="quick-fact"><p class="quick-fact-label">Book</p><p class="quick-fact-value gold">+91 83903 67637</p></div>
@@ -39,9 +39,9 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <p class="section-sub">Choose from our well designed engagement photography services that will help you immortalise the story of your love. For Engagement photography, we believe that every love story is different and your picture should reflect that.</p>
+      <p class="section-sub">Choose from our well-designed engagement photography services that will help you immortalise the story of your love. For engagement photography, we believe that every love story is different and your pictures should reflect that.</p>
       <p class="section-sub section-sub-gap">The art of capturing that perfect moment is a quality we can attest to and that is why our team of professional photographers captures your tale with the right dose of art and emotion.</p>
-      <p class="section-sub section-sub-gap">You can trust us to capture the small moments and the large ones that make up the beginning of your happily ever after. We're sure, one of my packages is surely right for you. We've packages for every style and budget. For whatever location you want to have; a beach or city shoot, we have a package that fulfils your dream.</p>
+      <p class="section-sub section-sub-gap">You can trust us to capture the small moments and the large ones that make up the beginning of your happily ever after. We're sure one of our packages is right for you. We have packages for every style and budget. Whatever location you want, a beach or a city shoot, we have a package that fulfils your dream.</p>
     </div>
   </div>
 </section>
@@ -52,15 +52,15 @@
     <div class="section-head">
       <p class="eyebrow section-head-eyebrow">Our Packages</p>
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Engagement Photography<br><em>Packages</em></h2>
+      <h2 class="section-title">Gold, Platinum and Diamond<br><em>Packages Explained</em></h2>
     </div>
 
     <!-- Gold Package -->
     <div class="card-white card-white-padded card-white-spaced">
-      <h3 class="card-white-heading lvl-h4">Gold Package - Rs 7,000</h3>
+      <h3 class="card-white-heading lvl-h4">Gold Package - ₹7,000</h3>
       <p class="card-white-desc">Perfect for couples seeking a classic touch</p>
       <ul class="pkg-detail-list">
-        <li>Traditional Photography: Eternal positions and compositions</li>
+        <li>Traditional Photography: Timeless poses and compositions</li>
         <li>Session Duration: A shoot time of 3 special hours</li>
         <li>All Photos Edited: Get every captured moment in soft copy form</li>
         <li>7 Days Drive Link: Full access to the complete gallery</li>
@@ -70,7 +70,7 @@
 
     <!-- Platinum Package -->
     <div class="card-white card-white-padded card-white-spaced">
-      <h3 class="card-white-heading lvl-h4">Platinum Package - Rs 22,000</h3>
+      <h3 class="card-white-heading lvl-h4">Platinum Package - ₹22,000</h3>
       <p class="card-white-desc">For those desiring a more comprehensive coverage</p>
       <ul class="pkg-detail-list">
         <li>Extended Session: 4 full hours to capture your love</li>
@@ -78,7 +78,7 @@
         <li>Traditional Photography: We use typical poses and arrangements</li>
         <li>Traditional Videography: Film-making of your big day</li>
         <li>All Photos Edited: Each of the images refined and shared in soft copy form</li>
-        <li>Videos Edited: In other words, professionally selected and prepared videos</li>
+        <li>Videos Edited: Professionally selected and prepared videos</li>
         <li>7 Days Drive Link: Easy and quick way to reach all your memories</li>
       </ul>
       <p class="card-white-note">This package is exactly that &ndash; equal parts candid and traditional, which provides the best of both worlds for the couple that wants photos and videos of the engagement.</p>
@@ -86,7 +86,7 @@
 
     <!-- Diamond Package -->
     <div class="card-white card-white-padded card-white-spaced">
-      <h3 class="card-white-heading lvl-h4">Diamond Package - Rs 35,000</h3>
+      <h3 class="card-white-heading lvl-h4">Diamond Package - ₹35,000</h3>
       <p class="card-white-desc">Our premium engagement photography offers the ultimate engagement experience</p>
       <ul class="pkg-detail-list">
         <li>Luxurious 4-hour Session: Enough time to focus on all the details</li>
@@ -94,12 +94,12 @@
         <li>Candid Photography: Real, emotional moments</li>
         <li>Traditional Photography: Elegant, posed photographs</li>
         <li>Traditional Videography: Live streaming of your event in its entirety</li>
-        <li>45 Professional Edited Photos: Picked individually and photoshopped to perfection</li>
-        <li>All Photos Edited: Your complete collection, made perfect by the professional</li>
+        <li>45 Professionally Edited Photos: Picked individually and retouched to perfection</li>
+        <li>All Photos Edited: Your complete collection, perfected by our professionals</li>
         <li>Videos Edited: High-quality video production</li>
         <li>7 Days Drive Link: Full access to all your photo and video files</li>
       </ul>
-      <p class="card-white-note">Extra hours are offered to all packages at an hourly rate so you may continue the session as long as you want to capture that special moment.</p>
+      <p class="card-white-note">Extra hours are available with all packages at an hourly rate, so you can continue the session as long as you want to capture that special moment.</p>
     </div>
   </div>
 </section>
@@ -110,14 +110,14 @@
     <div class="section-head">
       <p class="eyebrow section-head-eyebrow">Compare Packages</p>
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Package<br><em>Comparison</em></h2>
+      <h2 class="section-title">Package <em>Comparison</em></h2>
     </div>
     <div class="pkg-grid">
       <div class="pkg-card">
-        <img src="<?= base_url('assets/images/engage-card-gold.webp') ?>" width="1024" height="1024" alt="Engagement Photography Packages" loading="lazy" class="pkg-card-img">
+        <img src="<?= base_url('assets/images/engage-card-gold.webp') ?>" width="1024" height="1024" alt="Couple in a black bandhgala and lilac gown smiling as they show their rings" loading="lazy" class="pkg-card-img">
         <p class="pkg-tier">Classic</p>
         <h3 class="pkg-name">Gold</h3>
-        <div class="pkg-price">Rs. 7,000/-</div>
+        <div class="pkg-price">₹7,000</div>
         <p class="pkg-period">Per event</p>
         <ul class="pkg-features">
           <li>Traditional Photography</li>
@@ -129,10 +129,10 @@
       </div>
       <div class="pkg-card featured">
         <div class="pkg-badge">Most Popular</div>
-        <img src="<?= base_url('assets/images/engage-card-platinum.webp') ?>" width="1024" height="1024" alt="Engagement Photography Packages" loading="lazy" class="pkg-card-img">
+        <img src="<?= base_url('assets/images/engage-card-platinum.webp') ?>" width="1024" height="1024" alt="Smiling couple in pastel pink outfits showing their engagement rings" loading="lazy" class="pkg-card-img">
         <p class="pkg-tier">Candid + Traditional</p>
         <h3 class="pkg-name">Platinum</h3>
-        <div class="pkg-price">Rs. 22,000/-</div>
+        <div class="pkg-price">₹22,000</div>
         <p class="pkg-period">Per event</p>
         <ul class="pkg-features">
           <li>Candid Photography</li>
@@ -144,17 +144,17 @@
         <a href="https://wa.me/918390367637" class="btn btn-gold pkg-card-btn" target="_blank" rel="noopener">Choose Plan</a>
       </div>
       <div class="pkg-card">
-        <img src="<?= base_url('assets/images/engage-card-diamond.webp') ?>" width="1024" height="1024" alt="Engagement Photography Packages" loading="lazy" class="pkg-card-img">
+        <img src="<?= base_url('assets/images/engage-card-diamond.webp') ?>" width="1024" height="1024" alt="Man gently lifting the chin of his fiancée in a pink and gold silk saree" loading="lazy" class="pkg-card-img">
         <p class="pkg-tier">Cinematic + Candid</p>
         <h3 class="pkg-name">Diamond</h3>
-        <div class="pkg-price">Rs. 35,000/-</div>
+        <div class="pkg-price">₹35,000</div>
         <p class="pkg-period">Per event</p>
         <ul class="pkg-features">
           <li>Cinematic 3-min Song</li>
           <li>Candid Photography</li>
           <li>Traditional Photography</li>
           <li>Traditional Videography</li>
-          <li>45 Professional Edited Photos</li>
+          <li>45 Professionally Edited Photos</li>
           <li>All Photos &amp; Videos Edited</li>
           <li>7 Days Drive Link</li>
         </ul>
@@ -169,7 +169,7 @@
 <section class="section section-off">
   <div class="container">
     <div class="section-head">
-      <p class="eyebrow section-head-eyebrow">Customize Your Experience</p>
+      <p class="eyebrow section-head-eyebrow">Customise Your Experience</p>
       <div class="rule-center section-head-rule"></div>
       <h2 class="section-title lvl-h3">Customise your engagement photography experience<br><em>with our additional services</em></h2>
     </div>
@@ -188,14 +188,14 @@
       </div>
       <div class="card-white card-white-padded-sm">
         <h3 class="card-white-title lvl-h4">Other Services</h3>
-        <p class="card-white-text">Every package has extra services like drone photography, photo booth or live stream services.</p>
+        <p class="card-white-text">Every package can include extra services such as drone photography, a photo booth or live streaming.</p>
       </div>
     </div>
 
     <!-- Cancellation Policy -->
     <div class="card-white card-white-padded card-white-gap-top">
       <h3 class="card-white-title lvl-h4">Cancellation Policy</h3>
-      <p class="card-white-text">We also know that the circumstances may change. Our policy aims to be fair to both our clients and our business. In the event of an emergency, please notify us before the event.</p>
+      <p class="card-white-text">We know that circumstances may change. Our policy aims to be fair to both our clients and our business. In the event of an emergency, please notify us before the event.</p>
     </div>
   </div>
 </section>
@@ -210,12 +210,12 @@
       <h2 class="section-title">Engagement Photography<br><em>Gallery</em></h2>
     </div>
     <div class="engage-photo-grid">
-      <img src="<?= base_url('assets/images/engage-gallery-1.webp') ?>" width="1363" height="2047" alt="Engagement couple portrait" loading="lazy" class="engage-photo-grid-img">
-      <img src="<?= base_url('assets/images/engage-gallery-2.webp') ?>" width="1363" height="2047" alt="Traditional engagement couple" loading="lazy" class="engage-photo-grid-img">
-      <img src="<?= base_url('assets/images/engage-gallery-3.webp') ?>" width="1363" height="2047" alt="South Indian engagement couple" loading="lazy" class="engage-photo-grid-img">
-      <img src="<?= base_url('assets/images/engage-gallery-4.webp') ?>" width="1363" height="2047" alt="Engagement close-up embrace" loading="lazy" class="engage-photo-grid-img">
-      <img src="<?= base_url('assets/images/engage-gallery-5.webp') ?>" width="1363" height="2048" alt="Outdoor engagement couple" loading="lazy" class="engage-photo-grid-img">
-      <img src="<?= base_url('assets/images/engage-gallery-6.webp') ?>" width="1363" height="2047" alt="Candid engagement moment" loading="lazy" class="engage-photo-grid-img">
+      <img src="<?= base_url('assets/images/engage-gallery-1.webp') ?>" width="1363" height="2047" alt="Couple touching foreheads, bride in a pale yellow embellished saree" loading="lazy" class="engage-photo-grid-img">
+      <img src="<?= base_url('assets/images/engage-gallery-2.webp') ?>" width="1363" height="2047" alt="Couple in a pink silk saree and cream kurta-dhoti by a carved wooden door" loading="lazy" class="engage-photo-grid-img">
+      <img src="<?= base_url('assets/images/engage-gallery-3.webp') ?>" width="1363" height="2047" alt="Couple sharing a kiss outdoors, bride in a pale yellow saree" loading="lazy" class="engage-photo-grid-img">
+      <img src="<?= base_url('assets/images/engage-gallery-4.webp') ?>" width="1363" height="2047" alt="Bride with jasmine in her hair smiling up at her fiancé by a carved door" loading="lazy" class="engage-photo-grid-img">
+      <img src="<?= base_url('assets/images/engage-gallery-5.webp') ?>" width="1363" height="2048" alt="Laughing bride showing her ring as her fiancé hugs her under globe lights" loading="lazy" class="engage-photo-grid-img">
+      <img src="<?= base_url('assets/images/engage-gallery-6.webp') ?>" width="1363" height="2047" alt="Close-up of the bride with a gold maang tikka resting against her fiancé" loading="lazy" class="engage-photo-grid-img">
     </div>
   </div>
 </section>
@@ -233,7 +233,7 @@
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
         <h3 class="card-white-title lvl-h4"><strong>Expertise</strong></h3>
-        <p class="card-white-text">The team of photographers and videographers are engaged in shooting engagement moments for several years. We understand how to ensure that you appear and feel fabulous.</p>
+        <p class="card-white-text">Our team of photographers and videographers has been shooting engagements for several years. We understand how to ensure that you appear and feel fabulous.</p>
       </div>
       <div class="card-white card-white-padded-sm">
         <h3 class="card-white-title lvl-h4"><strong>Personalised Approach</strong></h3>
@@ -253,23 +253,23 @@
       </div>
       <div class="card-white card-white-padded-sm">
         <h3 class="card-white-title lvl-h4"><strong>Quick Turnaround</strong></h3>
-        <p class="card-white-text">Our fast editing and simple online delivery means that you will be enjoying your special moments soon.</p>
+        <p class="card-white-text">Our fast editing and simple online delivery mean that you will be enjoying your special moments soon.</p>
       </div>
       <div class="card-white card-white-padded-sm">
         <h3 class="card-white-title lvl-h4"><strong>Customer Satisfaction</strong></h3>
-        <p class="card-white-text">We highlight the fact that we have received a lot of positive reviews from our clients. It is our policy to delight our customers.</p>
+        <p class="card-white-text">We are proud to have received many positive reviews from our clients. Our aim is to delight our customers.</p>
       </div>
       <div class="card-white card-white-padded-sm">
         <h3 class="card-white-title lvl-h4"><strong>Flexibility</strong></h3>
-        <p class="card-white-text">Need to reschedule? Have a unique request? Our services are prepared to fulfil your expectations at any time.</p>
+        <p class="card-white-text">Need to reschedule? Have a unique request? We are always ready to meet your expectations.</p>
       </div>
       <div class="card-white card-white-padded-sm">
         <h3 class="card-white-title lvl-h4"><strong>Post-Production Excellence</strong></h3>
-        <p class="card-white-text">Our editing team sees to it that all the pictures are fine-tuned for the best presentation of your pictures.</p>
+        <p class="card-white-text">Our editing team makes sure that every picture is fine-tuned for the best presentation.</p>
       </div>
       <div class="card-white card-white-padded-sm">
         <h3 class="card-white-title lvl-h4"><strong>Memories That Last</strong></h3>
-        <p class="card-white-text">We do not offer only photos but memorable and beautiful moments that will stay with you for years.</p>
+        <p class="card-white-text">We offer not just photos but memorable and beautiful moments that will stay with you for years.</p>
       </div>
     </div>
   </div>
@@ -289,10 +289,10 @@
       <div class="card-white card-white-padded">
         <h3 class="card-white-heading-lg">Photos</h3>
         <h4 class="card-white-subheading-gold">250 Images</h4>
-        <img src="<?= base_url('assets/images/engage-couple-reception.webp') ?>" width="1024" height="473" alt="Couple Engagement &amp; Reception" loading="lazy" class="card-white-full-img">
+        <img src="<?= base_url('assets/images/engage-couple-reception.webp') ?>" width="1024" height="473" alt="Smiling couple in embroidered outfits pointing to their engagement rings" loading="lazy" class="card-white-full-img">
         <ul class="pkg-detail-list">
-          <li>All Photos high resolution edited images 250 Photos Number of edited images depends on event.</li>
-          <li>Images will be delivered through a cloud based password-protected online gallery which will be active for <strong>07 Days.</strong></li>
+          <li>All photos edited in high resolution: 250 photos. The number of edited images depends on the event.</li>
+          <li>Images will be delivered through a cloud-based password-protected online gallery which will be active for <strong>07 Days.</strong></li>
           <li><strong>DELIVERY TIMELINE: Edited photos 15 days</strong></li>
         </ul>
       </div>
@@ -302,9 +302,9 @@
         <h3 class="card-white-heading-lg">Videos</h3>
         <h4 class="card-white-subheading-gold">3 to 4 minute Cinematic Film</h4>
         <ul class="pkg-detail-list">
-          <li>1 minute cinematic teaser</li>
+          <li>1-minute cinematic teaser</li>
           <li>3 to 4 minute cinematic film</li>
-          <li>Traditional film depend on event and rituals</li>
+          <li>Traditional film depends on the event and rituals</li>
           <li><strong>DELIVERY TIMELINE: Edited videos 25 days</strong></li>
           <li><strong>Revisions: 1 round within 7 days of delivery</strong></li>
         </ul>
@@ -312,14 +312,14 @@
 
       <!-- Addons Table -->
       <div class="card-white card-white-padded">
-        <h3 class="card-white-heading-lg">Addons</h3>
+        <h3 class="card-white-heading-lg">Add-ons</h3>
         <table class="addons-table">
           <tbody>
-            <tr><td>Photograph</td><td>Additional Photographer</td><td>Rs. 7000/- Per Day</td></tr>
-            <tr><td>Video</td><td>Additional Videographer</td><td>Rs. 7000/- Per Day</td></tr>
-            <tr><td>Drone</td><td>Drone Pilot</td><td>Rs. 6000/- Per Day</td></tr>
-            <tr><td>Album</td><td>Album</td><td>Rs. 400/- Per page</td></tr>
-            <tr><td>Hard Drive</td><td>Raw Data with Hard Drive</td><td>Rs. 6500</td></tr>
+            <tr><td>Photo</td><td>Additional Photographer</td><td>₹7,000 per day</td></tr>
+            <tr><td>Video</td><td>Additional Videographer</td><td>₹7,000 per day</td></tr>
+            <tr><td>Drone</td><td>Drone Pilot</td><td>₹6,000 per day</td></tr>
+            <tr><td>Album</td><td>Album</td><td>₹400 per page</td></tr>
+            <tr><td>Hard Drive</td><td>Raw Data with Hard Drive</td><td>₹6,500</td></tr>
           </tbody>
         </table>
       </div>
@@ -338,16 +338,16 @@
 
     <div class="feature-row feature-row-spaced">
       <div class="feature-img-wrap">
-        <img src="<?= base_url('assets/images/wedding-story.webp') ?>" width="900" height="600" alt="Prajwal and Chanchal engagement and wedding story shoot" loading="lazy" class="feature-img-full">
+        <img src="<?= base_url('assets/images/wedding-story.webp') ?>" width="900" height="600" alt="Prajwal and Chanchal in garlands, seated on a carved sofa before a marigold backdrop" loading="lazy" class="feature-img-full">
       </div>
       <div>
         <div class="feature-item">
           <h3 class="card-white-title lvl-h4">Couple's Interests and Time</h3>
-          <p class="card-white-text">Favour activities or places that are like both of you or that are part of your relationship. Make sure that you spare adequate time for a more fun and less stressful shooting.</p>
+          <p class="card-white-text">Favour activities or places that you both like or that are part of your relationship. Make sure you set aside enough time for a more fun and less stressful shoot.</p>
         </div>
         <div class="feature-item">
           <h3 class="card-white-title lvl-h4">Venue and Ambience</h3>
-          <p class="card-white-text">Choose a place that will suit your story or is visually appealing. Take into account the lighting condition and the number of people expected to turn up.</p>
+          <p class="card-white-text">Choose a place that will suit your story or is visually appealing. Take into account the lighting conditions and the number of people expected to turn up.</p>
         </div>
         <div class="feature-item">
           <h3 class="card-white-title lvl-h4">Engagement Party Decor and Lighting</h3>
@@ -359,15 +359,15 @@
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
         <h3 class="card-white-title lvl-h4">Attire and Styling</h3>
-        <p class="card-white-text">Dress well and be comfortable in what you're wearing, also dress in coordination with your partner. People are advised to carry spare clothing to help break the monotony of their stay.</p>
+        <p class="card-white-text">Dress well, be comfortable in what you're wearing and coordinate your outfits with your partner. We advise carrying a change of clothes to add variety to the shoot.</p>
       </div>
       <div class="card-white card-white-padded-sm">
         <h3 class="card-white-title lvl-h4">Makeup &amp; Hairstyling</h3>
-        <p class="card-white-text">Makeup and hairdressing will help to emphasise your advantages and fix possible shortcomings, so you will look gorgeous in photos.</p>
+        <p class="card-white-text">Makeup and hairstyling will help emphasise your best features and hide minor flaws, so you look gorgeous in photos.</p>
       </div>
       <div class="card-white card-white-padded-sm">
         <h3 class="card-white-title lvl-h4">Family Involvement</h3>
-        <p class="card-white-text">Consider whether or not you want to incorporate your family into your engagement shoot. This can build up some good generational legacy memories.</p>
+        <p class="card-white-text">Consider whether or not you want to incorporate your family into your engagement shoot. This can create memories that last for generations.</p>
       </div>
     </div>
   </div>
@@ -384,8 +384,8 @@
     <div class="feature-row feature-row-spaced">
       <div class="feature-img-wrap">
         <div class="grid-2 grid-gap-sm">
-          <img src="<?= base_url('assets/images/engage-home-shoot.webp') ?>" width="960" height="960" alt="Engagement photoshoot at home in Pune" loading="lazy" class="feature-img-full">
-          <img src="<?= base_url('assets/images/engage-time.webp') ?>" width="7008" height="4672" alt="Engagement ceremony photography in Pune" loading="lazy" class="feature-img-full">
+          <img src="<?= base_url('assets/images/engage-home-shoot.webp') ?>" width="960" height="960" alt="Couple in cream and gold outfits playfully showing their rings outdoors" loading="lazy" class="feature-img-full">
+          <img src="<?= base_url('assets/images/engage-time.webp') ?>" width="7008" height="4672" alt="Newly engaged couple holding up their rings in a wood-panelled room" loading="lazy" class="feature-img-full">
         </div>
       </div>
       <div>
@@ -395,17 +395,17 @@
         </div>
         <div class="feature-item">
           <h3 class="card-white-title lvl-h4">Cameras</h3>
-          <p class="card-white-text">Our team employs the best full-frame cameras to capture images and we include Sony A7M3, A7M4, A7S3 and selected Canon cameras.</p>
+          <p class="card-white-text">Our team uses the best full-frame cameras, including the Sony A7M3, A7M4, A7S3 and selected Canon cameras.</p>
         </div>
         <div class="feature-item">
           <h3 class="card-white-title lvl-h4">Lenses</h3>
-          <p class="card-white-text">Our lens selection is the G-Master series with a focal length of 85mm, 50mm, 35mm, 24mm and 24-70mm for flexibility in shooting.</p>
+          <p class="card-white-text">Our lens selection includes the G-Master series, with focal lengths of 85mm, 50mm, 35mm, 24mm and 24-70mm for flexibility in shooting.</p>
         </div>
       </div>
     </div>
 
     <div class="section-center-img">
-      <img src="<?= base_url('assets/images/engage-shoot.webp') ?>" width="960" height="960" alt="Couple engagement photoshoot in Pune" loading="lazy" class="section-img-medium">
+      <img src="<?= base_url('assets/images/engage-shoot.webp') ?>" width="960" height="960" alt="Groom twirling his fiancée in a sheer floral dupatta in a garden" loading="lazy" class="section-img-medium">
     </div>
   </div>
 </section>
@@ -423,28 +423,28 @@
         <ul class="pkg-detail-list">
           <li>This proposal is valid for 30 days</li>
           <li>The dates are not confirmed and subject to our availability which may change without prior notice.</li>
-          <li>No dates are blocked till the booking amount is received and an acknowledgment for the same</li>
+          <li>No dates are blocked until the booking amount is received and acknowledged.</li>
         </ul>
       </div>
       <div class="card-white card-white-padded-sm">
         <h3 class="card-white-title lvl-h4">Travel, Food &amp; Accommodation</h3>
         <ul class="pkg-detail-list">
           <li>For events outside Pune, air travel, local transport.</li>
-          <li>Accommodation will be arranged by client or charged as per actuals. For outstation as well as Mumbai events, the crew eats with guests or a per diem, per meal will be charged for each crew member</li>
+          <li>Accommodation will be arranged by the client or charged as per actuals. For outstation as well as Mumbai events, the crew eats with the guests, or a per diem per meal will be charged for each crew member.</li>
         </ul>
       </div>
       <div class="card-white card-white-padded-sm">
         <h3 class="card-white-title lvl-h4">Copyrights</h3>
         <ul class="pkg-detail-list">
           <li>The Bridal Photography reserves the right to all photographs and film content.</li>
-          <li>We may use a part of the content on our social media/website to promote our work A non-disclosure agreement can be signed to restrict the usage of photos or videos by paying an additional 20% fee.</li>
+          <li>We may use a part of the content on our social media/website to promote our work. A non-disclosure agreement can be signed to restrict the usage of photos or videos by paying an additional 20% fee.</li>
         </ul>
       </div>
       <div class="card-white card-white-padded-sm">
         <h3 class="card-white-title lvl-h4">Drones</h3>
         <ul class="pkg-detail-list">
           <li>Drones are subject to DGCA &amp; government regulations.</li>
-          <li>The client has the responsibility of obtaining permissions to fly drone from the event venue and local authorities</li>
+          <li>The client has the responsibility of obtaining permission to fly the drone from the event venue and local authorities.</li>
         </ul>
       </div>
     </div>
@@ -459,11 +459,11 @@
       <div class="rule-center section-head-rule"></div>
       <h2 class="section-title">Frequently Asked<br><em>Questions</em></h2>
     </div>
-    <?php foreach([
+    <?php $faqs = [
       ['What is in the charges for engagement photography packages?',
-       'Our packages depend on many things including specific number of hours, the number of edited photos and access to the files for 7 days. Additional services are also available with video coverage in premium packages. Contact our team to know the price.'],
+       'Our packages depend on many things including specific number of hours, the number of edited photos and access to the files for 7 days. Additional services are also available with video coverage in premium packages. Packages are ₹7,000 (Gold), ₹22,000 (Platinum) and ₹35,000 (Diamond).'],
       ['Once I\'ve provided the photos what is the usual time I would wait for the edited photos to be delivered to me?',
-       'All the edited photos and videos will be delivered to you through a downloadable link a week after the shoot.'],
+       'Edited photos are delivered within 15 days and edited videos within 25 days, through a downloadable drive link.'],
       ['Are we able to choose the type of engagement photography that we want?',
        'Almost any package can be adjusted to contain extra hours, couple portraits, albums or other services like drones.'],
       ['How about if we want to reschedule or cancel the session?',
@@ -478,12 +478,14 @@
        'We suggest that couples wear matching outfits that they feel at ease in so that they can also bring along an extra set of clothing.'],
       ['What should be done to have proper lighting during the shoot?',
        'We carry professional lighting equipment to guarantee perfect lighting regardless of the natural lighting situation in the venue.'],
-    ] as [$q,$a]): ?>
+    ]; ?>
+    <?php foreach ($faqs as [$q, $a]): ?>
     <div class="faq-item">
-      <button class="faq-trigger"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
+      <button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
       <div class="faq-body"><p><?= $a ?></p></div>
     </div>
     <?php endforeach; ?>
+    <?= \App\Libraries\PageSchema::faqScript($faqs) ?>
   </div>
 </section>
 
@@ -505,9 +507,9 @@
 <!-- Final CTA -->
 <section class="cta-section">
   <div class="container-xs cta-section-inner">
-    <h2 class="cta-title">Need a Photographer?<br><em class="cta-title-em">Someone With Experience to Collaborate With?</em></h2>
+    <h2 class="cta-title">Book Your Engagement Shoot<br><em class="cta-title-em">in Pune from ₹7,000</em></h2>
     <div class="cta-buttons">
-      <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Let's Work</a>
+      <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Contact Us</a>
       <a href="https://wa.me/918390367637" class="btn btn-outline-dark" target="_blank" rel="noopener">WhatsApp Us</a>
     </div>
   </div>

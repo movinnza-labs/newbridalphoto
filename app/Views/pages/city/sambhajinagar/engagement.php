@@ -1,5 +1,5 @@
 
-<section class="page-hero">
+<section class="page-hero page-hero-split page-hero-portrait">
   <div class="page-hero-bg"></div>
   <div class="page-hero-img">
     <img src="<?= base_url('assets/images/mum-engage-1.webp') ?>" alt="Engaged couple smiling and holding hands in front of floral decor" width="1920" height="700" loading="eager" fetchpriority="high">
@@ -178,7 +178,7 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Our<br><em>Approach</em></h2>
+      <h2 class="section-title">Our <em>Approach</em></h2>
       <p class="section-sub">Our engagement photographer in Chhatrapati Sambhajinagar thinks that a great engagement photography starts way before the camera clicks.</p>
     </div>
     <div class="grid-3 grid-gap">
@@ -215,7 +215,7 @@
     <div class="section-head">
       <p class="eyebrow section-head-eyebrow">Packages</p>
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Packages<br><em>and Pricing</em></h2>
+      <h2 class="section-title">Packages <em>and Pricing</em></h2>
       <p class="section-sub">Packages start from Rs 7,000. Our engagement packages in Chhatrapati Sambhajinagar are flexible and fit different budgets and needs:</p>
     </div>
     <div class="grid-3 grid-gap">
@@ -300,7 +300,7 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Client<br><em>Testimonials</em></h2>
+      <h2 class="section-title">Client <em>Testimonials</em></h2>
     </div>
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
@@ -349,7 +349,7 @@
        'Generally, the sessions take 2 to 6 hours in accordance with the package and the number of destinations.'],
     ] as [$q,$a]): ?>
     <div class="faq-item">
-      <button class="faq-trigger"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
+      <button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
       <div class="faq-body"><p><?= $a ?></p></div>
     </div>
     <?php endforeach; ?>
@@ -369,13 +369,13 @@
       </div>
       <div class="enquire-form-card">
         <?= view("partials/form-flash") ?>
-        <form method="post" action="<?= base_url('/contact/send/') ?>" novalidate>
+        <form method="post" action="<?= base_url('/contact/send/') ?>">
           <?= csrf_field() ?>
           <input type="hidden" name="service" value="Engagement Photography Chhatrapati Sambhajinagar">
-          <div class="enquire-form-field"><label class="enquire-form-label">Name</label><input type="text" name="name" placeholder="Name" class="enquire-form-input"></div>
-          <div class="enquire-form-field"><label class="enquire-form-label">Contact no</label><input type="tel" name="phone" placeholder="Mobile Number" class="enquire-form-input" required></div>
-          <div class="enquire-form-field"><label class="enquire-form-label">Email</label><input type="email" name="email" placeholder="Email" class="enquire-form-input"></div>
-          <div class="enquire-form-field"><label class="enquire-form-label">Address</label><textarea name="address" placeholder="Address" class="enquire-form-textarea"></textarea></div>
+          <div class="enquire-form-field"><label class="enquire-form-label" for="enq-name">Name</label><input type="text" name="name" id="enq-name" placeholder="Name" class="enquire-form-input" required autocomplete="name" value="<?= old('name') ?>"></div>
+          <div class="enquire-form-field"><label class="enquire-form-label" for="enq-phone">Contact no</label><input type="tel" name="phone" id="enq-phone" placeholder="Mobile Number" class="enquire-form-input" required autocomplete="tel" value="<?= old('phone') ?>"></div>
+          <div class="enquire-form-field"><label class="enquire-form-label" for="enq-email">Email</label><input type="email" name="email" id="enq-email" placeholder="Email" class="enquire-form-input" required autocomplete="email" value="<?= old('email') ?>"></div>
+          <div class="enquire-form-field"><label class="enquire-form-label" for="enq-address">Address</label><textarea name="address" id="enq-address" placeholder="Address" class="enquire-form-textarea" autocomplete="street-address"><?= old('address') ?></textarea></div>
           <button type="submit" class="enquire-form-submit">Send</button>
         </form>
       </div>
@@ -384,4 +384,4 @@
 </section>
 
 <section class="section-related-pages"><div class="container"><p class="eyebrow section-related-eyebrow">Related Pages</p><div class="tag-links"><a href="<?= base_url('/chhatrapati-sambhajinagar/wedding-photographers/') ?>" class="tag-link">Wedding Sambhajinagar</a><a href="<?= base_url('/chhatrapati-sambhajinagar/pre-wedding-shoot/') ?>" class="tag-link">Pre-Wedding Sambhajinagar</a><a href="<?= base_url('/chhatrapati-sambhajinagar/') ?>" class="tag-link">Photographers in Chhatrapati Sambhajinagar</a><a href="<?= base_url('/faq/') ?>" class="tag-link">FAQ</a></div></div></section>
-<section class="cta-section"><div class="container-xs cta-section-inner"><h2 class="cta-title">Need a Photographer?<br><em class="cta-title-em">Someone With Experience to Collaborate With?</em></h2><div class="cta-buttons"><a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Let's Work</a><a href="https://wa.me/918390367637" class="btn btn-outline-dark" target="_blank" rel="noopener">WhatsApp Us</a></div></div></section>
+<section class="cta-section"><div class="container-xs cta-section-inner"><h2 class="cta-title">Need a Photographer?<br><em class="cta-title-em">Someone With Experience to Collaborate With?</em></h2><div class="cta-buttons"><a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Contact Us</a><a href="https://wa.me/918390367637" class="btn btn-outline-dark" target="_blank" rel="noopener">WhatsApp Us</a></div></div></section>

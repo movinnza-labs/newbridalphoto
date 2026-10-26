@@ -16,30 +16,41 @@ class Blog extends BaseController
     // ── Blog Listing ──────────────────────────────────────────────────
     public function index(): string
     {
-        $perPage = 9;
-        $page    = (int) ($this->request->getGet('page') ?? 1);
-        $cat     = $this->request->getGet('cat') ?? '';
-        $offset  = ($page - 1) * $perPage;
+        $perPage    = 9;
+        $categories = $this->blog->getCategories();
+        // ?page=0, -3 or abc used to give a negative SQL offset (500 error)
+        $page = max(1, (int) $this->request->getGet('page'));
+        $cat  = (string) $this->request->getGet('cat');
+        if (! isset($categories[$cat])) {
+            $cat = '';
+        }
+        $offset = ($page - 1) * $perPage;
 
-        if ($cat && $cat !== 'all') {
-            $posts = $this->blog->getByCategory($cat, $perPage);
-            $total = count($posts);
+        if ($cat !== '') {
+            $posts = $this->blog->getByCategory($cat, $perPage, $offset);
+            $total = $this->blog->getCategoryCount($cat);
         } else {
             $posts = $this->blog->getPublished($perPage, $offset);
             $total = $this->blog->getPublishedCount();
         }
 
-        $featured   = $this->blog->getFeatured(1);
         $totalPages = (int) ceil($total / $perPage);
+        if ($page > 1 && $page > $totalPages) {
+            throw \CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound();
+        }
+
+        $featured = $this->blog->getFeatured(1);
 
         $data = [
             'title'       => 'Pre Wedding Ideas, Location Guides & Tips | Photo Blog',
             'description' => 'Free pre wedding location guides, shoot ideas and photo tips from Pune photographers with 10+ years of shoots. Plan a better shoot today.',
             'canonical'   => '/blog/',
+            // Filtered and paged listings repeat /blog/: keep them out of the index
+            'robots'      => ($cat !== '' || $page > 1) ? 'noindex, follow' : 'index, follow',
             'view'        => 'blog/index',
             'posts'       => $posts,
             'featured'    => $featured[0] ?? null,
-            'categories'  => $this->blog->getCategories(),
+            'categories'  => $categories,
             'currentCat'  => $cat,
             'currentPage' => $page,
             'totalPages'  => $totalPages,
@@ -61,14 +72,18 @@ class Blog extends BaseController
             );
         }
 
-        // Increment view count
-        $this->blog->incrementViews($post['id']);
+        // Count a view once per visitor session, and never for bots
+        $seen = session()->get('blog_viewed') ?? [];
+        if (! $this->request->getUserAgent()->isRobot() && ! in_array($post['id'], $seen, true)) {
+            $this->blog->incrementViews($post['id']);
+            session()->set('blog_viewed', [...$seen, $post['id']]);
+        }
 
         // Related posts (same category, exclude self)
         $related = $this->blog->getRelated($post['id'], $post['category'] ?? 'general', 3);
 
         $metaTitle = $post['meta_title'] ?: $post['title'] . ' | The Bridal Photography';
-        $metaDesc  = $post['meta_description'] ?: strip_tags(substr($post['excerpt'] ?: $post['content'], 0, 160));
+        $metaDesc  = $post['meta_description'] ?: mb_substr(trim(strip_tags($post['excerpt'] ?: $post['content'])), 0, 160);
         $ogImage   = $post['og_image'] ?: $post['featured_image'];
 
         $data = [

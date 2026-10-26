@@ -105,7 +105,7 @@ class CityHub extends BaseController
     public function ahilyanagaBaby(): string
     {
         return $this->render('pages/city/ahilyanagar-baby', [
-            'title'       => 'Baby Photoshoot in Ahilyanagar | From ₹6,000',
+            'title'       => 'Baby & Newborn Photoshoot in Ahilyanagar | From ₹6,000',
             'description' => 'Safe, gentle baby and newborn photoshoot in Ahilyanagar with props and soft light. Packages from ₹6,000. Book your slot: +91 83903 67637.',
             'canonical'   => '/ahilyanagar/baby-photoshoot/',
             'breadcrumb'  => [['Home', '/'], ['Ahilyanagar', '/ahilyanagar/'], ['Baby Photoshoot', '/ahilyanagar/baby-photoshoot/']],
@@ -126,8 +126,9 @@ class CityHub extends BaseController
     public function mahabaleshwar(): string
     {
         return $this->render('pages/city/mahabaleshwar/index', [
-            'title'        => 'Photographers in Mahabaleshwar | Wedding & Pre Wedding',
-            'description'  => 'Wedding, pre wedding and engagement photographers in Mahabaleshwar. Shoots at Arthur\'s Seat, Wilson Point and Venna Lake. Book: +91 83903 67637.',
+            // SEO audit 23 Oct 2026: "Pre Wedding" removed so the hub does not compete with /pre-wedding-shoot-mahabaleshwar/
+            'title'        => 'Photographers in Mahabaleshwar | Weddings & Engagements',
+            'description'  => 'Wedding and engagement photographers in Mahabaleshwar for hill station and resort events at Arthur\'s Seat, Wilson Point and Venna Lake. Call +91 83903 67637.',
             'canonical'    => '/mahabaleshwar/',
             'breadcrumb'   => [['Home', '/'], ['Mahabaleshwar', '/mahabaleshwar/']],
             'preloadImage' => 'assets/images/prewedding-mahabaleshwar.webp',
@@ -168,8 +169,9 @@ class CityHub extends BaseController
     public function lonavala(): string
     {
         return $this->render('pages/city/lonavala/index', [
-            'title'        => 'Photographers in Lonavala | Wedding & Pre Wedding Shoots',
-            'description'  => 'Wedding, pre wedding and engagement photographers in Lonavala. Shoots at Tiger Point, Pawna Lake and Bhushi Dam. Check dates: +91 83903 67637.',
+            // SEO audit 23 Oct 2026: "Pre Wedding" removed so the hub does not compete with /pre-wedding-shoot-lonavala/
+            'title'        => 'Photographers in Lonavala | Weddings & Engagements',
+            'description'  => 'Wedding and engagement photographers in Lonavala for resort and destination events at Tiger Point, Pawna Lake and Bhushi Dam. Call +91 83903 67637.',
             'canonical'    => '/lonavala/',
             'breadcrumb'   => [['Home', '/'], ['Lonavala', '/lonavala/']],
             'preloadImage' => 'assets/images/mumbai-prewedding-01.webp',

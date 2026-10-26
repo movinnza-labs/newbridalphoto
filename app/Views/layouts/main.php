@@ -40,7 +40,7 @@
   <meta property="og:title"       content="<?= esc($title ?? 'The Bridal Photography') ?>">
   <meta property="og:description" content="<?= esc($description ?? '') ?>">
   <meta property="og:url"         content="https://thebridal.photography<?= esc($canonical ?? '/') ?>">
-  <meta property="og:type"        content="<?= isset($post) ? 'article' : 'website' ?>">
+  <meta property="og:type"        content="<?= \App\Libraries\PageSchema::isArticle($canonical, $post ?? null) ? 'article' : 'website' ?>">
   <meta property="og:image"       content="<?= esc($ogImage) ?>">
   <?php if ($ogSize): ?>
   <meta property="og:image:width"  content="<?= $ogSize[0] ?>">
@@ -48,7 +48,7 @@
   <?php endif; ?>
   <meta name="twitter:card"       content="summary_large_image">
   <meta name="twitter:image"      content="<?= esc($ogImage) ?>">
-  <meta name="robots"             content="index, follow">
+  <meta name="robots"             content="<?= esc($robots ?? 'index, follow') ?>">
 
   <!-- Fonts: auto-detect self-hosted; fall back to Google Fonts until woff2 files are uploaded -->
   <?php $localFontsReady = is_file(FCPATH . 'assets/fonts/jost-latin.woff2'); ?>
@@ -74,7 +74,7 @@
   <?php endif; ?>
 
   <!-- CSS (minified in place; cache-buster bumped) -->
-  <link rel="stylesheet" href="<?= base_url('assets/css/main.css?v=221026.1') ?>">
+  <link rel="stylesheet" href="<?= base_url('assets/css/main.css?v=261026.7') ?>">
 
   <!-- Visually-hidden utility (for accessible icon-only links) -->
   <style>.visually-hidden{position:absolute!important;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}</style>
@@ -123,6 +123,6 @@
     </svg>
     <span class="visually-hidden">Chat with us on WhatsApp</span>
   </a>
-  <script src="<?= base_url('assets/js/main.js?v=190526.0') ?>" defer></script>
+  <script src="<?= base_url('assets/js/main.js?v=261026.1') ?>" defer></script>
 </body>
 </html>

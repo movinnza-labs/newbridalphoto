@@ -1,15 +1,15 @@
 
-<section class="page-hero">
+<section class="page-hero page-hero-split page-hero-portrait">
   <div class="page-hero-bg"></div>
   <div class="page-hero-img">
-    <img src="<?= base_url('assets/images/ahily-eng-1.webp') ?>" alt="Engagement Photographers in Ahilyanagar" width="1920" height="700" loading="eager" fetchpriority="high">
+    <img src="<?= base_url('assets/images/ahily-eng-1.webp') ?>" alt="Engaged couple touching foreheads, bride in pale yellow saree and emerald jewellery, Ahilyanagar" width="1920" height="700" loading="eager" fetchpriority="high">
   </div>
   <div class="page-hero-content">
     <div class="page-hero-content-inner">
       <p class="eyebrow page-hero-eyebrow">Engagement Photography &middot; Ahilyanagar</p>
       <div class="page-hero-rule"></div>
       <h1>Engagement Photographers<br><em>in Ahilyanagar</em></h1>
-      <p class="page-hero-sub">Having a partner is the start of a beautiful journey together &ndash; a life full of love, excitement, blessings of your family, memorable experiences.</p>
+      <p class="page-hero-sub">Having a partner is the start of a beautiful journey together &ndash; a life full of love, excitement, family blessings and memorable experiences.</p>
       <p class="page-hero-sub" style="margin-top:.4rem;"><strong>Starting from ₹7,000</strong></p>
       <div class="page-hero-buttons">
         <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Book Now</a>
@@ -25,19 +25,10 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <p class="section-sub">Having a partner is the start of a beautiful journey together &ndash; a life full of love, excitement, blessings of your family, memorable experiences. At The Bridal Photography, our team of engagement photographers in Ahilyanagar record such invaluable moments in the most creative, elegant and natural manner.</p>
-      <p class="section-sub section-sub-gap">Are you about to have a big engagement party or a small ring exchange, our seasoned photographers will make sure that every smile, look and party is captured forever. When you are among those who seek professional engagement photoshoot in Ahilyanagar, our team combines intimacy with photojournalism in order to provide you with breathtaking images that you will always remember throughout your lifetime.</p>
-    </div>
-  </div>
-</section>
-
-<!-- Quick Delivery -->
-<section class="section section-off">
-  <div class="container">
-    <div class="section-head">
-      <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Quick Delivery for<br><em>Social Sharing</em></h2>
-      <p class="section-sub">With our <strong>engagement photoshoot in Ahilyanagar</strong> service, we can tell how thrilling it is to share your engagement photos. We have a fast turnaround which means that you will receive chosen photos within a short time to use with the social media and announcements.</p>
+      <h2 class="section-title">Engagement Photography in Ahilyanagar<br><em>(Ahmednagar)</em></h2>
+      <p class="section-sub">Having a partner is the start of a beautiful journey together &ndash; a life full of love, excitement, family blessings and memorable experiences. At The Bridal Photography, our team of engagement photographers in Ahilyanagar records such invaluable moments in the most creative, elegant and natural manner.</p>
+      <p class="section-sub section-sub-gap">Whether you are planning a big engagement party or a small ring exchange, our seasoned photographers will make sure that every smile, look and moment is captured forever. If you are looking for a professional engagement photoshoot in Ahilyanagar, our team combines intimacy with photojournalism to give you breathtaking images that you will remember for a lifetime.</p>
+      <p class="section-sub section-sub-gap">We cover ring ceremonies, Roka and Sakharpuda functions at homes, halls and lawns across Ahilyanagar, along with relaxed couple portraits before or after the ceremony. Packages start from ₹7,000.</p>
     </div>
   </div>
 </section>
@@ -46,12 +37,12 @@
 <section class="section section-white">
   <div class="container">
     <div class="maternity-gallery maternity-gallery-3col">
-      <img src="<?= base_url('assets/images/ahily-eng-1.webp') ?>" width="1600" height="2400" alt="Engagement Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-eng-2.webp') ?>" width="1600" height="2400" alt="Engagement Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-eng-3.webp') ?>" width="1600" height="2400" alt="Engagement Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-eng-4.webp') ?>" width="1600" height="2400" alt="Engagement Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-eng-5.webp') ?>" width="1600" height="2400" alt="Engagement Ahilyanagar" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/ahily-eng-6.webp') ?>" width="1600" height="2400" alt="Engagement Ahilyanagar" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-eng-1.webp') ?>" width="1600" height="2400" alt="Bride in yellow embellished saree smiling as groom in ivory sherwani leans in" loading="lazy" decoding="async" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-eng-2.webp') ?>" width="1600" height="2400" alt="Groom kisses bride's cheek from behind as both show their engagement rings" loading="lazy" decoding="async" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-eng-3.webp') ?>" width="1600" height="2400" alt="Laughing couple showing off rings under globe pendant lights" loading="lazy" decoding="async" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-eng-4.webp') ?>" width="1600" height="2400" alt="Close-up of bride in emerald necklace and earrings resting her forehead on groom's" loading="lazy" decoding="async" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-eng-5.webp') ?>" width="1600" height="2400" alt="Couple laughing together and holding hands beneath a modern chandelier" loading="lazy" decoding="async" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/ahily-eng-6.webp') ?>" width="1600" height="2400" alt="Bride laughing and showing her ring while groom in ivory bandhgala holds her close" loading="lazy" decoding="async" class="maternity-gallery-img">
     </div>
   </div>
 </section>
@@ -62,17 +53,17 @@
     <div class="section-head">
       <p class="eyebrow section-head-eyebrow">Transparent Pricing</p>
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Engagement Photoshoot in Ahilyanagar-<br><em>Pricing &amp; Packages</em></h2>
-      <p class="section-sub">We have flexible engagement photoshoots in Ahilyanagar options, which vary in terms of needs and costs. Packages include:</p>
+      <h2 class="section-title">Packages and<br><em>Prices</em></h2>
+      <p class="section-sub">Our engagement packages start from ₹7,000 and are flexible to suit your needs and budget. Packages include:</p>
     </div>
     <div class="grid-3 grid-gap">
-      <div class="card-white card-white-padded-sm"><p class="card-white-text">The coverage of ceremony photography.</p></div>
+      <div class="card-white card-white-padded-sm"><p class="card-white-text">Ceremony photography coverage.</p></div>
       <div class="card-white card-white-padded-sm"><p class="card-white-text">Couple portrait session</p></div>
       <div class="card-white card-white-padded-sm"><p class="card-white-text">Professionally edited quality photographs.</p></div>
-      <div class="card-white card-white-padded-sm"><p class="card-white-text">Sharing preview pictures quickly.</p></div>
+      <div class="card-white card-white-padded-sm"><p class="card-white-text">Quick sharing of preview pictures.</p></div>
       <div class="card-white card-white-padded-sm"><p class="card-white-text">Optional videography services.</p></div>
     </div>
-    <p class="article-text article-text-gap">The prices will be based on the length of the shoot, location, and amount of teams involved, and other services. Get in touch with a special quote to suit your engagement party.</p>
+    <p class="article-text article-text-gap">Prices are based on the length of the shoot, the location, the size of the team involved and any other services. Get in touch for a special quote to suit your engagement party.</p>
   </div>
 </section>
 
@@ -82,9 +73,9 @@
     <div class="section-head">
       <p class="eyebrow section-head-eyebrow">Why Choose Us</p>
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Why Choose The Bridal Photography-<br><em>Engagement Photoshoot in Ahilyanagar</em></h2>
-      <p class="section-sub">The selection of the engagement photographers in Ahilyanagar is crucial since engagement photos are not ordinary photos, but they are the new memories within the family.</p>
-      <p class="section-sub section-sub-gap">Here's why couples trust us</p>
+      <h2 class="section-title">Why Choose<br><em>The Bridal Photography</em></h2>
+      <p class="section-sub">Choosing the right engagement photographers in Ahilyanagar is crucial, since engagement photos are not ordinary photos; they are new memories for the family.</p>
+      <p class="section-sub section-sub-gap">Here's why couples trust us:</p>
     </div>
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
@@ -101,7 +92,11 @@
       </div>
       <div class="card-white card-white-padded-sm">
         <h3 class="card-white-title lvl-h4"><strong>Creative Ring Moments</strong></h3>
-        <p class="card-white-text">We focus on your most special highlights. From ring exchange to stage moments, we capture every detail with creativity and Images.</p>
+        <p class="card-white-text">We focus on your most special highlights. From the ring exchange to stage moments, we capture every detail with creativity and care.</p>
+      </div>
+      <div class="card-white card-white-padded-sm">
+        <h3 class="card-white-title lvl-h4"><strong>Quick Delivery for Social Sharing</strong></h3>
+        <p class="card-white-text">We know how exciting it is to share your engagement news. You receive a set of selected preview photos quickly for social media and announcements, followed by the full edited album on the agreed schedule.</p>
       </div>
     </div>
   </div>
@@ -112,11 +107,11 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Engagement Photoshoot in Ahilyanagar-<br><em>Portfolio</em></h2>
-      <p class="section-sub">Our engagement photoshoot in Ahilyanagar portfolio has a diverse variety of shoots such as candid wedding, romantic couple, classy indoor engagements, as well as bright outdoor engagement photoshoots. Every album is a manifestation of our desire to tell stories, be creative and record real feelings.</p>
-      <p class="section-sub section-sub-gap">Couples are advised to visit our portfolio in order to know more about our style, quality and versatility before making the reservation.</p>
+      <h2 class="section-title">Our Recent<br><em>Work</em></h2>
+      <p class="section-sub">Our engagement portfolio includes a diverse variety of shoots, such as candid ceremonies, romantic couple portraits, classy indoor engagements and bright outdoor engagement photoshoots. Every album is a manifestation of our desire to tell stories, be creative and record real feelings.</p>
+      <p class="section-sub section-sub-gap">We advise couples to view our portfolio to learn more about our style, quality and versatility before booking.</p>
     </div>
-    <p class="article-text">Reach out to us for the availability of our best engagement photographer in Ahilyanagar.</p>
+    <p class="article-text">Reach out to us to check the availability of our best engagement photographer in Ahilyanagar.</p>
   </div>
 </section>
 
@@ -127,7 +122,7 @@
       <p class="eyebrow section-head-eyebrow">What We Offer</p>
       <div class="rule-center section-head-rule"></div>
       <h2 class="section-title">Engagement Photography Services<br><em>at The Bridal Photography</em></h2>
-      <p class="section-sub">Our engagement photography packages start from Rs 7,000. We offer packages to cover every part of your day:</p>
+      <p class="section-sub">Our engagement photography packages start from ₹7,000. We offer packages to cover every part of your day:</p>
     </div>
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
@@ -140,7 +135,7 @@
       </div>
       <div class="card-white card-white-padded-sm">
         <h3 class="card-white-title lvl-h4"><strong>Styled Concept Shoots</strong></h3>
-        <p class="card-white-text">Want a creative and artistic experience? We use props, backgrounds, and styling to create a beautiful visual story that suits for shoots.</p>
+        <p class="card-white-text">Want a creative and artistic experience? We use props, backgrounds, and styling to create a beautiful visual story that suits your shoot.</p>
       </div>
       <div class="card-white card-white-padded-sm">
         <h3 class="card-white-title lvl-h4"><strong>Short Films &amp; Reels</strong></h3>
@@ -156,16 +151,16 @@
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
       <h2 class="section-title">Our Engagement Photography<br><em>Style</em></h2>
-      <p class="section-sub">Our engagement photographers in Ahilyanagar blend our style of photography with narrative, creativity, and technical gift to produce a wholesome engagement album.</p>
+      <p class="section-sub">Our engagement photographers in Ahilyanagar blend our photography style with narrative, creativity and technical skill to produce a complete engagement album.</p>
     </div>
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
         <h3 class="card-white-title lvl-h4"><strong>Ring Exchange Close-Ups</strong></h3>
-        <p class="card-white-text">Close-up shots of your ring exchange highlight the most Symbolic Movement of Your Engagement Beautifully.</p>
+        <p class="card-white-text">Close-up shots of your ring exchange highlight the most symbolic moment of your engagement beautifully.</p>
       </div>
       <div class="card-white card-white-padded-sm">
         <h3 class="card-white-title lvl-h4"><strong>Couple Candid Reactions</strong></h3>
-        <p class="card-white-text">We capture genuine smiles, laughter, and spontaneous Expressions to Create Natural Movements.</p>
+        <p class="card-white-text">We capture genuine smiles, laughter, and spontaneous expressions to create natural moments.</p>
       </div>
       <div class="card-white card-white-padded-sm">
         <h3 class="card-white-title lvl-h4"><strong>Family Moments</strong></h3>
@@ -173,7 +168,7 @@
       </div>
       <div class="card-white card-white-padded-sm">
         <h3 class="card-white-title lvl-h4"><strong>Stage Decor Wide Shots</strong></h3>
-        <p class="card-white-text">We capture venue decor, stage design, and ambiance to beautifully narrate the story of Your Event.</p>
+        <p class="card-white-text">We capture venue decor, stage design, and ambiance to beautifully narrate the story of your event.</p>
       </div>
     </div>
   </div>
@@ -189,12 +184,12 @@
       <p class="section-sub">There are many beautiful locations in Ahilyanagar for engagement photoshoots, carefully suggested by our photographers based on your style.</p>
     </div>
     <div class="grid-3 grid-gap">
-      <div class="card-white card-white-padded-sm"><p class="card-white-text">Splendid wedding halls and engagement Centre For Celebration.</p></div>
-      <div class="card-white card-white-padded-sm"><p class="card-white-text">Outdoor locations and scenic gardens For Natural Look Shoot.</p></div>
-      <div class="card-white card-white-padded-sm"><p class="card-white-text">Traditional shoots at heritage and cultural locations with timeless feel.</p></div>
+      <div class="card-white card-white-padded-sm"><p class="card-white-text">Splendid wedding halls and engagement venues for celebrations.</p></div>
+      <div class="card-white card-white-padded-sm"><p class="card-white-text">Outdoor locations and scenic gardens for a natural look.</p></div>
+      <div class="card-white card-white-padded-sm"><p class="card-white-text">Traditional shoots at heritage and cultural locations with a timeless feel.</p></div>
       <div class="card-white card-white-padded-sm"><p class="card-white-text">Cozy cafes or customized indoor decor setups for unique concepts.</p></div>
       <div class="card-white card-white-padded-sm"><p class="card-white-text">Home wedding moments in small ceremonies filled with emotions.</p></div>
-      <div class="card-white card-white-padded-sm"><p class="card-white-text">We help choose perfect backdrops Matching Your Theme and Style.</p></div>
+      <div class="card-white card-white-padded-sm"><p class="card-white-text">We help you choose the perfect backdrops matching your theme and style.</p></div>
     </div>
   </div>
 </section>
@@ -204,8 +199,8 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Engagement Photoshoot in Ahilyanagar-<br><em>Outfit/Pose Tips</em></h2>
-      <p class="section-sub">Such little plans will create a large difference in getting gorgeous engagement photos.</p>
+      <h2 class="section-title">Outfit and<br><em>Pose Tips</em></h2>
+      <p class="section-sub">A little planning makes a big difference to getting gorgeous engagement photos.</p>
     </div>
     <div class="grid-2 grid-gap">
       <div class="card-white card-white-padded-sm">
@@ -213,17 +208,17 @@
         <ul class="pkg-detail-list">
           <li>Color co-ordination rather than color matching.</li>
           <li>Wear comfortable clothes to move freely.</li>
-          <li>Keep off heavy patterns which interfere with expressions.</li>
-          <li>Make a venue theme when choosing clothes.</li>
+          <li>Avoid heavy patterns that distract from expressions.</li>
+          <li>Consider the venue theme when choosing clothes.</li>
         </ul>
       </div>
       <div class="card-white card-white-padded-sm">
         <h3 class="card-white-title lvl-h4">Pose Tips</h3>
         <ul class="pkg-detail-list">
           <li>Communicate with your partner in a natural way.</li>
-          <li>Smooth smiles and eye contact form emotional photographic images.</li>
-          <li>Practice loosened posture of candid shots.</li>
-          <li>You should trust your photographer.</li>
+          <li>Soft smiles and eye contact create emotional photographs.</li>
+          <li>Practise a relaxed posture for candid shots.</li>
+          <li>Trust your photographer.</li>
         </ul>
       </div>
     </div>
@@ -240,15 +235,15 @@
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">
         <p class="card-white-text">"Our engagement is something that we will not forget. The photographs were able to capture all the feelings in a magnificent way."</p>
-        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>- Riya &amp; Karan</strong></h3>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>Riya &amp; Karan</strong></h3>
       </div>
       <div class="card-white card-white-padded-sm">
-        <p class="card-white-text">"Highly skilled, amiable and professional team of the Bridal Photography. We really liked the way our photographs are natural."</p>
-        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>- Sneha &amp; Amit</strong></h3>
+        <p class="card-white-text">"Highly skilled, amiable and professional team at The Bridal Photography. We really liked how natural our photographs look."</p>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>Sneha &amp; Amit</strong></h3>
       </div>
       <div class="card-white card-white-padded-sm">
-        <p class="card-white-text">"Fast and beautiful photography. I strongly recommend to engagement photographers in Ahilyanagar."</p>
-        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>- Priya &amp; Rahul</strong></h3>
+        <p class="card-white-text">"Fast and beautiful photography. I strongly recommend them as engagement photographers in Ahilyanagar."</p>
+        <h3 class="card-white-title article-heading-gap lvl-h4"><strong>Priya &amp; Rahul</strong></h3>
       </div>
     </div>
   </div>
@@ -259,9 +254,9 @@
   <div class="container">
     <div class="section-head">
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Hire Your Engagement Photographer<br><em>from the Bridal Photography</em></h2>
-      <p class="section-sub">Your interaction is worth being photographed beautifully and professionally. The Bridal Photography has experienced engagement photographers in Ahilyanagar with creative vision, and commitment to storytelling; therefore, your memories will not fade away.</p>
-      <p class="section-sub section-sub-gap"><strong>Ready to capture your engagement moments?</strong> Book The Bridal Photography. We will make your special day memories of a lifetime.</p>
+      <h2 class="section-title">Hire Your Engagement Photographer<br><em>from The Bridal Photography</em></h2>
+      <p class="section-sub">Your engagement deserves to be photographed beautifully and professionally. The Bridal Photography has experienced engagement photographers in Ahilyanagar with creative vision and a commitment to storytelling, so your memories will never fade.</p>
+      <p class="section-sub section-sub-gap"><strong>Ready to capture your engagement moments?</strong> Book The Bridal Photography. We will turn your special day into memories of a lifetime.</p>
     </div>
   </div>
 </section>
@@ -274,21 +269,23 @@
       <div class="rule-center section-head-rule"></div>
       <h2 class="section-title">Trending Frequently Asked<br><em>Questions</em></h2>
     </div>
-    <?php foreach([
+    <?php $faqs = [
       ['What is the price of engagement photography in Ahilyanagar?',
-       'Packages start from Rs 7,000. The final cost is based on the number of coverage hours, location, team size, and deliverables. We provide tailor-made packages to various budgets.'],
+       'Packages start from ₹7,000. The final cost is based on the number of coverage hours, location, team size, and deliverables. We provide tailor-made packages to various budgets.'],
       ['Do you cover only ceremonies or couple shoots also?',
        'We discuss both the engagement ceremonies and dedicated couple photoshoots; it is up to you.'],
       ['What will be the number of photos that we will be given?',
        'It varies depending on your package, however you can assume a reviewed set of professionally edited high quality images.'],
       ['What is the delivery time?',
        'Social sharing of preview photos are often completed with a single quick delivery and entire edited albums are completed according to the agreed schedule.'],
-    ] as [$q,$a]): ?>
+    ];
+    foreach ($faqs as [$q, $a]): ?>
     <div class="faq-item">
-      <button class="faq-trigger"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
+      <button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
       <div class="faq-body"><p><?= $a ?></p></div>
     </div>
     <?php endforeach; ?>
+    <?= \App\Libraries\PageSchema::faqScript($faqs) ?>
   </div>
 </section>
 
@@ -305,13 +302,13 @@
       </div>
       <div class="enquire-form-card">
         <?= view("partials/form-flash") ?>
-        <form method="post" action="<?= base_url('/contact/send/') ?>" novalidate>
+        <form method="post" action="<?= base_url('/contact/send/') ?>">
           <?= csrf_field() ?>
           <input type="hidden" name="service" value="Engagement Photography Ahilyanagar">
-          <div class="enquire-form-field"><label class="enquire-form-label">Name</label><input type="text" name="name" placeholder="Name" class="enquire-form-input"></div>
-          <div class="enquire-form-field"><label class="enquire-form-label">Contact no</label><input type="tel" name="phone" placeholder="Mobile Number" class="enquire-form-input" required></div>
-          <div class="enquire-form-field"><label class="enquire-form-label">Email</label><input type="email" name="email" placeholder="Email" class="enquire-form-input"></div>
-          <div class="enquire-form-field"><label class="enquire-form-label">Address</label><textarea name="address" placeholder="Address" class="enquire-form-textarea"></textarea></div>
+          <div class="enquire-form-field"><label class="enquire-form-label" for="enq-name">Name</label><input type="text" name="name" id="enq-name" placeholder="Name" class="enquire-form-input" required autocomplete="name" value="<?= old('name') ?>"></div>
+          <div class="enquire-form-field"><label class="enquire-form-label" for="enq-phone">Contact no</label><input type="tel" name="phone" id="enq-phone" placeholder="Mobile Number" class="enquire-form-input" required autocomplete="tel" value="<?= old('phone') ?>"></div>
+          <div class="enquire-form-field"><label class="enquire-form-label" for="enq-email">Email</label><input type="email" name="email" id="enq-email" placeholder="Email" class="enquire-form-input" required autocomplete="email" value="<?= old('email') ?>"></div>
+          <div class="enquire-form-field"><label class="enquire-form-label" for="enq-address">Address</label><textarea name="address" id="enq-address" placeholder="Address" class="enquire-form-textarea" autocomplete="street-address"><?= old('address') ?></textarea></div>
           <button type="submit" class="enquire-form-submit">Send</button>
         </form>
       </div>
@@ -320,4 +317,4 @@
 </section>
 
 <section class="section-related-pages"><div class="container"><p class="eyebrow section-related-eyebrow">Related Pages</p><div class="tag-links"><a href="<?= base_url('/ahilyanagar/') ?>" class="tag-link">Ahilyanagar Hub</a><a href="<?= base_url('/ahilyanagar/pre-wedding-shoot/') ?>" class="tag-link">Pre-Wedding</a><a href="<?= base_url('/ahilyanagar/wedding-photographers/') ?>" class="tag-link">Wedding Photographers in Ahilyanagar</a><a href="<?= base_url('/ahilyanagar/maternity-photographer/') ?>" class="tag-link">Maternity Photographer in Ahilyanagar</a><a href="<?= base_url('/ahilyanagar/baby-photoshoot/') ?>" class="tag-link">Baby Photoshoot in Ahilyanagar</a><a href="<?= base_url('/faq/') ?>" class="tag-link">FAQ</a></div></div></section>
-<section class="cta-section"><div class="container-xs cta-section-inner"><h2 class="cta-title">Need a Photographer?<br><em class="cta-title-em">Someone With Experience to Collaborate With?</em></h2><div class="cta-buttons"><a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Let's Work</a><a href="https://wa.me/918390367637" class="btn btn-outline-dark" target="_blank" rel="noopener">WhatsApp Us</a></div></div></section>
+<section class="cta-section"><div class="container-xs cta-section-inner"><h2 class="cta-title">Book Your Engagement Photographer<br><em class="cta-title-em">in Ahilyanagar</em></h2><div class="cta-buttons"><a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Contact Us</a><a href="https://wa.me/918390367637" class="btn btn-outline-dark" target="_blank" rel="noopener">WhatsApp Us</a></div></div></section>

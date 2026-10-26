@@ -72,7 +72,7 @@ $content .= $ctaAppend;
   <?php $heroImg = str_starts_with($post['featured_image'], 'http') ? $post['featured_image'] : base_url($post['featured_image']); ?>
   <div class="page-hero-img">
     <img src="<?= esc($heroImg) ?>"
-         alt="<?= esc($post['featured_image_alt'] ?? $post['title']) ?>"
+         alt="<?= esc(($post['featured_image_alt'] ?? '') ?: $post['title']) ?>"
          width="1920" height="800" loading="eager" fetchpriority="high">
   </div>
   <?php endif; ?>
@@ -103,7 +103,7 @@ $content .= $ctaAppend;
 <!-- ══ ARTICLE ═══════════════════════════════════════════════════════ -->
 <section class="section section-white">
   <div class="container">
-    <div style="display:grid;grid-template-columns:1fr 320px;gap:4rem;align-items:start;">
+    <div class="blog-detail-grid">
 
       <!-- Main content -->
       <article>
@@ -144,7 +144,7 @@ $content .= $ctaAppend;
                target="_blank" rel="noopener noreferrer" class="tag-link">
               Share on WhatsApp
             </a>
-            <a href="https://twitter.com/intent/tweet?url=<?= $shareUrl ?>&text=<?= $shareTitle ?>"
+            <a href="https://twitter.com/intent/tweet?url=<?= $shareUrl ?>&amp;text=<?= $shareTitle ?>"
                target="_blank" rel="noopener noreferrer" class="tag-link">
               Share on Twitter
             </a>
@@ -167,7 +167,7 @@ $content .= $ctaAppend;
       </article>
 
       <!-- Sidebar -->
-      <aside style="position:sticky;top:6rem;">
+      <aside class="blog-detail-sidebar">
 
         <!-- CTA box -->
         <div style="background:var(--bg-dark);padding:2rem;margin-bottom:2rem;border-top:3px solid var(--gold);">
@@ -229,7 +229,7 @@ $content .= $ctaAppend;
         <div class="blog-card-img">
           <?php if ($r['featured_image']): ?>
           <?php $rImg = str_starts_with($r['featured_image'], 'http') ? $r['featured_image'] : base_url($r['featured_image']); ?>
-          <img src="<?= esc($rImg) ?>" alt="<?= esc($r['featured_image_alt'] ?? $r['title']) ?>"
+          <img src="<?= esc($rImg) ?>" alt="<?= esc(($r['featured_image_alt'] ?? '') ?: $r['title']) ?>"
                loading="lazy" width="600" height="375">
           <?php endif; ?>
         </div>

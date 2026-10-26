@@ -1,9 +1,9 @@
 
-<section class="page-hero">
+<section class="page-hero page-hero-split page-hero-portrait">
   <div class="page-hero-bg"></div>
   <div class="page-hero-img">
     <img src="<?= base_url('assets/images/baby-hero.webp') ?>"
-         alt="Newborn Photographer in Pune - The Bridal Photography"
+         alt="Baby boy posing on a mint crate at an outdoor shoot in Pune"
          width="1920" height="700" loading="eager" fetchpriority="high">
   </div>
   <div class="page-hero-content">
@@ -44,7 +44,7 @@
     </div>
 
     <div class="article-img-center">
-      <img src="<?= base_url('assets/images/baby-hero.webp') ?>" width="1795" height="2560" alt="Baby boy in a cap and braces sitting on a mint crate at an outdoor baby shoot in Pune" loading="lazy" class="article-img">
+      <img src="<?= base_url('assets/images/baby-hero.webp') ?>" width="1795" height="2560" alt="Baby boy in a checked cap, bow tie and suspenders holding an orange on a mint crate" loading="lazy" class="article-img">
     </div>
   </div>
 </section>
@@ -168,7 +168,7 @@
     <div class="section-head">
       <p class="eyebrow section-head-eyebrow">Transparent Pricing</p>
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Photography<br><em>Packages</em></h2>
+      <h2 class="section-title">Photography <em>Packages</em></h2>
       <p class="section-sub">Choose from 3 newborn packages: Gold (Rs 6,000), Platinum (Rs 8,000) and Diamond (Rs 18,000). Our New Born Baby photoshoot packages are designed to suit various needs and budgets</p>
     </div>
 
@@ -216,7 +216,7 @@
     </div>
     <p class="packages-terms-note">Booking amount 20% and final payment - balance 80% on or before event.</p>
     <div class="article-img-center article-text-gap">
-      <a href="<?= base_url('/baby-photoshoot-pune/') ?>" class="btn btn-gold">Explore our Package !</a>
+      <a href="<?= base_url('/baby-photoshoot-pune/') ?>" class="btn btn-gold">View Packages</a>
     </div>
   </div>
 </section>
@@ -238,14 +238,14 @@
     <div class="section-head">
       <p class="eyebrow section-head-eyebrow">Our Work</p>
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Best<br><em>Photographs</em></h2>
+      <h2 class="section-title">Best <em>Photographs</em></h2>
       <p class="section-sub">You can take a look at our portfolio to see the type of newborn photoshoots we offer. They can be happy and joyous or solemn and serious depending on your requirement.</p>
       <p class="section-sub section-sub-gap">For milestone, cake smash and birthday shoots, see our <a href="<?= base_url('/baby-photoshoot-pune/') ?>" class="article-link">Baby Photoshoot in Pune</a> page.</p>
     </div>
     <div class="maternity-gallery maternity-gallery-3col">
       <img src="<?= base_url('assets/images/new-born-baby-shoot.webp') ?>" width="1600" height="2400" alt="Sleeping newborn wrapped in a soft wrap with a cap, round glasses and a bow tie" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/one-month-baby-shoot.webp') ?>" width="1600" height="2400" alt="Smiling newborn in a yellow bodysuit and flower crown lying in a basket" loading="lazy" class="maternity-gallery-img">
-      <img src="<?= base_url('assets/images/baby-shoot.webp') ?>" width="1600" height="2400" alt="Newborn with a flower crown resting in a basket against a dark backdrop" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/one-month-baby-shoot.webp') ?>" width="1600" height="2400" alt="Smiling sleeping baby in a yellow bodysuit lying in a wicker basket with flowers" loading="lazy" class="maternity-gallery-img">
+      <img src="<?= base_url('assets/images/baby-shoot.webp') ?>" width="1600" height="2400" alt="Sleeping baby with a purple flower crown in a white heart-shaped bowl" loading="lazy" class="maternity-gallery-img">
     </div>
   </div>
 </section>
@@ -270,7 +270,7 @@
     </div>
     <?php foreach($faqs as [$q,$a]): ?>
     <div class="faq-item">
-      <button class="faq-trigger"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
+      <button class="faq-trigger" type="button" aria-expanded="false"><span class="faq-q"><?= $q ?></span><span class="faq-icon">+</span></button>
       <div class="faq-body"><p><?= $a ?></p></div>
     </div>
     <?php endforeach; ?>
@@ -312,24 +312,24 @@
 
       <div class="enquire-form-card">
                 <?= view("partials/form-flash") ?>
-        <form method="post" action="<?= base_url('/contact/send/') ?>" novalidate>
+        <form method="post" action="<?= base_url('/contact/send/') ?>">
           <?= csrf_field() ?>
           <input type="hidden" name="service" value="Newborn Photography">
           <div class="enquire-form-field">
-            <label class="enquire-form-label">Name</label>
-            <input type="text" name="name" placeholder="Name" class="enquire-form-input">
+            <label class="enquire-form-label" for="enq-name">Name</label>
+            <input type="text" name="name" id="enq-name" placeholder="Name" class="enquire-form-input" required autocomplete="name" value="<?= old('name') ?>">
           </div>
           <div class="enquire-form-field">
-            <label class="enquire-form-label">Contact no</label>
-            <input type="tel" name="phone" placeholder="Mobile Number" class="enquire-form-input" required>
+            <label class="enquire-form-label" for="enq-phone">Contact no</label>
+            <input type="tel" name="phone" id="enq-phone" placeholder="Mobile Number" class="enquire-form-input" required autocomplete="tel" value="<?= old('phone') ?>">
           </div>
           <div class="enquire-form-field">
-            <label class="enquire-form-label">Email</label>
-            <input type="email" name="email" placeholder="Email" class="enquire-form-input">
+            <label class="enquire-form-label" for="enq-email">Email</label>
+            <input type="email" name="email" id="enq-email" placeholder="Email" class="enquire-form-input" required autocomplete="email" value="<?= old('email') ?>">
           </div>
           <div class="enquire-form-field">
-            <label class="enquire-form-label">Address</label>
-            <textarea name="address" placeholder="Address" class="enquire-form-textarea"></textarea>
+            <label class="enquire-form-label" for="enq-address">Address</label>
+            <textarea name="address" id="enq-address" placeholder="Address" class="enquire-form-textarea" autocomplete="street-address"><?= old('address') ?></textarea>
           </div>
           <button type="submit" class="enquire-form-submit">Send</button>
         </form>
@@ -356,7 +356,7 @@
   <div class="container-xs cta-section-inner">
     <h2 class="cta-title">Need a Photographer?<br><em class="cta-title-em">Someone With Experience to Collaborate With?</em></h2>
     <div class="cta-buttons">
-      <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Let's Work</a>
+      <a href="<?= base_url('/contact/') ?>" class="btn btn-gold">Contact Us</a>
       <a href="https://wa.me/918390367637" class="btn btn-outline-dark" target="_blank" rel="noopener">WhatsApp Us</a>
     </div>
   </div>

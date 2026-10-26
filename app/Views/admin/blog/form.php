@@ -4,7 +4,8 @@ $isEdit= $isEdit ?? false;
 $cats  = $categories ?? [];
 $action= $isEdit ? base_url('/admin/blogs/update/' . ($p['id'] ?? '') . '/') : base_url('/admin/blogs/store/');
 $old   = function(string $field, $default = '') use ($p) {
-    return old($field, $p[$field] ?? $default);
+    // Raw value (no escaping here); every output below escapes exactly once
+    return old($field, $p[$field] ?? $default, false);
 };
 ?>
 <!DOCTYPE html>
@@ -89,7 +90,7 @@ $old   = function(string $field, $default = '') use ($p) {
             <div class="admin-card">
               <label class="form-label" for="content">Content <span style="color:#EF4444;">*</span></label>
               <textarea id="content" name="content" class="form-control"
-                        rows="20" placeholder="Write your blog content here…"><?= $old('content') ?></textarea>
+                        rows="20" placeholder="Write your blog content here…"><?= esc($old('content')) ?></textarea>
             </div>
 
           </div><!-- /left -->
