@@ -1,10 +1,10 @@
 
 <section class="page-hero page-hero-split">
   <div class="page-hero-bg"></div>
-  <div class="page-hero-img">
+  <div class="page-hero-img" style="top:calc(48px + 1.6rem);">
     <img src="<?= base_url('assets/images/engagement-photography-pune.webp') ?>"
          alt="Engaged couple showing their rings in front of a floral stage backdrop"
-         width="1920" height="700" loading="eager" fetchpriority="high">
+         width="1920" height="700" loading="eager" fetchpriority="high" style="object-position:center top;">
   </div>
   <div class="page-hero-content">
     <div class="page-hero-content-inner">

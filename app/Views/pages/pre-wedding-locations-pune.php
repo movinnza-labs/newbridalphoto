@@ -561,7 +561,7 @@
     <div class="section-head">
       <p class="eyebrow section-head-eyebrow">What We Offer</p>
       <div class="rule-center section-head-rule"></div>
-      <h2 class="section-title">Our <em>Services</em></h2>
+      <h2 class="section-title">Our<br><em>Services</em></h2>
     </div>
     <div class="grid-3 grid-gap">
       <div class="card-white card-white-padded-sm">

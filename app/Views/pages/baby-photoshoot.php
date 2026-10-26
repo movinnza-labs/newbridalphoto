@@ -4,7 +4,7 @@
   <div class="page-hero-img">
     <img src="<?= base_url('assets/images/baby-photoshoot-in-pune.webp') ?>"
          alt="Smiling baby boy in a brown hat on a wooden stool beside stuffed toys at an outdoor shoot in Pune"
-         width="1920" height="700" loading="eager" fetchpriority="high">
+         width="1920" height="700" loading="eager" fetchpriority="high" style="object-position:center 18%;">
   </div>
   <div class="page-hero-content">
     <div class="page-hero-content-inner">

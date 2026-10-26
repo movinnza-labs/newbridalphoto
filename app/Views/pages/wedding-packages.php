@@ -1,10 +1,10 @@
 
 <section class="page-hero page-hero-split page-hero-portrait">
   <div class="page-hero-bg"></div>
-  <div class="page-hero-img">
+  <div class="page-hero-img" style="top:calc(48px + 1.6rem);">
     <img src="<?= base_url('assets/images/wedding-photography-pune.webp') ?>"
          alt="Maharashtrian couple in traditional wedding attire posing against a stone wall"
-         width="1920" height="700" loading="eager" fetchpriority="high">
+         width="1920" height="700" loading="eager" fetchpriority="high" style="object-position:center top;">
   </div>
   <div class="page-hero-content">
     <div style="max-width:860px;">
