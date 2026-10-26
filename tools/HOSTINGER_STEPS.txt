@@ -1,0 +1,50 @@
+The Bridal Photography - Hostinger upload (22 Oct 2026), one zip
+
+1. BACKUP FIRST
+   - Hostinger > Backups (or File Manager > download the website folder).
+   - phpMyAdmin > tb_blogs > Export, and tb_blog_ctas > Export.
+
+2. UPLOAD AND EXTRACT
+   - Hostinger File Manager > website root folder (where index.php is, usually public_html).
+   - Upload thebridal_hostinger_upload_22oct2026.zip there and Extract it in the same folder.
+   - Choose overwrite/replace when asked.
+   - Delete the zip from the server after extracting.
+   - Check that app/Libraries/PageSchema.php exists (new file).
+
+3. DATABASE
+   - The SQL files are in tools/ (that folder is blocked from public access on the server).
+   - Open the zip on your computer, take the two .sql files from tools/.
+   - phpMyAdmin > website database > SQL (or Import):
+       run tools/1_dev_points_oct2026_db_updates.sql first,
+       then tools/2_seo_points_oct2026_db_updates.sql.
+   - Running a file twice is safe.
+
+4. CHECK IN THE BROWSER (Ctrl+F5 if the old design shows)
+   - https://thebridal.photography/
+   - https://thebridal.photography/sitemap.xml   (XML)
+   - https://thebridal.photography/robots.txt    (plain text)
+   - https://thebridal.photography/llms.txt      (plain text)
+   - https://thebridal.photography/blog/odio-non-quo-rerum-a/   (Gone)
+
+5. AFTER UPLOAD (SEO audit 23 Oct 2026). The live site was serving OLD pages
+   - Hostinger > Website > Cache Manager (LiteSpeed): Purge All. Also purge Cloudflare/CDN if used.
+   - Check that no old WordPress files are still being served (old index.php / wp-* folders at the root).
+   - Open these. Each must REDIRECT (address bar changes), not show a page:
+       /10-beautiful-pre-wedding-photoshoot-locations-in-pune/  -> /pre-wedding-shoot-locations-in-pune/
+       /pre-wedding-shoot/                                      -> /pre-wedding-photography-packages/
+       /pre-wedding-shoot-pba-film-city/                        -> /blog/pre-wedding-shoot-in-pba-film-city-pune/
+       /category/photography/                                   -> /blog/
+   - Search Console > URL Inspection on / and /maternity-photographer-pune/ > Test live URL > View crawled page.
+     The page must have a <title> and must NOT show "{SITE}", "{TITLE}" or "No feed with the ID 1 found". Then Request indexing.
+   - Google Rich Results Test on /pre-wedding-photography-packages/ and /wedding-films/ (FAQ, Service, Video).
+6. CODE FIXES (26 Oct 2026). Upload these with the rest of the folder
+   New in this upload (overwrite the server copy):
+     app/Models/BlogModel.php, app/Views/admin/blog/form.php,
+     app/Views/admin/blog-cta/form.php, assets/js/main.js
+   Check after upload (Ctrl+F5):
+     /blog/?page=0        -> blog page shows (was a 500 error)
+     /blog/?page=99       -> 404 page
+     /blog/?cat=wedding   -> only wedding posts; "All" shows every post again
+     Any enquiry form     -> empty Name or Email is stopped by the browser;
+                             after a server error the typed values stay filled in
+     /faq/                -> questions open and close
